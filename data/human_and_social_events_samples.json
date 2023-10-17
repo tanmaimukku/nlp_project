@@ -1,0 +1,1427 @@
+﻿[
+{
+    "Story": "During 1947, after World War II, the infamous partition of India occurred, leading to the creation of Pakistan. The decision sparked widespread religious violence, especially in the provinces of Punjab and Bengal. Simultaneously, Mahatma Gandhi, known for his peaceful protests, tried to mitigate the violence with his speeches. By the time the violence ended in 1948, millions were displaced and the demographic structure of the subcontinent was altered. The effects of this event can still be seen today in India and Pakistan's tumultuous relationship.",
+    "Question": "When did the partition of India spark religious violence?",
+    "Answer choices": ["1939", "1947", "1950", "1962"],
+    "Answer": "1947",
+    "Reasoning": "The story mentions that the partition of India sparked religious violence in 1947."
+},
+{
+    "Story": "During 1947, after World War II, the infamous partition of India occurred, leading to the creation of Pakistan. The decision sparked widespread religious violence, especially in the provinces of Punjab and Bengal. Simultaneously, Mahatma Gandhi, known for his peaceful protests, tried to mitigate the violence with his speeches. By the time the violence ended in 1948, millions were displaced and the demographic structure of the subcontinent was altered. The effects of this event can still be seen today in India and Pakistan's tumultuous relationship.",
+    "Question": "Who attempted to mitigate religious violence during the partition of India?",
+    "Answer choices": ["Bhagat Singh", "Winston Churchill", "Rajendra Prasad", "Mahatma Gandhi"],
+    "Answer": "Mahatma Gandhi",
+    "Reasoning": "According to the story, during the partition, Mahatma Gandhi tried to mitigate the violence with his speeches."
+},
+{
+    "Story": "During 1947, after World War II, the infamous partition of India occurred, leading to the creation of Pakistan. The decision sparked widespread religious violence, especially in the provinces of Punjab and Bengal. Simultaneously, Mahatma Gandhi, known for his peaceful protests, tried to mitigate the violence with his speeches. By the time the violence ended in 1948, millions were displaced and the demographic structure of the subcontinent was altered. The effects of this event can still be seen today in India and Pakistan's tumultuous relationship.",
+    "Question": "Which provinces in India experienced most of the religious violence during the partition?",
+    "Answer choices": ["Kerala and Tamil Nadu", "Maharashtra and Karnataka", "Punjab and Bengal", "Assam and Meghalaya"],
+    "Answer": "Punjab and Bengal",
+    "Reasoning": "The story mentions that the most of the religious violence during the partition occurred in the provinces of Punjab and Bengal."
+},
+{
+    "Story": "During 1947, after World War II, the infamous partition of India occurred, leading to the creation of Pakistan. The decision sparked widespread religious violence, especially in the provinces of Punjab and Bengal. Simultaneously, Mahatma Gandhi, known for his peaceful protests, tried to mitigate the violence with his speeches. By the time the violence ended in 1948, millions were displaced and the demographic structure of the subcontinent was altered. The effects of this event can still be seen today in India and Pakistan's tumultuous relationship.",
+    "Question": "When did the religious violence sparked by the partition of India end?",
+    "Answer choices": ["1945", "1947", "1948", "1952"],
+    "Answer": "1948",
+    "Reasoning": "The story states that the religious violence sparked by the partition ended in 1948."
+},
+{
+    "Story": "During 1947, after World War II, the infamous partition of India occurred, leading to the creation of Pakistan. The decision sparked widespread religious violence, especially in the provinces of Punjab and Bengal. Simultaneously, Mahatma Gandhi, known for his peaceful protests, tried to mitigate the violence with his speeches. By the time the violence ended in 1948, millions were displaced and the demographic structure of the subcontinent was altered. The effects of this event can still be seen today in India and Pakistan's tumultuous relationship.",
+    "Question": "Which new country was created as a result of India's partition in 1947?",
+    "Answer choices": ["Bangladesh", "China", "Sri Lanka", "Pakistan"],
+    "Answer": "Pakistan",
+    "Reasoning": "The story mentions that Pakistan was created due to the partition of India in 1947."
+},
+{
+    "Story": "In 1969, amidst a cultural revolution, the iconic music festival Woodstock took place in Bethel, New York. Lasting for three days, from August 15 to August 18, it became a symbol of the 1960s counterculture movement. Acts like Jimi Hendrix and Janis Joplin performed, drawing a crowd of nearly half a million people. Despite minor hiccups, the festival was noted for its peaceful vibe. The event was later commemorated in documentaries and songs.",
+    "Question": "Which artist performed at Woodstock in 1969?",
+    "Answer choices": ["Elvis Presley", "Jimi Hendrix", "The Beatles", "Frank Sinatra"],
+    "Answer": "Jimi Hendrix",
+    "Reasoning": "The story states that acts like Jimi Hendrix performed at Woodstock."
+},
+{
+    "Story": "In 1969, amidst a cultural revolution, the iconic music festival Woodstock took place in Bethel, New York. Lasting for three days, from August 15 to August 18, it became a symbol of the 1960s counterculture movement. Acts like Jimi Hendrix and Janis Joplin performed, drawing a crowd of nearly half a million people. Despite minor hiccups, the festival was noted for its peaceful vibe. The event was later commemorated in documentaries and songs.",
+    "Question": "Where did Woodstock take place?",
+    "Answer choices": ["Los Angeles, California", "Bethel, New York", "Chicago, Illinois", "Austin, Texas"],
+    "Answer": "Bethel, New York",
+    "Reasoning": "The story states that the Woodstock festival took place in Bethel, New York."
+},
+{
+    "Story": "In 1969, amidst a cultural revolution, the iconic music festival Woodstock took place in Bethel, New York. Lasting for three days, from August 15 to August 18, it became a symbol of the 1960s counterculture movement. Acts like Jimi Hendrix and Janis Joplin performed, drawing a crowd of nearly half a million people. Despite minor hiccups, the festival was noted for its peaceful vibe. The event was later commemorated in documentaries and songs.",
+    "Question": "How many days did the Woodstock festival last?",
+    "Answer choices": ["One day", "Two days", "Three days", "A week"],
+    "Answer": "Three days",
+    "Reasoning": "The story mentions that the Woodstock festival lasted for three days, from August 15 to August 18."
+},
+{
+    "Story": "In 1969, amidst a cultural revolution, the iconic music festival Woodstock took place in Bethel, New York. Lasting for three days, from August 15 to August 18, it became a symbol of the 1960s counterculture movement. Acts like Jimi Hendrix and Janis Joplin performed, drawing a crowd of nearly half a million people. Despite minor hiccups, the festival was noted for its peaceful vibe. The event was later commemorated in documentaries and songs.",
+    "Question": "During which year was the Woodstock festival held?",
+    "Answer choices": ["1972", "1965", "1969", "1970"],
+    "Answer": "1969",
+    "Reasoning": "The story states that the Woodstock festival took place in 1969."
+},
+{
+    "Story": "In 1969, amidst a cultural revolution, the iconic music festival Woodstock took place in Bethel, New York. Lasting for three days, from August 15 to August 18, it became a symbol of the 1960s counterculture movement. Acts like Jimi Hendrix and Janis Joplin performed, drawing a crowd of nearly half a million people. Despite minor hiccups, the festival was noted for its peaceful vibe. The event was later commemorated in documentaries and songs.",
+    "Question": "What was the overall mood of the Woodstock festival despite some issues?",
+    "Answer choices": ["Chaotic and dangerous", "Peaceful", "Sad and somber", "Tense and confrontational"],
+    "Answer": "Peaceful",
+    "Reasoning": "The story notes that, despite minor hiccups, the festival was characterized by its peaceful vibe."
+},
+{
+"Story": "In the 1780s, tensions were high between American colonies and the British Empire. Wanting independence, the colonies started organizing secret meetings in Philadelphia. By 1787, representatives from 12 of the 13 colonies convened to draft the U.S. Constitution. The next year, the Constitution was sent to the states for ratification, facing both support and opposition. By 1790, the newly formed United States of America had its first president, George Washington, inaugurated in New York City.",
+"Question": "Where were the secret meetings held by the colonies before drafting the U.S. Constitution?",
+"Answer choices": ["Boston", "New York City", "Philadelphia", "Washington D.C."],
+"Answer": "Philadelphia",
+"Reasoning": "The story states that the colonies started organizing secret meetings in Philadelphia."
+},
+{
+"Story": "In the 1780s, tensions were high between American colonies and the British Empire. Wanting independence, the colonies started organizing secret meetings in Philadelphia. By 1787, representatives from 12 of the 13 colonies convened to draft the U.S. Constitution. The next year, the Constitution was sent to the states for ratification, facing both support and opposition. By 1790, the newly formed United States of America had its first president, George Washington, inaugurated in New York City.",
+"Question": "In which city was George Washington inaugurated as the first president?",
+"Answer choices": ["Philadelphia", "Boston", "Washington D.C.", "New York City"],
+"Answer": "New York City",
+"Reasoning": "The story mentions that George Washington was inaugurated in New York City."
+},
+{
+"Story": "In the 1780s, tensions were high between American colonies and the British Empire. Wanting independence, the colonies started organizing secret meetings in Philadelphia. By 1787, representatives from 12 of the 13 colonies convened to draft the U.S. Constitution. The next year, the Constitution was sent to the states for ratification, facing both support and opposition. By 1790, the newly formed United States of America had its first president, George Washington, inaugurated in New York City.",
+"Question": "How many colonies sent representatives to draft the U.S. Constitution in 1787?",
+"Answer choices": ["10 colonies", "11 colonies", "12 colonies", "13 colonies"],
+"Answer": "12 colonies",
+"Reasoning": "The story mentions that representatives from 12 of the 13 colonies convened to draft the U.S. Constitution."
+},
+{
+"Story": "In the 1780s, tensions were high between American colonies and the British Empire. Wanting independence, the colonies started organizing secret meetings in Philadelphia. By 1787, representatives from 12 of the 13 colonies convened to draft the U.S. Constitution. The next year, the Constitution was sent to the states for ratification, facing both support and opposition. By 1790, the newly formed United States of America had its first president, George Washington, inaugurated in New York City.",
+"Question": "Which year was the U.S. Constitution sent to the states for ratification?",
+"Answer choices": ["1786", "1787", "1788", "1789"],
+"Answer": "1788",
+"Reasoning": "The story says that the next year after 1787, the Constitution was sent to the states for ratification."
+},
+{
+"Story": "In the 1780s, tensions were high between American colonies and the British Empire. Wanting independence, the colonies started organizing secret meetings in Philadelphia. By 1787, representatives from 12 of the 13 colonies convened to draft the U.S. Constitution. The next year, the Constitution was sent to the states for ratification, facing both support and opposition. By 1790, the newly formed United States of America had its first president, George Washington, inaugurated in New York City.",
+"Question": "When did the tensions begin between the American colonies and the British Empire as per the story?",
+"Answer choices": ["1770s", "1780s", "1790s", "1800s"],
+"Answer": "1780s",
+"Reasoning": "The story starts by indicating that tensions were high between American colonies and the British Empire in the 1780s."
+},
+{
+    "Story": "In the sweltering summer of 1947, a momentous event altered the political landscape of South Asia. The British Raj, under Mountbatten’s decision, marked August 14 as the day of Pakistan's independence, followed by India's independence a day later, on August 15. Commemorated annually, these events stimulated a dramatic partition, leading to massive migrations resulting in the two countries we know today. Despite the joy of sovereignty, the period was marred by communal violence. Today, both nations remember this history, balancing the euphoria of independence with the bitterness of partition.",
+    "Question": "Which event led to the formation of India and Pakistan as separate countries?",
+    "Answer choices": ["World War II", "The Berlin Wall Fall", "The American Civil War", "The Partition of British India"],
+    "Answer": "The Partition of British India",
+    "Reasoning": "The story states that the independence of Pakistan and India led to a dramatic partition, resulting in the formation of two separate countries."
+},
+{
+    "Story": "In the sweltering summer of 1947, a momentous event altered the political landscape of South Asia. The British Raj, under Mountbatten’s decision, marked August 14 as the day of Pakistan's independence, followed by India's independence a day later, on August 15. Commemorated annually, these events stimulated a dramatic partition, leading to massive migrations resulting in the two countries we know today. Despite the joy of sovereignty, the period was marred by communal violence. Today, both nations remember this history, balancing the euphoria of independence with the bitterness of partition.",
+    "Question": "What was the main reason for the massive migrations that occurred in 1947?",
+    "Answer choices": ["Economic downturn", "Natural calamities", "Partition of British India", "Job opportunities in Western countries"],
+    "Answer": "Partition of British India",
+    "Reasoning": "The story implies that the partition stimulated massive migrations as people moved to the country that reflected their religious beliefs."
+},
+{
+    "Story": "In the sweltering summer of 1947, a momentous event altered the political landscape of South Asia. The British Raj, under Mountbatten’s decision, marked August 14 as the day of Pakistan's independence, followed by India's independence a day later, on August 15. Commemorated annually, these events stimulated a dramatic partition, leading to massive migrations resulting in the two countries we know today. Despite the joy of sovereignty, the period was marred by communal violence. Today, both nations remember this history, balancing the euphoria of independence with the bitterness of partition.",
+    "Question": "When were Pakistan and India declared independent?",
+    "Answer choices": ["July 14 and 15, 1947", "August 14 and 15, 1947", "September 14 and 15, 1947", "October 14 and 15, 1947"],
+    "Answer": "August 14 and 15, 1947",
+    "Reasoning": "The story states that Pakistan's independence was declared on August 14, 1947, followed by India's independence on August 15, 1947."
+},
+{
+    "Story": "In the sweltering summer of 1947, a momentous event altered the political landscape of South Asia. The British Raj, under Mountbatten’s decision, marked August 14 as the day of Pakistan's independence, followed by India's independence a day later, on August 15. Commemorated annually, these events stimulated a dramatic partition, leading to massive migrations resulting in the two countries we know today. Despite the joy of sovereignty, the period was marred by communal violence. Today, both nations remember this history, balancing the euphoria of independence with the bitterness of partition.",
+    "Question": "How do India and Pakistan remember the period of their independence?",
+    "Answer choices": ["With pure joy", "With bitterness and resentment", "With indifference", "With a balance of joy and bitterness"],
+    "Answer": "With a balance of joy and bitterness",
+    "Reasoning": "The story mentions that both nations remember their independence with mixed feelings - the euphoria of independence and the bitterness of partition."
+},
+{
+    "Story": "In the sweltering summer of 1947, a momentous event altered the political landscape of South Asia. The British Raj, under Mountbatten’s decision, marked August 14 as the day of Pakistan's independence, followed by India's independence a day later, on August 15. Commemorated annually, these events stimulated a dramatic partition, leading to massive migrations resulting in the two countries we know today. Despite the joy of sovereignty, the period was marred by communal violence. Today, both nations remember this history, balancing the euphoria of independence with the bitterness of partition.",
+    "Question": "Who was responsible for declaring the dates of independence for Pakistan and India?",
+    "Answer choices": ["Mahatma Gandhi", "Winston Churchill", "Lord Mountbatten", "Jawaharlal Nehru"],
+    "Answer": "Lord Mountbatten",
+    "Reasoning": "The story mentions that the independence dates were decided under Mountbatten's decision."
+},
+{
+    "Story": "The American Civil War began in 1861, instigated by issues such as state rights and slavery. The conflict was primarily between the Northern states (known as the Union) and the southern states that seceded, forming the Confederacy. Battles took place across various states, with pivotal encounters in Gettysburg, Pennsylvania and Antietam, Maryland, causing tragic loss of life on both sides. By 1865, the Union had emerged victorious, and the 13th amendment was enacted, abolishing slavery. The war brought significant social and political changes to the nation.",
+    "Question": "Which area held the control of the majority at the end of the Civil War?",
+    "Answer choices": ["Confederacy", "Union", "Both had equal control", "Neither had control"],
+    "Answer": "Union",
+    "Reasoning": "The story indicates that by 1865, the Union had emerged victorious in the Civil War."
+},
+{
+    "Story": "The American Civil War began in 1861, instigated by issues such as state rights and slavery. The conflict was primarily between the Northern states (known as the Union) and the southern states that seceded, forming the Confederacy. Battles took place across various states, with pivotal encounters in Gettysburg, Pennsylvania and Antietam, Maryland, causing tragic loss of life on both sides. By 1865, the Union had emerged victorious, and the 13th amendment was enacted, abolishing slavery. The war brought significant social and political changes to the nation.",
+    "Question": "Which amendment was enacted after the victory of the Union?",
+    "Answer choices": ["13th Amendment", "10th Amendment", "15th Amendment", "18th Amendment"],
+    "Answer": "13th Amendment",
+    "Reasoning": "The story specifies that the 13th amendment, which abolished slavery, was enacted after the Union's victory."
+},
+{
+    "Story": "The American Civil War began in 1861, instigated by issues such as state rights and slavery. The conflict was primarily between the Northern states (known as the Union) and the southern states that seceded, forming the Confederacy. Battles took place across various states, with pivotal encounters in Gettysburg, Pennsylvania and Antietam, Maryland, causing tragic loss of life on both sides. By 1865, the Union had emerged victorious, and the 13th amendment was enacted, abolishing slavery. The war brought significant social and political changes to the nation.",
+    "Question": "When did the American Civil War begin?",
+    "Answer choices": ["1914", "1850", "1899", "1861"],
+    "Answer": "1861",
+    "Reasoning": "The story states that the American Civil War began in 1861."
+},
+{ 
+    "Story": "The American Civil War began in 1861, instigated by issues such as state rights and slavery. The conflict was primarily between the Northern states (known as the Union) and the southern states that seceded, forming the Confederacy. Battles took place across various states, with pivotal encounters in Gettysburg, Pennsylvania and Antietam, Maryland, causing tragic loss of life on both sides. By 1865, the Union had emerged victorious, and the 13th amendment was enacted, abolishing slavery. The war brought significant social and political changes to the nation.",
+    "Question": "Where were pivotal battles of the American Civil War fought?",
+    "Answer choices": ["New York and Vermont", "Texas and Louisiana", "Alaska and Hawaii", "Gettysburg, Pennsylvania and Antietam, Maryland"],
+    "Answer": "Gettysburg, Pennsylvania and Antietam, Maryland",
+    "Reasoning": "The story mentions that pivotal battles happened in Gettysburg, Pennsylvania and Antietam, Maryland."
+},
+{
+    "Story": "The American Civil War began in 1861, instigated by issues such as state rights and slavery. The conflict was primarily between the Northern states (known as the Union) and the southern states that seceded, forming the Confederacy. Battles took place across various states, with pivotal encounters in Gettysburg, Pennsylvania and Antietam, Maryland, causing tragic loss of life on both sides. By 1865, the Union had emerged victorious, and the 13th amendment was enacted, abolishing slavery. The war brought significant social and political changes to the nation.",
+    "Question": "Who were the main parties involved in the American Civil War?",
+    "Answer choices": ["Union and Confederacy", "Union and British Empire", "Confederacy and French Empire", "Union and Spanish Empire"],
+    "Answer": "Union and Confederacy",
+    "Reasoning": "According to the story, the conflict was primarily between the Northern states (Union) and the Southern states that seceded, forming the Confederacy."
+},
+{
+"Story": "In the mid-19th century, the industrial revolution transformed the European landscape. Factories sprung up in cities like Manchester, England, drawing farmers from the countryside. These urban migrations peaked in the 1870s, causing city populations to double. However, in 1885, a severe economic depression hit, leading many to lose jobs. By the 1890s, governments began initiating reforms to address the growing issues of urban poverty and overcrowding.",
+"Question": "Which city saw the rise of factories during the industrial revolution?",
+"Answer choices": ["London", "Paris", "Berlin", "Manchester"],
+"Answer": "Manchester",
+"Reasoning": "The story mentions that factories sprung up in cities like Manchester, England during the industrial revolution."
+},
+{
+"Story": "In the mid-19th century, the industrial revolution transformed the European landscape. Factories sprung up in cities like Manchester, England, drawing farmers from the countryside. These urban migrations peaked in the 1870s, causing city populations to double. However, in 1885, a severe economic depression hit, leading many to lose jobs. By the 1890s, governments began initiating reforms to address the growing issues of urban poverty and overcrowding.",
+"Question": "When did the urban migrations peak, causing city populations to rise?",
+"Answer choices": ["1860s", "1870s", "1880s", "1890s"],
+"Answer": "1870s",
+"Reasoning": "The story states that these urban migrations peaked in the 1870s, causing city populations to double."
+},
+{
+"Story": "In the mid-19th century, the industrial revolution transformed the European landscape. Factories sprung up in cities like Manchester, England, drawing farmers from the countryside. These urban migrations peaked in the 1870s, causing city populations to double. However, in 1885, a severe economic depression hit, leading many to lose jobs. By the 1890s, governments began initiating reforms to address the growing issues of urban poverty and overcrowding.",
+"Question": "Which event occurred in 1885, impacting workers?",
+"Answer choices": ["Urban migrations peaked", "Government reforms were initiated", "A severe economic depression hit", "Industrial revolution began"],
+"Answer": "A severe economic depression hit",
+"Reasoning": "The story mentions that in 1885, a severe economic depression hit, leading many to lose jobs."
+},
+{
+"Story": "In the mid-19th century, the industrial revolution transformed the European landscape. Factories sprung up in cities like Manchester, England, drawing farmers from the countryside. These urban migrations peaked in the 1870s, causing city populations to double. However, in 1885, a severe economic depression hit, leading many to lose jobs. By the 1890s, governments began initiating reforms to address the growing issues of urban poverty and overcrowding.",
+"Question": "When did governments start implementing reforms to tackle urban challenges?",
+"Answer choices": ["1860s", "1870s", "1880s", "1890s"],
+"Answer": "1890s",
+"Reasoning": "The story notes that by the 1890s, governments began initiating reforms to address urban problems."
+},
+{
+"Story": "In the mid-19th century, the industrial revolution transformed the European landscape. Factories sprung up in cities like Manchester, England, drawing farmers from the countryside. These urban migrations peaked in the 1870s, causing city populations to double. However, in 1885, a severe economic depression hit, leading many to lose jobs. By the 1890s, governments began initiating reforms to address the growing issues of urban poverty and overcrowding.",
+"Question": "Who were drawn to cities like Manchester during the industrial revolution?",
+"Answer choices": ["Merchants", "Farmers", "Artisans", "Noblemen"],
+"Answer": "Farmers",
+"Reasoning": "The story states that factories in cities like Manchester drew farmers from the countryside."
+},
+{
+"Story": "In the early 14th century, the city-state of Venice thrived as a hub for trade in the Mediterranean. Merchants from Asia, Africa, and Europe flocked to its grand marketplaces. By the 1350s, Venice established colonies on islands like Crete and Cyprus, expanding its influence. However, in 1373, a conflict with the Ottoman Empire weakened its territories. Despite this setback, the late 1380s witnessed Venice's rise as a dominant naval force, asserting control over the Adriatic Sea.",
+"Question": "Which sea did Venice control by the end of the 14th century?",
+"Answer choices": ["Black Sea", "Baltic Sea", "Adriatic Sea", "Aegean Sea"],
+"Answer": "Adriatic Sea",
+"Reasoning": "The story mentions that by the late 1380s, Venice asserted control over the Adriatic Sea."
+},
+{
+"Story": "In the early 14th century, the city-state of Venice thrived as a hub for trade in the Mediterranean. Merchants from Asia, Africa, and Europe flocked to its grand marketplaces. By the 1350s, Venice established colonies on islands like Crete and Cyprus, expanding its influence. However, in 1373, a conflict with the Ottoman Empire weakened its territories. Despite this setback, the late 1380s witnessed Venice's rise as a dominant naval force, asserting control over the Adriatic Sea.",
+"Question": "Which empire did Venice have a conflict with in 1373?",
+"Answer choices": ["Roman Empire", "Byzantine Empire", "Ottoman Empire", "Mongol Empire"],
+"Answer": "Ottoman Empire",
+"Reasoning": "The story states that in 1373, Venice had a conflict with the Ottoman Empire."
+},
+{
+"Story": "In the early 14th century, the city-state of Venice thrived as a hub for trade in the Mediterranean. Merchants from Asia, Africa, and Europe flocked to its grand marketplaces. By the 1350s, Venice established colonies on islands like Crete and Cyprus, expanding its influence. However, in 1373, a conflict with the Ottoman Empire weakened its territories. Despite this setback, the late 1380s witnessed Venice's rise as a dominant naval force, asserting control over the Adriatic Sea.",
+"Question": "Which islands did Venice establish colonies on in the 1350s?",
+"Answer choices": ["Malta and Sicily", "Sardinia and Corsica", "Crete and Cyprus", "Rhodes and Lesbos"],
+"Answer": "Crete and Cyprus",
+"Reasoning": "The story mentions that by the 1350s, Venice established colonies on islands like Crete and Cyprus."
+},
+{
+"Story": "In the early 14th century, the city-state of Venice thrived as a hub for trade in the Mediterranean. Merchants from Asia, Africa, and Europe flocked to its grand marketplaces. By the 1350s, Venice established colonies on islands like Crete and Cyprus, expanding its influence. However, in 1373, a conflict with the Ottoman Empire weakened its territories. Despite this setback, the late 1380s witnessed Venice's rise as a dominant naval force, asserting control over the Adriatic Sea.",
+"Question": "From which continents did merchants come to trade in Venice during the early 14th century?",
+"Answer choices": ["Asia, Africa, and Australia", "Europe, America, and Asia", "Asia, Africa, and Europe", "Europe, America, and Australia"],
+"Answer": "Asia, Africa, and Europe",
+"Reasoning": "The story states that merchants from Asia, Africa, and Europe flocked to Venice's grand marketplaces."
+},
+{
+"Story": "In the early 14th century, the city-state of Venice thrived as a hub for trade in the Mediterranean. Merchants from Asia, Africa, and Europe flocked to its grand marketplaces. By the 1350s, Venice established colonies on islands like Crete and Cyprus, expanding its influence. However, in 1373, a conflict with the Ottoman Empire weakened its territories. Despite this setback, the late 1380s witnessed Venice's rise as a dominant naval force, asserting control over the Adriatic Sea.",
+"Question": "In which century did Venice thrive as a trading hub in the Mediterranean?",
+"Answer choices": ["12th century", "13th century", "14th century", "15th century"],
+"Answer": "14th century",
+"Reasoning": "The story begins with the phrase 'In the early 14th century,' indicating that Venice thrived as a hub for trade during this period."
+},
+{
+    "Story": "In 1989, the Tiananmen Square protests in Beijing, China captured the world's attention. Thousands of Chinese citizens gathered in the square in April to demand political reform. As the peaceful demonstration continued into June, the government responded with martial law. The resulting violence, which occurred primarily on June 3rd and 4th, led to numerous casualties. The precise number of deaths remains unknown and contentious, effectively shrouded in the silence enforced by censorship.",
+    "Question": "When did the violent, official response to the Tiananmen Square protests primarily take place?",
+    "Answer choices": ["Late April", "Early June", "Late June", "Early July"],
+    "Answer": "Early June",
+    "Reasoning": "The story states that the resulting violence occurred primarily on June 3rd and 4th."
+},
+{
+    "Story": "In 1989, the Tiananmen Square protests in Beijing, China captured the world's attention. Thousands of Chinese citizens gathered in the square in April to demand political reform. As the peaceful demonstration continued into June, the government responded with martial law. The resulting violence, which occurred primarily on June 3rd and 4th, led to numerous casualties. The precise number of deaths remains unknown and contentious, effectively shrouded in the silence enforced by censorship.",
+    "Question": "In what city did the Tiananmen Square protests take place?",
+    "Answer choices": ["Shanghai", "Beijing", "Guangzhou", "Wuhan"],
+    "Answer": "Beijing",
+    "Reasoning": "The story states that the protests took place in Tiananmen Square in Beijing."
+},
+{
+    "Story": "In 1989, the Tiananmen Square protests in Beijing, China captured the world's attention. Thousands of Chinese citizens gathered in the square in April to demand political reform. As the peaceful demonstration continued into June, the government responded with martial law. The resulting violence, which occurred primarily on June 3rd and 4th, led to numerous casualties. The precise number of deaths remains unknown and contentious, effectively shrouded in the silence enforced by censorship.",
+    "Question": "What did the Chinese citizens demand during the Tiananmen Square protests?",
+    "Answer choices": ["Economic restructuring", "Political reform", "Cultural revolution", "Religious freedom"],
+    "Answer": "Political reform",
+    "Reasoning": "The story explains that the Chinese citizens gathered in the square to demand political reform."
+},
+{
+    "Story": "In 1989, the Tiananmen Square protests in Beijing, China captured the world's attention. Thousands of Chinese citizens gathered in the square in April to demand political reform. As the peaceful demonstration continued into June, the government responded with martial law. The resulting violence, which occurred primarily on June 3rd and 4th, led to numerous casualties. The precise number of deaths remains unknown and contentious, effectively shrouded in the silence enforced by censorship.",
+    "Question": "When did the Tiananmen Square protests initially start?",
+    "Answer choices": ["January 1989", "April 1989", "August 1989", "October 1989"],
+    "Answer": "April 1989",
+    "Reasoning": "The story mentions that the Chinese citizens gathered in the square in April."
+},
+{
+    "Story": "In 1989, the Tiananmen Square protests in Beijing, China captured the world's attention. Thousands of Chinese citizens gathered in the square in April to demand political reform. As the peaceful demonstration continued into June, the government responded with martial law. The resulting violence, which occurred primarily on June 3rd and 4th, led to numerous casualties. The precise number of deaths remains unknown and contentious, effectively shrouded in the silence enforced by censorship.",
+    "Question": "What was the government's response to the peaceful demonstration at Tiananmen Square?",
+    "Answer choices": ["Political reform", "Martial law", "Economic restructuring", "Cultural revolution"],
+    "Answer": "Martial law",
+    "Reasoning": "The story states that the government responded to the peaceful demonstration with martial law."
+},
+{
+    "Story": "In the Spring of 1940, during the early days of World War II, Germany initiated the rapid invasion of Norway and Denmark from their home base in Berlin. Quick to retaliate, in summer 1940, the United Kingdom began the strategic aerial bombardment of Germany, a campaign that became known as the Battle of Britain. In 1941, the United States joined the war and set up their operations in London to aid their allies. The Axis and Allied powers clashed across multiple continents, finally reaching a cessation of conflict in fall 1945 when Germany surrendered.",
+    "Question": "In the Spring of 1940, during the early days of World War II, Germany initiated the rapid invasion of Norway and Denmark from their home base in Berlin. Quick to retaliate, in summer 1940, the United Kingdom began the strategic aerial bombardment of Germany, a campaign that became known as the Battle of Britain. In 1941, the United States joined the war and set up their operations in London to aid their allies. The Axis and Allied powers clashed across multiple continents, finally reaching a cessation of conflict in fall 1945 when Germany surrendered. Which country initiated the first action in the story?",
+    "Answer choices": [
+        "Germany.",
+        "The United Kingdom.",
+        "The United States.",
+        "Norway."
+    ],
+    "Answer": "Germany.",
+    "Reasoning": "Germany began the sequence of events described by initiating the invasion of Norway and Denmark in spring 1940."
+},
+{
+    "Story": "In the Spring of 1940, during the early days of World War II, Germany initiated the rapid invasion of Norway and Denmark from their home base in Berlin. Quick to retaliate, in summer 1940, the United Kingdom began the strategic aerial bombardment of Germany, a campaign that became known as the Battle of Britain. In 1941, the United States joined the war and set up their operations in London to aid their allies. The Axis and Allied powers clashed across multiple continents, finally reaching a cessation of conflict in fall 1945 when Germany surrendered.",
+    "Question": "In the Spring of 1940, during the early days of World War II, Germany initiated the rapid invasion of Norway and Denmark from their home base in Berlin. Quick to retaliate, in summer 1940, the United Kingdom began the strategic aerial bombardment of Germany, a campaign that became known as the Battle of Britain. In 1941, the United States joined the war and set up their operations in London to aid their allies. The Axis and Allied powers clashed across multiple continents, finally reaching a cessation of conflict in fall 1945 when Germany surrendered. Which city was the operational base for the United States' military during the war?",
+    "Answer choices": [
+        "Berlin.",
+        "London.",
+        "Washington DC.",
+        "Paris."
+    ],
+    "Answer": "London.",
+    "Reasoning": "The United States set up their operations in London to aid their allies."
+},
+{
+    "Story": "In the Spring of 1940, during the early days of World War II, Germany initiated the rapid invasion of Norway and Denmark from their home base in Berlin. Quick to retaliate, in summer 1940, the United Kingdom began the strategic aerial bombardment of Germany, a campaign that became known as the Battle of Britain. In 1941, the United States joined the war and set up their operations in London to aid their allies. The Axis and Allied powers clashed across multiple continents, finally reaching a cessation of conflict in fall 1945 when Germany surrendered.",
+    "Question": "In the Spring of 1940, during the early days of World War II, Germany initiated the rapid invasion of Norway and Denmark from their home base in Berlin. Quick to retaliate, in summer 1940, the United Kingdom began the strategic aerial bombardment of Germany, a campaign that became known as the Battle of Britain. In 1941, the United States joined the war and set up their operations in London to aid their allies. The Axis and Allied powers clashed across multiple continents, finally reaching a cessation of conflict in fall 1945 when Germany surrendered. After the initiation of the conflict, which season did the United Kingdom begin to retaliate?",
+    "Answer choices": [
+        "Spring.",
+        "Summer.",
+        "Autumn.",
+        "Winter."
+    ],
+    "Answer": "Summer.",
+    "Reasoning": "The United Kingdom began their retaliation in the summer of 1940."
+},
+{
+    "Story": "In the Spring of 1940, during the early days of World War II, Germany initiated the rapid invasion of Norway and Denmark from their home base in Berlin. Quick to retaliate, in summer 1940, the United Kingdom began the strategic aerial bombardment of Germany, a campaign that became known as the Battle of Britain. In 1941, the United States joined the war and set up their operations in London to aid their allies. The Axis and Allied powers clashed across multiple continents, finally reaching a cessation of conflict in fall 1945 when Germany surrendered.",
+    "Question": "In the Spring of 1940, during the early days of World War II, Germany initiated the rapid invasion of Norway and Denmark from their home base in Berlin. Quick to retaliate, in summer 1940, the United Kingdom began the strategic aerial bombardment of Germany, a campaign that became known as the Battle of Britain. In 1941, the United States joined the war and set up their operations in London to aid their allies. The Axis and Allied powers clashed across multiple continents, finally reaching a cessation of conflict in fall 1945 when Germany surrendered. Who was the last country to join the war among Germany, the United Kingdom, and the United States?",
+    "Answer choices": [
+        "Germany.",
+        "The United Kingdom.",
+        "The United States.",
+        "All joined at the same time."
+    ],
+    "Answer": "The United States.",
+    "Reasoning": "According to the timeline of the story, Germany initiated the war, the United Kingdom retaliated next, and the United States joined last in 1941."
+},
+{
+    "Story": "In the Spring of 1940, during the early days of World War II, Germany initiated the rapid invasion of Norway and Denmark from their home base in Berlin. Quick to retaliate, in summer 1940, the United Kingdom began the strategic aerial bombardment of Germany, a campaign that became known as the Battle of Britain. In 1941, the United States joined the war and set up their operations in London to aid their allies. The Axis and Allied powers clashed across multiple continents, finally reaching a cessation of conflict in fall 1945 when Germany surrendered.",
+    "Question": "In the Spring of 1940, during the early days of World War II, Germany initiated the rapid invasion of Norway and Denmark from their home base in Berlin. Quick to retaliate, in summer 1940, the United Kingdom began the strategic aerial bombardment of Germany, a campaign that became known as the Battle of Britain. In 1941, the United States joined the war and set up their operations in London to aid their allies. The Axis and Allied powers clashed across multiple continents, finally reaching a cessation of conflict in fall 1945 when Germany surrendered. In which season did the conflict end?",
+    "Answer choices": [
+        "Spring.",
+        "Summer.",
+        "Autumn.",
+        "Winter."
+    ],
+    "Answer": "Autumn.",
+    "Reasoning": "The story mentions that the conflict ended in fall 1945."
+},
+{
+    "Story": "In the year 2008, Barack Obama made history by becoming the first African-American president of the United States, marking a landmark moment in American history. His election took place on November 4, and he was inaugurated on January 20, 2009. His first term witnessed significant changes like the passage of the Affordable Care Act and the killing of Osama bin Laden. In 2012, he was re-elected for his second term which ended in 2016, and he handed over the reins to Donald Trump. His presidency is widely recognized for its emphasis on healthcare reforms and efforts in international diplomacy.",
+    "Question": "Who became the president of the United States after Barack Obama?",
+    "Answer choices": ["Donald Trump", "George W. Bush", "Bill Clinton", "George H.W. Bush"],
+    "Answer": "Donald Trump",
+    "Reasoning": "The story tells us that Barack Obama handed over the reins to Donald Trump."
+},
+{
+    "Story": "In the year 2008, Barack Obama made history by becoming the first African-American president of the United States, marking a landmark moment in American history. His election took place on November 4, and he was inaugurated on January 20, 2009. His first term witnessed significant changes like the passage of the Affordable Care Act and the killing of Osama bin Laden. In 2012, he was re-elected for his second term which ended in 2016, and he handed over the reins to Donald Trump. His presidency is widely recognized for its emphasis on healthcare reforms and efforts in international diplomacy.",
+    "Question": "What year did Barack Obama get re-elected for his second term as president?",
+    "Answer choices": ["2016", "2012", "2008", "2010"],
+    "Answer": "2012",
+    "Reasoning": "The story mentions that Barack Obama was re-elected for his second term in 2012."
+},
+{
+    "Story": "In the year 2008, Barack Obama made history by becoming the first African-American president of the United States, marking a landmark moment in American history. His election took place on November 4, and he was inaugurated on January 20, 2009. His first term witnessed significant changes like the passage of the Affordable Care Act and the killing of Osama bin Laden. In 2012, he was re-elected for his second term which ended in 2016, and he handed over the reins to Donald Trump. His presidency is widely recognized for its emphasis on healthcare reforms and efforts in international diplomacy.",
+    "Question": "When did Barack Obama's first term as president begin?",
+    "Answer choices": ["January 20, 2008", "November 4, 2008", "January 20, 2009", "November 4, 2009"],
+    "Answer": "January 20, 2009",
+    "Reasoning": "The story mentions that Barack Obama was inaugurated on January 20, 2009."
+},
+{
+    "Story": "In the year 2008, Barack Obama made history by becoming the first African-American president of the United States, marking a landmark moment in American history. His election took place on November 4, and he was inaugurated on January 20, 2009. His first term witnessed significant changes like the passage of the Affordable Care Act and the killing of Osama bin Laden. In 2012, he was re-elected for his second term which ended in 2016, and he handed over the reins to Donald Trump. His presidency is widely recognized for its emphasis on healthcare reforms and efforts in international diplomacy.",
+    "Question": "What is one key event that happened during Obama's first term as president?",
+    "Answer choices": ["The killing of Osama bin Laden", "The impeachment of Donald Trump", "The invasion of Iraq", "The collapse of the Soviet Union"],
+    "Answer": "The killing of Osama bin Laden",
+    "Reasoning": "The story tells us that Osama bin Laden was killed during Barack Obama's first term."
+},
+{
+    "Story": "In the year 2008, Barack Obama made history by becoming the first African-American president of the United States, marking a landmark moment in American history. His election took place on November 4, and he was inaugurated on January 20, 2009. His first term witnessed significant changes like the passage of the Affordable Care Act and the killing of Osama bin Laden. In 2012, he was re-elected for his second term which ended in 2016, and he handed over the reins to Donald Trump. His presidency is widely recognized for its emphasis on healthcare reforms and efforts in international diplomacy.",
+    "Question": "What major policy did Barack Obama pass during his presidency?",
+    "Answer choices": ["Affordable Care Act", "The Civil Rights Act", "NAFTA", "The Patriot Act"],
+    "Answer": "Affordable Care Act",
+    "Reasoning": "The story mentions that Barack Obama passed the Affordable Care Act during his presidency."
+},
+{
+    "Story": "In the early 19th century, America's great expansion westward began with the Louisiana Purchase in 1803. The territory spanned from the Mississippi River to the Rocky Mountains, doubling the size of the United States. In 1849, the California Gold Rush started, causing a large migration of people towards the west. Many moved along the Oregon Trail, an overland route extending over 2,000 miles. This period of westward expansion shaped the current geographical boundaries of the modern United States.",
+    "Question": "What historical event began the westward expansion of the United States?",
+    "Answer choices": ["The Civil War", "The Louisiana Purchase", "Declaration of Independence", "The California Gold Rush"],
+    "Answer": "The Louisiana Purchase",
+    "Reasoning": "The story states that America's great expansion westward began with the Louisiana Purchase in 1803."
+},
+{
+    "Story": "In the early 19th century, America's great expansion westward began with the Louisiana Purchase in 1803. The territory spanned from the Mississippi River to the Rocky Mountains, doubling the size of the United States. In 1849, the California Gold Rush started, causing a large migration of people towards the west. Many moved along the Oregon Trail, an overland route extending over 2,000 miles. This period of westward expansion shaped the current geographical boundaries of the modern United States.",
+    "Question": "Which event caused a large migration of people towards the west?",
+    "Answer choices": ["The War of 1812", "The Civil War", "The Louisiana Purchase", "The California Gold Rush"],
+    "Answer": "The California Gold Rush",
+    "Reasoning": "The story mentions that the California Gold Rush started in 1849, causing a large migration of people towards the west."
+},
+{
+    "Story": "In the early 19th century, America's great expansion westward began with the Louisiana Purchase in 1803. The territory spanned from the Mississippi River to the Rocky Mountains, doubling the size of the United States. In 1849, the California Gold Rush started, causing a large migration of people towards the west. Many moved along the Oregon Trail, an overland route extending over 2,000 miles. This period of westward expansion shaped the current geographical boundaries of the modern United States.",
+    "Question": "What trail did many people use during the westward expansion of the United States?",
+    "Answer choices": ["Appalachian Trail", "Florida Trail", "Pacific Crest Trail", "Oregon Trail"],
+    "Answer": "Oregon Trail",
+    "Reasoning": "The story mentions that many people moved west along the Oregon Trail, an overland route extending over 2,000 miles."
+},
+{
+    "Story": "In the early 19th century, America's great expansion westward began with the Louisiana Purchase in 1803. The territory spanned from the Mississippi River to the Rocky Mountains, doubling the size of the United States. In 1849, the California Gold Rush started, causing a large migration of people towards the west. Many moved along the Oregon Trail, an overland route extending over 2,000 miles. This period of westward expansion shaped the current geographical boundaries of the modern United States.",
+    "Question": "What did the Louisiana Purchase in 1803 do to the size of the United States?",
+    "Answer choices": ["It halved the size", "It quadrupled the size", "It doubled the size", "It did not change the size"],
+    "Answer": "It doubled the size",
+    "Reasoning": "The story states that the Louisiana Purchase in 1803 spanned from the Mississippi River to the Rocky Mountains, doubling the size of the United States."
+},
+{
+    "Story": "In the early 19th century, America's great expansion westward began with the Louisiana Purchase in 1803. The territory spanned from the Mississippi River to the Rocky Mountains, doubling the size of the United States. In 1849, the California Gold Rush started, causing a large migration of people towards the west. Many moved along the Oregon Trail, an overland route extending over 2,000 miles. This period of westward expansion shaped the current geographical boundaries of the modern United States.",
+    "Question": "How did America's westward expansion impact the current geographical boundaries of the United States?",
+    "Answer choices": ["It reduced the geographical boundaries", "It expanded the geographical boundaries", "It did not change the geographical boundaries", "It made non-contiguous geographical boundaries"],
+    "Answer": "It expanded the geographical boundaries",
+    "Reasoning": "The story indicates that this period of westward expansion shaped the current geographical boundaries of the modern United States, implying it expanded them."
+},
+{
+"Story": "During the late 18th century, as the winds of the French Revolution swept across Europe, the famous Bastille prison in Paris was stormed by revolutionary forces on July 14, 1789. This significant act symbolized the uprising against the monarchy and the start of radical social change. As the revolution progressed, Louis XVI, the reigning monarch, was executed in 1793, leading to the rise of the radical Jacobin rule. This period of tumultuous change saw the Reign of Terror, where thousands faced the guillotine. By 1799, the revolution began to calm with the rise of Napoleon Bonaparte, who would later proclaim himself emperor.",
+"Question": "Which significant location was stormed by revolutionary forces at the beginning of the revolution?",
+"Answer choices": ["Palace of Versailles", "Bastille Prison", "Louvre Museum", "Notre Dame Cathedral"],
+"Answer": "Bastille Prison",
+"Reasoning": "The story mentions that the famous Bastille prison in Paris was stormed by revolutionary forces."
+},
+{
+"Story": "During the late 18th century, as the winds of the French Revolution swept across Europe, the famous Bastille prison in Paris was stormed by revolutionary forces on July 14, 1789. This significant act symbolized the uprising against the monarchy and the start of radical social change. As the revolution progressed, Louis XVI, the reigning monarch, was executed in 1793, leading to the rise of the radical Jacobin rule. This period of tumultuous change saw the Reign of Terror, where thousands faced the guillotine. By 1799, the revolution began to calm with the rise of Napoleon Bonaparte, who would later proclaim himself emperor.",
+"Question": "Which ruler was executed during the progression of the revolution?",
+"Answer choices": ["Napoleon Bonaparte", "Louis XIV", "Louis XV", "Louis XVI"],
+"Answer": "Louis XVI",
+"Reasoning": "The story states that Louis XVI, the reigning monarch, was executed in 1793."
+},
+{
+"Story": "During the late 18th century, as the winds of the French Revolution swept across Europe, the famous Bastille prison in Paris was stormed by revolutionary forces on July 14, 1789. This significant act symbolized the uprising against the monarchy and the start of radical social change. As the revolution progressed, Louis XVI, the reigning monarch, was executed in 1793, leading to the rise of the radical Jacobin rule. This period of tumultuous change saw the Reign of Terror, where thousands faced the guillotine. By 1799, the revolution began to calm with the rise of Napoleon Bonaparte, who would later proclaim himself emperor.",
+"Question": "What significant event characterized the rise of the radical Jacobin rule?",
+"Answer choices": ["Festival of Federation", "Storming of the Louvre", "Reign of Terror", "Napoleonic Wars"],
+"Answer": "Reign of Terror",
+"Reasoning": "The story mentions that this period of tumultuous change saw the Reign of Terror."
+},
+{
+"Story": "During the late 18th century, as the winds of the French Revolution swept across Europe, the famous Bastille prison in Paris was stormed by revolutionary forces on July 14, 1789. This significant act symbolized the uprising against the monarchy and the start of radical social change. As the revolution progressed, Louis XVI, the reigning monarch, was executed in 1793, leading to the rise of the radical Jacobin rule. This period of tumultuous change saw the Reign of Terror, where thousands faced the guillotine. By 1799, the revolution began to calm with the rise of Napoleon Bonaparte, who would later proclaim himself emperor.",
+"Question": "By which year did the revolution start to calm down?",
+"Answer choices": ["1795", "1789", "1801", "1799"],
+"Answer": "1799",
+"Reasoning": "The story states that by 1799, the revolution began to calm with the rise of Napoleon Bonaparte."
+},
+{
+"Story": "During the late 18th century, as the winds of the French Revolution swept across Europe, the famous Bastille prison in Paris was stormed by revolutionary forces on July 14, 1789. This significant act symbolized the uprising against the monarchy and the start of radical social change. As the revolution progressed, Louis XVI, the reigning monarch, was executed in 1793, leading to the rise of the radical Jacobin rule. This period of tumultuous change saw the Reign of Terror, where thousands faced the guillotine. By 1799, the revolution began to calm with the rise of Napoleon Bonaparte, who would later proclaim himself emperor.",
+"Question": "Who rose to power at the end of the revolution?",
+"Answer choices": ["Robespierre", "Marie Antoinette", "Napoleon Bonaparte", "Louis XVII"],
+"Answer": "Napoleon Bonaparte",
+"Reasoning": "The story mentions that by 1799, Napoleon Bonaparte rose to power and would later proclaim himself emperor."
+},
+{
+    "Story": "In 1789, the French Revolution began in Paris, signaling the start of a decade-long period of political and social change in France. It ended with Napoleon Bonaparte's ascension to power in November 1799. Between these years, critical events such as the storming of the Bastille, the abolition of monarchy, and the Reign of Terror unfolded. The revolution sparked radical social and political reforms in France, including the end of absolute monarchy, and the rise of radical socialists and secularists. It had a lasting impact on the entire world, spreading revolutionary ideals and leading to the rise of nationalism.",
+    "Question": "Who rose to power at the end of the French Revolution?",
+    "Answer choices": ["King Louis XVI", "Marie Antoinette", "Robespierre", "Napoleon Bonaparte"],
+    "Answer": "Napoleon Bonaparte",
+    "Reasoning": "The story clearly states that Napoleon Bonaparte ascended to power at the end of the French Revolution."
+},
+{
+    "Story": "In 1789, the French Revolution began in Paris, signaling the start of a decade-long period of political and social change in France. It ended with Napoleon Bonaparte's ascension to power in November 1799. Between these years, critical events such as the storming of the Bastille, the abolition of monarchy, and the Reign of Terror unfolded. The revolution sparked radical social and political reforms in France, including the end of absolute monarchy, and the rise of radical socialists and secularists. It had a lasting impact on the entire world, spreading revolutionary ideals and leading to the rise of nationalism.",
+    "Question": "What year did the French Revolution end?",
+    "Answer choices": ["1789", "1792", "1799", "1804"],
+    "Answer": "1799",
+    "Reasoning": "The story states that the French Revolution ended in November 1799."
+},
+{
+    "Story": "In 1789, the French Revolution began in Paris, signaling the start of a decade-long period of political and social change in France. It ended with Napoleon Bonaparte's ascension to power in November 1799. Between these years, critical events such as the storming of the Bastille, the abolition of monarchy, and the Reign of Terror unfolded. The revolution sparked radical social and political reforms in France, including the end of absolute monarchy, and the rise of radical socialists and secularists. It had a lasting impact on the entire world, spreading revolutionary ideals and leading to the rise of nationalism.",
+    "Question": "Where did the French Revolution begin?",
+    "Answer choices": ["London, England", "Berlin, Germany", "Vienna, Austria", "Paris, France"],
+    "Answer": "Paris, France",
+    "Reasoning": "The story states that the French Revolution began in Paris."
+},
+{
+    "Story": "In 1789, the French Revolution began in Paris, signaling the start of a decade-long period of political and social change in France. It ended with Napoleon Bonaparte's ascension to power in November 1799. Between these years, critical events such as the storming of the Bastille, the abolition of monarchy, and the Reign of Terror unfolded. The revolution sparked radical social and political reforms in France, including the end of absolute monarchy, and the rise of radical socialists and secularists. It had a lasting impact on the entire world, spreading revolutionary ideals and leading to the rise of nationalism.",
+    "Question": "What event signifies the start of the French Revolution?",
+    "Answer choices": ["Storming of the Bastille", "Napoleon's Ascension to Power", "Abolition of Monarchy", "Execution of Marie Antoinette"],
+    "Answer": "Storming of the Bastille",
+    "Reasoning": "The story does not explicitly state which event signified the start of the French Revolution. However, it is widely accepted that the storming of the Bastille, a critical event mentioned in the context, is often considered the trigger event of the French Revolution."
+},
+{
+    "Story": "In 1789, the French Revolution began in Paris, signaling the start of a decade-long period of political and social change in France. It ended with Napoleon Bonaparte's ascension to power in November 1799. Between these years, critical events such as the storming of the Bastille, the abolition of monarchy, and the Reign of Terror unfolded. The revolution sparked radical social and political reforms in France, including the end of absolute monarchy, and the rise of radical socialists and secularists. It had a lasting impact on the entire world, spreading revolutionary ideals and leading to the rise of nationalism.",
+    "Question": "What lasting global impact did the French Revolution have?",
+    "Answer choices": ["Spread of revolutionary ideals and rise of nationalism", "Establishment of new trade routes", "Creation of the United Nations", "The inauguration of the euro currency"],
+    "Answer": "Spread of revolutionary ideals and rise of nationalism",
+    "Reasoning": "The story cites that the French Revolution had a lasting impact by spreading revolutionary ideals and leading to the rise of nationalism."
+},
+{
+    "Story": "The American Revolution was a series of political upheavals that took place between 1765 and 1783 in thirteen American colonies, originally rejected the governance of the Parliament of Great Britain, fighting the British Empire in alliance France, Netherlands, and Spain. The revolution resulted in an independent nation, the United States of America. After independence, the US drafted a legal code, known as the US Constitution, in Philadelphia in 1787, which is considered one of the most important documents in human history. The constitution set up a representative form of government where citizens could vote. Nowadays, the US is one of the most leading countries in the world.",
+    "Question": "Which organization did the thirteen American colonies fight against in the American Revolution?",
+    "Answer choices": ["French Empire", "Spanish Empire", "Dutch Empire", "British Empire"],
+    "Answer": "British Empire",
+    "Reasoning": "The story states that the American colonies fought against the British Empire during the American Revolution."
+},
+{
+    "Story": "The American Revolution was a series of political upheavals that took place between 1765 and 1783 in thirteen American colonies, originally rejected the governance of the Parliament of Great Britain, fighting the British Empire in alliance France, Netherlands, and Spain. The revolution resulted in an independent nation, the United States of America. After independence, the US drafted a legal code, known as the US Constitution, in Philadelphia in 1787, which is considered one of the most important documents in human history. The constitution set up a representative form of government where citizens could vote. Nowadays, the US is one of the most leading countries in the world.",
+    "Question": "Which document was drafted in Philadelphia in 1787?",
+    "Answer choices": ["Bill of Rights", "Declaration of Independence", "US Constitution", "Emancipation Proclamation"],
+    "Answer": "US Constitution",
+    "Reasoning": "The story states that the US Constitution was drafted in Philadelphia in 1787."
+},
+{
+    "Story": "The American Revolution was a series of political upheavals that took place between 1765 and 1783 in thirteen American colonies, originally rejected the governance of the Parliament of Great Britain, fighting the British Empire in alliance France, Netherlands, and Spain. The revolution resulted in an independent nation, the United States of America. After independence, the US drafted a legal code, known as the US Constitution, in Philadelphia in 1787, which is considered one of the most important documents in human history. The constitution set up a representative form of government where citizens could vote. Nowadays, the US is one of the most leading countries in the world.",
+    "Question": "In which year did the American Revolution end?",
+    "Answer choices": ["1749", "1765", "1783", "1790"],
+    "Answer": "1783",
+    "Reasoning": "The story mentions that the American Revolution took place between 1765 and 1783, so it ended in 1783."
+},
+{
+    "Story": "The American Revolution was a series of political upheavals that took place between 1765 and 1783 in thirteen American colonies, originally rejected the governance of the Parliament of Great Britain, fighting the British Empire in alliance France, Netherlands, and Spain. The revolution resulted in an independent nation, the United States of America. After independence, the US drafted a legal code, known as the US Constitution, in Philadelphia in 1787, which is considered one of the most important documents in human history. The constitution set up a representative form of government where citizens could vote. Nowadays, the US is one of the most leading countries in the world.",
+    "Question": "What type of government system was set up by the US Constitution?",
+    "Answer choices": ["Monarchy", "Theocracy", "Representative", "Dictatorship"],
+    "Answer": "Representative",
+    "Reasoning": "The story states that the US Constitution set up a representative form of government."
+},
+{
+    "Story": "The American Revolution was a series of political upheavals that took place between 1765 and 1783 in thirteen American colonies, originally rejected the governance of the Parliament of Great Britain, fighting the British Empire in alliance France, Netherlands, and Spain. The revolution resulted in an independent nation, the United States of America. After independence, the US drafted a legal code, known as the US Constitution, in Philadelphia in 1787, which is considered one of the most important documents in human history. The constitution set up a representative form of government where citizens could vote. Nowadays, the US is one of the most leading countries in the world.",
+    "Question": "What significant changes occurred due to the American Revolution?",
+    "Answer choices": ["The colonies became independent", "The colonies became part of the British Empire", "The colonies experienced a population decrease", "The colonies experienced an economic crash"],
+    "Answer": "The colonies became independent",
+    "Reasoning": "The story mentions that the American Revolution resulted in an independent nation, the United States of America."
+},
+{
+"Story": "In the early 15th century, a vast armada of ships embarked on a voyage from China. Commanded by Admiral Zheng He, these treasure voyages aimed to establish a Chinese presence in the Indian Ocean trade and to exert the Ming Dynasty's power. Between 1405 and 1433, Zheng He led seven expeditions, travelling as far as the eastern coast of Africa, visiting places such as Sri Lanka, India, and the Maldives. His ships, which were colossal wooden vessels, dwarfed the European ships of the same period. Despite their extensive exploration and trade connections, the voyages were halted in 1433, and China turned inwards, prioritizing internal matters.",
+"Question": "Who commanded the Chinese treasure voyages in the 15th century?",
+"Answer choices": ["Kublai Khan", "Confucius", "Zheng He", "Emperor Qin Shi Huang"],
+"Answer": "Zheng He",
+"Reasoning": "The story states that Admiral Zheng He commanded the treasure voyages from China in the 15th century."
+},
+{
+"Story": "In the early 15th century, a vast armada of ships embarked on a voyage from China. Commanded by Admiral Zheng He, these treasure voyages aimed to establish a Chinese presence in the Indian Ocean trade and to exert the Ming Dynasty's power. Between 1405 and 1433, Zheng He led seven expeditions, travelling as far as the eastern coast of Africa, visiting places such as Sri Lanka, India, and the Maldives. His ships, which were colossal wooden vessels, dwarfed the European ships of the same period. Despite their extensive exploration and trade connections, the voyages were halted in 1433, and China turned inwards, prioritizing internal matters.",
+"Question": "How many expeditions did Zheng He lead during the period of these voyages?",
+"Answer choices": ["Five", "Seven", "Three", "Ten"],
+"Answer": "Seven",
+"Reasoning": "The story mentions that between 1405 and 1433, Zheng He led seven expeditions."
+},
+{
+"Story": "In the early 15th century, a vast armada of ships embarked on a voyage from China. Commanded by Admiral Zheng He, these treasure voyages aimed to establish a Chinese presence in the Indian Ocean trade and to exert the Ming Dynasty's power. Between 1405 and 1433, Zheng He led seven expeditions, travelling as far as the eastern coast of Africa, visiting places such as Sri Lanka, India, and the Maldives. His ships, which were colossal wooden vessels, dwarfed the European ships of the same period. Despite their extensive exploration and trade connections, the voyages were halted in 1433, and China turned inwards, prioritizing internal matters.",
+"Question": "Up to which coast did Zheng He's voyages reach?",
+"Answer choices": ["Western coast of Europe", "Eastern coast of Africa", "Northern coast of Australia", "Southern coast of America"],
+"Answer": "Eastern coast of Africa",
+"Reasoning": "The story states that Zheng He travelled as far as the eastern coast of Africa during his voyages."
+},
+{
+"Story": "In the early 15th century, a vast armada of ships embarked on a voyage from China. Commanded by Admiral Zheng He, these treasure voyages aimed to establish a Chinese presence in the Indian Ocean trade and to exert the Ming Dynasty's power. Between 1405 and 1433, Zheng He led seven expeditions, travelling as far as the eastern coast of Africa, visiting places such as Sri Lanka, India, and the Maldives. His ships, which were colossal wooden vessels, dwarfed the European ships of the same period. Despite their extensive exploration and trade connections, the voyages were halted in 1433, and China turned inwards, prioritizing internal matters.",
+"Question": "In which year did China halt these extensive exploration voyages?",
+"Answer choices": ["1410", "1450", "1433", "1422"],
+"Answer": "1433",
+"Reasoning": "The story mentions that the voyages were halted in 1433."
+},
+{
+"Story": "In the early 15th century, a vast armada of ships embarked on a voyage from China. Commanded by Admiral Zheng He, these treasure voyages aimed to establish a Chinese presence in the Indian Ocean trade and to exert the Ming Dynasty's power. Between 1405 and 1433, Zheng He led seven expeditions, travelling as far as the eastern coast of Africa, visiting places such as Sri Lanka, India, and the Maldives. His ships, which were colossal wooden vessels, dwarfed the European ships of the same period. Despite their extensive exploration and trade connections, the voyages were halted in 1433, and China turned inwards, prioritizing internal matters.",
+"Question": "Compared to European ships of the same period, how were Zheng He's vessels?",
+"Answer choices": ["Much smaller", "Of the same size", "Dwarfed the European ships", "Made of metal"],
+"Answer": "Dwarfed the European ships",
+"Reasoning": "The story mentions that Zheng He's ships, which were colossal wooden vessels, dwarfed the European ships of the same period."
+},
+{
+    "Story": "The French Revolution, a pivotal point in European history, began in 1789 and lasted a decade until 1799. Trying to address the country's economic troubles, it started in Paris, and its effects reverberated throughout France. It was a period of radical political and societal change, influencing liberal, radical, and nationalist doctrines on a global scale. Firstly, the monarchy was abolished, followed by the rise of radical political groups. The revolution finally ended with the ascension of Napoleon Bonaparte as French Consul in November 1799.",
+    "Question": "Where did the French Revolution originate?",
+    "Answer choices": ["Berlin, Germany", "London, England", "Paris, France", "Rome, Italy"],
+    "Answer": "Paris, France",
+    "Reasoning": "The story specifies that the French Revolution started in Paris."
+},
+{
+    "Story": "The French Revolution, a pivotal point in European history, began in 1789 and lasted a decade until 1799. Trying to address the country's economic troubles, it started in Paris, and its effects reverberated throughout France. It was a period of radical political and societal change, influencing liberal, radical, and nationalist doctrines on a global scale. Firstly, the monarchy was abolished, followed by the rise of radical political groups. The revolution finally ended with the ascension of Napoleon Bonaparte as French Consul in November 1799.",
+    "Question": "Which political figure rose to power at the end of the French Revolution?",
+    "Answer choices": ["King Louis XVI", "Marie Antoinette", "George Washington", "Napoleon Bonaparte"],
+    "Answer": "Napoleon Bonaparte",
+    "Reasoning": "The story ends with Napoleon Bonaparte ascending as French Consul in 1799, marking the end of the French Revolution."
+},
+{
+    "Story": "The French Revolution, a pivotal point in European history, began in 1789 and lasted a decade until 1799. Trying to address the country's economic troubles, it started in Paris, and its effects reverberated throughout France. It was a period of radical political and societal change, influencing liberal, radical, and nationalist doctrines on a global scale. Firstly, the monarchy was abolished, followed by the rise of radical political groups. The revolution finally ended with the ascension of Napoleon Bonaparte as French Consul in November 1799.",
+    "Question": "When did the French Revolution start?",
+    "Answer choices": ["1776", "1800", "1789", "1920"],
+    "Answer": "1789",
+    "Reasoning": "The story mentions that the French Revolution began in 1789."
+},
+{
+    "Story": "The French Revolution, a pivotal point in European history, began in 1789 and lasted a decade until 1799. Trying to address the country's economic troubles, it started in Paris, and its effects reverberated throughout France. It was a period of radical political and societal change, influencing liberal, radical, and nationalist doctrines on a global scale. Firstly, the monarchy was abolished, followed by the rise of radical political groups. The revolution finally ended with the ascension of Napoleon Bonaparte as French Consul in November 1799.",
+    "Question": "What major event marked the end of the monarchy during the French Revolution?",
+    "Answer choices": ["The crowning of King Louis XVI", "The signing of the Treaty of Versailles", "The abolition of the monarchy", "The invasion by Britain"],
+    "Answer": "The abolition of the monarchy",
+    "Reasoning": "The story states that the monarchy was abolished during the French Revolution."
+},
+{
+    "Story": "The French Revolution, a pivotal point in European history, began in 1789 and lasted a decade until 1799. Trying to address the country's economic troubles, it started in Paris, and its effects reverberated throughout France. It was a period of radical political and societal change, influencing liberal, radical, and nationalist doctrines on a global scale. Firstly, the monarchy was abolished, followed by the rise of radical political groups. The revolution finally ended with the ascension of Napoleon Bonaparte as French Consul in November 1799.",
+    "Question": "In which year did the French Revolution end?",
+    "Answer choices": ["1805", "1799", "1789", "1812"],
+    "Answer": "1799",
+    "Reasoning": "The story states that the French Revolution lasted until 1799."
+},
+{
+"Story": "In the late 18th century, as the winds of change swept through the American colonies, a momentous event was on the horizon. Boston, Massachusetts became a focal point of dissent against the British Crown. It was here, in 1773, that a group of American colonists, frustrated with the imposed tea tax, staged the Boston Tea Party. Disguised as Native Americans, they boarded three British ships and dumped an entire shipment of tea into the harbor. This act of defiance escalated tensions, eventually leading to the American Revolutionary War.",
+"Question": "What significant event in Boston was a reaction to the imposed tea tax by the British?",
+"Answer choices": ["Boston Bread Riot", "Boston Tea Party", "Boston Massacre", "Boston Harbor Festival"],
+"Answer": "Boston Tea Party",
+"Reasoning": "The story states that in 1773, American colonists staged the Boston Tea Party in response to the imposed tea tax."
+},
+{
+"Story": "In the late 18th century, as the winds of change swept through the American colonies, a momentous event was on the horizon. Boston, Massachusetts became a focal point of dissent against the British Crown. It was here, in 1773, that a group of American colonists, frustrated with the imposed tea tax, staged the Boston Tea Party. Disguised as Native Americans, they boarded three British ships and dumped an entire shipment of tea into the harbor. This act of defiance escalated tensions, eventually leading to the American Revolutionary War.",
+"Question": "How did the colonists disguise themselves during the Boston Tea Party?",
+"Answer choices": ["As British soldiers", "As merchants", "As Native Americans", "As dock workers"],
+"Answer": "As Native Americans",
+"Reasoning": "The story mentions that the American colonists disguised themselves as Native Americans during the Boston Tea Party."
+},
+{
+"Story": "In the late 18th century, as the winds of change swept through the American colonies, a momentous event was on the horizon. Boston, Massachusetts became a focal point of dissent against the British Crown. It was here, in 1773, that a group of American colonists, frustrated with the imposed tea tax, staged the Boston Tea Party. Disguised as Native Americans, they boarded three British ships and dumped an entire shipment of tea into the harbor. This act of defiance escalated tensions, eventually leading to the American Revolutionary War.",
+"Question": "Which city became a central location for opposition against the British during the late 18th century in the American colonies?",
+"Answer choices": ["New York City", "Philadelphia", "Boston", "Charleston"],
+"Answer": "Boston",
+"Reasoning": "The story identifies Boston, Massachusetts as a focal point of dissent against the British Crown."
+},
+{
+"Story": "In the late 18th century, as the winds of change swept through the American colonies, a momentous event was on the horizon. Boston, Massachusetts became a focal point of dissent against the British Crown. It was here, in 1773, that a group of American colonists, frustrated with the imposed tea tax, staged the Boston Tea Party. Disguised as Native Americans, they boarded three British ships and dumped an entire shipment of tea into the harbor. This act of defiance escalated tensions, eventually leading to the American Revolutionary War.",
+"Question": "What major conflict ensued after the Boston Tea Party due to escalating tensions?",
+"Answer choices": ["The French and Indian War", "The War of 1812", "The Civil War", "The American Revolutionary War"],
+"Answer": "The American Revolutionary War",
+"Reasoning": "The story notes that the act of defiance during the Boston Tea Party escalated tensions, leading to the American Revolutionary War."
+},
+{
+"Story": "In the late 18th century, as the winds of change swept through the American colonies, a momentous event was on the horizon. Boston, Massachusetts became a focal point of dissent against the British Crown. It was here, in 1773, that a group of American colonists, frustrated with the imposed tea tax, staged the Boston Tea Party. Disguised as Native Americans, they boarded three British ships and dumped an entire shipment of tea into the harbor. This act of defiance escalated tensions, eventually leading to the American Revolutionary War.",
+"Question": "In which year did the Boston Tea Party occur?",
+"Answer choices": ["1770", "1776", "1783", "1773"],
+"Answer": "1773",
+"Reasoning": "The story states that the Boston Tea Party took place in 1773."
+},
+{
+    "Story": "In 1959, Hawaii was admitted as the 50th state of the United States after a popular referendum demonstrated overwhelming public support. Subsequently, from 1960, Hawaii's economy started to flourish, partly due to increased tourism. Over the next few decades, the state made significant strides in social and educational reforms, contributing to improved living conditions for its citizens. By the year 2000, Hawaii's outlook was robust thanks to its numerous social developments and a thriving tourism industry. Moreover, its unique cultural blend and stunning natural beauty made it a popular destination for global travelers and an emblem of American diversity.",
+    "Question": "During which year did Hawaii become an official U.S. state?",
+    "Answer choices": ["1960", "1959", "1965", "1950"],
+    "Answer": "1959",
+    "Reasoning": "The story states that Hawaii was admitted as the 50th state of the United States in 1959."
+},
+{
+    "Story": "In 1959, Hawaii was admitted as the 50th state of the United States after a popular referendum demonstrated overwhelming public support. Subsequently, from 1960, Hawaii's economy started to flourish, partly due to increased tourism. Over the next few decades, the state made significant strides in social and educational reforms, contributing to improved living conditions for its citizens. By the year 2000, Hawaii's outlook was robust thanks to its numerous social developments and a thriving tourism industry. Moreover, its unique cultural blend and stunning natural beauty made it a popular destination for global travelers and an emblem of American diversity.",
+    "Question": "What was a crucial contributing factor to Hawaii's economic growth starting from 1960?",
+    "Answer choices": ["Industrial mining", "Farming", "Tourism", "Oil drilling"],
+    "Answer": "Tourism",
+    "Reasoning": "The story mentions that Hawaii's economy started to expand, partly because of heightened tourism, from 1960."
+},
+{
+    "Story": "In 1959, Hawaii was admitted as the 50th state of the United States after a popular referendum demonstrated overwhelming public support. Subsequently, from 1960, Hawaii's economy started to flourish, partly due to increased tourism. Over the next few decades, the state made significant strides in social and educational reforms, contributing to improved living conditions for its citizens. By the year 2000, Hawaii's outlook was robust thanks to its numerous social developments and a thriving tourism industry. Moreover, its unique cultural blend and stunning natural beauty made it a popular destination for global travelers and an emblem of American diversity.",
+    "Question": "What developments led to improved living conditions for Hawaii's citizens over several decades?", 
+    "Answer choices": ["Infrastructure development", "Military expansion", "Social and educational improvements", "Political alliances"],
+    "Answer": "Social and educational improvements",
+    "Reasoning": "The story specifies that over several decades, social and educational reforms have contributed to an enhanced standard of living for Hawaii's citizens."
+},
+{
+    "Story": "In 1959, Hawaii was admitted as the 50th state of the United States after a popular referendum demonstrated overwhelming public support. Subsequently, from 1960, Hawaii's economy started to flourish, partly due to increased tourism. Over the next few decades, the state made significant strides in social and educational reforms, contributing to improved living conditions for its citizens. By the year 2000, Hawaii's outlook was robust thanks to its numerous social developments and a thriving tourism industry. Moreover, its unique cultural blend and stunning natural beauty made it a popular destination for global travelers and an emblem of American diversity.",
+    "Question": "By the year 2000, what kind of industry had developed strongly in Hawaii?",
+    "Answer choices": ["Industrial manufacturing", "Tourism", "Agriculture", "Automobile production"],
+    "Answer": "Tourism",
+    "Reasoning": "The story mentions that by the year 2000, a booming tourism industry was part of the reason Hawaii had a robust outlook."
+},
+{
+    "Story": "In 1959, Hawaii was admitted as the 50th state of the United States after a popular referendum demonstrated overwhelming public support. Subsequently, from 1960, Hawaii's economy started to flourish, partly due to increased tourism. Over the next few decades, the state made significant strides in social and educational reforms, contributing to improved living conditions for its citizens. By the year 2000, Hawaii's outlook was robust thanks to its numerous social developments and a thriving tourism industry. Moreover, its unique cultural blend and stunning natural beauty made it a popular destination for global travelers and an emblem of American diversity.",
+    "Question": "What attribute makes Hawaii an attractive destination for global travelers?",
+    "Answer choices": ["Natural beauty and cultural diversity", "Shopping malls", "Historical monuments", "Casinos and nightlife"],
+    "Answer": "Natural beauty and cultural diversity",
+    "Reasoning": "The story states that Hawaii's unique mix of cultures and stunning natural beauty has made it a popular destination for travelers from around the world."
+},
+{
+"Story": "In the summer of 1998, cities across the world were buzzing with excitement. The World Cup, hosted by France, had everyone glued to their television sets. Paris, particularly around the Champs-Élysées, was alive with fans from different countries, singing, dancing, and celebrating their love for football. On July 12, in a dramatic final, France defeated Brazil 3-0 to clinch their first World Cup title. The victory sparked nationwide celebrations, turning the streets of major French cities into a sea of blue, white, and red.",
+"Question": "Which country hosted the World Cup in 1998?",
+"Answer choices": ["Brazil", "Germany", "South Africa", "France"],
+"Answer": "France",
+"Reasoning": "The story states that the World Cup was hosted by France in 1998."
+},
+{
+"Story": "In the summer of 1998, cities across the world were buzzing with excitement. The World Cup, hosted by France, had everyone glued to their television sets. Paris, particularly around the Champs-Élysées, was alive with fans from different countries, singing, dancing, and celebrating their love for football. On July 12, in a dramatic final, France defeated Brazil 3-0 to clinch their first World Cup title. The victory sparked nationwide celebrations, turning the streets of major French cities into a sea of blue, white, and red.",
+"Question": "Which two teams played in the final match of the 1998 World Cup?",
+"Answer choices": ["Italy and Argentina", "Germany and Netherlands", "France and Brazil", "England and Spain"],
+"Answer": "France and Brazil",
+"Reasoning": "The story mentions that in the final, France defeated Brazil."
+},
+{
+"Story": "In the summer of 1998, cities across the world were buzzing with excitement. The World Cup, hosted by France, had everyone glued to their television sets. Paris, particularly around the Champs-Élysées, was alive with fans from different countries, singing, dancing, and celebrating their love for football. On July 12, in a dramatic final, France defeated Brazil 3-0 to clinch their first World Cup title. The victory sparked nationwide celebrations, turning the streets of major French cities into a sea of blue, white, and red.",
+"Question": "Which specific location in Paris was highlighted as being especially lively during the 1998 World Cup?",
+"Answer choices": ["Louvre Museum", "Eiffel Tower", "Champs-Élysées", "Notre-Dame Cathedral"],
+"Answer": "Champs-Élysées",
+"Reasoning": "The story specifies that Paris, particularly around the Champs-Élysées, was alive with fans."
+},
+{
+"Story": "In the summer of 1998, cities across the world were buzzing with excitement. The World Cup, hosted by France, had everyone glued to their television sets. Paris, particularly around the Champs-Élysées, was alive with fans from different countries, singing, dancing, and celebrating their love for football. On July 12, in a dramatic final, France defeated Brazil 3-0 to clinch their first World Cup title. The victory sparked nationwide celebrations, turning the streets of major French cities into a sea of blue, white, and red.",
+"Question": "By what margin did France win the World Cup final in 1998?",
+"Answer choices": ["1-0", "2-1", "4-2", "3-0"],
+"Answer": "3-0",
+"Reasoning": "The story states that France defeated Brazil 3-0 in the final."
+},
+{
+"Story": "In the summer of 1998, cities across the world were buzzing with excitement. The World Cup, hosted by France, had everyone glued to their television sets. Paris, particularly around the Champs-Élysées, was alive with fans from different countries, singing, dancing, and celebrating their love for football. On July 12, in a dramatic final, France defeated Brazil 3-0 to clinch their first World Cup title. The victory sparked nationwide celebrations, turning the streets of major French cities into a sea of blue, white, and red.",
+"Question": "What colors dominated the streets of French cities after their World Cup victory?",
+"Answer choices": ["Yellow, green, and blue", "Black, red, and gold", "Red, green, and white", "Blue, white, and red"],
+"Answer": "Blue, white, and red",
+"Reasoning": "The story notes that the victory turned the streets of major French cities into a sea of blue, white, and red."
+},
+{
+    "Story": "In 2015, the world leaders gathered in Paris to discuss climate change issue for the historic Paris Agreement. The summit, held from November 30 to December 12, aimed to achieve a globally agreed solution to mitigate climate change. Representatives from 196 states made a pact to limit global warming below 2 degrees Celsius. Despite many challenges faced during the negotiation phase, the agreement was signed successfully. This significant event was later celebrated as a milestone in global climate action.",
+    "Question": "What topic was the topic of discussion during the Paris summit in 2015?",
+    "Answer choices": ["Economic crisis", "Healthcare reform", "Climate change", "Cybersecurity"],
+    "Answer": "Climate change",
+    "Reasoning": "The story states that the leaders gathered in Paris to discuss the issue of climate change."
+},
+{
+    "Story": "In 2015, the world leaders gathered in Paris to discuss climate change issue for the historic Paris Agreement. The summit, held from November 30 to December 12, aimed to achieve a globally agreed solution to mitigate climate change. Representatives from 196 states made a pact to limit global warming below 2 degrees Celsius. Despite many challenges faced during the negotiation phase, the agreement was signed successfully. This significant event was later celebrated as a milestone in global climate action.",
+    "Question": "Where was the climate summit held in 2015?",
+    "Answer choices": ["Beijing, China", "Paris, France", "Washington D.C., USA", "Geneva, Switzerland"],
+    "Answer": "Paris, France",
+    "Reasoning": "The story indicates that the 2015 climate summit took place in Paris, France."
+},
+{
+    "Story": "In 2015, the world leaders gathered in Paris to discuss climate change issue for the historic Paris Agreement. The summit, held from November 30 to December 12, aimed to achieve a globally agreed solution to mitigate climate change. Representatives from 196 states made a pact to limit global warming below 2 degrees Celsius. Despite many challenges faced during the negotiation phase, the agreement was signed successfully. This significant event was later celebrated as a milestone in global climate action.",
+    "Question": "How many states made a pact to limit global warming during the 2015 Paris summit?",
+    "Answer choices": ["100", "125", "156", "196"],
+    "Answer": "196",
+    "Reasoning": "The story mentions that representatives from 196 states made a pact at the summit."
+},
+{
+    "Story": "In 2015, the world leaders gathered in Paris to discuss climate change issue for the historic Paris Agreement. The summit, held from November 30 to December 12, aimed to achieve a globally agreed solution to mitigate climate change. Representatives from 196 states made a pact to limit global warming below 2 degrees Celsius. Despite many challenges faced during the negotiation phase, the agreement was signed successfully. This significant event was later celebrated as a milestone in global climate action.",
+    "Question": "In which year was the Paris Agreement signed?",
+    "Answer choices": ["2010", "2012", "2015", "2017"],
+    "Answer": "2015",
+    "Reasoning": "The story states that the Paris Agreement was signed in the year 2015."
+},
+{
+    "Story": "In 2015, the world leaders gathered in Paris to discuss climate change issue for the historic Paris Agreement. The summit, held from November 30 to December 12, aimed to achieve a globally agreed solution to mitigate climate change. Representatives from 196 states made a pact to limit global warming below 2 degrees Celsius. Despite many challenges faced during the negotiation phase, the agreement was signed successfully. This significant event was later celebrated as a milestone in global climate action.",
+    "Question": "What was the globally agreed aim at the Paris summit?",
+    "Answer choices": ["To limit global warming to 2 degrees Celsius", "To abolish nuclear weapons", "To end poverty", "To resolve trade disputes"],
+    "Answer": "To limit global warming to 2 degrees Celsius",
+    "Reasoning": "The story notes that representatives at the summit made a pact to limit global warming to below 2 degrees Celsius."
+},
+{
+"Story": "In 1984, Los Angeles was abuzz with activity and anticipation. It was the host city for the Summer Olympics, marking the second time the city had been chosen for this honor. Athletes from 140 nations arrived, but the games were marked by a significant boycott led by the Soviet Union, protesting against the earlier US-led boycott of the 1980 Moscow Olympics. Nonetheless, the event was a huge success. The iconic Olympic flame was lit by Rafer Johnson, and the games became a memorable chapter in the history of the Olympics, with a notable surge in commercial sponsorships.",
+"Question": "How many times had Los Angeles hosted the Summer Olympics by 1984?",
+"Answer choices": ["Once", "Twice", "Thrice", "Four times"],
+"Answer": "Twice",
+"Reasoning": "The story mentions that 1984 marked the second time the city (Los Angeles) had been chosen to host the Summer Olympics."
+},
+{
+"Story": "In 1984, Los Angeles was abuzz with activity and anticipation. It was the host city for the Summer Olympics, marking the second time the city had been chosen for this honor. Athletes from 140 nations arrived, but the games were marked by a significant boycott led by the Soviet Union, protesting against the earlier US-led boycott of the 1980 Moscow Olympics. Nonetheless, the event was a huge success. The iconic Olympic flame was lit by Rafer Johnson, and the games became a memorable chapter in the history of the Olympics, with a notable surge in commercial sponsorships.",
+"Question": "Why did the Soviet Union boycott the 1984 Los Angeles Olympics?",
+"Answer choices": ["Because of political differences with the US", "Due to unfavorable weather conditions", "In protest of the US-led boycott of the 1980 Moscow Olympics", "Due to a disagreement over sports regulations"],
+"Answer": "In protest of the US-led boycott of the 1980 Moscow Olympics",
+"Reasoning": "The story specifies that the Soviet Union led a boycott protesting against the earlier US-led boycott of the 1980 Moscow Olympics."
+},
+{
+"Story": "In 1984, Los Angeles was abuzz with activity and anticipation. It was the host city for the Summer Olympics, marking the second time the city had been chosen for this honor. Athletes from 140 nations arrived, but the games were marked by a significant boycott led by the Soviet Union, protesting against the earlier US-led boycott of the 1980 Moscow Olympics. Nonetheless, the event was a huge success. The iconic Olympic flame was lit by Rafer Johnson, and the games became a memorable chapter in the history of the Olympics, with a notable surge in commercial sponsorships.",
+"Question": "Who lit the iconic Olympic flame during the 1984 Los Angeles Olympics?",
+"Answer choices": ["Muhammad Ali", "Michael Phelps", "Rafer Johnson", "Nadia Comaneci"],
+"Answer": "Rafer Johnson",
+"Reasoning": "The story mentions that the Olympic flame was lit by Rafer Johnson."
+},
+{
+"Story": "In 1984, Los Angeles was abuzz with activity and anticipation. It was the host city for the Summer Olympics, marking the second time the city had been chosen for this honor. Athletes from 140 nations arrived, but the games were marked by a significant boycott led by the Soviet Union, protesting against the earlier US-led boycott of the 1980 Moscow Olympics. Nonetheless, the event was a huge success. The iconic Olympic flame was lit by Rafer Johnson, and the games became a memorable chapter in the history of the Olympics, with a notable surge in commercial sponsorships.",
+"Question": "From how many nations did athletes arrive for the 1984 Los Angeles Olympics?",
+"Answer choices": ["100", "80", "200", "140"],
+"Answer": "140",
+"Reasoning": "The story states that athletes from 140 nations arrived for the 1984 Los Angeles Olympics."
+},
+{
+"Story": "In 1984, Los Angeles was abuzz with activity and anticipation. It was the host city for the Summer Olympics, marking the second time the city had been chosen for this honor. Athletes from 140 nations arrived, but the games were marked by a significant boycott led by the Soviet Union, protesting against the earlier US-led boycott of the 1980 Moscow Olympics. Nonetheless, the event was a huge success. The iconic Olympic flame was lit by Rafer Johnson, and the games became a memorable chapter in the history of the Olympics, with a notable surge in commercial sponsorships.",
+"Question": "What became notably more prominent in the 1984 Olympics compared to previous ones?",
+"Answer choices": ["Use of technology", "Athletes' participation", "Political protests", "Commercial sponsorships"],
+"Answer": "Commercial sponsorships",
+"Reasoning": "The story notes that there was a notable surge in commercial sponsorships during the 1984 Olympics."
+},
+{
+    "Story": "In 2008, Barack Obama was elected the 44th president of the United States. His election was historic, as he was the first African American to hold the highest office. He was inaugurated on January 20, 2009, in Washington, D.C. with a crowd of over a million people witnessing the event. He was reelected in 2012 and finished his second term in 2017.",
+    "Question": "Who was elected as the 44th president of the United States?",
+    "Answer choices": ["George Bush", "Barack Obama", "Donald Trump", "Bill Clinton"],
+    "Answer": "Barack Obama",
+    "Reasoning": "The story states that Barack Obama was elected the 44th president of the United States."
+},
+{
+    "Story": "In 2008, Barack Obama was elected the 44th president of the United States. His election was historic, as he was the first African American to hold the highest office. He was inaugurated on January 20, 2009, in Washington, D.C. with a crowd of over a million people witnessing the event. He was reelected in 2012 and finished his second term in 2017.",
+    "Question": "Where was Barack Obama inaugurated as president?",
+    "Answer choices": ["New York City, New York", "Chicago, Illinois", "Los Angeles, California", "Washington, D.C."],
+    "Answer": "Washington, D.C.",
+    "Reasoning": "The story states that Barack Obama was inaugurated in Washington, D.C."
+},
+{
+    "Story": "In 2008, Barack Obama was elected the 44th president of the United States. His election was historic, as he was the first African American to hold the highest office. He was inaugurated on January 20, 2009, in Washington, D.C. with a crowd of over a million people witnessing the event. He was reelected in 2012 and finished his second term in 2017.",
+    "Question": "What year did Barack Obama finish his second term?",
+    "Answer choices": ["2015", "2017", "2012", "2016"],
+    "Answer": "2017",
+    "Reasoning": "The story mentions that Barack Obama finished his second term in 2017."
+},
+{
+    "Story": "In 2008, Barack Obama was elected the 44th president of the United States. His election was historic, as he was the first African American to hold the highest office. He was inaugurated on January 20, 2009, in Washington, D.C. with a crowd of over a million people witnessing the event. He was reelected in 2012 and finished his second term in 2017.",
+    "Question": "When did Barack Obama get reelected as the president?",
+    "Answer choices": ["2010", "2012", "2014", "2016"],
+    "Answer": "2012",
+    "Reasoning": "The story states that Barack Obama was reelected in 2012."
+},
+{
+    "Story": "In 2008, Barack Obama was elected the 44th president of the United States. His election was historic, as he was the first African American to hold the highest office. He was inaugurated on January 20, 2009, in Washington, D.C. with a crowd of over a million people witnessing the event. He was reelected in 2012 and finished his second term in 2017.",
+    "Question": "For what historic reason was Barack Obama's presidency notable?",
+    "Answer choices": ["He was the youngest president ever elected", "He was the first Asian American president", "He was the first African American president", "He was the first Latino president"],
+    "Answer": "He was the first African American president",
+    "Reasoning": "The story highlights that Barack Obama's election was historic, as he was the first African American to hold the highest office."
+},
+{
+    "Story": "In 1936, the Berlin Summer Olympics were held during a trying time for the world. Tensions were high due to the Nazi regime's rise to power in Germany. Regardless, the games proceeded with athletes from all over the globe participating, including the remarkable Jesse Owens of the United States. Owens won four gold medals, despite the prevalent racial prejudice. The games ended on August 16, leaving behind an unforgettable mark in sports history.",
+    "Question": "Which athlete won four gold medals in the 1936 Berlin Summer Olympics?",
+    "Answer choices": ["Jesse Owens", "Usain Bolt", "Muhammad Ali", "Michael Phelps"],
+    "Answer": "Jesse Owens",
+    "Reasoning": "The story mentions Jesse Owens of the United States was the athlete who won four gold medals."
+},
+{
+    "Story": "In 1936, the Berlin Summer Olympics were held during a trying time for the world. Tensions were high due to the Nazi regime's rise to power in Germany. Regardless, the games proceeded with athletes from all over the globe participating, including the remarkable Jesse Owens of the United States. Owens won four gold medals, despite the prevalent racial prejudice. The games ended on August 16, leaving behind an unforgettable mark in sports history.",
+    "Question": "Where were the Summer Olympics of 1936 held?",
+    "Answer choices": ["Sydney, Australia", "Tokyo, Japan", "Los Angeles, United States", "Berlin, Germany"],
+    "Answer": "Berlin, Germany",
+    "Reasoning": "The story states that the 1936 Summer Olympics were held in Berlin, Germany."
+},
+{
+    "Story": "In 1936, the Berlin Summer Olympics were held during a trying time for the world. Tensions were high due to the Nazi regime's rise to power in Germany. Regardless, the games proceeded with athletes from all over the globe participating, including the remarkable Jesse Owens of the United States. Owens won four gold medals, despite the prevalent racial prejudice. The games ended on August 16, leaving behind an unforgettable mark in sports history.",
+    "Question": "In what year were the Berlin Summer Olympics?",
+    "Answer choices": ["1932", "1940", "1936", "1944"],
+    "Answer": "1936",
+    "Reasoning": "The story mentions that the Berlin Summer Olympics were in the year 1936."
+},
+{
+    "Story": "In 1936, the Berlin Summer Olympics were held during a trying time for the world. Tensions were high due to the Nazi regime's rise to power in Germany. Regardless, the games proceeded with athletes from all over the globe participating, including the remarkable Jesse Owens of the United States. Owens won four gold medals, despite the prevalent racial prejudice. The games ended on August 16, leaving behind an unforgettable mark in sports history.",
+    "Question": "What was the political context during the 1936 Berlin Summer Olympics?",
+    "Answer choices": ["World War II", "Nazi regime's rise to power in Germany", "The Cold War", "The Great Depression"],
+    "Answer": "Nazi regime's rise to power in Germany",
+    "Reasoning": "The story notes tensions were high due to the Nazi regime's rise to power in Germany."
+},
+ {
+    "Story": "In 1936, the Berlin Summer Olympics were held during a trying time for the world. Tensions were high due to the Nazi regime's rise to power in Germany. Regardless, the games proceeded with athletes from all over the globe participating, including the remarkable Jesse Owens of the United States. Owens won four gold medals, despite the prevalent racial prejudice. The games ended on August 16, leaving behind an unforgettable mark in sports history.",
+    "Question": "What is a significant accomplishment from the 1936 Summer Olympics?",
+    "Answer choices": ["First televised Olympic Games", "The introduction of lighted torch relay", "Jesse Owens winning four gold medals", "First time the Olympics were held in Asia"],
+    "Answer": "Jesse Owens winning four gold medals",
+    "Reasoning": "The story mentions that despite the prevalent racial prejudice, Jesse Owens won four gold medals, which is a significant accomplishment."
+},
+{
+"Story": "In 1991, the political landscape of Europe was radically altered with the dissolution of the Soviet Union. The Soviet Union, a superpower that had dominated Eastern Europe and Central Asia for decades, faced economic hardships and rising nationalist sentiments among its member republics. On December 25th, Mikhail Gorbachev resigned as the president of the Soviet Union, effectively marking the end of the nation. This monumental shift led to the emergence of 15 independent republics, including Russia, Ukraine, and Belarus. As a symbol of its end, the Soviet flag was lowered from the Kremlin and replaced with the Russian tricolor.",
+"Question": "Which country's flag was raised in the Kremlin following the dissolution of the Soviet Union?",
+"Answer choices": ["Ukraine", "Belarus", "Russia", "Latvia"],
+"Answer": "Russia",
+"Reasoning": "The story specifies that after the dissolution of the Soviet Union, the Soviet flag was lowered from the Kremlin and replaced with the Russian tricolor."
+},
+{
+"Story": "In 1991, the political landscape of Europe was radically altered with the dissolution of the Soviet Union. The Soviet Union, a superpower that had dominated Eastern Europe and Central Asia for decades, faced economic hardships and rising nationalist sentiments among its member republics. On December 25th, Mikhail Gorbachev resigned as the president of the Soviet Union, effectively marking the end of the nation. This monumental shift led to the emergence of 15 independent republics, including Russia, Ukraine, and Belarus. As a symbol of its end, the Soviet flag was lowered from the Kremlin and replaced with the Russian tricolor.",
+"Question": "What were some reasons for the dissolution of the Soviet Union?",
+"Answer choices": ["Economic growth and technological advancements", "Peace treaties with Western nations", "Economic hardships and rising nationalist sentiments", "Strengthening political alliances within member republics"],
+"Answer": "Economic hardships and rising nationalist sentiments",
+"Reasoning": "The story mentions that the Soviet Union faced economic hardships and rising nationalist sentiments among its member republics, leading to its dissolution."
+},
+{
+"Story": "In 1991, the political landscape of Europe was radically altered with the dissolution of the Soviet Union. The Soviet Union, a superpower that had dominated Eastern Europe and Central Asia for decades, faced economic hardships and rising nationalist sentiments among its member republics. On December 25th, Mikhail Gorbachev resigned as the president of the Soviet Union, effectively marking the end of the nation. This monumental shift led to the emergence of 15 independent republics, including Russia, Ukraine, and Belarus. As a symbol of its end, the Soviet flag was lowered from the Kremlin and replaced with the Russian tricolor.",
+"Question": "How many republics emerged as independent nations after the dissolution of the Soviet Union?",
+"Answer choices": ["10", "15", "20", "25"],
+"Answer": "15",
+"Reasoning": "The story states that the dissolution of the Soviet Union led to the emergence of 15 independent republics."
+},
+{
+"Story": "In 1991, the political landscape of Europe was radically altered with the dissolution of the Soviet Union. The Soviet Union, a superpower that had dominated Eastern Europe and Central Asia for decades, faced economic hardships and rising nationalist sentiments among its member republics. On December 25th, Mikhail Gorbachev resigned as the president of the Soviet Union, effectively marking the end of the nation. This monumental shift led to the emergence of 15 independent republics, including Russia, Ukraine, and Belarus. As a symbol of its end, the Soviet flag was lowered from the Kremlin and replaced with the Russian tricolor.",
+"Question": "Who resigned as the president of the Soviet Union marking its end?",
+"Answer choices": ["Vladimir Putin", "Boris Yeltsin", "Leonid Brezhnev", "Mikhail Gorbachev"],
+"Answer": "Mikhail Gorbachev",
+"Reasoning": "The story mentions that on December 25th, Mikhail Gorbachev resigned as the president of the Soviet Union, effectively marking the end of the nation."
+},
+{
+"Story": "In 1991, the political landscape of Europe was radically altered with the dissolution of the Soviet Union. The Soviet Union, a superpower that had dominated Eastern Europe and Central Asia for decades, faced economic hardships and rising nationalist sentiments among its member republics. On December 25th, Mikhail Gorbachev resigned as the president of the Soviet Union, effectively marking the end of the nation. This monumental shift led to the emergence of 15 independent republics, including Russia, Ukraine, and Belarus. As a symbol of its end, the Soviet flag was lowered from the Kremlin and replaced with the Russian tricolor.",
+"Question": "In which year did the political landscape of Europe change due to the dissolution of the Soviet Union?",
+"Answer choices": ["1985", "1989", "1991", "1995"],
+"Answer": "1991",
+"Reasoning": "The story states that the political landscape of Europe was radically altered with the dissolution of the Soviet Union in 1991."
+},
+{
+    "Story": "In Paris, France, the 1936 Summer Olympics commences with much enthusiasm and excitement. Inviting athletes from all over the world, with the first week dedicated to track and field events. Following it, boxing and swimming events take place at their respective venues within Paris during the second week. After a grueling fortnight, the Olympics concludes with a grand closing ceremony, an event commemorated with much passion and patriotism as the Olympic Flag is handed over to Tokyo, Japan, the host for the next Summer Olympics. The celebration of sporting talent and unity goes down in the history books as an iconic event.",
+    "Question": "Where will the next Summer Olympics be held after the 1936 Olympics in Paris?",
+    "Answer choices": ["London, England", "Beijing, China", "Tokyo, Japan", "Rio, Brazil"],
+    "Answer": "Tokyo, Japan",
+    "Reasoning": "It is mentioned in the story that the Olympic Flag is handed over to Tokyo, Japan for the next Summer Olympics."
+},
+{
+    "Story": "In Paris, France, the 1936 Summer Olympics commences with much enthusiasm and excitement. Inviting athletes from all over the world, with the first week dedicated to track and field events. Following it, boxing and swimming events take place at their respective venues within Paris during the second week. After a grueling fortnight, the Olympics concludes with a grand closing ceremony, an event commemorated with much passion and patriotism as the Olympic Flag is handed over to Tokyo, Japan, the host for the next Summer Olympics. The celebration of sporting talent and unity goes down in the history books as an iconic event.",
+    "Question": "Which sporting events were scheduled for the second week of the 1936 Olympics in Paris?",
+    "Answer choices": ["Basketball and Tennis", "Golf and Archery", "Boxing and Swimming", "Cycling and Wrestling"],
+    "Answer": "Boxing and Swimming",
+    "Reasoning": "The story mentions that during the second week of the Olympics, boxing and swimming events took place."
+},
+{
+    "Story": "In Paris, France, the 1936 Summer Olympics commences with much enthusiasm and excitement. Inviting athletes from all over the world, with the first week dedicated to track and field events. Following it, boxing and swimming events take place at their respective venues within Paris during the second week. After a grueling fortnight, the Olympics concludes with a grand closing ceremony, an event commemorated with much passion and patriotism as the Olympic Flag is handed over to Tokyo, Japan, the host for the next Summer Olympics. The celebration of sporting talent and unity goes down in the history books as an iconic event.",
+    "Question": "Where were the 1936 Summer Olympics held?",
+    "Answer choices": ["Berlin, Germany", "Paris, France", "Los Angeles, USA", "London, England"],
+    "Answer": "Paris, France",
+    "Reasoning": "The story begins by stating that Paris, France, was the hosting city for the 1936 Summer Olympics."
+},
+{
+    "Story": "In Paris, France, the 1936 Summer Olympics commences with much enthusiasm and excitement. Inviting athletes from all over the world, with the first week dedicated to track and field events. Following it, boxing and swimming events take place at their respective venues within Paris during the second week. After a grueling fortnight, the Olympics concludes with a grand closing ceremony, an event commemorated with much passion and patriotism as the Olympic Flag is handed over to Tokyo, Japan, the host for the next Summer Olympics. The celebration of sporting talent and unity goes down in the history books as an iconic event.",
+    "Question": "What events began the first week of the 1936 Olympics in Paris?",
+    "Answer choices": ["Cycling and Boxing", "Track and Field events", "Swimming and Gymnastics", "Basketball and Soccer"],
+    "Answer": "Track and Field events",
+    "Reasoning": "The story mentions that the first week of the Olympics was dedicated to track and field events."
+},
+{
+    "Story": "In Paris, France, the 1936 Summer Olympics commences with much enthusiasm and excitement. Inviting athletes from all over the world, with the first week dedicated to track and field events. Following it, boxing and swimming events take place at their respective venues within Paris during the second week. After a grueling fortnight, the Olympics concludes with a grand closing ceremony, an event commemorated with much passion and patriotism as the Olympic Flag is handed over to Tokyo, Japan, the host for the next Summer Olympics. The celebration of sporting talent and unity goes down in the history books as an iconic event.",
+    "Question": "How long did the 1936 Summer Olympics in Paris last?",
+    "Answer choices": ["One week", "A month", "Three weeks", "Fortnight"],
+    "Answer": "Fortnight",
+    "Reasoning": "The story stated that the Olympics concluded after a 'grueling fortnight', which means two weeks."
+},
+{
+    "Story": "During the time of the Civil Rights movement in 1963, Martin Luther King Jr. led over 200,000 marchers to Washington, D.C. to fight for equality. On August 28, at the Lincoln Memorial, the prominent civil rights activist delivered his historic 'I Have a Dream' speech, inspiring countless individuals. Over time, this move had a powerful impact, affecting presidential decisions and leading to the Civil Rights Act of 1964. The event is now remembered as a significant milestone in the fight against racial discrimination.",
+    "Question": "What legislation was passed subsequent to the civil rights march in Washington, D.C.?",
+    "Answer choices": ["The Emancipation Proclamation", "The Bill of Rights", "The Declaration of Independence", "The Civil Rights Act of 1964"],
+    "Answer": "The Civil Rights Act of 1964",
+    "Reasoning": "The story mentions that the efforts of the marchers had a significant impact, leading to the Civil Rights Act of 1964."
+},
+{
+    "Story": "During the time of the Civil Rights movement in 1963, Martin Luther King Jr. led over 200,000 marchers to Washington, D.C. to fight for equality. On August 28, at the Lincoln Memorial, the prominent civil rights activist delivered his historic 'I Have a Dream' speech, inspiring countless individuals. Over time, this move had a powerful impact, affecting presidential decisions and leading to the Civil Rights Act of 1964. The event is now remembered as a significant milestone in the fight against racial discrimination.",
+    "Question": "Where was Martin Luther King Jr.'s 'I Have a Dream' speech delivered?",
+    "Answer choices": ["The White House", "The Lincoln Memorial", "The Washington Monument", "The Jefferson Memorial"],
+    "Answer": "The Lincoln Memorial",
+    "Reasoning": "The story states that the 'I Have a Dream' speech was delivered at the Lincoln Memorial."
+},
+{
+    "Story": "During the time of the Civil Rights movement in 1963, Martin Luther King Jr. led over 200,000 marchers to Washington, D.C. to fight for equality. On August 28, at the Lincoln Memorial, the prominent civil rights activist delivered his historic 'I Have a Dream' speech, inspiring countless individuals. Over time, this move had a powerful impact, affecting presidential decisions and leading to the Civil Rights Act of 1964. The event is now remembered as a significant milestone in the fight against racial discrimination.",
+    "Question": "What was the main purpose of the march to Washington, D.C. in 1963?",
+    "Answer choices": ["To fight for women's rights", "To fight for racial equality", "To protest the Vietnam War", "To promote environmental conservation"],
+    "Answer": "To fight for racial equality",
+    "Reasoning": "The story mentions that Martin Luther King Jr. led over 200,000 marchers to Washington, D.C. to fight for equality."
+},
+{
+    "Story": "During the time of the Civil Rights movement in 1963, Martin Luther King Jr. led over 200,000 marchers to Washington, D.C. to fight for equality. On August 28, at the Lincoln Memorial, the prominent civil rights activist delivered his historic 'I Have a Dream' speech, inspiring countless individuals. Over time, this move had a powerful impact, affecting presidential decisions and leading to the Civil Rights Act of 1964. The event is now remembered as a significant milestone in the fight against racial discrimination.",
+    "Question": "Which year did Martin Luther King Jr. lead a march to Washington, D.C.?",
+    "Answer choices": ["1958", "1963", "1968", "1973"],
+    "Answer": "1963",
+    "Reasoning": "The story states that the march to Washington, D.C. was led by Martin Luther King Jr. in 1963."
+},
+{
+    "Story": "During the time of the Civil Rights movement in 1963, Martin Luther King Jr. led over 200,000 marchers to Washington, D.C. to fight for equality. On August 28, at the Lincoln Memorial, the prominent civil rights activist delivered his historic 'I Have a Dream' speech, inspiring countless individuals. Over time, this move had a powerful impact, affecting presidential decisions and leading to the Civil Rights Act of 1964. The event is now remembered as a significant milestone in the fight against racial discrimination.",
+    "Question": "What is the name of the historic speech delivered by Martin Luther King Jr. at the march in Washington, D.C.?",
+    "Answer choices": ["'The Promised Land'", "'I Have a Dream'", "'Beyond Vietnam'", "'Why We Can't Wait'"],
+    "Answer": "'I Have a Dream'",
+    "Reasoning": "The story mentions that the speech delivered by Martin Luther King Jr. at the march in Washington, D.C. was the 'I Have a Dream' speech."
+},
+{
+"Story": "In the 1960s, a powerful social and political campaign known as the Civil Rights Movement emerged in the United States. This movement primarily aimed to end legalized racial segregation and discrimination against African Americans. Leaders like Martin Luther King Jr. and Rosa Parks became symbols of nonviolent resistance, advocating for the civil and economic rights of Blacks. As a result of their efforts and nationwide protests, landmark legislation such as the Civil Rights Act of 1964 and the Voting Rights Act of 1965 was passed. While significant progress was achieved, the movement also laid the foundation for future struggles for justice and equality.",
+"Question": "Which act was not mentioned as a result of the Civil Rights Movement?",
+"Answer choices": ["The Emancipation Proclamation", "The Civil Rights Act of 1964", "The Voting Rights Act of 1965", "None of the above"],
+"Answer": "The Emancipation Proclamation",
+"Reasoning": "The story mentions the Civil Rights Act of 1964 and the Voting Rights Act of 1965 as outcomes of the Civil Rights Movement but does not mention The Emancipation Proclamation."
+},
+{
+"Story": "In the 1960s, a powerful social and political campaign known as the Civil Rights Movement emerged in the United States. This movement primarily aimed to end legalized racial segregation and discrimination against African Americans. Leaders like Martin Luther King Jr. and Rosa Parks became symbols of nonviolent resistance, advocating for the civil and economic rights of Blacks. As a result of their efforts and nationwide protests, landmark legislation such as the Civil Rights Act of 1964 and the Voting Rights Act of 1965 was passed. While significant progress was achieved, the movement also laid the foundation for future struggles for justice and equality.",
+"Question": "Who was not cited as a key figure in the Civil Rights Movement in the story?",
+"Answer choices": ["Malcolm X", "Martin Luther King Jr.", "Rosa Parks", "None of the above"],
+"Answer": "Malcolm X",
+"Reasoning": "The story cites Martin Luther King Jr. and Rosa Parks as symbols of the Civil Rights Movement but does not mention Malcolm X."
+},
+{
+"Story": "In the 1960s, a powerful social and political campaign known as the Civil Rights Movement emerged in the United States. This movement primarily aimed to end legalized racial segregation and discrimination against African Americans. Leaders like Martin Luther King Jr. and Rosa Parks became symbols of nonviolent resistance, advocating for the civil and economic rights of Blacks. As a result of their efforts and nationwide protests, landmark legislation such as the Civil Rights Act of 1964 and the Voting Rights Act of 1965 was passed. While significant progress was achieved, the movement also laid the foundation for future struggles for justice and equality.",
+"Question": "What was the primary objective of the Civil Rights Movement?",
+"Answer choices": ["Promote women's rights", "End World War II", "Abolish slavery", "End legalized racial segregation and discrimination against African Americans"],
+"Answer": "End legalized racial segregation and discrimination against African Americans",
+"Reasoning": "The story indicates that the primary aim of the Civil Rights Movement was to end legalized racial segregation and discrimination against African Americans."
+},
+{
+"Story": "In the 1960s, a powerful social and political campaign known as the Civil Rights Movement emerged in the United States. This movement primarily aimed to end legalized racial segregation and discrimination against African Americans. Leaders like Martin Luther King Jr. and Rosa Parks became symbols of nonviolent resistance, advocating for the civil and economic rights of Blacks. As a result of their efforts and nationwide protests, landmark legislation such as the Civil Rights Act of 1964 and the Voting Rights Act of 1965 was passed. While significant progress was achieved, the movement also laid the foundation for future struggles for justice and equality.",
+"Question": "In which decade did the Civil Rights Movement gain prominence?",
+"Answer choices": ["1970s", "1980s", "1950s", "1960s"],
+"Answer": "1960s",
+"Reasoning": "The story begins by stating that the Civil Rights Movement emerged in the 1960s."
+},
+{
+"Story": "In the 1960s, a powerful social and political campaign known as the Civil Rights Movement emerged in the United States. This movement primarily aimed to end legalized racial segregation and discrimination against African Americans. Leaders like Martin Luther King Jr. and Rosa Parks became symbols of nonviolent resistance, advocating for the civil and economic rights of Blacks. As a result of their efforts and nationwide protests, landmark legislation such as the Civil Rights Act of 1964 and the Voting Rights Act of 1965 was passed. While significant progress was achieved, the movement also laid the foundation for future struggles for justice and equality.",
+"Question": "What did the Civil Rights Movement pave the way for?",
+"Answer choices": ["Future technological advancements", "Future sporting events", "Future struggles for justice and equality", "Future musical festivals"],
+"Answer": "Future struggles for justice and equality",
+"Reasoning": "The story concludes by stating that the movement laid the foundation for future struggles for justice and equality."
+},
+{
+"Story": "In a bustling city named Metropolis, the annual Unity Day Parade was scheduled to commence at Central Square on July 5th and would pass through Liberty Lane, finally ending at the City Park on July 7th. The parade celebrated the city's multiculturalism and attracted tourists from neighboring towns. A side event, the Cultural Food Fair, began a day earlier on July 4th at Harmony Plaza, which was two blocks away from Central Square. By the time the parade reached City Park, an art exhibition showcasing local talents was inaugurated. The entire week saw residents and tourists coming together, indulging in food, art, and the shared joy of unity.",
+"Question": "On which date did the Cultural Food Fair start?",
+"Answer choices": ["July 3rd", "July 5th", "July 4th", "July 6th"],
+"Answer": "July 4th",
+"Reasoning": "The story mentions that the Cultural Food Fair began a day earlier on July 4th at Harmony Plaza."
+},
+{
+"Story": "In a bustling city named Metropolis, the annual Unity Day Parade was scheduled to commence at Central Square on July 5th and would pass through Liberty Lane, finally ending at the City Park on July 7th. The parade celebrated the city's multiculturalism and attracted tourists from neighboring towns. A side event, the Cultural Food Fair, began a day earlier on July 4th at Harmony Plaza, which was two blocks away from Central Square. By the time the parade reached City Park, an art exhibition showcasing local talents was inaugurated. The entire week saw residents and tourists coming together, indulging in food, art, and the shared joy of unity.",
+"Question": "How far was Harmony Plaza from Central Square?",
+"Answer choices": ["Adjacent to it", "Five blocks away", "Two blocks away", "At the opposite end of the city"],
+"Answer": "Two blocks away",
+"Reasoning": "The story specifies that Harmony Plaza was two blocks away from Central Square."
+},
+{
+"Story": "In a bustling city named Metropolis, the annual Unity Day Parade was scheduled to commence at Central Square on July 5th and would pass through Liberty Lane, finally ending at the City Park on July 7th. The parade celebrated the city's multiculturalism and attracted tourists from neighboring towns. A side event, the Cultural Food Fair, began a day earlier on July 4th at Harmony Plaza, which was two blocks away from Central Square. By the time the parade reached City Park, an art exhibition showcasing local talents was inaugurated. The entire week saw residents and tourists coming together, indulging in food, art, and the shared joy of unity.",
+"Question": "Where was the Unity Day Parade scheduled to end?",
+"Answer choices": ["Central Square", "Harmony Plaza", "City Park", "Liberty Lane"],
+"Answer": "City Park",
+"Reasoning": "The story notes that the Unity Day Parade was scheduled to end at the City Park."
+},
+{
+"Story": "In a bustling city named Metropolis, the annual Unity Day Parade was scheduled to commence at Central Square on July 5th and would pass through Liberty Lane, finally ending at the City Park on July 7th. The parade celebrated the city's multiculturalism and attracted tourists from neighboring towns. A side event, the Cultural Food Fair, began a day earlier on July 4th at Harmony Plaza, which was two blocks away from Central Square. By the time the parade reached City Park, an art exhibition showcasing local talents was inaugurated. The entire week saw residents and tourists coming together, indulging in food, art, and the shared joy of unity.",
+"Question": "When the parade was at City Park, what event was taking place?",
+"Answer choices": ["The Unity Day Parade", "Cultural Food Fair", "A sports event", "An art exhibition"],
+"Answer": "An art exhibition",
+"Reasoning": "The story mentions that by the time the parade reached City Park, an art exhibition showcasing local talents was inaugurated."
+},
+{
+"Story": "In a bustling city named Metropolis, the annual Unity Day Parade was scheduled to commence at Central Square on July 5th and would pass through Liberty Lane, finally ending at the City Park on July 7th. The parade celebrated the city's multiculturalism and attracted tourists from neighboring towns. A side event, the Cultural Food Fair, began a day earlier on July 4th at Harmony Plaza, which was two blocks away from Central Square. By the time the parade reached City Park, an art exhibition showcasing local talents was inaugurated. The entire week saw residents and tourists coming together, indulging in food, art, and the shared joy of unity.",
+"Question": "What was the main theme of the Unity Day Parade?",
+"Answer choices": ["Promoting local businesses", "Celebrating the city's multiculturalism", "Marking the city's foundation day", "Promoting a political campaign"],
+"Answer": "Celebrating the city's multiculturalism",
+"Reasoning": "The story mentions that the parade celebrated the city's multiculturalism."
+},
+{
+    "Story": "In the summer of 2005, a community fair was held in the small town of Elmerton, Minnesota. Spread over the course of a week, from July 10th to July 16th, the fair offered an array of games, food stalls, and live performances attracting locals and tourists alike. The highlight of the fair was the annual music concert featuring popular local bands, which took the stage on July 15th. The event ended with a grand fireworks display on the final day. Post-fair, the town council organized a clean-up drive which lasted three days from July 17th to July 20th.",
+    "Question": "Which date did the music concert take place at the community fair?",
+    "Answer choices": ["July 10th", "July 12th", "July 15th", "July 16th"],
+    "Answer": "July 15th",
+    "Reasoning": "The story states that the annual music concert took stage on July 15th."
+},
+{
+    "Story": "In the summer of 2005, a community fair was held in the small town of Elmerton, Minnesota. Spread over the course of a week, from July 10th to July 16th, the fair offered an array of games, food stalls, and live performances attracting locals and tourists alike. The highlight of the fair was the annual music concert featuring popular local bands, which took the stage on July 15th. The event ended with a grand fireworks display on the final day. Post-fair, the town council organized a clean-up drive which lasted three days from July 17th to July 20th.",
+    "Question": "Where was the community fair held?",
+    "Answer choices": ["Elmwood, Michigan", "Elmsville, Montana", "Elmerton, Minnesota", "Elmont, Missouri"],
+    "Answer": "Elmerton, Minnesota",
+    "Reasoning": "The story states that the community fair was held in Elmerton, Minnesota."
+},
+{
+    "Story": "In the summer of 2005, a community fair was held in the small town of Elmerton, Minnesota. Spread over the course of a week, from July 10th to July 16th, the fair offered an array of games, food stalls, and live performances attracting locals and tourists alike. The highlight of the fair was the annual music concert featuring popular local bands, which took the stage on July 15th. The event ended with a grand fireworks display on the final day. Post-fair, the town council organized a clean-up drive which lasted three days from July 17th to July 20th.",
+    "Question": "For how many days did the community fair in Elmerton last?",
+    "Answer choices": ["Three days", "Five days", "A week", "10 days"],
+    "Answer": "A week",
+    "Reasoning": "The story mentions that the community fair was spread over the course of a week, from July 10th to July 16th."
+},
+{
+    "Story": "In the summer of 2005, a community fair was held in the small town of Elmerton, Minnesota. Spread over the course of a week, from July 10th to July 16th, the fair offered an array of games, food stalls, and live performances attracting locals and tourists alike. The highlight of the fair was the annual music concert featuring popular local bands, which took the stage on July 15th. The event ended with a grand fireworks display on the final day. Post-fair, the town council organized a clean-up drive which lasted three days from July 17th to July 20th.",
+    "Question": "When did the clean-up drive post the community fair end?",
+    "Answer choices": ["July 18th", "July 20th", "July 22nd", "July 24th"],
+    "Answer": "July 20th",
+    "Reasoning": "The story states that the clean-up drive post-fair lasted three days from July 17th to July 20th."
+},
+{
+    "Story": "In the summer of 2005, a community fair was held in the small town of Elmerton, Minnesota. Spread over the course of a week, from July 10th to July 16th, the fair offered an array of games, food stalls, and live performances attracting locals and tourists alike. The highlight of the fair was the annual music concert featuring popular local bands, which took the stage on July 15th. The event ended with a grand fireworks display on the final day. Post-fair, the town council organized a clean-up drive which lasted three days from July 17th to July 20th.",
+    "Question": "During which year was the community fair held in Elmerton?",
+    "Answer choices": ["2002", "2005", "2008", "2010"],
+    "Answer": "2005",
+    "Reasoning": "The story states that the community fair was held in the summer of 2005."
+},
+{
+    "Story": "For decades, the annual Independence Day Parade in New York City has been a well-anticipated event. Every July 4th, crowds gather throughout the city, specifically along the Fifth Avenue route, to watch the vibrant extravaganza. The parade features marching bands, floats, and military veterans displaying the American flag. In 2010, however, due to security concerns, the route was shifted from Fifth Avenue to Broadway. The change, while met with initial resistance, eventually became accepted and appreciated by the public.",
+    "Question": "On which day does the annual Independence Day Parade in New York City occur?",
+    "Answer choices": ["July 2nd", "July 3rd", "July 4th", "July 5th"],
+    "Answer": "July 4th",
+    "Reasoning": "The story specifically mentions that the parade occurs every July 4th."
+},
+{
+    "Story": "For decades, the annual Independence Day Parade in New York City has been a well-anticipated event. Every July 4th, crowds gather throughout the city, specifically along the Fifth Avenue route, to watch the vibrant extravaganza. The parade features marching bands, floats, and military veterans displaying the American flag. In 2010, however, due to security concerns, the route was shifted from Fifth Avenue to Broadway. The change, while met with initial resistance, eventually became accepted and appreciated by the public.",
+    "Question": "In which year was the route of the Independence Day Parade in New York City changed?",
+    "Answer choices": ["2008", "2009", "2010", "2011"],
+    "Answer": "2010",
+    "Reasoning": "The story states that the parade route was changed in 2010 due to security concerns."
+},
+{
+    "Story": "For decades, the annual Independence Day Parade in New York City has been a well-anticipated event. Every July 4th, crowds gather throughout the city, specifically along the Fifth Avenue route, to watch the vibrant extravaganza. The parade features marching bands, floats, and military veterans displaying the American flag. In 2010, however, due to security concerns, the route was shifted from Fifth Avenue to Broadway. The change, while met with initial resistance, eventually became accepted and appreciated by the public.",
+    "Question": "What was the main feature of the Independence Day Parade in New York City?",
+    "Answer choices": ["Opera singers", "Fireworks", "Circus performers", "Marching bands, floats, and military veterans"],
+    "Answer": "Marching bands, floats, and military veterans",
+    "Reasoning": "The story explains that the parade features marching bands, floats, and military veterans displaying the American flag."
+},
+{
+    "Story": "For decades, the annual Independence Day Parade in New York City has been a well-anticipated event. Every July 4th, crowds gather throughout the city, specifically along the Fifth Avenue route, to watch the vibrant extravaganza. The parade features marching bands, floats, and military veterans displaying the American flag. In 2010, however, due to security concerns, the route was shifted from Fifth Avenue to Broadway. The change, while met with initial resistance, eventually became accepted and appreciated by the public.",
+    "Question": "What was the initial public response to the change of route for the Independence Day Parade in New York City?",
+    "Answer choices": ["Indifferent", "Overwhelmingly positive", "Resistant", "Relieved"],
+    "Answer": "Resistant",
+    "Reasoning": "The story mentions that the change of route was initially met with resistance by the public."
+},
+{
+    "Story": "For decades, the annual Independence Day Parade in New York City has been a well-anticipated event. Every July 4th, crowds gather throughout the city, specifically along the Fifth Avenue route, to watch the vibrant extravaganza. The parade features marching bands, floats, and military veterans displaying the American flag. In 2010, however, due to security concerns, the route was shifted from Fifth Avenue to Broadway. The change, while met with initial resistance, eventually became accepted and appreciated by the public.",
+    "Question": "What was the original route of the Independence Day Parade in New York City before it was changed in 2010?",
+    "Answer choices": ["Central Park West", "Wall Street", "Fifth Avenue", "Madison Avenue"],
+    "Answer": "Fifth Avenue",
+    "Reasoning": "The story mentions that before the change in 2010, the parade route was along Fifth Avenue."
+}, 
+{
+"Story": "In the bustling city of Rio de Janeiro, Brazil, each year the streets come alive with vibrant colors, samba rhythms, and joyous festivities, all thanks to the world-renowned Rio Carnival. This cultural festival, deeply rooted in the nation's history, usually takes place in February or March, right before Lent. Participants spend months preparing their costumes, floats, and routines, culminating in the Samba Parade, where samba schools compete for the title of the year's best. Visitors from all corners of the globe flock to Rio to be a part of the celebrations, making it one of the most significant tourist attractions in Brazil. Beyond the glitz and glamour, the Carnival also serves as a reminder of Brazil's rich cultural diversity and heritage.",
+"Question": "When does the Rio Carnival usually occur?",
+"Answer choices": ["June or July", "October or November", "February or March", "August or September"],
+"Answer": "February or March",
+"Reasoning": "The story mentions that the Rio Carnival usually takes place in February or March, right before Lent."
+},
+{
+"Story": "In the bustling city of Rio de Janeiro, Brazil, each year the streets come alive with vibrant colors, samba rhythms, and joyous festivities, all thanks to the world-renowned Rio Carnival. This cultural festival, deeply rooted in the nation's history, usually takes place in February or March, right before Lent. Participants spend months preparing their costumes, floats, and routines, culminating in the Samba Parade, where samba schools compete for the title of the year's best. Visitors from all corners of the globe flock to Rio to be a part of the celebrations, making it one of the most significant tourist attractions in Brazil. Beyond the glitz and glamour, the Carnival also serves as a reminder of Brazil's rich cultural diversity and heritage.",
+"Question": "Which event marks the pinnacle of the preparations for the Rio Carnival?",
+"Answer choices": ["Fireworks show", "Samba Parade", "Carnival King and Queen contest", "Masquerade ball"],
+"Answer": "Samba Parade",
+"Reasoning": "The story states that participants' preparations culminate in the Samba Parade, where samba schools compete for the title of the year's best."
+},
+{
+"Story": "In the bustling city of Rio de Janeiro, Brazil, each year the streets come alive with vibrant colors, samba rhythms, and joyous festivities, all thanks to the world-renowned Rio Carnival. This cultural festival, deeply rooted in the nation's history, usually takes place in February or March, right before Lent. Participants spend months preparing their costumes, floats, and routines, culminating in the Samba Parade, where samba schools compete for the title of the year's best. Visitors from all corners of the globe flock to Rio to be a part of the celebrations, making it one of the most significant tourist attractions in Brazil. Beyond the glitz and glamour, the Carnival also serves as a reminder of Brazil's rich cultural diversity and heritage.",
+"Question": "What significance does the Rio Carnival have apart from being a festivity?",
+"Answer choices": ["It promotes Brazil's sports teams", "It's a reminder of Brazil's rich cultural diversity and heritage", "It celebrates the country's political achievements", "It marks the beginning of the harvest season"],
+"Answer": "It's a reminder of Brazil's rich cultural diversity and heritage",
+"Reasoning": "The story notes that beyond the celebrations, the Carnival serves as a reminder of Brazil's rich cultural diversity and heritage."
+},
+{
+"Story": "In the bustling city of Rio de Janeiro, Brazil, each year the streets come alive with vibrant colors, samba rhythms, and joyous festivities, all thanks to the world-renowned Rio Carnival. This cultural festival, deeply rooted in the nation's history, usually takes place in February or March, right before Lent. Participants spend months preparing their costumes, floats, and routines, culminating in the Samba Parade, where samba schools compete for the title of the year's best. Visitors from all corners of the globe flock to Rio to be a part of the celebrations, making it one of the most significant tourist attractions in Brazil. Beyond the glitz and glamour, the Carnival also serves as a reminder of Brazil's rich cultural diversity and heritage.",
+"Question": "Why do visitors from all over the world travel to Rio during the Carnival?",
+"Answer choices": ["To attend business conferences", "To compete in the Samba Parade", "To be a part of the celebrations", "To explore the rainforests of Brazil"],
+"Answer": "To be a part of the celebrations",
+"Reasoning": "The story states that visitors from all corners of the globe flock to Rio to be a part of the Carnival celebrations."
+},
+{
+"Story": "In the bustling city of Rio de Janeiro, Brazil, each year the streets come alive with vibrant colors, samba rhythms, and joyous festivities, all thanks to the world-renowned Rio Carnival. This cultural festival, deeply rooted in the nation's history, usually takes place in February or March, right before Lent. Participants spend months preparing their costumes, floats, and routines, culminating in the Samba Parade, where samba schools compete for the title of the year's best. Visitors from all corners of the globe flock to Rio to be a part of the celebrations, making it one of the most significant tourist attractions in Brazil. Beyond the glitz and glamour, the Carnival also serves as a reminder of Brazil's rich cultural diversity and heritage.",
+"Question": "Which city in Brazil is known for its iconic Carnival?",
+"Answer choices": ["São Paulo", "Brasília", "Salvador", "Rio de Janeiro"],
+"Answer": "Rio de Janeiro",
+"Reasoning": "The story is centered on the Rio Carnival, which takes place in Rio de Janeiro, Brazil."
+},
+{
+"Story": "In the picturesque town of Rivertown, every summer on June 21st, townspeople gather at Meadow Park for the Riverfest celebration. As the name suggests, the Riverfest commemorates the vital role of the Rivertown River, which once served as the primary trade route for the region. Simultaneously, on June 22nd, a boat race is organized starting from the Old Dock near the town center and finishing at the Lighthouse Point. On the final day, June 23rd, a grand feast is held at the historic Town Hall Square. Throughout these events, residents reminisce about the town's rich history, while also engaging in modern festivities and games.",
+"Question": "Where does the boat race finish?",
+"Answer choices": ["Meadow Park", "Old Dock", "Lighthouse Point", "Town Hall Square"],
+"Answer": "Lighthouse Point",
+"Reasoning": "The story specifies that the boat race finishes at the Lighthouse Point."
+},
+{
+"Story": "In the picturesque town of Rivertown, every summer on June 21st, townspeople gather at Meadow Park for the Riverfest celebration. As the name suggests, the Riverfest commemorates the vital role of the Rivertown River, which once served as the primary trade route for the region. Simultaneously, on June 22nd, a boat race is organized starting from the Old Dock near the town center and finishing at the Lighthouse Point. On the final day, June 23rd, a grand feast is held at the historic Town Hall Square. Throughout these events, residents reminisce about the town's rich history, while also engaging in modern festivities and games.",
+"Question": "What is the significance of the Rivertown River to the region?",
+"Answer choices": ["It is a major source of drinking water", "It serves as a recreational spot", "It was a primary trade route", "It's known for its unique fish species"],
+"Answer": "It was a primary trade route",
+"Reasoning": "The story mentions that the Rivertown River once served as the primary trade route for the region."
+},
+{
+"Story": "In the picturesque town of Rivertown, every summer on June 21st, townspeople gather at Meadow Park for the Riverfest celebration. As the name suggests, the Riverfest commemorates the vital role of the Rivertown River, which once served as the primary trade route for the region. Simultaneously, on June 22nd, a boat race is organized starting from the Old Dock near the town center and finishing at the Lighthouse Point. On the final day, June 23rd, a grand feast is held at the historic Town Hall Square. Throughout these events, residents reminisce about the town's rich history, while also engaging in modern festivities and games.",
+"Question": "Where do townspeople gather for the Riverfest celebration?",
+"Answer choices": ["Town Hall Square", "Lighthouse Point", "Old Dock", "Meadow Park"],
+"Answer": "Meadow Park",
+"Reasoning": "The story specifies that townspeople gather at Meadow Park for the Riverfest celebration."
+},
+{
+"Story": "In the picturesque town of Rivertown, every summer on June 21st, townspeople gather at Meadow Park for the Riverfest celebration. As the name suggests, the Riverfest commemorates the vital role of the Rivertown River, which once served as the primary trade route for the region. Simultaneously, on June 22nd, a boat race is organized starting from the Old Dock near the town center and finishing at the Lighthouse Point. On the final day, June 23rd, a grand feast is held at the historic Town Hall Square. Throughout these events, residents reminisce about the town's rich history, while also engaging in modern festivities and games.",
+"Question": "On which date is the grand feast held?",
+"Answer choices": ["June 20th", "June 21st", "June 22nd", "June 23rd"],
+"Answer": "June 23rd",
+"Reasoning": "The story notes that on the final day, June 23rd, a grand feast is held at the historic Town Hall Square."
+},
+{
+"Story": "In the picturesque town of Rivertown, every summer on June 21st, townspeople gather at Meadow Park for the Riverfest celebration. As the name suggests, the Riverfest commemorates the vital role of the Rivertown River, which once served as the primary trade route for the region. Simultaneously, on June 22nd, a boat race is organized starting from the Old Dock near the town center and finishing at the Lighthouse Point. On the final day, June 23rd, a grand feast is held at the historic Town Hall Square. Throughout these events, residents reminisce about the town's rich history, while also engaging in modern festivities and games.",
+"Question": "What is the primary theme of the Riverfest celebration?",
+"Answer choices": ["The beauty of Rivertown", "The modern advancements of the town", "The historic importance of the Rivertown River", "The local cuisine"],
+"Answer": "The historic importance of the Rivertown River",
+"Reasoning": "The story mentions that the Riverfest commemorates the vital role of the Rivertown River, emphasizing its historic significance."
+},
+{
+    "Story": "During the Gilded Age of the late 19th century, New York City was considered a pinnacle of high society. On January 31, 1897, the infamous Bradley-Martin Ball, a lavish masquerade, was held at the newly built Waldorf-Astoria in Manhattan. Elaborate costumes were the expected attire, with the event rumored to have cost upwards of $369,000. The extravagant ball signaled the disparity between the city's elite and growing poverty-stricken immigrant population. This tension eventually led to political reform in New York, shifting the city's course.",
+    "Question": "Which event is likely to have brought attention to social disparity in New York City during the late 19th century?",
+    "Answer choices": ["The Bradley-Martin Ball", "The signing of the Declaration of Independence", "The inaugural ceremony of the Statue of Liberty", "The Great Fire of New York"],
+    "Answer": "The Bradley-Martin Ball",
+    "Reasoning": "The story stated that the Bradley-Martin Ball, due to its extravagance, signaled the disparity between the city's elite and the growing poverty-stricken immigrant population."
+},
+{
+    "Story": "During the Gilded Age of the late 19th century, New York City was considered a pinnacle of high society. On January 31, 1897, the infamous Bradley-Martin Ball, a lavish masquerade, was held at the newly built Waldorf-Astoria in Manhattan. Elaborate costumes were the expected attire, with the event rumored to have cost upwards of $369,000. The extravagant ball signaled the disparity between the city's elite and growing poverty-stricken immigrant population. This tension eventually led to political reform in New York, shifting the city's course.",
+    "Question": "Where in New York City was the Bradley-Martin Ball held?",
+    "Answer choices": ["The Empire State Building", "Central Park", "Time Square", "The Waldorf-Astoria in Manhattan"],
+    "Answer": "The Waldorf-Astoria in Manhattan",
+    "Reasoning": "The story states that the Bradley-Martin Ball was held at the newly built Waldorf-Astoria in Manhattan."
+},
+{
+    "Story": "During the Gilded Age of the late 19th century, New York City was considered a pinnacle of high society. On January 31, 1897, the infamous Bradley-Martin Ball, a lavish masquerade, was held at the newly built Waldorf-Astoria in Manhattan. Elaborate costumes were the expected attire, with the event rumored to have cost upwards of $369,000. The extravagant ball signaled the disparity between the city's elite and growing poverty-stricken immigrant population. This tension eventually led to political reform in New York, shifting the city's course.",
+    "Question": "What was the social impact of the Bradley-Martin Ball?",
+    "Answer choices": ["It promoted equality among the classes", "It caused a depletion of resources", "It highlighted social disparity", "It boosted tourism"],
+    "Answer": "It highlighted social disparity",
+    "Reasoning": "The story states that the Bradley-Martin Ball signaled the disparity between the city's elite and the growing poverty-stricken immigrant population, making the answer 'It highlighted social disparity' correct."
+},
+{
+    "Story": "During the Gilded Age of the late 19th century, New York City was considered a pinnacle of high society. On January 31, 1897, the infamous Bradley-Martin Ball, a lavish masquerade, was held at the newly built Waldorf-Astoria in Manhattan. Elaborate costumes were the expected attire, with the event rumored to have cost upwards of $369,000. The extravagant ball signaled the disparity between the city's elite and growing poverty-stricken immigrant population. This tension eventually led to political reform in New York, shifting the city's course.",
+    "Question": "What was the result of the social tension reflected by events like Bradley-Martin Ball?",
+    "Answer choices": ["Increase in crime rate", "Decrease in city's population", "Political Reform", "Economic Recession"],
+    "Answer": "Political Reform",
+    "Reasoning": "The story mentions that the tension reflected by events like the Bradley-Martin Ball eventually led to political reform in New York, hence the answer 'Political Reform' is correct."
+},
+{
+    "Story": "During the Gilded Age of the late 19th century, New York City was considered a pinnacle of high society. On January 31, 1897, the infamous Bradley-Martin Ball, a lavish masquerade, was held at the newly built Waldorf-Astoria in Manhattan. Elaborate costumes were the expected attire, with the event rumored to have cost upwards of $369,000. The extravagant ball signaled the disparity between the city's elite and growing poverty-stricken immigrant population. This tension eventually led to political reform in New York, shifting the city's course.",
+    "Question": "When was the Bradley-Martin Ball held?",
+    "Answer choices": ["January 31, 1897", "December 25, 1895", "November 27, 1898", "July 4, 1896"],
+    "Answer": "January 31, 1897",
+    "Reasoning": "The story mentions that the Bradley-Martin Ball was held on January 31, 1897."
+},
+{
+"Story": "In the picturesque city of Venice, Italy, every year, the air is filled with excitement and mystery, marking the beginning of the Venice Carnival. This traditional event, dating back to the 12th century, is celebrated for several weeks leading up to Lent. The city's narrow alleys and canals are adorned with individuals wearing elaborate masks and costumes, harkening back to a time when Venetians used the anonymity of masks to ensure freedom and equality in the societal hierarchy. Gondolas transport attendees to grand masquerade balls, and street performers entertain the masses with theatrical displays. The festival concludes with the 'Flight of the Angel,' where an individual, dressed as an angel, descends from the San Marco bell tower, captivating the sea of onlookers below.",
+"Question": "Why did the people of Venice originally wear masks during the Carnival?",
+"Answer choices": ["To impersonate famous celebrities", "To ensure freedom and equality in society", "To honor a local deity", "To ward off evil spirits"],
+"Answer": "To ensure freedom and equality in society",
+"Reasoning": "The story mentions that in the past, Venetians used the anonymity of masks to ensure freedom and equality in the societal hierarchy."
+},
+{
+"Story": "In the picturesque city of Venice, Italy, every year, the air is filled with excitement and mystery, marking the beginning of the Venice Carnival. This traditional event, dating back to the 12th century, is celebrated for several weeks leading up to Lent. The city's narrow alleys and canals are adorned with individuals wearing elaborate masks and costumes, harkening back to a time when Venetians used the anonymity of masks to ensure freedom and equality in the societal hierarchy. Gondolas transport attendees to grand masquerade balls, and street performers entertain the masses with theatrical displays. The festival concludes with the 'Flight of the Angel,' where an individual, dressed as an angel, descends from the San Marco bell tower, captivating the sea of onlookers below.",
+"Question": "How does the Venice Carnival traditionally end?",
+"Answer choices": ["With a large fireworks display", "With a masquerade ball", "With the 'Flight of the Angel'", "With a mask-making competition"],
+"Answer": "With the 'Flight of the Angel'",
+"Reasoning": "The story states that the festival concludes with the 'Flight of the Angel,' where an individual descends from the San Marco bell tower."
+},
+{
+"Story": "In the picturesque city of Venice, Italy, every year, the air is filled with excitement and mystery, marking the beginning of the Venice Carnival. This traditional event, dating back to the 12th century, is celebrated for several weeks leading up to Lent. The city's narrow alleys and canals are adorned with individuals wearing elaborate masks and costumes, harkening back to a time when Venetians used the anonymity of masks to ensure freedom and equality in the societal hierarchy. Gondolas transport attendees to grand masquerade balls, and street performers entertain the masses with theatrical displays. The festival concludes with the 'Flight of the Angel,' where an individual, dressed as an angel, descends from the San Marco bell tower, captivating the sea of onlookers below.",
+"Question": "In which country does the Venice Carnival take place?",
+"Answer choices": ["Spain", "France", "Italy", "Portugal"],
+"Answer": "Italy",
+"Reasoning": "The story mentions that the Venice Carnival takes place in Venice, Italy."
+},
+{
+"Story": "In the picturesque city of Venice, Italy, every year, the air is filled with excitement and mystery, marking the beginning of the Venice Carnival. This traditional event, dating back to the 12th century, is celebrated for several weeks leading up to Lent. The city's narrow alleys and canals are adorned with individuals wearing elaborate masks and costumes, harkening back to a time when Venetians used the anonymity of masks to ensure freedom and equality in the societal hierarchy. Gondolas transport attendees to grand masquerade balls, and street performers entertain the masses with theatrical displays. The festival concludes with the 'Flight of the Angel,' where an individual, dressed as an angel, descends from the San Marco bell tower, captivating the sea of onlookers below.",
+"Question": "Which mode of transport is popularly used during the Venice Carnival to transport attendees to events?",
+"Answer choices": ["Trams", "Bicycles", "Gondolas", "Horse-drawn carriages"],
+"Answer": "Gondolas",
+"Reasoning": "The story notes that gondolas transport attendees to grand masquerade balls during the Venice Carnival."
+},
+{
+"Story": "In the picturesque city of Venice, Italy, every year, the air is filled with excitement and mystery, marking the beginning of the Venice Carnival. This traditional event, dating back to the 12th century, is celebrated for several weeks leading up to Lent. The city's narrow alleys and canals are adorned with individuals wearing elaborate masks and costumes, harkening back to a time when Venetians used the anonymity of masks to ensure freedom and equality in the societal hierarchy. Gondolas transport attendees to grand masquerade balls, and street performers entertain the masses with theatrical displays. The festival concludes with the 'Flight of the Angel,' where an individual, dressed as an angel, descends from the San Marco bell tower, captivating the sea of onlookers below.",
+"Question": "From which specific structure does the individual descend during the 'Flight of the Angel'?",
+"Answer choices": ["Rialto Bridge", "Doge's Palace", "San Marco bell tower", "Ca' d'Oro"],
+"Answer": "San Marco bell tower",
+"Reasoning": "The story states that the 'Flight of the Angel' involves an individual descending from the San Marco bell tower."
+},
+{
+"Story": "In the bustling city of Nova, every winter, a unique festival called the 'Lumina Fest' is celebrated. From December 10th to December 15th, the main streets are adorned with lanterns, emitting a warm glow against the cold backdrop. The Central Plaza hosts the 'Dance of Lights', where performers wield illuminated instruments. This ritual is believed to beckon the spirits of past ancestors to bless the city. While the event retains its traditional essence, recently, a tech exhibition featuring light-based gadgets became a part of the fest, blending the past and the present.",
+"Question": "What new addition has been made to the Lumina Fest recently?",
+"Answer choices": ["Fireworks display", "Tech exhibition featuring light-based gadgets", "Musical concert", "Food stalls"],
+"Answer": "Tech exhibition featuring light-based gadgets",
+"Reasoning": "The story states that recently, a tech exhibition featuring light-based gadgets became a part of the fest."
+},
+{
+"Story": "In the bustling city of Nova, every winter, a unique festival called the 'Lumina Fest' is celebrated. From December 10th to December 15th, the main streets are adorned with lanterns, emitting a warm glow against the cold backdrop. The Central Plaza hosts the 'Dance of Lights', where performers wield illuminated instruments. This ritual is believed to beckon the spirits of past ancestors to bless the city. While the event retains its traditional essence, recently, a tech exhibition featuring light-based gadgets became a part of the fest, blending the past and the present.",
+"Question": "For how many days is the Lumina Fest celebrated?",
+"Answer choices": ["5 days", "6 days", "7 days", "8 days"],
+"Answer": "6 days",
+"Reasoning": "The story mentions that the Lumina Fest is celebrated from December 10th to December 15th, which is 6 days."
+},
+{
+"Story": "In the bustling city of Nova, every winter, a unique festival called the 'Lumina Fest' is celebrated. From December 10th to December 15th, the main streets are adorned with lanterns, emitting a warm glow against the cold backdrop. The Central Plaza hosts the 'Dance of Lights', where performers wield illuminated instruments. This ritual is believed to beckon the spirits of past ancestors to bless the city. While the event retains its traditional essence, recently, a tech exhibition featuring light-based gadgets became a part of the fest, blending the past and the present.",
+"Question": "What is the primary purpose of the 'Dance of Lights' ritual?",
+"Answer choices": ["To provide entertainment", "To attract tourists", "To beckon the spirits of past ancestors", "To celebrate the invention of electricity"],
+"Answer": "To beckon the spirits of past ancestors",
+"Reasoning": "The story notes that the 'Dance of Lights' ritual is believed to beckon the spirits of past ancestors to bless the city."
+},
+{
+"Story": "In the bustling city of Nova, every winter, a unique festival called the 'Lumina Fest' is celebrated. From December 10th to December 15th, the main streets are adorned with lanterns, emitting a warm glow against the cold backdrop. The Central Plaza hosts the 'Dance of Lights', where performers wield illuminated instruments. This ritual is believed to beckon the spirits of past ancestors to bless the city. While the event retains its traditional essence, recently, a tech exhibition featuring light-based gadgets became a part of the fest, blending the past and the present.",
+"Question": "Where is the 'Dance of Lights' held?",
+"Answer choices": ["Main streets", "Central Plaza", "Tech exhibition area", "Outside the city limits"],
+"Answer": "Central Plaza",
+"Reasoning": "The story specifies that the Central Plaza hosts the 'Dance of Lights'."
+},
+{
+"Story": "In the bustling city of Nova, every winter, a unique festival called the 'Lumina Fest' is celebrated. From December 10th to December 15th, the main streets are adorned with lanterns, emitting a warm glow against the cold backdrop. The Central Plaza hosts the 'Dance of Lights', where performers wield illuminated instruments. This ritual is believed to beckon the spirits of past ancestors to bless the city. While the event retains its traditional essence, recently, a tech exhibition featuring light-based gadgets became a part of the fest, blending the past and the present.",
+"Question": "What do the performers wield during the 'Dance of Lights'?",
+"Answer choices": ["Traditional costumes", "Illuminated instruments", "Flags of the city", "Shadow puppets"],
+"Answer": "Illuminated instruments",
+"Reasoning": "The story states that during the 'Dance of Lights', performers wield illuminated instruments."
+},
+{
+    "Story": "In the summer of 1968, a group of civil right protesters gathered in Washington D.C. to advocate for racial equality in America. Over the course of four days, from July 28 to July 31, several speeches were delivered, including Martin Luther King's 'I Have a Dream' speech from the steps of the Lincoln Memorial. Despite the sweltering heat, the crowd remained peaceful and were respectful, inspiring people around the nation. The event made headlines worldwide and contributed to societal changes. It was later remembered in history books as a milestone in the Civil Rights Movement.",
+    "Question": "Where was the civil rights protest held in 1968?",
+    "Answer choices": ["New York City, New York", "Washington D.C.", "Los Angeles, California", "Chicago, Illinois"],
+    "Answer": "Washington D.C.",
+    "Reasoning": "The story states that the civil rights protest took place in Washington D.C."
+},
+{
+    "Story": "In the summer of 1968, a group of civil rights protesters gathered in Washington D.C. to advocate for racial equality in America. Over the course of four days, from July 28 to July 31, several speeches were delivered, including Martin Luther King's 'I Have a Dream' speech from the steps of the Lincoln Memorial. Despite the sweltering heat, the crowd remained peaceful and were respectful, inspiring people around the nation. The event made headlines worldwide and contributed to societal changes. It was later remembered in history books as a milestone in the Civil Rights Movement.",
+    "Question": "During which year were the civil rights protests in Washington D.C.?",
+    "Answer choices": ["1963", "1968", "1955", "1970"],
+    "Answer": "1968",
+    "Reasoning": "The story states that the civil rights protest took place in 1968."
+},
+{
+    "Story": "In the summer of 1968, a group of civil rights protesters gathered in Washington D.C. to advocate for racial equality in America. Over the course of four days, from July 28 to July 31, several speeches were delivered, including Martin Luther King's 'I Have a Dream' speech from the steps of the Lincoln Memorial. Despite the sweltering heat, the crowd remained peaceful and were respectful, inspiring people around the nation. The event made headlines worldwide and contributed to societal changes. It was later remembered in history books as a milestone in the Civil Rights Movement.",
+    "Question": "How many days did the 1968 civil rights protest in Washington D.C. last?",
+    "Answer choices": ["Two days", "Three days", "Four days", "One week"],
+    "Answer": "Four days",
+    "Reasoning": "The story mentions that the civil rights protest lasted for four days, from July 28 to July 31."
+},
+{
+    "Story": "In the summer of 1968, a group of civil rights protesters gathered in Washington D.C. to advocate for racial equality in America. Over the course of four days, from July 28 to July 31, several speeches were delivered, including Martin Luther King's 'I Have a Dream' speech from the steps of the Lincoln Memorial. Despite the sweltering heat, the crowd remained peaceful and were respectful, inspiring people around the nation. The event made headlines worldwide and contributed to societal changes. It was later remembered in history books as a milestone in the Civil Rights Movement.",
+    "Question": "Who gave a notable speech during the 1968 civil rights protest in Washington D.C.?",
+    "Answer choices": ["John F. Kennedy", "Rosa Parks", "Malcolm X", "Martin Luther King"],
+    "Answer": "Martin Luther King",
+    "Reasoning": "The story states that Martin Luther King's 'I Have a Dream' speech was given at the protest."
+},
+{
+    "Story": "In the summer of 1968, a group of civil rights protesters gathered in Washington D.C. to advocate for racial equality in America. Over the course of four days, from July 28 to July 31, several speeches were delivered, including Martin Luther King's 'I Have a Dream' speech from the steps of the Lincoln Memorial. Despite the sweltering heat, the crowd remained peaceful and were respectful, inspiring people around the nation. The event made headlines worldwide and contributed to societal changes. It was later remembered in history books as a milestone in the Civil Rights Movement.",
+    "Question": "What was the general sentiment of the crowd during the 1968 civil rights protest in Washington D.C.?",
+    "Answer choices": ["Aggressive and confrontational", "Peaceful and respectful", "Chaotic and disorderly", "Indifferent and unengaged"],
+    "Answer": "Peaceful and respectful",
+    "Reasoning": "The story notes that, despite the sweltering heat, the crowd remained peaceful and respectful."
+},
+{
+    "Story": "Under an oppressive regime, a large protest movement began to form in the city of Arab Springi in 2010. It began in late December and continued for days, eventually turning into weeks of continuous protests. By February 2011, it had evolved into a full-blown revolution. Despite governmental attempts to subdue the movement through force and propaganda, it continued to gain ground. The demonstrations, strikes, boycotts, and marches led to the eventual downfall of the regime.",
+    "Question": "When did the protest movement evolve into a full revolution?",
+    "Answer choices": ["February 2011", "December 2010", "January 2011", "March 2011"],
+    "Answer": "February 2011",
+    "Reasoning": "The story states that by February 2011, the protest movement had evolved into a full-blown revolution."
+},
+{
+    "Story": "Under an oppressive regime, a large protest movement began to form in the city of Arab Springi in 2010. It began in late December and continued for days, eventually turning into weeks of continuous protests. By February 2011, it had evolved into a full-blown revolution. Despite governmental attempts to subdue the movement through force and propaganda, it continued to gain ground. The demonstrations, strikes, boycotts, and marches led to the eventual downfall of the regime.",
+    "Question": "Where did the protest movement begin?",
+    "Answer choices": ["Beirut, Lebanon", "Cairo, Egypt", "Damascus, Syria", "Arab Springi"],
+    "Answer": "Arab Springi",
+    "Reasoning": "The protest movement first began in Arab Springi, as stated in the story."
+},
+{
+    "Story": "Under an oppressive regime, a large protest movement began to form in the city of Arab Springi in 2010. It began in late December and continued for days, eventually turning into weeks of continuous protests. By February 2011, it had evolved into a full-blown revolution. Despite governmental attempts to subdue the movement through force and propaganda, it continued to gain ground. The demonstrations, strikes, boycotts, and marches led to the eventual downfall of the regime.",
+    "Question": "What methods did the government use to try and subdue the protest movement?",
+    "Answer choices": ["Bribes and incentives", "Spreading propaganda and using force", "Negotiations and peace talks", "Ignored them"],
+    "Answer": "Spreading propaganda and using force",
+    "Reasoning": "The story mentions that the government attempted to subdue the movement through force and propaganda."
+},
+{
+    "Story": "Under an oppressive regime, a large protest movement began to form in the city of Arab Springi in 2010. It began in late December and continued for days, eventually turning into weeks of continuous protests. By February 2011, it had evolved into a full-blown revolution. Despite governmental attempts to subdue the movement through force and propaganda, it continued to gain ground. The demonstrations, strikes, boycotts, and marches led to the eventual downfall of the regime.",
+    "Question": "What resulted from the demonstrations, strikes, boycotts, and marches by the people?",
+    "Answer choices": ["The president resigned", "A new constitution was implemented", "The downfall of the regime", "The ban on political parties was lifted"],
+    "Answer": "The downfall of the regime",
+    "Reasoning": "The story mentions that the continuous protests, including demonstrations, strikes, boycotts, and marches, led to the eventual downfall of the regime."
+},
+{
+    "Story": "Under an oppressive regime, a large protest movement began to form in the city of Arab Springi in 2010. It began in late December and continued for days, eventually turning into weeks of continuous protests. By February 2011, it had evolved into a full-blown revolution. Despite governmental attempts to subdue the movement through force and propaganda, it continued to gain ground. The demonstrations, strikes, boycotts, and marches led to the eventual downfall of the regime.",
+    "Question": "When did the protest movement first begin?",
+    "Answer choices": ["December 2009", "June 2010", "December 2010", "February 2011"],
+    "Answer": "December 2010",
+    "Reasoning": "The story mentions that the protest movement began in late December 2010."
+},
+{
+"Story": "In the early 1800s, amidst the bustling streets of Kyoto, Japan, the Gion Matsuri festival began to gain prominence. Stemming from religious rituals to appease the gods and prevent plagues, this annual event takes place in July and has transformed into a cultural phenomenon. Elegant floats, known as 'yama' and 'hoko', parade through the city, showcasing intricate crafts and designs that capture the essence of ancient Japanese artistry. Residents and visitors alike dress in traditional 'yukata' and enjoy various festive foods, from 'takoyaki' to 'kakigori'. As night falls, the lantern-lit streets create a mesmerizing scene, blending the old with the new in a harmonious celebration.",
+"Question": "What is the primary reason for the origination of the Gion Matsuri festival?",
+"Answer choices": ["To celebrate the emperor's birthday", "To showcase Japanese artistry", "To appease the gods and prevent plagues", "To mark the beginning of the harvest season"],
+"Answer": "To appease the gods and prevent plagues",
+"Reasoning": "The story mentions that the Gion Matsuri festival stemmed from religious rituals to appease the gods and prevent plagues."
+},
+{
+"Story": "In the early 1800s, amidst the bustling streets of Kyoto, Japan, the Gion Matsuri festival began to gain prominence. Stemming from religious rituals to appease the gods and prevent plagues, this annual event takes place in July and has transformed into a cultural phenomenon. Elegant floats, known as 'yama' and 'hoko', parade through the city, showcasing intricate crafts and designs that capture the essence of ancient Japanese artistry. Residents and visitors alike dress in traditional 'yukata' and enjoy various festive foods, from 'takoyaki' to 'kakigori'. As night falls, the lantern-lit streets create a mesmerizing scene, blending the old with the new in a harmonious celebration.",
+"Question": "In which month is the Gion Matsuri festival celebrated?",
+"Answer choices": ["May", "July", "September", "December"],
+"Answer": "July",
+"Reasoning": "The story states that this annual event takes place in July."
+},
+{
+"Story": "In the early 1800s, amidst the bustling streets of Kyoto, Japan, the Gion Matsuri festival began to gain prominence. Stemming from religious rituals to appease the gods and prevent plagues, this annual event takes place in July and has transformed into a cultural phenomenon. Elegant floats, known as 'yama' and 'hoko', parade through the city, showcasing intricate crafts and designs that capture the essence of ancient Japanese artistry. Residents and visitors alike dress in traditional 'yukata' and enjoy various festive foods, from 'takoyaki' to 'kakigori'. As night falls, the lantern-lit streets create a mesmerizing scene, blending the old with the new in a harmonious celebration.",
+"Question": "What type of attire do people usually wear during the festival?",
+"Answer choices": ["Kimono", "Sari", "Hanbok", "Yukata"],
+"Answer": "Yukata",
+"Reasoning": "The story mentions that residents and visitors alike dress in traditional 'yukata' during the festival."
+},
+{
+"Story": "In the early 1800s, amidst the bustling streets of Kyoto, Japan, the Gion Matsuri festival began to gain prominence. Stemming from religious rituals to appease the gods and prevent plagues, this annual event takes place in July and has transformed into a cultural phenomenon. Elegant floats, known as 'yama' and 'hoko', parade through the city, showcasing intricate crafts and designs that capture the essence of ancient Japanese artistry. Residents and visitors alike dress in traditional 'yukata' and enjoy various festive foods, from 'takoyaki' to 'kakigori'. As night falls, the lantern-lit streets create a mesmerizing scene, blending the old with the new in a harmonious celebration.",
+"Question": "Which two types of festive foods are mentioned in the story?",
+"Answer choices": ["Sushi and tempura", "Mochi and dango", "Takoyaki and kakigori", "Udon and ramen"],
+"Answer": "Takoyaki and kakigori",
+"Reasoning": "The story notes that people enjoy various festive foods, including 'takoyaki' and 'kakigori'."
+},
+{
+"Story": "In the early 1800s, amidst the bustling streets of Kyoto, Japan, the Gion Matsuri festival began to gain prominence. Stemming from religious rituals to appease the gods and prevent plagues, this annual event takes place in July and has transformed into a cultural phenomenon. Elegant floats, known as 'yama' and 'hoko', parade through the city, showcasing intricate crafts and designs that capture the essence of ancient Japanese artistry. Residents and visitors alike dress in traditional 'yukata' and enjoy various festive foods, from 'takoyaki' to 'kakigori'. As night falls, the lantern-lit streets create a mesmerizing scene, blending the old with the new in a harmonious celebration.",
+"Question": "What do the streets of Kyoto look like at night during the festival?",
+"Answer choices": ["Illuminated by neon lights", "Dark and quiet", "Lantern-lit", "Adorned with cherry blossoms"],
+"Answer": "Lantern-lit",
+"Reasoning": "The story describes the night scene as lantern-lit streets creating a mesmerizing atmosphere."
+},
+{
+"Story": "In the serene coastal town of Lighthouse Bay, a yearly event known as 'Tidal Tales' takes center stage. Every summer solstice, on June 21st, the townspeople gather at the beachfront. Elders narrate ancient tales of sea monsters, mermaids, and legendary sailors as the waves rhythmically crash in the background. It's said that the event started when a sailor named Captain Merrick returned from an expedition, bringing with him a sea creature's relic. Nowadays, children compete in crafting intricate sand sculptures, inspired by the stories, making it a blend of history and imagination.",
+"Question": "Why did the townspeople originally gather for the 'Tidal Tales'?",
+"Answer choices": ["For a beach party", "To commemorate Captain Merrick's return", "To celebrate the summer solstice", "To have a sandcastle competition"],
+"Answer": "To commemorate Captain Merrick's return",
+"Reasoning": "The story states that the event started when a sailor named Captain Merrick returned from an expedition, bringing with him a sea creature's relic."
+},
+{
+"Story": "In the serene coastal town of Lighthouse Bay, a yearly event known as 'Tidal Tales' takes center stage. Every summer solstice, on June 21st, the townspeople gather at the beachfront. Elders narrate ancient tales of sea monsters, mermaids, and legendary sailors as the waves rhythmically crash in the background. It's said that the event started when a sailor named Captain Merrick returned from an expedition, bringing with him a sea creature's relic. Nowadays, children compete in crafting intricate sand sculptures, inspired by the stories, making it a blend of history and imagination.",
+"Question": "On which date is the 'Tidal Tales' event held?",
+"Answer choices": ["June 1st", "July 21st", "June 21st", "May 21st"],
+"Answer": "June 21st",
+"Reasoning": "The story mentions that the event takes place every summer solstice, on June 21st."
+},
+{
+"Story": "In the serene coastal town of Lighthouse Bay, a yearly event known as 'Tidal Tales' takes center stage. Every summer solstice, on June 21st, the townspeople gather at the beachfront. Elders narrate ancient tales of sea monsters, mermaids, and legendary sailors as the waves rhythmically crash in the background. It's said that the event started when a sailor named Captain Merrick returned from an expedition, bringing with him a sea creature's relic. Nowadays, children compete in crafting intricate sand sculptures, inspired by the stories, making it a blend of history and imagination.",
+"Question": "What do children now do during the 'Tidal Tales' event?",
+"Answer choices": ["Listen to the elder's tales", "Go for a swim", "Compete in crafting intricate sand sculptures", "Search for sea creature relics"],
+"Answer": "Compete in crafting intricate sand sculptures",
+"Reasoning": "The story notes that nowadays, children compete in crafting intricate sand sculptures during the event."
+},
+{
+"Story": "In the serene coastal town of Lighthouse Bay, a yearly event known as 'Tidal Tales' takes center stage. Every summer solstice, on June 21st, the townspeople gather at the beachfront. Elders narrate ancient tales of sea monsters, mermaids, and legendary sailors as the waves rhythmically crash in the background. It's said that the event started when a sailor named Captain Merrick returned from an expedition, bringing with him a sea creature's relic. Nowadays, children compete in crafting intricate sand sculptures, inspired by the stories, making it a blend of history and imagination.",
+"Question": "What can be heard in the background as the elders narrate tales?",
+"Answer choices": ["Birds chirping", "Waves rhythmically crashing", "Children playing", "Music from a nearby fest"],
+"Answer": "Waves rhythmically crashing",
+"Reasoning": "The story specifies that as the elders narrate tales, the waves rhythmically crash in the background."
+},
+{
+"Story": "In the serene coastal town of Lighthouse Bay, a yearly event known as 'Tidal Tales' takes center stage. Every summer solstice, on June 21st, the townspeople gather at the beachfront. Elders narrate ancient tales of sea monsters, mermaids, and legendary sailors as the waves rhythmically crash in the background. It's said that the event started when a sailor named Captain Merrick returned from an expedition, bringing with him a sea creature's relic. Nowadays, children compete in crafting intricate sand sculptures, inspired by the stories, making it a blend of history and imagination.",
+"Question": "Which sailor's return initiated the 'Tidal Tales' event?",
+"Answer choices": ["Captain Jack Sparrow", "Captain Ahab", "Captain Merrick", "Captain Cook"],
+"Answer": "Captain Merrick",
+"Reasoning": "The story states that the event started when a sailor named Captain Merrick returned from an expedition."
+},
+{
+    "Story": "During the dark age conflict in 14th-century Scotland, a local warrior named Robert the Bruce claimed the throne and led his clan to fight against the oppressive English. The battle took place at a location known as Loudoun Hill. After a series of strategic maneuvers, Bruce's forces finally defeated the English on May 10, 1307, marking a significant turning point in the revolt. The victory increased the morale of the Scottish people and inspired them to stand against England. The tale of Robert the Bruce would later be immortalized in literature and films, inspiring future generations", 
+    "Question": "Who was Robert the Bruce fighting against during the 14th-century conflict?", 
+    "Answer choices": ["The French", "The Vikings", "The English", "The Romans"], 
+    "Answer": "The English", 
+    "Reasoning": "The story mentions that Robert the Bruce led his clan to fight against the oppressive English."
+},
+{
+    "Story": "During the dark age conflict in 14th-century Scotland, a local warrior named Robert the Bruce claimed the throne and led his clan to fight against the oppressive English. The battle took place at a location known as Loudoun Hill. After a series of strategic maneuvers, Bruce's forces finally defeated the English on May 10, 1307, marking a significant turning point in the revolt. The victory increased the morale of the Scottish people and inspired them to stand against England. The tale of Robert the Bruce would later be immortalized in literature and films, inspiring future generations",
+    "Question": "Where did the historical battle involving Robert the Bruce take place in 14th-century Scotland?", 
+    "Answer choices": ["Loudoun Hill", "Edinburgh Castle", "The Highlands", "Bannockburn"], 
+    "Answer": "Loudoun Hill", 
+    "Reasoning": "The story mentions that the battle took place at a location known as Loudoun Hill."
+},
+{
+    "Story": "During the dark age conflict in 14th-century Scotland, a local warrior named Robert the Bruce claimed the throne and led his clan to fight against the oppressive English. The battle took place at a location known as Loudoun Hill. After a series of strategic maneuvers, Bruce's forces finally defeated the English on May 10, 1307, marking a significant turning point in the revolt. The victory increased the morale of the Scottish people and inspired them to stand against England. The tale of Robert the Bruce would later be immortalized in literature and films, inspiring future generations", 
+    "Question": "When did the significant battle involving Robert the Bruce occur?", 
+    "Answer choices": ["May 10, 1305", "May 10, 1307", "May 10, 1310", "May 10, 1303"], 
+    "Answer": "May 10, 1307", 
+    "Reasoning": "The story mentions that Bruce's forces finally defeated the English on May 10, 1307."
+},
+{
+    "Story": "During the dark age conflict in 14th-century Scotland, a local warrior named Robert the Bruce claimed the throne and led his clan to fight against the oppressive English. The battle took place at a location known as Loudoun Hill. After a series of strategic maneuvers, Bruce's forces finally defeated the English on May 10, 1307, marking a significant turning point in the revolt. The victory increased the morale of the Scottish people and inspired them to stand against England. The tale of Robert the Bruce would later be immortalized in literature and films, inspiring future generations", 
+    "Question": "What was the impact of Robert the Bruce's victory on the Scottish people?", 
+    "Answer choices": ["It discouraged them", "It terrified them", "It decreased their morale", "It increased their morale"], 
+    "Answer": "It increased their morale", 
+    "Reasoning": "The story mentions that the victory increased the morale of the Scottish people."
+},
+{
+    "Story": "During the dark age conflict in 14th-century Scotland, a local warrior named Robert the Bruce claimed the throne and led his clan to fight against the oppressive English. The battle took place at a location known as Loudoun Hill. After a series of strategic maneuvers, Bruce's forces finally defeated the English on May 10, 1307, marking a significant turning point in the revolt. The victory increased the morale of the Scottish people and inspired them to stand against England. The tale of Robert the Bruce would later be immortalized in literature and films, inspiring future generations", 
+    "Question": "Who was the local warrior that claimed the throne in 14th-century Scotland?", 
+    "Answer choices": ["William Wallace", "Robert the Bruce", "Alexander the Great", "King Arthur"], 
+    "Answer": "Robert the Bruce", 
+    "Reasoning": "The story states that a local warrior named Robert the Bruce claimed the throne during 14th-century Scotland."
+}
+]
