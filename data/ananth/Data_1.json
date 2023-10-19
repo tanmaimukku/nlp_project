@@ -1,352 +1,352 @@
 [
     {
-        "Story": "Lakewood, a tranquil town located amidst hills and a river, was struck by a major earthquake on the morning of the 1st of July. After relentless efforts for one month, they were able to restore the basic infrastructure of the town, including the bridge that fell during the earthquake on August 1st. The town planned to slowly reintroduce daily life activities, but instead, had to face a flood triggered by persistent rainfall on the 10th of August. This unexpected calamity caused the newly constructed town bridge to be swept away, thus splitting Lakewood from nearby cities. Now, it would take several hours longer to reach these cities, similar to how it added two hours to the journey from New York to Boston after stopping in Hartford, Connecticut. Moving further into the year, a wildfire broke out in early October, consuming the mountain area that was still in the process of recovering from the earthquake and flood. Lastly, in December, the freezing winter gusts caused the river to freeze, disrupting Lakewood's fishing industry.",
-        "Question": "Which two disasters hit the town back-to-back within a span of mere 10 days?",
-        "Answer Choices": ["Earthquake and Wildfire", "Flood and Wildfire", "Earthquake and Flood", "Flood and Winter gusts"],
-        "Answer": "Earthquake and Flood",
-        "Reasoning": "The story mentions that the earthquake hit the town on the 1st of July, and within a month by 10th of August, they faced a flood."
+        "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town’s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.",
+        "Question": "When did the earthquake occur?",
+        "Answer Choices": ["1st July","10th August","early October","December"],
+        "Answer": "1st July",
+        "Reasoning": "The story mentions that the earthquake occurred on 1st July."
     },
     {
-        "Story": "Lakewood, a tranquil town located amidst hills and a river, was struck by a major earthquake on the morning of the 1st of July. After relentless efforts for one month, they were able to restore the basic infrastructure of the town, including the bridge that fell during the earthquake on August 1st. The town planned to slowly reintroduce daily life activities, but instead, had to face a flood triggered by persistent rainfall on the 10th of August. This unexpected calamity caused the newly constructed town bridge to be swept away, thus splitting Lakewood from nearby cities. Now, it would take several hours longer to reach these cities, similar to how it added two hours to the journey from New York to Boston after stopping in Hartford, Connecticut. Moving further into the year, a wildfire broke out in early October, consuming the mountain area that was still in the process of recovering from the earthquake and flood. Lastly, in December, the freezing winter gusts caused the river to freeze, disrupting Lakewood's fishing industry.",
-        "Question": "During which month did the town face an obstacle in their fishing business?",
-        "Answer Choices": ["July", "August", "October", "December"],
-        "Answer": "December",
-        "Reasoning": "The story lines specify that the chilling winter gusts that froze the river, which resulted in disruption to the town's fishing industry, occurred in December."
+        "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town’s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.",
+        "Question": "What event caused the town to be disconnected from the nearby cities?",
+        "Answer Choices": ["Devastating earthquake","Incessant rains","Wildfire","Chilling winter winds"],
+        "Answer": "Flood caused by incessant rains",
+        "Reasoning": "The story states that the flood caused by incessant rains swept away the town's newly repaired bridge, disconnecting Lakewood from the nearby cities."
     },
     {
-        "Story": "Lakewood, a tranquil town located amidst hills and a river, was struck by a major earthquake on the morning of the 1st of July. After relentless efforts for one month, they were able to restore the basic infrastructure of the town, including the bridge that fell during the earthquake on August 1st. The town planned to slowly reintroduce daily life activities, but instead, had to face a flood triggered by persistent rainfall on the 10th of August. This unexpected calamity caused the newly constructed town bridge to be swept away, thus splitting Lakewood from nearby cities. Now, it would take several hours longer to reach these cities, similar to how it added two hours to the journey from New York to Boston after stopping in Hartford, Connecticut. Moving further into the year, a wildfire broke out in early October, consuming the mountain area that was still in the process of recovering from the earthquake and flood. Lastly, in December, the freezing winter gusts caused the river to freeze, disrupting Lakewood's fishing industry.",
-        "Question": "What event caused the delay in travel to the nearby cities?",
-        "Answer Choices": ["Earthquake", "Flood", "Wildfire", "Winter gusts"],
-        "Answer": "Flood",
-        "Reasoning": "The story indicates that the flood caused the newly built town bridge to be washed away, thus separating Lakewood from the surrounding cities and causing a delay in travel."
+        "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town’s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.",
+        "Question": "Which event occurred after the earthquake and flood?",
+        "Answer Choices": ["Devastating earthquake","Incessant rains","Wildfire","Chilling winter winds"],
+        "Answer": "Wildfire",
+        "Reasoning": "The story mentions that in early October, a wildfire engulfed the surrounding mountain area, which happened after the earthquake and flood."
     },
     {
-        "Story": "Lakewood, a tranquil town located amidst hills and a river, was struck by a major earthquake on the morning of the 1st of July. After relentless efforts for one month, they were able to restore the basic infrastructure of the town, including the bridge that fell during the earthquake on August 1st. The town planned to slowly reintroduce daily life activities, but instead, had to face a flood triggered by persistent rainfall on the 10th of August. This unexpected calamity caused the newly constructed town bridge to be swept away, thus splitting Lakewood from nearby cities. Now, it would take several hours longer to reach these cities, similar to how it added two hours to the journey from New York to Boston after stopping in Hartford, Connecticut. Moving further into the year, a wildfire broke out in early October, consuming the mountain area that was still in the process of recovering from the earthquake and flood. Lastly, in December, the freezing winter gusts caused the river to freeze, disrupting Lakewood's fishing industry.",
-        "Question": "When was the mountain area affected the second time, and by which disaster?",
-        "Answer Choices": ["In August by Flood", "In October by Wildfire", "In July by Earthquake", "In December by Winter gusts"],
-        "Answer": "In October by Wildfire",
-        "Reasoning": "The mountain area, which was recovering from the earthquake and floods, got engulfed by wildfire in early October."
-    }, 
-    { 
-        "Story": "Lakewood, a tranquil town located amidst hills and a river, was struck by a major earthquake on the morning of the 1st of July. After relentless efforts for one month, they were able to restore the basic infrastructure of the town, including the bridge that fell during the earthquake on August 1st. The town planned to slowly reintroduce daily life activities, but instead, had to face a flood triggered by persistent rainfall on the 10th of August. This unexpected calamity caused the newly constructed town bridge to be swept away, thus splitting Lakewood from nearby cities. Now, it would take several hours longer to reach these cities, similar to how it added two hours to the journey from New York to Boston after stopping in Hartford, Connecticut. Moving further into the year, a wildfire broke out in early October, consuming the mountain area that was still in the process of recovering from the earthquake and flood. Lastly, in December, the freezing winter gusts caused the river to freeze, disrupting Lakewood's fishing industry.",
-        "Question": "Which disaster initially led to the collapse of the bridge?",
-        "Answer Choices": ["Earthquake", "Flood", "Wildfire", "Winter gusts"],
-        "Answer": "Earthquake",
-        "Reasoning": "The story mentions that the bridge was initially destroyed due to the earthquake that struck the town on 1st July."
+        "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town’s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.",
+        "Question": "What happened in December that affected the town's fishing businesses?",
+        "Answer Choices": ["Devastating earthquake","Incessant rains","Wildfire","Chilling winter winds"],
+        "Answer": "Chilling winter winds",
+        "Reasoning": "The story states that the chilling winter winds in December froze the river, which hindered the town's fishing businesses."
     },
     {
-        "Story": "Lakewood, a tranquil town located amidst hills and a river, was struck by a major earthquake on the morning of the 1st of July. After relentless efforts for one month, they were able to restore the basic infrastructure of the town, including the bridge that fell during the earthquake on August 1st. The town planned to slowly reintroduce daily life activities, but instead, had to face a flood triggered by persistent rainfall on the 10th of August. This unexpected calamity caused the newly constructed town bridge to be swept away, thus splitting Lakewood from nearby cities. Now, it would take several hours longer to reach these cities, similar to how it added two hours to the journey from New York to Boston after stopping in Hartford, Connecticut. Moving further into the year, a wildfire broke out in early October, consuming the mountain area that was still in the process of recovering from the earthquake and flood. Lastly, in December, the freezing winter gusts caused the river to freeze, disrupting Lakewood's fishing industry.",
-        "Question": "Which infrastructure was restored only to be destroyed again?",
-        "Answer Choices": ["Roads", "Houses", "Bridge", "Schools"],
-        "Answer": "Bridge",
-        "Reasoning": "In the story, it is mentioned that the bridge was reconstructed after the earthquake only to be swept away again by the flood."
+        "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town’s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.",
+        "Question": "How long did it take for the town to get the basic infrastructure up and running after the earthquake?",
+        "Answer Choices": ["1 month","1 day","3 months","1 week"],
+        "Answer": "1 month",
+        "Reasoning": "The story mentions that after struggling for a month, they could finally manage to get the town's basic infrastructure up and running after the earthquake."
     },
     {
-        "Story": "Lakewood, a tranquil town located amidst hills and a river, was struck by a major earthquake on the morning of the 1st of July. After relentless efforts for one month, they were able to restore the basic infrastructure of the town, including the bridge that fell during the earthquake on August 1st. The town planned to slowly reintroduce daily life activities, but instead, had to face a flood triggered by persistent rainfall on the 10th of August. This unexpected calamity caused the newly constructed town bridge to be swept away, thus splitting Lakewood from nearby cities. Now, it would take several hours longer to reach these cities, similar to how it added two hours to the journey from New York to Boston after stopping in Hartford, Connecticut. Moving further into the year, a wildfire broke out in early October, consuming the mountain area that was still in the process of recovering from the earthquake and flood. Lastly, in December, the freezing winter gusts caused the river to freeze, disrupting Lakewood's fishing industry.",
-        "Question": "What natural barriers surround Lakewood?",
-        "Answer Choices": ["Mountains and a river", "Deserts", "Forest", "Ocean"],
-        "Answer": "Mountains and a river",
-        "Reasoning": "The story mentions Lakewood is located amidst hills and a river."
-    },
-    {
-        "Story": "Lakewood, a tranquil town located amidst hills and a river, was struck by a major earthquake on the morning of the 1st of July. After relentless efforts for one month, they were able to restore the basic infrastructure of the town, including the bridge that fell during the earthquake on August 1st. The town planned to slowly reintroduce daily life activities, but instead, had to face a flood triggered by persistent rainfall on the 10th of August. This unexpected calamity caused the newly constructed town bridge to be swept away, thus splitting Lakewood from nearby cities. Now, it would take several hours longer to reach these cities, similar to how it added two hours to the journey from New York to Boston after stopping in Hartford, Connecticut. Moving further into the year, a wildfire broke out in early October, consuming the mountain area that was still in the process of recovering from the earthquake and flood. Lastly, in December, the freezing winter gusts caused the river to freeze, disrupting Lakewood's fishing industry.",
-        "Question": "What event caused the disruption of the fishing industry in Lakewood?",
-        "Answer Choices": ["Earthquake", "Flood", "Wildfire", "Freezing winter gusts"],
-        "Answer": "Freezing winter gusts",
-        "Reasoning": "The story states that in December, the freezing winter gusts caused the river to freeze, disrupting Lakewood's fishing industry."
-    },
-    {
-        "Story": "Lakewood, a tranquil town located amidst hills and a river, was struck by a major earthquake on the morning of the 1st of July. After relentless efforts for one month, they were able to restore the basic infrastructure of the town, including the bridge that fell during the earthquake on August 1st. The town planned to slowly reintroduce daily life activities, but instead, had to face a flood triggered by persistent rainfall on the 10th of August. This unexpected calamity caused the newly constructed town bridge to be swept away, thus splitting Lakewood from nearby cities. Now, it would take several hours longer to reach these cities, similar to how it added two hours to the journey from New York to Boston after stopping in Hartford, Connecticut. Moving further into the year, a wildfire broke out in early October, consuming the mountain area that was still in the process of recovering from the earthquake and flood. Lastly, in December, the freezing winter gusts caused the river to freeze, disrupting Lakewood's fishing industry.",
-        "Question": "Due to interruption in which area, Lakewood's connection with nearby cities was severed?",
-        "Answer Choices": ["Roads", "Airways", "Bridge", "Railways"],
-        "Answer": "Bridge",
-        "Reasoning": "The flood swept away the newly constructed town bridge, thus splitting Lakewood from nearby cities."
-    },
-    {
-        "Story": "Lakewood, a tranquil town located amidst hills and a river, was struck by a major earthquake on the morning of the 1st of July. After relentless efforts for one month, they were able to restore the basic infrastructure of the town, including the bridge that fell during the earthquake on August 1st. The town planned to slowly reintroduce daily life activities, but instead, had to face a flood triggered by persistent rainfall on the 10th of August. This unexpected calamity caused the newly constructed town bridge to be swept away, thus splitting Lakewood from nearby cities. Now, it would take several hours longer to reach these cities, similar to how it added two hours to the journey from New York to Boston after stopping in Hartford, Connecticut. Moving further into the year, a wildfire broke out in early October, consuming the mountain area that was still in the process of recovering from the earthquake and flood. Lastly, in December, the freezing winter gusts caused the river to freeze, disrupting Lakewood's fishing industry.",
-        "Question": "What happened to the mountain area in early October?",
-        "Answer Choices": ["It was struck by a flood", "There was a landslide", "It was hit by an earthquake", "It was consumed by a wildfire"],
-        "Answer": "It was consumed by a wildfire",
-        "Reasoning": "The story states that in early October, a wildfire broke out, consuming the mountain area."
-    },
-    {
-        "Story": "Pineville, a serene town nestled between lush forests and a placid lake, was rattled by a devastating tornado in the middle of the day on May 15th. After several weeks of intense reconstruction efforts, the town succeeded in rebuilding its critical facilities by the end of June. However, Pineville's period of recovery was abruptly interrupted by a landslide triggered by relentless heavy rainfall on June 23rd. The landslide razed the newly constructed town hospital, severing Pineville's crucial healthcare lifeline. Now, the detour added a few hours to the journey to neighboring towns. As the year progressed, a massive storm hit in August, inflicting further damage on a landscape still recuperating from the earlier tornado and landslide. Capping off the year, an unforeseen early snowstorm in November wreaked havoc on Pineville's modest farming activities.",
-        "Question": "When did the town successfully rebuild its critical facilities after the tornado?",
-        "Answer Choices": ["May 15th", "By the end of June", "June 23rd", "August"],
-        "Answer": "By the end of June",
-        "Reasoning": "The story states that after the tornado in May the town was successful in rebuilding its critical facilities by the end of June."
-    },
-    {
-        "Story": "Pineville, a serene town nestled between lush forests and a placid lake, was rattled by a devastating tornado in the middle of the day on May 15th. After several weeks of intense reconstruction efforts, the town succeeded in rebuilding its critical facilities by the end of June. However, Pineville's period of recovery was abruptly interrupted by a landslide triggered by relentless heavy rainfall on June 23rd. The landslide razed the newly constructed town hospital, severing Pineville's crucial healthcare lifeline. Now, the detour added a few hours to the journey to neighboring towns. As the year progressed, a massive storm hit in August, inflicting further damage on a landscape still recuperating from the earlier tornado and landslide. Capping off the year, an unforeseen early snowstorm in November wreaked havoc on Pineville's modest farming activities.",
-        "Question": "What event abruptly interrupted Pineville's period of recovery?",
-        "Answer Choices": ["Tornado", "Reconstruction of facilities", "Landslide", "Massive storm"],
-        "Answer": "Landslide",
-        "Reasoning": "Pineville's period of recovery after the tornado and the reconstruction of facilities was interrupted by a landslide."
-    },
-    {
-        "Story": "Pineville, a serene town nestled between lush forests and a placid lake, was rattled by a devastating tornado in the middle of the day on May 15th. After several weeks of intense reconstruction efforts, the town succeeded in rebuilding its critical facilities by the end of June. However, Pineville's period of recovery was abruptly interrupted by a landslide triggered by relentless heavy rainfall on June 23rd. The landslide razed the newly constructed town hospital, severing Pineville's crucial healthcare lifeline. Now, the detour added a few hours to the journey to neighboring towns. As the year progressed, a massive storm hit in August, inflicting further damage on a landscape still recuperating from the earlier tornado and landslide. Capping off the year, an unforeseen early snowstorm in November wreaked havoc on Pineville's modest farming activities.",
-        "Question": "When did the landslide occur that razed the newly constructed town hospital?",
-        "Answer Choices": ["May 15th", "June 23rd", "End of June", "August"],
-        "Answer": "June 23rd",
-        "Reasoning": "The story specifically mentions that a landslide occurred on June 23rd, during Pineville's recovery period, and this event razed the newly constructed town hospital."
-    },
-    {
-        "Story": "Pineville, a serene town nestled between lush forests and a placid lake, was rattled by a devastating tornado in the middle of the day on May 15th. After several weeks of intense reconstruction efforts, the town succeeded in rebuilding its critical facilities by the end of June. However, Pineville's period of recovery was abruptly interrupted by a landslide triggered by relentless heavy rainfall on June 23rd. The landslide razed the newly constructed town hospital, severing Pineville's crucial healthcare lifeline. Now, the detour added a few hours to the journey to neighboring towns. As the year progressed, a massive storm hit in August, inflicting further damage on a landscape still recuperating from the earlier tornado and landslide. Capping off the year, an unforeseen early snowstorm in November wreaked havoc on Pineville's modest farming activities.",
-        "Question": "When did the massive storm hit Pineville?",
-        "Answer Choices": ["May 15th", "June 23rd", "End of June", "August"],
-        "Answer": "August",
-        "Reasoning": "The story mentions that as the year progressed, a massive storm hit Pineville in August."
-    },
-    {
-        "Story": "Pineville, a serene town nestled between lush forests and a placid lake, was rattled by a devastating tornado in the middle of the day on May 15th. After several weeks of intense reconstruction efforts, the town succeeded in rebuilding its critical facilities by the end of June. However, Pineville's period of recovery was abruptly interrupted by a landslide triggered by relentless heavy rainfall on June 23rd. The landslide razed the newly constructed town hospital, severing Pineville's crucial healthcare lifeline. Now, the detour added a few hours to the journey to neighboring towns. As the year progressed, a massive storm hit in August, inflicting further damage on a landscape still recuperating from the earlier tornado and landslide. Capping off the year, an unforeseen early snowstorm in November wreaked havoc on Pineville's modest farming activities.",
-        "Question": "When did the early snowstorm occur?",
-        "Answer Choices": ["May 15th", "June 23rd", "August", "November"],
-        "Answer": "November",
-        "Reasoning": "The story states that an unforeseen early snowstorm capped off the year in November."
-    },
-    {
-        "Story": "Pineville, a serene town nestled between lush forests and a placid lake, was rattled by a devastating tornado in the middle of the day on May 15th. After several weeks of intense reconstruction efforts, the town succeeded in rebuilding its critical facilities by the end of June. However, Pineville's period of recovery was abruptly interrupted by a landslide triggered by relentless heavy rainfall on June 23rd. The landslide razed the newly constructed town hospital, severing Pineville's crucial healthcare lifeline. Now, the detour added a few hours to the journey to neighboring towns. As the year progressed, a massive storm hit in August, inflicting further damage on a landscape still recuperating from the earlier tornado and landslide. Capping off the year, an unforeseen early snowstorm in November wreaked havoc on Pineville's modest farming activities.",
-        "Question": "What natural feature surrounds the town of Pineville?",
-        "Answer Choices": ["Mountain ranges", "Lush forests and a placid lake", "Desert", "River Plains"],
-        "Answer": "Lush forests and a placid lake",
-        "Reasoning": "The story says that Pineville is a serene town nestled between lush forests and a placid lake."
-    },
-    {
-        "Story": "Pineville, a serene town nestled between lush forests and a placid lake, was rattled by a devastating tornado in the middle of the day on May 15th. After several weeks of intense reconstruction efforts, the town succeeded in rebuilding its critical facilities by the end of June. However, Pineville's period of recovery was abruptly interrupted by a landslide triggered by relentless heavy rainfall on June 23rd. The landslide razed the newly constructed town hospital, severing Pineville's crucial healthcare lifeline. Now, the detour added a few hours to the journey to neighboring towns. As the year progressed, a massive storm hit in August, inflicting further damage on a landscape still recuperating from the earlier tornado and landslide. Capping off the year, an unforeseen early snowstorm in November wreaked havoc on Pineville's modest farming activities.",
-        "Question": "Which critical facility was destroyed by the landslide?",
-        "Answer Choices": ["Town library", "Town hall", "Town hospital", "Town school"],
-        "Answer": "Town hospital",
-        "Reasoning": "The story mentions that the landslide razed the newly constructed town hospital."
-    },
-    {
-        "Story": "Pineville, a serene town nestled between lush forests and a placid lake, was rattled by a devastating tornado in the middle of the day on May 15th. After several weeks of intense reconstruction efforts, the town succeeded in rebuilding its critical facilities by the end of June. However, Pineville's period of recovery was abruptly interrupted by a landslide triggered by relentless heavy rainfall on June 23rd. The landslide razed the newly constructed town hospital, severing Pineville's crucial healthcare lifeline. Now, the detour added a few hours to the journey to neighboring towns. As the year progressed, a massive storm hit in August, inflicting further damage on a landscape still recuperating from the earlier tornado and landslide. Capping off the year, an unforeseen early snowstorm in November wreaked havoc on Pineville's modest farming activities.",
-        "Question": "What event marked the end of Pineville's recovery period?",
-        "Answer Choices": ["The snowstorm in November", "The tornado in May", "The landslide in June", "The storm in August"],
-        "Answer": "The landslide in June",
-        "Reasoning": "The text says that the period of recovery for Pineville was abruptly interrupted by a landslide that happened in June."
-    },
-    {
-        "Story": "Pineville, a serene town nestled between lush forests and a placid lake, was rattled by a devastating tornado in the middle of the day on May 15th. After several weeks of intense reconstruction efforts, the town succeeded in rebuilding its critical facilities by the end of June. However, Pineville's period of recovery was abruptly interrupted by a landslide triggered by relentless heavy rainfall on June 23rd. The landslide razed the newly constructed town hospital, severing Pineville's crucial healthcare lifeline. Now, the detour added a few hours to the journey to neighboring towns. As the year progressed, a massive storm hit in August, inflicting further damage on a landscape still recuperating from the earlier tornado and landslide. Capping off the year, an unforeseen early snowstorm in November wreaked havoc on Pineville's modest farming activities.",
-        "Question": "Which event caused havoc on Pineville's farming activities?",
-        "Answer Choices": ["The tornado in May", "The storm in August", "The landslide in June", "The early snowstorm in November"],
-        "Answer": "The early snowstorm in November",
-        "Reasoning": "The story mentions that an early snowstorm in November wreaked havoc on Pineville's farming activities."
-    },
-    {
-        "Story": "Pineville, a serene town nestled between lush forests and a placid lake, was rattled by a devastating tornado in the middle of the day on May 15th. After several weeks of intense reconstruction efforts, the town succeeded in rebuilding its critical facilities by the end of June. However, Pineville's period of recovery was abruptly interrupted by a landslide triggered by relentless heavy rainfall on June 23rd. The landslide razed the newly constructed town hospital, severing Pineville's crucial healthcare lifeline. Now, the detour added a few hours to the journey to neighboring towns. As the year progressed, a massive storm hit in August, inflicting further damage on a landscape still recuperating from the earlier tornado and landslide. Capping off the year, an unforeseen early snowstorm in November wreaked havoc on Pineville's modest farming activities.",
-        "Question": "What was the impact of the landslide on the travel time to neighboring towns?",
-        "Answer Choices": ["Reduced the travel time", "No change in travel time", "Added few hours to the journey", "The story does not provide this information"],
-        "Answer": "Added few hours to the journey",
-        "Reasoning": "According to the story, the landslide caused a detour which added a few hours to the journey to neighboring towns."
-    },
-    {
-        "Story": "Westbay, a peaceful coastal hamlet nestled between rugged cliffs and the vast sea, experienced a devastating cyclone on the morning of February 1st. After continuous labor for several weeks, they managed to reinstate the essential infrastructure of the village, including the lighthouse that was damaged in the cyclone by April 1st. The village had aimed to steadily reintroduce daily life activities, but to their dismay, they had to confront an unpredicted sandstorm, fueled by extraordinary desert winds, on the 10th of April. This sudden disaster led to the recently reconstructed village lighthouse being utterly destroyed, thereby separating Westbay from adjacent seaports. Now, it would take extra hours to reach these seaports. Moving further into the year, the intense summer heat in August triggered a severe water shortage, hampering the recovery from the cyclone and sandstorm. Finally, in December, an unexpected hailstorm rolled in, causing the sea waters to freeze over, making a significant blow to Westbay's fishing industry.",
-        "Question": "How long after the reconstruction of the lighthouse after the cyclone did the sandstorm occur?",
-        "Answer Choices": ["1 day", "5 days", "10 days", "15 days"],
-        "Answer": "10 days",
-        "Reasoning": "The lighthouse was reconstructed by April 1st and the sandstorm occurred on April 10th, hence it was a span of 10 days."
-    },
-    {
-        "Story": "Westbay, a peaceful coastal hamlet nestled between rugged cliffs and the vast sea, experienced a devastating cyclone on the morning of February 1st. After continuous labor for several weeks, they managed to reinstate the essential infrastructure of the village, including the lighthouse that was damaged in the cyclone by April 1st. The village had aimed to steadily reintroduce daily life activities, but to their dismay, they had to confront an unpredicted sandstorm, fueled by extraordinary desert winds, on the 10th of April. This sudden disaster led to the recently reconstructed village lighthouse being utterly destroyed, thereby separating Westbay from adjacent seaports. Now, it would take extra hours to reach these seaports. Moving further into the year, the intense summer heat in August triggered a severe water shortage, hampering the recovery from the cyclone and sandstorm. Finally, in December, an unexpected hailstorm rolled in, causing the sea waters to freeze over, making a significant blow to Westbay's fishing industry.",
-        "Question": "When did Westbay experience a severe water shortage?",
-        "Answer Choices": ["February", "April", "August", "December"],
-        "Answer": "August",
-        "Reasoning": "The text mentions that the intense summer heat in August triggered a severe water shortage."
-    },
-    {
-        "Story": "Westbay, a peaceful coastal hamlet nestled between rugged cliffs and the vast sea, experienced a devastating cyclone on the morning of February 1st. After continuous labor for several weeks, they managed to reinstate the essential infrastructure of the village, including the lighthouse that was damaged in the cyclone by April 1st. The village had aimed to steadily reintroduce daily life activities, but to their dismay, they had to confront an unpredicted sandstorm, fueled by extraordinary desert winds, on the 10th of April. This sudden disaster led to the recently reconstructed village lighthouse being utterly destroyed, thereby separating Westbay from adjacent seaports. Now, it would take extra hours to reach these seaports. Moving further into the year, the intense summer heat in August triggered a severe water shortage, hampering the recovery from the cyclone and sandstorm. Finally, in December, an unexpected hailstorm rolled in, causing the sea waters to freeze over, making a significant blow to Westbay's fishing industry.",
-        "Question": "Which event happened last in Westbay according to the story?",
-        "Answer Choices": ["Cyclone", "Sandstorm", "Water shortage", "Hailstorm"],
-        "Answer": "Hailstorm",
-        "Reasoning": "The hailstorm occurred in December which is the latest date mentioned in the text."
-    },
-    {
-        "Story": "Westbay, a peaceful coastal hamlet nestled between rugged cliffs and the vast sea, experienced a devastating cyclone on the morning of February 1st. After continuous labor for several weeks, they managed to reinstate the essential infrastructure of the village, including the lighthouse that was damaged in the cyclone by April 1st. The village had aimed to steadily reintroduce daily life activities, but to their dismay, they had to confront an unpredicted sandstorm, fueled by extraordinary desert winds, on the 10th of April. This sudden disaster led to the recently reconstructed village lighthouse being utterly destroyed, thereby separating Westbay from adjacent seaports. Now, it would take extra hours to reach these seaports. Moving further into the year, the intense summer heat in August triggered a severe water shortage, hampering the recovery from the cyclone and sandstorm. Finally, in December, an unexpected hailstorm rolled in, causing the sea waters to freeze over, making a significant blow to Westbay's fishing industry.",
-        "Question": "How many months after the cyclone did Westbay confront a sandstorm?",
-        "Answer Choices": ["1 month", "2 months", "3 months", "4 months"],
-        "Answer": "2 months",
-        "Reasoning": "The text mentions that the cyclone hit in February and the sandstorm occurred in April, so it's 2 months later."
-    },
-    {
-        "Story": "Westbay, a peaceful coastal hamlet nestled between rugged cliffs and the vast sea, experienced a devastating cyclone on the morning of February 1st. After continuous labor for several weeks, they managed to reinstate the essential infrastructure of the village, including the lighthouse that was damaged in the cyclone by April 1st. The village had aimed to steadily reintroduce daily life activities, but to their dismay, they had to confront an unpredicted sandstorm, fueled by extraordinary desert winds, on the 10th of April. This sudden disaster led to the recently reconstructed village lighthouse being utterly destroyed, thereby separating Westbay from adjacent seaports. Now, it would take extra hours to reach these seaports. Moving further into the year, the intense summer heat in August triggered a severe water shortage, hampering the recovery from the cyclone and sandstorm. Finally, in December, an unexpected hailstorm rolled in, causing the sea waters to freeze over, making a significant blow to Westbay's fishing industry.",
-        "Question": "Between which two disaster events did Westbay experience severe water shortage?",
-        "Answer Choices": ["Cyclone and sandstorm", "Cyclone and hailstorm", "Sandstorm and hailstorm", "Cyclone and water shortage"],
-        "Answer": "Sandstorm and hailstorm",
-        "Reasoning": "The text mentions that after the sandstorm in April, severe water shortage was triggered in August which is before the hailstorm in December."
-    },
-    {
-        "Story": "Westbay, a peaceful coastal hamlet nestled between rugged cliffs and the vast sea, experienced a devastating cyclone on the morning of February 1st. After continuous labor for several weeks, they managed to reinstate the essential infrastructure of the village, including the lighthouse that was damaged in the cyclone by April 1st. The village had aimed to steadily reintroduce daily life activities, but to their dismay, they had to confront an unpredicted sandstorm, fueled by extraordinary desert winds, on the 10th of April. This sudden disaster led to the recently reconstructed village lighthouse being utterly destroyed, thereby separating Westbay from adjacent seaports. Now, it would take extra hours to reach these seaports. Moving further into the year, the intense summer heat in August triggered a severe water shortage, hampering the recovery from the cyclone and sandstorm. Finally, in December, an unexpected hailstorm rolled in, causing the sea waters to freeze over, making a significant blow to Westbay's fishing industry.",
-        "Question": "Between which two geographical features is Westbay located?",
-        "Answer Choices": ["Mountain and Forest", "Desert and Sea", "Rugged cliffs and the Sea", "Valley and River"],
-        "Answer": "Rugged cliffs and the Sea",
-        "Reasoning": "The story explicitly states that Westbay is nestled between rugged cliffs and the sea."
-    },
-    {
-        "Story": "Westbay, a peaceful coastal hamlet nestled between rugged cliffs and the vast sea, experienced a devastating cyclone on the morning of February 1st. After continuous labor for several weeks, they managed to reinstate the essential infrastructure of the village, including the lighthouse that was damaged in the cyclone by April 1st. The village had aimed to steadily reintroduce daily life activities, but to their dismay, they had to confront an unpredicted sandstorm, fueled by extraordinary desert winds, on the 10th of April. This sudden disaster led to the recently reconstructed village lighthouse being utterly destroyed, thereby separating Westbay from adjacent seaports. Now, it would take extra hours to reach these seaports. Moving further into the year, the intense summer heat in August triggered a severe water shortage, hampering the recovery from the cyclone and sandstorm. Finally, in December, an unexpected hailstorm rolled in, causing the sea waters to freeze over, making a significant blow to Westbay's fishing industry.",
-        "Question": "Which essential infrastructure was destroyed by the sandstorm in April?",
-        "Answer Choices": ["Village Bridge", "Local School", "Village Railway Station", "Village Lighthouse"],
-        "Answer": "Village Lighthouse",
-        "Reasoning": "The story talks about the destruction of the village lighthouse by the sandstorm in April."
-    },
-    {
-        "Story": "Westbay, a peaceful coastal hamlet nestled between rugged cliffs and the vast sea, experienced a devastating cyclone on the morning of February 1st. After continuous labor for several weeks, they managed to reinstate the essential infrastructure of the village, including the lighthouse that was damaged in the cyclone by April 1st. The village had aimed to steadily reintroduce daily life activities, but to their dismay, they had to confront an unpredicted sandstorm, fueled by extraordinary desert winds, on the 10th of April. This sudden disaster led to the recently reconstructed village lighthouse being utterly destroyed, thereby separating Westbay from adjacent seaports. Now, it would take extra hours to reach these seaports. Moving further into the year, the intense summer heat in August triggered a severe water shortage, hampering the recovery from the cyclone and sandstorm. Finally, in December, an unexpected hailstorm rolled in, causing the sea waters to freeze over, making a significant blow to Westbay's fishing industry.",
-        "Question": "What was the impact of the lighthouse being destroyed on Westbay's connection to nearby seaports?",
-        "Answer Choices": ["No more ships could reach the seaports", "The seaports closed", "It would take extra hours to reach these seaports", "The seaports were destroyed"],
-        "Answer": "It would take extra hours to reach these seaports",
-        "Reasoning": "The destruction of the lighthouse caused a disruption in the seaports' accessibility, making it take longer to reach them."
-    },
-    {
-        "Story": "Westbay, a peaceful coastal hamlet nestled between rugged cliffs and the vast sea, experienced a devastating cyclone on the morning of February 1st. After continuous labor for several weeks, they managed to reinstate the essential infrastructure of the village, including the lighthouse that was damaged in the cyclone by April 1st. The village had aimed to steadily reintroduce daily life activities, but to their dismay, they had to confront an unpredicted sandstorm, fueled by extraordinary desert winds, on the 10th of April. This sudden disaster led to the recently reconstructed village lighthouse being utterly destroyed, thereby separating Westbay from adjacent seaports. Now, it would take extra hours to reach these seaports. Moving further into the year, the intense summer heat in August triggered a severe water shortage, hampering the recovery from the cyclone and sandstorm. Finally, in December, an unexpected hailstorm rolled in, causing the sea waters to freeze over, making a significant blow to Westbay's fishing industry.",
-        "Question": "What was the consequence of the intense summer heat in Westbay in August?",
-        "Answer Choices": ["The crops were destroyed", "The houses caught fire", "Severe Water Shortage", "An outbreak of diseases"],
-        "Answer": "Severe Water Shortage",
-        "Reasoning": "The intense summer heat in August triggered a severe water shortage in Westbay."
-    },
-    {
-        "Story": "Westbay, a peaceful coastal hamlet nestled between rugged cliffs and the vast sea, experienced a devastating cyclone on the morning of February 1st. After continuous labor for several weeks, they managed to reinstate the essential infrastructure of the village, including the lighthouse that was damaged in the cyclone by April 1st. The village had aimed to steadily reintroduce daily life activities, but to their dismay, they had to confront an unpredicted sandstorm, fueled by extraordinary desert winds, on the 10th of April. This sudden disaster led to the recently reconstructed village lighthouse being utterly destroyed, thereby separating Westbay from adjacent seaports. Now, it would take extra hours to reach these seaports. Moving further into the year, the intense summer heat in August triggered a severe water shortage, hampering the recovery from the cyclone and sandstorm. Finally, in December, an unexpected hailstorm rolled in, causing the sea waters to freeze over, making a significant blow to Westbay's fishing industry.",
-        "Question": "What effect did the hailstorm in December have on Westbay's fishing industry?",
-        "Answer Choices": ["The fish migrated elsewhere", "The boats were destroyed", "The fishing nets were ruined", "The sea waters froze over"],
-        "Answer": "The sea waters froze over",
-        "Reasoning": "The hailstorm in December caused the sea waters to freeze over which directly impacted Westbay's fishing industry."
-    },
-    {
-        "Story": "Coastpeak, a serene town nestled amid towering mountains and a vibrant river, was hit by a severe avalanche on the 5th of February. Post tireless efforts stretching over several months, basic services of the town were reinstated, only to be interrupted by an unexpected rockslide due to persistent seismic activities on April 15th. This unforeseen disaster resulted in the blockade of the freshly cleared mountain path, thus distancing Coastpeak from adjacent regions. Now, it would take numerous extra hours to reach these areas. As the year progressed, a sudden flood caused by torrential rainfall on the 1st of August dealt further blows to the already disturbed landscape. Lastly, come November, premature snowfall added to the city's woes, severely affecting Coastpeak's logging industry.",
-        "Question": "When did the town of Coastpeak face an avalanche?",
-        "Answer Choices": ["5th of February", "1st of August", "April 15th", "November"],
-        "Answer": "5th of February",
-        "Reasoning": "The avalanche event happened in February as mentioned in the story where it says 'severe avalanche on the 5th of February.'"
-    },
-    {
-        "Story": "Coastpeak, a serene town nestled amid towering mountains and a vibrant river, was hit by a severe avalanche on the 5th of February. Post tireless efforts stretching over several months, basic services of the town were reinstated, only to be interrupted by an unexpected rockslide due to persistent seismic activities on April 15th. This unforeseen disaster resulted in the blockade of the freshly cleared mountain path, thus distancing Coastpeak from adjacent regions. Now, it would take numerous extra hours to reach these areas. As the year progressed, a sudden flood caused by torrential rainfall on the 1st of August dealt further blows to the already disturbed landscape. Lastly, come November, premature snowfall added to the city's woes, severely affecting Coastpeak's logging industry.",
-        "Question": "When did the rockslide occur?",
-        "Answer Choices": ["5th of February", "1st of August", "April 15th", "November"],
-        "Answer": "April 15th",
-        "Reasoning": "The story mentions 'an unexpected rockslide due to persistent seismic activities on April 15th.' So, the rockslide happened on this date."
-    },
-    {
-        "Story": "Coastpeak, a serene town nestled amid towering mountains and a vibrant river, was hit by a severe avalanche on the 5th of February. Post tireless efforts stretching over several months, basic services of the town were reinstated, only to be interrupted by an unexpected rockslide due to persistent seismic activities on April 15th. This unforeseen disaster resulted in the blockade of the freshly cleared mountain path, thus distancing Coastpeak from adjacent regions. Now, it would take numerous extra hours to reach these areas. As the year progressed, a sudden flood caused by torrential rainfall on the 1st of August dealt further blows to the already disturbed landscape. Lastly, come November, premature snowfall added to the city's woes, severely affecting Coastpeak's logging industry.",
-        "Question": "When did the town face the flood?",
-        "Answer Choices": ["5th of February", "1st of August", "April 15th", "November"],
-        "Answer": "1st of August",
-        "Reasoning": "In the text, it states 'a sudden flood caused by torrential rainfall on the 1st of August.' This suggests that the flooding event took place in August."
-    },
-    {
-        "Story": "Coastpeak, a serene town nestled amid towering mountains and a vibrant river, was hit by a severe avalanche on the 5th of February. Post tireless efforts stretching over several months, basic services of the town were reinstated, only to be interrupted by an unexpected rockslide due to persistent seismic activities on April 15th. This unforeseen disaster resulted in the blockade of the freshly cleared mountain path, thus distancing Coastpeak from adjacent regions. Now, it would take numerous extra hours to reach these areas. As the year progressed, a sudden flood caused by torrential rainfall on the 1st of August dealt further blows to the already disturbed landscape. Lastly, come November, premature snowfall added to the city's woes, severely affecting Coastpeak's logging industry.",
-        "Question": "What incident happened in November?",
-        "Answer Choices": ["Avalanche", "Rockslide", "Flood", "Premature snowfall"],
-        "Answer": "Premature snowfall",
-        "Reasoning": "The narrative mentions 'Lastly, come November, premature snowfall added to the city's woes.' This shows that the event in November was premature snowfall."
-    },
-    {
-        "Story": "Coastpeak, a serene town nestled amid towering mountains and a vibrant river, was hit by a severe avalanche on the 5th of February. Post tireless efforts stretching over several months, basic services of the town were reinstated, only to be interrupted by an unexpected rockslide due to persistent seismic activities on April 15th. This unforeseen disaster resulted in the blockade of the freshly cleared mountain path, thus distancing Coastpeak from adjacent regions. Now, it would take numerous extra hours to reach these areas. As the year progressed, a sudden flood caused by torrential rainfall on the 1st of August dealt further blows to the already disturbed landscape. Lastly, come November, premature snowfall added to the city's woes, severely affecting Coastpeak's logging industry.",
-        "Question": "How long were there between the avalanche and the rockslide in the story?",
-        "Answer Choices": ["Few days", "Few weeks", "Few months", "One year"],
-        "Answer": "Few months",
-        "Reasoning": "The avalanche happened in February and the rockslide occurred in April, so there were a few months between these two events."
-    },
-    {
-        "Story": "Coastpeak, a serene town nestled amid towering mountains and a vibrant river, was hit by a severe avalanche on the 5th of February. Post tireless efforts stretching over several months, basic services of the town were reinstated, only to be interrupted by an unexpected rockslide due to persistent seismic activities on April 15th. This unforeseen disaster resulted in the blockade of the freshly cleared mountain path, thus distancing Coastpeak from adjacent regions. Now, it would take numerous extra hours to reach these areas. As the year progressed, a sudden flood caused by torrential rainfall on the 1st of August dealt further blows to the already disturbed landscape. Lastly, come November, premature snowfall added to the city's woes, severely affecting Coastpeak's logging industry.",
-        "Question": "Between which two major natural features is Coastpeak located?",
-        "Answer Choices": ["Between a river and a forest", "Between a forest and a desert", "Between mountains and a river", "Between a desert and a river"],
+        "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town’s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.",
+        "Question": "Where is the town of Lakewood situated?",
+        "Answer Choices": ["Between two lakes","Between mountains and a river","On an island","In a desert"],
         "Answer": "Between mountains and a river",
-        "Reasoning": "The story provides information that Coastpeak is nestled between towering mountains and a vibrant river."
+        "Reasoning": "The story mentions that the town is nestled between mountains and a river."
+    },   
+    {
+        "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town’s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.",
+        "Question": "What natural feature was affected by the winter in December?",
+        "Answer Choices": ["Mountain","Bridge","City","River"],
+        "Answer": "River",
+        "Reasoning": "The story mentions that the winter winds in December froze the river."
+    }, 
+    {
+        "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town’s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.",
+        "Question": "What land feature was swept away by the flood in August?",
+        "Answer Choices": ["River","Mountain","City","Bridge"],
+        "Answer": "Bridge",
+        "Reasoning": "According to the story, the flood swept away the town’s newly repaired bridge."
+    },   
+    {
+        "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town’s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.",
+        "Question": "Which area was affected by a wildfire in October?",
+        "Answer Choices": ["Mountain","River","City","Town's bridge"],
+        "Answer": "Mountain",
+        "Reasoning": "The story mentions that a wildfire engulfed the surrounding mountain area in October."
+    }, 
+    {
+        "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town’s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.",
+        "Question": "What was the effect of the flood on the connection between Lakewood and nearby cities?",
+        "Answer Choices": ["It improved the connection","It damaged the roads","It disconnected Lakewood from the cities","It did not affect the connection"],
+        "Answer": "It disconnected Lakewood from the cities",
+        "Reasoning": "The story states that the flood swept away the town’s newly repaired bridge, disconnecting Lakewood to the nearby cities."
     },
     {
-        "Story": "Coastpeak, a serene town nestled amid towering mountains and a vibrant river, was hit by a severe avalanche on the 5th of February. Post tireless efforts stretching over several months, basic services of the town were reinstated, only to be interrupted by an unexpected rockslide due to persistent seismic activities on April 15th. This unforeseen disaster resulted in the blockade of the freshly cleared mountain path, thus distancing Coastpeak from adjacent regions. Now, it would take numerous extra hours to reach these areas. As the year progressed, a sudden flood caused by torrential rainfall on the 1st of August dealt further blows to the already disturbed landscape. Lastly, come November, premature snowfall added to the city's woes, severely affecting Coastpeak's logging industry.",
-        "Question": "What event resulted in Coastpeak's forced isolation from neighboring regions?",
-        "Answer Choices": ["An avalanche", "A rockslide", "A flood", "Premature snowfall"],
-        "Answer": "A rockslide",
-        "Reasoning": "According to the story, the unexpected rockslide resulted in the blockade of the freshly cleared mountain path, thus distancing Coastpeak from adjacent regions."
+        "Story": "The tranquility of Pineville, sandwiched between dense forests and a peaceful lake, was disrupted by a severe tornado at noon on 15th May. After grappling with the ravages for weeks, they finally managed to restore the town's essential facilities, just to confront a landslide caused by continuous heavy rains on 23rd June. The landslide destroyed the town’s newly built hospital, cutting off Pineville's vital healthcare connection. In August, a massive storm further erodes the terrain that was gradually recovering from the tornado and landslide. To top it all off, in November, an unexpected, early snowstorm severely affected the town's small agricultural industries.",
+        "Question": "When did the severe tornado disrupt Pineville?",
+        "Answer Choices": ["15th August", "15th May", "23rd June", "In November"],
+        "Answer": "15th May",
+        "Reasoning": "The start of the story mentions that the severe tornado happened at noon on 15th May."
     },
     {
-        "Story": "Coastpeak, a serene town nestled amid towering mountains and a vibrant river, was hit by a severe avalanche on the 5th of February. Post tireless efforts stretching over several months, basic services of the town were reinstated, only to be interrupted by an unexpected rockslide due to persistent seismic activities on April 15th. This unforeseen disaster resulted in the blockade of the freshly cleared mountain path, thus distancing Coastpeak from adjacent regions. Now, it would take numerous extra hours to reach these areas. As the year progressed, a sudden flood caused by torrential rainfall on the 1st of August dealt further blows to the already disturbed landscape. Lastly, come November, premature snowfall added to the city's woes, severely affecting Coastpeak's logging industry.",
-        "Question": "Which industry suffered significantly due to the premature snowfall in November?",
-        "Answer Choices": ["Mining industry", "Textile industry", "Logging industry", "Fishing industry"],
-        "Answer": "Logging industry",
-        "Reasoning": "The text states that the premature snowfall in November severely affected Coastpeak's logging industry."
+        "Story": "The tranquility of Pineville, sandwiched between dense forests and a peaceful lake, was disrupted by a severe tornado at noon on 15th May. After grappling with the ravages for weeks, they finally managed to restore the town's essential facilities, just to confront a landslide caused by continuous heavy rains on 23rd June. The landslide destroyed the town’s newly built hospital, cutting off Pineville's vital healthcare connection. In August, a massive storm further erodes the terrain that was gradually recovering from the tornado and landslide. To top it all off, in November, an unexpected, early snowstorm severely affected the town's small agricultural industries.",
+        "Question": "When did the landslide that destroyed the town's hospital occur?",
+        "Answer Choices": ["15th May", "23rd June", "In August", "In November"],
+        "Answer": "23rd June",
+        "Reasoning": "The story stated that there was a landslide due to continuous heavy rains on 23rd June that destroyed the hospital."
     },
     {
-        "Story": "Coastpeak, a serene town nestled amid towering mountains and a vibrant river, was hit by a severe avalanche on the 5th of February. Post tireless efforts stretching over several months, basic services of the town were reinstated, only to be interrupted by an unexpected rockslide due to persistent seismic activities on April 15th. This unforeseen disaster resulted in the blockade of the freshly cleared mountain path, thus distancing Coastpeak from adjacent regions. Now, it would take numerous extra hours to reach these areas. As the year progressed, a sudden flood caused by torrential rainfall on the 1st of August dealt further blows to the already disturbed landscape. Lastly, come November, premature snowfall added to the city's woes, severely affecting Coastpeak's logging industry.",
-        "Question": "Due to which incident was the freshly cleared mountain path blocked?",
-        "Answer Choices": ["A severe avalanche", "An unexpected rockslide", "A sudden flood", "Premature snowfall"],
-        "Answer": "An unexpected rockslide",
-        "Reasoning": "It is mentioned in the passage that an unexpected rockslide resulted in the blockade of freshly cleared mountain path."
+        "Story": "The tranquility of Pineville, sandwiched between dense forests and a peaceful lake, was disrupted by a severe tornado at noon on 15th May. After grappling with the ravages for weeks, they finally managed to restore the town's essential facilities, just to confront a landslide caused by continuous heavy rains on 23rd June. The landslide destroyed the town’s newly built hospital, cutting off Pineville's vital healthcare connection. In August, a massive storm further erodes the terrain that was gradually recovering from the tornado and landslide. To top it all off, in November, an unexpected, early snowstorm severely affected the town's small agricultural industries.",
+        "Question": "In what month did the terrain suffer further erosion from a massive storm?",
+        "Answer Choices": ["May", "June", "August", "November"],
+        "Answer": "August",
+        "Reasoning": "The story mentions a massive storm in August that further eroded the terrain."
     },
     {
-        "Story": "Coastpeak, a serene town nestled amid towering mountains and a vibrant river, was hit by a severe avalanche on the 5th of February. Post tireless efforts stretching over several months, basic services of the town were reinstated, only to be interrupted by an unexpected rockslide due to persistent seismic activities on April 15th. This unforeseen disaster resulted in the blockade of the freshly cleared mountain path, thus distancing Coastpeak from adjacent regions. Now, it would take numerous extra hours to reach these areas. As the year progressed, a sudden flood caused by torrential rainfall on the 1st of August dealt further blows to the already disturbed landscape. Lastly, come November, premature snowfall added to the city's woes, severely affecting Coastpeak's logging industry.",
-        "Question": "What caused further damage to the already disrupted landscape after the avalanche and rockslide?",
-        "Answer Choices": ["A sandstorm", "An earthquake", "A sudden flood", "A forest fire"],
-        "Answer": "A sudden flood",
-        "Reasoning": "As per the text, a sudden flood caused by torrential rainfall on the 1st of August brought further damage to the already disturbed landscape of Coastpeak."   
+        "Story": "The tranquility of Pineville, sandwiched between dense forests and a peaceful lake, was disrupted by a severe tornado at noon on 15th May. After grappling with the ravages for weeks, they finally managed to restore the town's essential facilities, just to confront a landslide caused by continuous heavy rains on 23rd June. The landslide destroyed the town’s newly built hospital, cutting off Pineville's vital healthcare connection. In August, a massive storm further erodes the terrain that was gradually recovering from the tornado and landslide. To top it all off, in November, an unexpected, early snowstorm severely affected the town's small agricultural industries.",
+        "Question": "When did the town face an unexpected snowstorm?",
+        "Answer Choices": ["15th May", "23rd June", "In August", "In November"],
+        "Answer": "In November",
+        "Reasoning": "The story mentions an unexpected, early snowstorm severely affected the town in November."
     },
     {
-        "Story": "Situated within the bountiful hills and a vast body of water, the serene town of Maplebend was suddenly hit by a massive earthquake on January 20th. A month of tireless efforts resulted in the restoration of the town's essential infrastructure, but the repaired roads were severely damaged again by an intense forest fire that raged on the 1st of July due to the sweltering heat of summer. The access to larger cities around Maplebend was substantially diminished due to the fires. Progressing into the year, a locust infestation took over the terrain in September, further destroying the greenery which was barely healing from the previous disasters. Lastly, a combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector.",
-        "Question": "How much time elapsed between the earthquake and the forest fire?",
-        "Answer Choices": ["5 months", "6 months", "7 months", "8 months"],
-        "Answer": "6 months",
-        "Reasoning": "The earthquake occurred on January 20th and the forest fire raged on the 1st of July, so there is a 6-month difference between the two events."
+        "Story": "The tranquility of Pineville, sandwiched between dense forests and a peaceful lake, was disrupted by a severe tornado at noon on 15th May. After grappling with the ravages for weeks, they finally managed to restore the town's essential facilities, just to confront a landslide caused by continuous heavy rains on 23rd June. The landslide destroyed the town’s newly built hospital, cutting off Pineville's vital healthcare connection. In August, a massive storm further erodes the terrain that was gradually recovering from the tornado and landslide. To top it all off, in November, an unexpected, early snowstorm severely affected the town's small agricultural industries.",
+        "Question": "When were the town's essential facilities restored?",
+        "Answer Choices": ["Before 23rd June", "After 23rd June", "In August", "In November"],
+        "Answer": "Before 23rd June",
+        "Reasoning": "The story specifies after grappling with the ravages for weeks from 15th May, they managed to restore the town's facilities, and after the restoration, they faced a landslide on 23rd June."
     },
     {
-        "Story": "Situated within the bountiful hills and a vast body of water, the serene town of Maplebend was suddenly hit by a massive earthquake on January 20th. A month of tireless efforts resulted in the restoration of the town's essential infrastructure, but the repaired roads were severely damaged again by an intense forest fire that raged on the 1st of July due to the sweltering heat of summer. The access to larger cities around Maplebend was substantially diminished due to the fires. Progressing into the year, a locust infestation took over the terrain in September, further destroying the greenery which was barely healing from the previous disasters. Lastly, a combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector.",
-        "Question": "What was the third disaster that hit the town in the year?",
-        "Answer Choices": ["Forest fire", "Locust infestation", "Earthquake", "Freezing rain and dense snow"],
-        "Answer": "Locust infestation",
-        "Reasoning": "Based on the sequence of events in the story, the first disaster was the earthquake in January, followed by the forest fire in July, and then the locust infestation in September, which makes it the third disaster."
+        "Story": "The tranquility of Pineville, sandwiched between dense forests and a peaceful lake, was disrupted by a severe tornado at noon on 15th May. After grappling with the ravages for weeks, they finally managed to restore the town's essential facilities, just to confront a landslide caused by continuous heavy rains on 23rd June. The landslide destroyed the town’s newly built hospital, cutting off Pineville's vital healthcare connection. In August, a massive storm further erodes the terrain that was gradually recovering from the tornado and landslide. To top it all off, in November, an unexpected, early snowstorm severely affected the town's small agricultural industries.",
+        "Question": "Where is Pineville located?",
+        "Answer Choices": ["Between a mountain and a river", "Between a lake and a dense forest", "Between two dense forests", "On an island"],
+        "Answer": "Between a lake and a dense forest",
+        "Reasoning": "The story mentions that Pineville is sandwiched between dense forests and a peaceful lake."
     },
     {
-        "Story": "Situated within the bountiful hills and a vast body of water, the serene town of Maplebend was suddenly hit by a massive earthquake on January 20th. A month of tireless efforts resulted in the restoration of the town's essential infrastructure, but the repaired roads were severely damaged again by an intense forest fire that raged on the 1st of July due to the sweltering heat of summer. The access to larger cities around Maplebend was substantially diminished due to the fires. Progressing into the year, a locust infestation took over the terrain in September, further destroying the greenery which was barely healing from the previous disasters. Lastly, a combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector.",
-        "Question": "When did the last disaster specified in the story occur?",
-        "Answer Choices": ["July", "September", "November", "January"],
-        "Answer": "November",
-        "Reasoning": "The last disaster mentioned in the narrative is a combination of freezing rain and dense snow, which occurred in November according to the story."
+        "Story": "The tranquility of Pineville, sandwiched between dense forests and a peaceful lake, was disrupted by a severe tornado at noon on 15th May. After grappling with the ravages for weeks, they finally managed to restore the town's essential facilities, just to confront a landslide caused by continuous heavy rains on 23rd June. The landslide destroyed the town’s newly built hospital, cutting off Pineville's vital healthcare connection. In August, a massive storm further erodes the terrain that was gradually recovering from the tornado and landslide. To top it all off, in November, an unexpected, early snowstorm severely affected the town's small agricultural industries.",
+        "Question": "Which event adversely affected the town's small agricultural industries?",
+        "Answer Choices": ["Tornado", "Landslide", "Storm", "Snowstorm"],
+        "Answer": "Snowstorm",
+        "Reasoning": "The story mentions that an early snowstorm in November severely affected the town's small agricultural industries."
     },
     {
-        "Story": "Situated within the bountiful hills and a vast body of water, the serene town of Maplebend was suddenly hit by a massive earthquake on January 20th. A month of tireless efforts resulted in the restoration of the town's essential infrastructure, but the repaired roads were severely damaged again by an intense forest fire that raged on the 1st of July due to the sweltering heat of summer. The access to larger cities around Maplebend was substantially diminished due to the fires. Progressing into the year, a locust infestation took over the terrain in September, further destroying the greenery which was barely healing from the previous disasters. Lastly, a combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector.",
-        "Question": "How many months were there between the forest fire and the locust infestation?",
-        "Answer Choices": ["1 month", "2 months", "3 months", "4 months"],
-        "Answer": "2 months",
-        "Reasoning": "The forest fire occurred on the 1st of July, and the locust infestation took place in September. Therefore, there is a 2-month gap between these two disasters."
+        "Story": "The tranquility of Pineville, sandwiched between dense forests and a peaceful lake, was disrupted by a severe tornado at noon on 15th May. After grappling with the ravages for weeks, they finally managed to restore the town's essential facilities, just to confront a landslide caused by continuous heavy rains on 23rd June. The landslide destroyed the town’s newly built hospital, cutting off Pineville's vital healthcare connection. In August, a massive storm further erodes the terrain that was gradually recovering from the tornado and landslide. To top it all off, in November, an unexpected, early snowstorm severely affected the town's small agricultural industries.",
+        "Question": "What is located on either side of Pineville?",
+        "Answer Choices": ["Desert and River", "Mountain and Sea", "Forest and Lake", "Ocean and Hills"],
+        "Answer": "Forest and Lake",
+        "Reasoning": "The story mentions that Pineville is sandwiched between dense forests and a peaceful lake."
     },
     {
-        "Story": "Situated within the bountiful hills and a vast body of water, the serene town of Maplebend was suddenly hit by a massive earthquake on January 20th. A month of tireless efforts resulted in the restoration of the town's essential infrastructure, but the repaired roads were severely damaged again by an intense forest fire that raged on the 1st of July due to the sweltering heat of summer. The access to larger cities around Maplebend was substantially diminished due to the fires. Progressing into the year, a locust infestation took over the terrain in September, further destroying the greenery which was barely healing from the previous disasters. Lastly, a combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector.",
-        "Question": "When were the roads of the town damaged for the second time?",
-        "Answer Choices": ["January", "July", "September", "November"],
+        "Story": "The tranquility of Pineville, sandwiched between dense forests and a peaceful lake, was disrupted by a severe tornado at noon on 15th May. After grappling with the ravages for weeks, they finally managed to restore the town's essential facilities, just to confront a landslide caused by continuous heavy rains on 23rd June. The landslide destroyed the town’s newly built hospital, cutting off Pineville's vital healthcare connection. In August, a massive storm further erodes the terrain that was gradually recovering from the tornado and landslide. To top it all off, in November, an unexpected, early snowstorm severely affected the town's small agricultural industries.",
+        "Question": "What did the landslide destroy in Pineville?",
+        "Answer Choices": ["The School", "The Power Station", "The Hospital", "The Fire Station"],
+        "Answer": "The Hospital",
+        "Reasoning": "The story states that the landslide destroyed the town’s newly built hospital."
+    },
+    {
+        "Story": "The tranquility of Pineville, sandwiched between dense forests and a peaceful lake, was disrupted by a severe tornado at noon on 15th May. After grappling with the ravages for weeks, they finally managed to restore the town's essential facilities, just to confront a landslide caused by continuous heavy rains on 23rd June. The landslide destroyed the town’s newly built hospital, cutting off Pineville's vital healthcare connection. In August, a massive storm further erodes the terrain that was gradually recovering from the tornado and landslide. To top it all off, in November, an unexpected, early snowstorm severely affected the town's small agricultural industries.",
+        "Question": "Which industry was severely affected by the early snowstorm in November?",
+        "Answer Choices": ["Transportation industry", "Tourism industry", "Manufacturing industry", "Agricultural industry"],
+        "Answer": "Agricultural industry",
+        "Reasoning": "According to the story, an early snowstorm in November severely affected the town's small agricultural industries."
+    },
+    {
+        "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village’s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.",
+        "Question": "When did the cyclone hit the village of Westbay?",
+        "Answer Choices": ["1st of February","10th of April","December","August"],
+        "Answer": "1st of February",
+        "Reasoning": "The text states, 'Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February.' So, the cyclone hit the Westbay village on the 1st of February."
+    }, 
+    {
+        "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village’s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.",
+        "Question": "In which month did the sandstorm occur?",
+        "Answer Choices": ["1st of February","10th of April","December","August"],
+        "Answer": "10th of April",
+        "Reasoning": "The text states 'only to face a sandstorm induced by abnormal desert winds on 10th April.' So, the sandstorm took place in the month of April."
+    },   
+    {
+        "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village’s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.",
+        "Question": "When did the water shortage happen?",
+        "Answer Choices": ["1st of February","10th of April","December","August"],
+        "Answer": "August",
+        "Reasoning": "The text states 'Following in August, high summer temperatures caused serious water shortage.' Therefore, the water shortage happened in August."
+    }, 
+    {
+        "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village’s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.",
+        "Question": "In which month did the hailstorm strike?",
+        "Answer Choices": ["1st of February","10th of April","December","August"],
+        "Answer": "December",
+        "Reasoning": "The text states 'In December, a sudden hailstorm hit the region.' So, the hailstorm hit the village in December."
+    }, 
+    {
+        "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village’s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.",
+        "Question": "When was the village's central amenities reestablished?",
+        "Answer Choices": ["Before 10th of April","Before August","Before December","After December"],
+        "Answer": "Before 10th of April",
+        "Reasoning": "The story says 'only to face a sandstorm induced by abnormal desert winds on 10th April.' This sentence comes after mentioning that they managed to reestablish the village's central amenities. So, they managed to reestablish the village's central amenities before the sandstorm hit, which was on the 10th of April."
+    },
+    {
+        "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village’s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.",
+        "Question": "What is Westbay's geographical location?",
+        "Answer Choices": ["At the base of a mountain","In a desert","Between cliffs and the ocean","Inland, far from the ocean"],
+        "Answer": "Between cliffs and the ocean",
+        "Reasoning": "The story mentions that the village Westbay is located between cliffs and the ocean."
+    },   
+    {
+        "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village’s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.",
+        "Question": "What result did the sandstorm have on Westbay?",
+        "Answer Choices": ["It ruined the local school","It destroyed the village’s newly rebuilt lighthouse","It leveled the villagers homes","It destroyed the farming industry"],
+        "Answer": "It destroyed the village’s newly rebuilt lighthouse",
+        "Reasoning": "The story outlines that the sandstorm ruined the village's newly rebuilt lighthouse."
+    },    
+    {
+        "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village’s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.",
+        "Question": "What was the consequence of the lighthouse's destruction?",
+        "Answer Choices": ["It isolated Westbay from the nearby desert","It isolated Westbay from the nearby mountain","It isolated Westbay from nearby seaports","It isolated Westbay from nearby cities"],
+        "Answer": "It isolated Westbay from nearby seaports",
+        "Reasoning": "According to the story, after the lighthouse was ruined, it isolated Westbay from nearby seaports."
+    }, 
+    {
+        "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village’s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.",
+        "Question": "What season of the year was it when Westbay faced high temperatures and water shortages?",
+        "Answer Choices": ["Spring","Summer","Autumn","Winter"],
+        "Answer": "Summer",
+        "Reasoning": "The story indicates that it was during the high summer temperatures that caused serious water shortage in Westbay."
+    },   
+    {
+        "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village’s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.",
+        "Question": "Which industry was affected by the hailstorm in December?",
+        "Answer Choices": ["The logging industry","The farming industry","The fishing industry","The coal mining industry"],
+        "Answer": "The fishing industry",
+        "Reasoning": "The story mentions that a sudden hailstorm in December caused damage to the fishing industry."
+    },
+    {
+        "Story": "The small mountain town of Coastpeak, located between steep mountains and a roaring river, faced a major avalanche on 5th February. After months of restorative work, they managed to get the town's essential services functioning again, but then faced an unexpected rockslide from continuous seismic activity on 15th April. The rockslide blocked the town’s newly cleared mountain pass, further isolating Coastpeak from neighboring regions. In August, a flash flood caused by heavy rain brought more devastation to the recovering landscape. In November, early snow further hampered the town's logging industry.",
+        "Question": "When did the town face a major avalanche?",
+        "Answer Choices": ["5th February", "15th April", "In August", "In November"],
+        "Answer": "5th February",
+        "Reasoning": "The story mentions that the town faced a major avalanche on 5th February."
+    },
+    {
+        "Story": "The small mountain town of Coastpeak, located between steep mountains and a roaring river, faced a major avalanche on 5th February. After months of restorative work, they managed to get the town's essential services functioning again, but then faced an unexpected rockslide from continuous seismic activity on 15th April. The rockslide blocked the town’s newly cleared mountain pass, further isolating Coastpeak from neighboring regions. In August, a flash flood caused by heavy rain brought more devastation to the recovering landscape. In November, early snow further hampered the town's logging industry.",
+        "Question": "When did the unexpected rockslide occur?",
+        "Answer Choices": ["5th February", "15th April", "In August", "In November"],
+        "Answer": "15th April",
+        "Reasoning": "The story mentions that the rockslide occurred on 15th April."
+    },
+    {
+        "Story": "The small mountain town of Coastpeak, located between steep mountains and a roaring river, faced a major avalanche on 5th February. After months of restorative work, they managed to get the town's essential services functioning again, but then faced an unexpected rockslide from continuous seismic activity on 15th April. The rockslide blocked the town’s newly cleared mountain pass, further isolating Coastpeak from neighboring regions. In August, a flash flood caused by heavy rain brought more devastation to the recovering landscape. In November, early snow further hampered the town's logging industry.",
+        "Question": "In what month did the flood occur?",
+        "Answer Choices": ["February", "April", "August", "November"],
+        "Answer": "August",
+        "Reasoning": "The story mentions a flash flood occurring in August."
+    },
+    {
+        "Story": "The small mountain town of Coastpeak, located between steep mountains and a roaring river, faced a major avalanche on 5th February. After months of restorative work, they managed to get the town's essential services functioning again, but then faced an unexpected rockslide from continuous seismic activity on 15th April. The rockslide blocked the town’s newly cleared mountain pass, further isolating Coastpeak from neighboring regions. In August, a flash flood caused by heavy rain brought more devastation to the recovering landscape. In November, early snow further hampered the town's logging industry.",
+        "Question": "When did the early snowfall occur that hampered the town's logging industry?",
+        "Answer Choices": ["5th February", "15th April", "In August", "In November"],
+        "Answer": "In November",
+        "Reasoning": "The story mentions that early snowfall, which hampered the town's logging industry, occurred in November."
+    },
+    {
+        "Story": "The small mountain town of Coastpeak, located between steep mountains and a roaring river, faced a major avalanche on 5th February. After months of restorative work, they managed to get the town's essential services functioning again, but then faced an unexpected rockslide from continuous seismic activity on 15th April. The rockslide blocked the town’s newly cleared mountain pass, further isolating Coastpeak from neighboring regions. In August, a flash flood caused by heavy rain brought more devastation to the recovering landscape. In November, early snow further hampered the town's logging industry.",
+        "Question": "When did the town manage to get its essential services functioning again?",
+        "Answer Choices": ["Just after 5th February", "Just before 15th April", "In August", "In November"],
+        "Answer": "Just before 15th April",
+        "Reasoning": "The story mentions that the town faced a rockslide on 15th April after restoring its services, so they must have got their services working again just before this date."
+    },
+    {
+        "Story": "The small mountain town of Coastpeak, located between steep mountains and a roaring river, faced a major avalanche on 5th February. After months of restorative work, they managed to get the town's essential services functioning again, but then faced an unexpected rockslide from continuous seismic activity on 15th April. The rockslide blocked the town’s newly cleared mountain pass, further isolating Coastpeak from neighboring regions. In August, a flash flood caused by heavy rain brought more devastation to the recovering landscape. In November, early snow further hampered the town's logging industry.",
+        "Question": "Where is the town of Coastpeak located?",
+        "Answer Choices": ["Beside a lake", "Between steep mountains and a roaring river", "In a forest region", "In a coastal region"],
+        "Answer": "Between steep mountains and a roaring river",
+        "Reasoning": "The story directly mentions that the town of Coastpeak is located between steep mountains and a roaring river."
+    },
+    {
+        "Story": "The small mountain town of Coastpeak, located between steep mountains and a roaring river, faced a major avalanche on 5th February. After months of restorative work, they managed to get the town's essential services functioning again, but then faced an unexpected rockslide from continuous seismic activity on 15th April. The rockslide blocked the town’s newly cleared mountain pass, further isolating Coastpeak from neighboring regions. In August, a flash flood caused by heavy rain brought more devastation to the recovering landscape. In November, early snow further hampered the town's logging industry.",
+        "Question": "What event in April worsened the isolation of Coastpeak from neighboring regions?",
+        "Answer Choices": ["Avalanche", "Rockslide", "Flash flood", "Heavy snow"],
+        "Answer": "Rockslide",
+        "Reasoning": "On 15th April, an unexpected rockslide due to continuous seismic activity blocked the town’s newly cleared mountain pass, further isolating Coastpeak from neighboring regions."
+    },
+    {
+        "Story": "The small mountain town of Coastpeak, located between steep mountains and a roaring river, faced a major avalanche on 5th February. After months of restorative work, they managed to get the town's essential services functioning again, but then faced an unexpected rockslide from continuous seismic activity on 15th April. The rockslide blocked the town’s newly cleared mountain pass, further isolating Coastpeak from neighboring regions. In August, a flash flood caused by heavy rain brought more devastation to the recovering landscape. In November, early snow further hampered the town's logging industry.",
+        "Question": "What caused the flash flood in August?",
+        "Answer Choices": ["Heavy snow", "Rockslide", "Avalanche", "Heavy rain"],
+        "Answer": "Heavy rain",
+        "Reasoning": "The story mentions that in August a flash flood was caused by heavy rain."
+    },
+    {
+        "Story": "The small mountain town of Coastpeak, located between steep mountains and a roaring river, faced a major avalanche on 5th February. After months of restorative work, they managed to get the town's essential services functioning again, but then faced an unexpected rockslide from continuous seismic activity on 15th April. The rockslide blocked the town’s newly cleared mountain pass, further isolating Coastpeak from neighboring regions. In August, a flash flood caused by heavy rain brought more devastation to the recovering landscape. In November, early snow further hampered the town's logging industry.",
+        "Question": "What natural disaster did Coastpeak face in February?",
+        "Answer Choices": ["Flash flood", "Heavy rain", "Avalanche", "Rockslide"],
+        "Answer": "Avalanche",
+        "Reasoning": "The story mentions that Coastpeak faced a major avalanche on 5th February."
+    },
+    {
+        "Story": "The small mountain town of Coastpeak, located between steep mountains and a roaring river, faced a major avalanche on 5th February. After months of restorative work, they managed to get the town's essential services functioning again, but then faced an unexpected rockslide from continuous seismic activity on 15th April. The rockslide blocked the town’s newly cleared mountain pass, further isolating Coastpeak from neighboring regions. In August, a flash flood caused by heavy rain brought more devastation to the recovering landscape. In November, early snow further hampered the town's logging industry.",
+        "Question": "What event in November affected the town's logging industry?",
+        "Answer Choices": ["Flash flood", "Avalanche", "Heavy snow", "Rockslide"],
+        "Answer": "Heavy snow",
+        "Reasoning": "The story mentions that in November, early snow further hampered the town's logging industry."
+    },
+    {
+        "Story": "The quiet community of Maplebend, situated between rolling hills and a vast lake, suffered from a terrible earthquake on 20th January. After month-long efforts, they managed to repair the vital structures in the village, only to face a forest fire caused by a scorching summer on 1st July. The fire destroyed the town's newly repaired roads, severely limiting Maplebend's connectivity with bigger cities. In September, a swarm of locusts descended on the region, damaging the recovering greenery. Then, in November, freezing rain and heavy snow caused great harm to the town's farming economy.",
+        "Question": "In which month did the forest fire occur that destroyed the town's roads?",
+        "Answer Choices": ["January","July","September","November"],
         "Answer": "July",
-        "Reasoning": "The roads suffered damage a second time due to an intense forest fire that raged on the 1st of July."
+        "Reasoning": "The text clearly states that the fire caused by the scorching summer happened on 1st July."
     },
     {
-        "Story": "Situated within the bountiful hills and a vast body of water, the serene town of Maplebend was suddenly hit by a massive earthquake on January 20th. A month of tireless efforts resulted in the restoration of the town's essential infrastructure, but the repaired roads were severely damaged again by an intense forest fire that raged on the 1st of July due to the sweltering heat of summer. The access to larger cities around Maplebend was substantially diminished due to the fires. Progressing into the year, a locust infestation took over the terrain in September, further destroying the greenery which was barely healing from the previous disasters. Lastly, a combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector.",
-        "Question": "What geographical markers is Maplebend situated within?",
-        "Answer Choices": ["Mountains and forests", "Bountiful hills and vast body of water", "Deserts and grasslands", "Plains and rivers"],
-        "Answer": "Bountiful hills and vast body of water",
-        "Reasoning": "The first line clearly mentions that Maplebend is situated within bountiful hills and a vast body of water."
+        "Story": "The quiet community of Maplebend, situated between rolling hills and a vast lake, suffered from a terrible earthquake on 20th January. After month-long efforts, they managed to repair the vital structures in the village, only to face a forest fire caused by a scorching summer on 1st July. The fire destroyed the town's newly repaired roads, severely limiting Maplebend's connectivity with bigger cities. In September, a swarm of locusts descended on the region, damaging the recovering greenery. Then, in November, freezing rain and heavy snow caused great harm to the town's farming economy.",
+        "Question": "What event took place in January?",
+        "Answer Choices": ["Forest fire","Locust swarm","Freezing rain and heavy snow","Earthquake"],
+        "Answer": "Earthquake",
+        "Reasoning": "It is explicitly mentioned that Maplebend experienced an earthquake on 20th January."
     },
     {
-        "Story": "Situated within the bountiful hills and a vast body of water, the serene town of Maplebend was suddenly hit by a massive earthquake on January 20th. A month of tireless efforts resulted in the restoration of the town's essential infrastructure, but the repaired roads were severely damaged again by an intense forest fire that raged on the 1st of July due to the sweltering heat of summer. The access to larger cities around Maplebend was substantially diminished due to the fires. Progressing into the year, a locust infestation took over the terrain in September, further destroying the greenery which was barely healing from the previous disasters. Lastly, a combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector.",
-        "Question": "What was the effect of the intense forest fire on the town's connection with surrounding areas?",
-        "Answer Choices": ["Access to larger cities was substantially diminished", "Access to larger cities was improved", "It had no effect on access to larger cities", "The town was completely isolated from larger cities"],
-        "Answer": "Access to larger cities was substantially diminished",
-        "Reasoning": "The text clearly mentions that access to larger cities around Maplebend was substantially diminished due to the fires."
+        "Story": "The quiet community of Maplebend, situated between rolling hills and a vast lake, suffered from a terrible earthquake on 20th January. After month-long efforts, they managed to repair the vital structures in the village, only to face a forest fire caused by a scorching summer on 1st July. The fire destroyed the town's newly repaired roads, severely limiting Maplebend's connectivity with bigger cities. In September, a swarm of locusts descended on the region, damaging the recovering greenery. Then, in November, freezing rain and heavy snow caused great harm to the town's farming economy.",
+        "Question": "When did the village face the issue of locust swarm?",
+        "Answer Choices": ["January","July","September","November"],
+        "Answer": "September",
+        "Reasoning": "As per the text, a swarm of locusts descended on the region in September."
     },
     {
-        "Story": "Situated within the bountiful hills and a vast body of water, the serene town of Maplebend was suddenly hit by a massive earthquake on January 20th. A month of tireless efforts resulted in the restoration of the town's essential infrastructure, but the repaired roads were severely damaged again by an intense forest fire that raged on the 1st of July due to the sweltering heat of summer. The access to larger cities around Maplebend was substantially diminished due to the fires. Progressing into the year, a locust infestation took over the terrain in September, further destroying the greenery which was barely healing from the previous disasters. Lastly, a combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector.",
-        "Question": "Which disaster further damaged the recovering vegetation in September?",
-        "Answer Choices": ["Forest fire", "Earthquake", "Locust infestation", "Freezing rain and dense snow"],
-        "Answer": "Locust infestation",
-        "Reasoning": "The text specifically mentions that a locust infestation took over the terrain in September, further destroying the greenery."
+        "Story": "The quiet community of Maplebend, situated between rolling hills and a vast lake, suffered from a terrible earthquake on 20th January. After month-long efforts, they managed to repair the vital structures in the village, only to face a forest fire caused by a scorching summer on 1st July. The fire destroyed the town's newly repaired roads, severely limiting Maplebend's connectivity with bigger cities. In September, a swarm of locusts descended on the region, damaging the recovering greenery. Then, in November, freezing rain and heavy snow caused great harm to the town's farming economy.",
+        "Question": "When did the freezing rain and heavy snow occur?",
+        "Answer Choices": ["January","July","September","November"],
+        "Answer": "November",
+        "Reasoning": "The story specifically mentions that freezing rain and heavy snow happened in November."
     },
     {
-        "Story": "Situated within the bountiful hills and a vast body of water, the serene town of Maplebend was suddenly hit by a massive earthquake on January 20th. A month of tireless efforts resulted in the restoration of the town's essential infrastructure, but the repaired roads were severely damaged again by an intense forest fire that raged on the 1st of July due to the sweltering heat of summer. The access to larger cities around Maplebend was substantially diminished due to the fires. Progressing into the year, a locust infestation took over the terrain in September, further destroying the greenery which was barely healing from the previous disasters. Lastly, a combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector.",
-        "Question": "What were the climatic conditions experienced in Maplebend in November?",
-        "Answer Choices": ["Hot and dry", "Freezing rain and dense snow", "Sunny and warm", "Rainy and humid"],
-        "Answer": "Freezing rain and dense snow",
-        "Reasoning": "Towards the end of the text, it is mentioned that a combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector."
+        "Story": "The quiet community of Maplebend, situated between rolling hills and a vast lake, suffered from a terrible earthquake on 20th January. After month-long efforts, they managed to repair the vital structures in the village, only to face a forest fire caused by a scorching summer on 1st July. The fire destroyed the town's newly repaired roads, severely limiting Maplebend's connectivity with bigger cities. In September, a swarm of locusts descended on the region, damaging the recovering greenery. Then, in November, freezing rain and heavy snow caused great harm to the town's farming economy.",
+        "Question": "In what month did Maplebend town successfully repair their vital structures from the earthquake damage before facing the forest fire?",
+        "Answer Choices": ["January","July","Between January and July","November"],
+        "Answer": "Between January and July",
+        "Reasoning": "The story states that after the earthquake in January, they conducted month-long efforts to repair vital structures. The next event, a forest fire, occurred in July. So, the repair occurred between January and July."
     },
     {
-        "Story": "Situated within the bountiful hills and a vast body of water, the serene town of Maplebend was suddenly hit by a massive earthquake on January 20th. A month of tireless efforts resulted in the restoration of the town's essential infrastructure, but the repaired roads were severely damaged again by an intense forest fire that raged on the 1st of July due to the sweltering heat of summer. The access to larger cities around Maplebend was substantially diminished due to the fires. Progressing into the year, a locust infestation took over the terrain in September, further destroying the greenery which was barely healing from the previous disasters. Lastly, a combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector.",
-        "Question": "What sector of Maplebend was affected by the weather conditions in November?",
-        "Answer Choices": ["Manufacturing sector", "Tourism sector", "Agricultural sector", "Service sector"],
-        "Answer": "Agricultural sector",
-        "Reasoning": "The last sentence illustrates that the combination of freezing rain and dense snow in November negatively impacted the town's agricultural sector."
+        "Story": "The quiet community of Maplebend, situated between rolling hills and a vast lake, suffered from a terrible earthquake on 20th January. After month-long efforts, they managed to repair the vital structures in the village, only to face a forest fire caused by a scorching summer on 1st July. The fire destroyed the town's newly repaired roads, severely limiting Maplebend's connectivity with bigger cities. In September, a swarm of locusts descended on the region, damaging the recovering greenery. Then, in November, freezing rain and heavy snow caused great harm to the town's farming economy.",
+        "Question": "What natural area is Maplebend located between?",
+        "Answer Choices": ["Between a desert and a river","Between rolling hills and a vast lake","Between a forest and a hill","Between a mountain and a river"],
+        "Answer": "Between rolling hills and a vast lake",
+        "Reasoning": "The story clearly states that Maplebend is situated between rolling hills and a vast lake."
+    },
+    {
+        "Story": "The quiet community of Maplebend, situated between rolling hills and a vast lake, suffered from a terrible earthquake on 20th January. After month-long efforts, they managed to repair the vital structures in the village, only to face a forest fire caused by a scorching summer on 1st July. The fire destroyed the town's newly repaired roads, severely limiting Maplebend's connectivity with bigger cities. In September, a swarm of locusts descended on the region, damaging the recovering greenery. Then, in November, freezing rain and heavy snow caused great harm to the town's farming economy.",
+        "Question": "What did the forest fire damage in July?",
+        "Answer Choices": ["The town's farming economy","The town's newly repaired roads","The town's vital structures","The town's greenery"],
+        "Answer": "The town's newly repaired roads",
+        "Reasoning": "The story explicitly mentions that the fire destroyed the town's newly repaired roads."
+    },
+    {
+        "Story": "The quiet community of Maplebend, situated between rolling hills and a vast lake, suffered from a terrible earthquake on 20th January. After month-long efforts, they managed to repair the vital structures in the village, only to face a forest fire caused by a scorching summer on 1st July. The fire destroyed the town's newly repaired roads, severely limiting Maplebend's connectivity with bigger cities. In September, a swarm of locusts descended on the region, damaging the recovering greenery. Then, in November, freezing rain and heavy snow caused great harm to the town's farming economy.",
+        "Question": "What impacted the town's farming economy in November?",
+        "Answer Choices": ["Earthquake","Forest fire","Locust swarm","Freezing rain and heavy snow"],
+        "Answer": "Freezing rain and heavy snow",
+        "Reasoning": "The narrative states that in November, freezing rain and heavy snow caused great harm to the town's farming economy."
+    },
+    {
+        "Story": "The quiet community of Maplebend, situated between rolling hills and a vast lake, suffered from a terrible earthquake on 20th January. After month-long efforts, they managed to repair the vital structures in the village, only to face a forest fire caused by a scorching summer on 1st July. The fire destroyed the town's newly repaired roads, severely limiting Maplebend's connectivity with bigger cities. In September, a swarm of locusts descended on the region, damaging the recovering greenery. Then, in November, freezing rain and heavy snow caused great harm to the town's farming economy.",
+        "Question": "What was the impact of the forest fire on Maplebend’s connectivity?",
+        "Answer Choices": ["The forest fire improved the town's connectivity","The forest fire had no effect on the town's connectivity","The forest fire affected the town's greenery but not its connectivity","The forest fire severely limited Maplebend's connectivity with bigger cities"],
+        "Answer": "The forest fire severely limited Maplebend's connectivity with bigger cities",
+        "Reasoning": "Following the forest fire's destruction of the newly repaired roads, the story directly states that Maplebend's connectivity with bigger cities was significantly restricted."
+    },
+    {
+        "Story": "The quiet community of Maplebend, situated between rolling hills and a vast lake, suffered from a terrible earthquake on 20th January. After month-long efforts, they managed to repair the vital structures in the village, only to face a forest fire caused by a scorching summer on 1st July. The fire destroyed the town's newly repaired roads, severely limiting Maplebend's connectivity with bigger cities. In September, a swarm of locusts descended on the region, damaging the recovering greenery. Then, in November, freezing rain and heavy snow caused great harm to the town's farming economy.",
+        "Question": "What happened to the region in September?",
+        "Answer Choices": ["There was heavy snow","There was a forest fire","A swarm of locusts descended on the region","There was a terrible earthquake"],
+        "Answer": "A swarm of locusts descended on the region",
+        "Reasoning": "According to the story, a swarm of locusts descended on the region in September."
     }
 ]

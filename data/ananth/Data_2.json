@@ -1,352 +1,352 @@
 [
     {
-        "Story": "In the thriving metropolis of Mumbai, India, situated alongside the Arabian Sea, indications of climate change began to make a profound impact by December 2017. With sea levels rising, coastal flooding became commonplace, disrupting the daily lives and businesses of countless citizens. Struggling to recover from these impacts, an oppressive heatwave struck the city in 2018, shattering historical temperature records and leading to multiple heat-related ailments. Not long after, by the time the monsoon season of 2019 set in, Mumbai was dealing with unpredictable precipitation. This erratic weather pattern ushered in a severe drought, stripping the city of its essential water sources. Ironically, soon after these parching times, Mumbai faced flash floods and landslides. The fickle monsoon season that year served as a striking reminder of the urgent need for climate-resilient strategies and sustainable living adaptations.",
-        "Question": "When did the indications of climate change start making a profound impact in Mumbai?",
-        "Answer Choices": ["December 2017", "2018", "2019", "Not mentioned"], 
-        "Answer": "December 2017",
-        "Reasoning": "As stated in the story, the climate change signs began making a deep impact in Mumbai by December 2017, which led to coastal flooding and disruption of lives."
+        "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.",
+        "Question": "Which event happened first?",
+        "Answer Choices": ["Heatwave in Florida", "Deforestation in the Amazon", "Unusually warmer winters in Miami", "Atlantic hurricane season in Miami"],
+        "Answer": "Heatwave in Florida",
+        "Reasoning": "The story informs us that the heatwave in Florida occurred in June 2018, way before deforestation events in Brazil in 2019, warmer winters in Miami during late 2019 and 2020, and the Atlantic hurricane season in Miami during 2021."
     },
     {
-        "Story": "In the thriving metropolis of Mumbai, India, situated alongside the Arabian Sea, indications of climate change began to make a profound impact by December 2017. With sea levels rising, coastal flooding became commonplace, disrupting the daily lives and businesses of countless citizens. Struggling to recover from these impacts, an oppressive heatwave struck the city in 2018, shattering historical temperature records and leading to multiple heat-related ailments. Not long after, by the time the monsoon season of 2019 set in, Mumbai was dealing with unpredictable precipitation. This erratic weather pattern ushered in a severe drought, stripping the city of its essential water sources. Ironically, soon after these parching times, Mumbai faced flash floods and landslides. The fickle monsoon season that year served as a striking reminder of the urgent need for climate-resilient strategies and sustainable living adaptations.",
-        "Question": "In what year was Mumbai hit by an oppressive heatwave emphasizing the severity of climate change?",
-        "Answer Choices": ["December 2017", "2018", "2019", "Not mentioned"], 
-        "Answer": "2018",
-        "Reasoning": "According to the story, Mumbai was hit by an oppressive heatwave that broke historical temperature records in the year 2018, escalating the problem of climate change."
+        "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.",
+        "Question": "When was the Amazon forest deforested?",
+        "Answer Choices": ["June 2018", "Late 2019 and Early 2020", "July 2019", "2021"],
+        "Answer": "July 2019",
+        "Reasoning": "The story provides a date that deforestation in the Amazon occurred specifically in July 2019."
     },
     {
-        "Story": "In the thriving metropolis of Mumbai, India, situated alongside the Arabian Sea, indications of climate change began to make a profound impact by December 2017. With sea levels rising, coastal flooding became commonplace, disrupting the daily lives and businesses of countless citizens. Struggling to recover from these impacts, an oppressive heatwave struck the city in 2018, shattering historical temperature records and leading to multiple heat-related ailments. Not long after, by the time the monsoon season of 2019 set in, Mumbai was dealing with unpredictable precipitation. This erratic weather pattern ushered in a severe drought, stripping the city of its essential water sources. Ironically, soon after these parching times, Mumbai faced flash floods and landslides. The fickle monsoon season that year served as a striking reminder of the urgent need for climate-resilient strategies and sustainable living adaptations.",
-        "Question": "By the onset of which monsoon season was Mumbai dealing with unpredictable precipitation?",
-        "Answer Choices": ["December 2017", "2018", "2019", "Not mentioned"], 
-        "Answer": "2019",
-        "Reasoning": "The story mentions that Mumbai was wrestling with unpredictable rainfall at the onset of the monsoon season of 2019, which eventually led to a critical drought, followed by flash floods and landslides."
+        "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.",
+        "Question": "When did Miami experience its hottest summer?",
+        "Answer Choices": ["2017", "June 2018", "Late 2019 and Early 2020", "2021"],
+        "Answer": "June 2018",
+        "Reasoning": "From the text, we learn that Miami experienced its hottest summer on record in June 2018."
     },
     {
-        "Story": "In the thriving metropolis of Mumbai, India, situated alongside the Arabian Sea, indications of climate change began to make a profound impact by December 2017. With sea levels rising, coastal flooding became commonplace, disrupting the daily lives and businesses of countless citizens. Struggling to recover from these impacts, an oppressive heatwave struck the city in 2018, shattering historical temperature records and leading to multiple heat-related ailments. Not long after, by the time the monsoon season of 2019 set in, Mumbai was dealing with unpredictable precipitation. This erratic weather pattern ushered in a severe drought, stripping the city of its essential water sources. Ironically, soon after these parching times, Mumbai faced flash floods and landslides. The fickle monsoon season that year served as a striking reminder of the urgent need for climate-resilient strategies and sustainable living adaptations.",
-        "Question": "During which year did Mumbai experience both severe drought and flash floods?",
-        "Answer Choices": ["December 2017", "2018", "2019", "Not mentioned"], 
-        "Answer": "2019",
-        "Reasoning": "The story indicates that during the year 2019, Mumbai experienced a critical drought due to erratic rainfall in the monsoon season. Subsequently, the city also faced flash floods and landslides."
-    },
-     {
-        "Story": "In the thriving metropolis of Mumbai, India, situated alongside the Arabian Sea, indications of climate change began to make a profound impact by December 2017. With sea levels rising, coastal flooding became commonplace, disrupting the daily lives and businesses of countless citizens. Struggling to recover from these impacts, an oppressive heatwave struck the city in 2018, shattering historical temperature records and leading to multiple heat-related ailments. Not long after, by the time the monsoon season of 2019 set in, Mumbai was dealing with unpredictable precipitation. This erratic weather pattern ushered in a severe drought, stripping the city of its essential water sources. Ironically, soon after these parching times, Mumbai faced flash floods and landslides. The fickle monsoon season that year served as a striking reminder of the urgent need for climate-resilient strategies and sustainable living adaptations.",
-        "Question": "When did coastal flooding, due to rising sea levels, start disrupting daily life in Mumbai?",
-        "Answer Choices": ["December 2017", "2018", "2019", "Not mentioned"], 
-        "Answer": "December 2017",
-        "Reasoning": "According to the story, from December 2017, the rising sea levels due to climate change began leading to coastal flooding in Mumbai that affected the daily life of the citizens and interfered with businesses."
-    },
-    {
-        "Story": "In the thriving metropolis of Mumbai, India, situated alongside the Arabian Sea, indications of climate change began to make a profound impact by December 2017. With sea levels rising, coastal flooding became commonplace, disrupting the daily lives and businesses of countless citizens. Struggling to recover from these impacts, an oppressive heatwave struck the city in 2018, shattering historical temperature records and leading to multiple heat-related ailments. Not long after, by the time the monsoon season of 2019 set in, Mumbai was dealing with unpredictable precipitation. This erratic weather pattern ushered in a severe drought, stripping the city of its essential water sources. Ironically, soon after these parching times, Mumbai faced flash floods and landslides. The fickle monsoon season that year served as a striking reminder of the urgent need for climate-resilient strategies and sustainable living adaptations.",
-        "Question": "With what geographic feature is the city of Mumbai associated in the story?",
-        "Answer Choices": ["Arabian Sea", "Indian Ocean", "Bay of Bengal", "Himalayan Mountains"],
-        "Answer": "Arabian Sea",
-        "Reasoning": "The city is mentioned to be situated alongside the Arabian Sea in the beginning of the story."  
-    },
-    {
-        "Story": "In the thriving metropolis of Mumbai, India, situated alongside the Arabian Sea, indications of climate change began to make a profound impact by December 2017. With sea levels rising, coastal flooding became commonplace, disrupting the daily lives and businesses of countless citizens. Struggling to recover from these impacts, an oppressive heatwave struck the city in 2018, shattering historical temperature records and leading to multiple heat-related ailments. Not long after, by the time the monsoon season of 2019 set in, Mumbai was dealing with unpredictable precipitation. This erratic weather pattern ushered in a severe drought, stripping the city of its essential water sources. Ironically, soon after these parching times, Mumbai faced flash floods and landslides. The fickle monsoon season that year served as a striking reminder of the urgent need for climate-resilient strategies and sustainable living adaptations.",
-        "Question": "What environmental occurrence was responsible for the coastal flooding in Mumbai in 2017?",
-        "Answer Choices": ["Heatwaves", "Droughts", "Rising Sea Levels", "Heavy Snowfall"],
-        "Answer": "Rising Sea Levels",
-        "Reasoning": "The story explicitly mentions that rising sea levels led to coastal flooding in the city."  
-    },
-    {
-        "Story": "In the thriving metropolis of Mumbai, India, situated alongside the Arabian Sea, indications of climate change began to make a profound impact by December 2017. With sea levels rising, coastal flooding became commonplace, disrupting the daily lives and businesses of countless citizens. Struggling to recover from these impacts, an oppressive heatwave struck the city in 2018, shattering historical temperature records and leading to multiple heat-related ailments. Not long after, by the time the monsoon season of 2019 set in, Mumbai was dealing with unpredictable precipitation. This erratic weather pattern ushered in a severe drought, stripping the city of its essential water sources. Ironically, soon after these parching times, Mumbai faced flash floods and landslides. The fickle monsoon season that year served as a striking reminder of the urgent need for climate-resilient strategies and sustainable living adaptations.",
-        "Question": "In what year did the city of Mumbai experience an oppressive heatwave according to the story?",
-        "Answer Choices": ["2017", "2018", "2019", "2020"],
-        "Answer": "2018",
-        "Reasoning": "The story states that the city of Mumbai experienced an oppressive heatwave in the year 2018."  
-    },
-    {
-        "Story": "In the thriving metropolis of Mumbai, India, situated alongside the Arabian Sea, indications of climate change began to make a profound impact by December 2017. With sea levels rising, coastal flooding became commonplace, disrupting the daily lives and businesses of countless citizens. Struggling to recover from these impacts, an oppressive heatwave struck the city in 2018, shattering historical temperature records and leading to multiple heat-related ailments. Not long after, by the time the monsoon season of 2019 set in, Mumbai was dealing with unpredictable precipitation. This erratic weather pattern ushered in a severe drought, stripping the city of its essential water sources. Ironically, soon after these parching times, Mumbai faced flash floods and landslides. The fickle monsoon season that year served as a striking reminder of the urgent need for climate-resilient strategies and sustainable living adaptations.",
-        "Question": "What calamitous event did Mumbai experience after the severe drought, as per the story?",
-        "Answer Choices": ["Tsunami", "Volcanic Eruption", "Earthquake", "Flash Floods and Landslides"],
-        "Answer": "Flash Floods and Landslides",
-        "Reasoning": "Once the severe drought ended, the story indicates that the city was afflicted by flash floods and landslides."  
-    },
-    {
-        "Story": "In the thriving metropolis of Mumbai, India, situated alongside the Arabian Sea, indications of climate change began to make a profound impact by December 2017. With sea levels rising, coastal flooding became commonplace, disrupting the daily lives and businesses of countless citizens. Struggling to recover from these impacts, an oppressive heatwave struck the city in 2018, shattering historical temperature records and leading to multiple heat-related ailments. Not long after, by the time the monsoon season of 2019 set in, Mumbai was dealing with unpredictable precipitation. This erratic weather pattern ushered in a severe drought, stripping the city of its essential water sources. Ironically, soon after these parching times, Mumbai faced flash floods and landslides. The fickle monsoon season that year served as a striking reminder of the urgent need for climate-resilient strategies and sustainable living adaptations.",
-        "Question": "What consequence of climate change started to manifest in Mumbai by December 2017 according to the story?",
-        "Answer Choices": ["Heatwaves", "Rising Sea Levels", "Droughts", "Snowstorms"],
-        "Answer": "Rising Sea Levels",
-        "Reasoning": "The story tells us that indications of climate change became apparent through the occurrence of rising sea levels by December 2017 in Mumbai."  
-    },
-    {
-        "Story": "Miami, a picturesque coastal city, began its battle with the unpleasant repercussions of climate change when sea levels started rising around 2017's corner, inducing recurring floods. Struggling through a wave of floods, on the advent of June 2018, the city ran into an extreme heatwave, marking the most sweltering summer. Not too far from Miami, in July 2019, the Amazon rainforest in Brazil witnessed the disastrous effects of deforestation, with an area equivalent to 7693 square km being cleared, affecting the local climate and habitat. With winter around the corner in late 2019, Miami experienced an abnormal rise in temperature, upsetting the migratory patterns of diverse bird species. As 2021 set in, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami, a catastrophe largely blamed on climate change.",
-        "Question": "When did Miami begin its battle with the unpleasant repercussions of climate change?",
-        "Answer Choices": ["2017", "2018", "2019", "2021"],
+        "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.",
+        "Question": "When did the rising sea levels cause increased flooding incidents in Miami?",
+        "Answer Choices": ["2017", "June 2018", "Late 2019 and Early 2020", "2021"],
         "Answer": "2017",
-        "Reasoning": "The story clearly states that Miami began its battle with climate change around 2017 when sea levels started rising."
+        "Reasoning": "The story clearly states that the rise in sea levels leading to increased flooding incidents in Miami occurred in 2017."
     },
     {
-        "Story": "Miami, a picturesque coastal city, began its battle with the unpleasant repercussions of climate change when sea levels started rising around 2017's corner, inducing recurring floods. Struggling through a wave of floods, on the advent of June 2018, the city ran into an extreme heatwave, marking the most sweltering summer. Not too far from Miami, in July 2019, the Amazon rainforest in Brazil witnessed the disastrous effects of deforestation, with an area equivalent to 7693 square km being cleared, affecting the local climate and habitat. With winter around the corner in late 2019, Miami experienced an abnormal rise in temperature, upsetting the migratory patterns of diverse bird species. As 2021 set in, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami, a catastrophe largely blamed on climate change.",
-        "Question": "In which year did the Amazon rainforest in Brazil experience the disastrous effects of deforestation?",
-        "Answer Choices": ["2017", "2018", "2019", "2021"],
-        "Answer": "2019",
-        "Reasoning": "The story mentions that the Amazon rainforest witnessed the disastrous effects of deforestation in July 2019."
-    },
-    {
-        "Story": "Miami, a picturesque coastal city, began its battle with the unpleasant repercussions of climate change when sea levels started rising around 2017's corner, inducing recurring floods. Struggling through a wave of floods, on the advent of June 2018, the city ran into an extreme heatwave, marking the most sweltering summer. Not too far from Miami, in July 2019, the Amazon rainforest in Brazil witnessed the disastrous effects of deforestation, with an area equivalent to 7693 square km being cleared, affecting the local climate and habitat. With winter around the corner in late 2019, Miami experienced an abnormal rise in temperature, upsetting the migratory patterns of diverse bird species. As 2021 set in, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami, a catastrophe largely blamed on climate change.",
-        "Question": "What abnormal weather phenomenon did Miami experience in the late 2019?",
-        "Answer Choices": ["Floods", "Heatwave", "Rise in temperature", "Tropical storms"],
-        "Answer": "Rise in temperature",
-        "Reasoning": "The story states that with winter around the corner in late 2019, Miami experienced an abnormal rise in temperature."
-    },
-    {
-        "Story": "Miami, a picturesque coastal city, began its battle with the unpleasant repercussions of climate change when sea levels started rising around 2017's corner, inducing recurring floods. Struggling through a wave of floods, on the advent of June 2018, the city ran into an extreme heatwave, marking the most sweltering summer. Not too far from Miami, in July 2019, the Amazon rainforest in Brazil witnessed the disastrous effects of deforestation, with an area equivalent to 7693 square km being cleared, affecting the local climate and habitat. With winter around the corner in late 2019, Miami experienced an abnormal rise in temperature, upsetting the migratory patterns of diverse bird species. As 2021 set in, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami, a catastrophe largely blamed on climate change.",
-        "Question": "When did the Atlantic hurricane season unleash an unparalleled number of tropical storms onto Miami?",
-        "Answer Choices": ["2017", "2018", "2019", "2021"],
+        "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.",
+        "Question": "When did Miami witness an unprecedented number of tropical storms?",
+        "Answer Choices": ["2017", "June 2018", "Late 2019 and Early 2020", "2021"],
         "Answer": "2021",
-        "Reasoning": "The story mentions that as 2021 set in, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami."
+        "Reasoning": "The text explicitly mentions 'Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms.' "
     },
     {
-        "Story": "Miami, a picturesque coastal city, began its battle with the unpleasant repercussions of climate change when sea levels started rising around 2017's corner, inducing recurring floods. Struggling through a wave of floods, on the advent of June 2018, the city ran into an extreme heatwave, marking the most sweltering summer. Not too far from Miami, in July 2019, the Amazon rainforest in Brazil witnessed the disastrous effects of deforestation, with an area equivalent to 7693 square km being cleared, affecting the local climate and habitat. With winter around the corner in late 2019, Miami experienced an abnormal rise in temperature, upsetting the migratory patterns of diverse bird species. As 2021 set in, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami, a catastrophe largely blamed on climate change.",
-        "Question": "During which season of the year 2018 did Miami experience an extreme heatwave?",
-        "Answer Choices": ["Spring", "Summer", "Autumn", "Winter"],
-        "Answer": "Summer",
-        "Reasoning": "It is stated in the story that on the advent of June 2018, which is summer, the city of Miami ran into an extreme heatwave."
+        "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.",
+        "Question": "Where in the earth was the alarming rate of deforestation experienced?",
+        "Answer Choices": ["Miami", "Amazon rainforest in Brazil", "Florida", "Atlantic"],
+        "Answer": "Amazon rainforest in Brazil",
+        "Reasoning": "The mention of deforestation is linked with the Amazon rainforest in Brazil in the text."
     },
     {
-        "Story": "Miami, a picturesque coastal city, began its battle with the unpleasant repercussions of climate change when sea levels started rising around 2017's corner, inducing recurring floods. Struggling through a wave of floods, on the advent of June 2018, the city ran into an extreme heatwave, marking the most sweltering summer. Not too far from Miami, in July 2019, the Amazon rainforest in Brazil witnessed the disastrous effects of deforestation, with an area equivalent to 7693 square km being cleared, affecting the local climate and habitat. With winter around the corner in late 2019, Miami experienced an abnormal rise in temperature, upsetting the migratory patterns of diverse bird species. As 2021 set in, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami, a catastrophe largely blamed on climate change.",
-        "Question": "Which geographical entity near Miami experienced a significant impact due to deforestation in 2019?",
-        "Answer Choices": ["Atlantic Ocean", "Amazon rainforest", "Everglades National Park", "Florida Keys"],
-        "Answer": "Amazon rainforest",
-        "Reasoning": "The story mentions that in July 2019, a significant area of the Amazon rainforest near Miami was cleared due to deforestation, affecting the local climate and habitat."
+        "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.",
+        "Question": "Where did the hottest summer on record occur as per the story?",
+        "Answer Choices": ["Brazil", "Atlantic", "Florida", "Miami"],
+        "Answer": "Miami",
+        "Reasoning": "The hottest summer on record is directly stated as having occurred in Miami in the story."
     },
     {
-        "Story": "Miami, a picturesque coastal city, began its battle with the unpleasant repercussions of climate change when sea levels started rising around 2017's corner, inducing recurring floods. Struggling through a wave of floods, on the advent of June 2018, the city ran into an extreme heatwave, marking the most sweltering summer. Not too far from Miami, in July 2019, the Amazon rainforest in Brazil witnessed the disastrous effects of deforestation, with an area equivalent to 7693 square km being cleared, affecting the local climate and habitat. With winter around the corner in late 2019, Miami experienced an abnormal rise in temperature, upsetting the migratory patterns of diverse bird species. As 2021 set in, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami, a catastrophe largely blamed on climate change.",
-        "Question": "Which other geographical entity besides Miami experienced a significant climatic event in 2021?",
-        "Answer Choices": ["Atlantic Ocean", "Amazon rainforest", "Everglades National Park", "Florida Keys"],
-        "Answer": "Atlantic Ocean",
-        "Reasoning": "The story mentions that in 2021, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami, a catastrophe largely blamed on climate change."
+        "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.",
+        "Question": "Where did the increased flooding incidents due to rising sea levels take place?",
+        "Answer Choices": ["Florida", "Brazil", "Atlantic", "Miami"],
+        "Answer": "Miami",
+        "Reasoning": "The story clearly states that the flooding incidents due to rising sea levels were prevalent in Miami."
     },
     {
-        "Story": "Miami, a picturesque coastal city, began its battle with the unpleasant repercussions of climate change when sea levels started rising around 2017's corner, inducing recurring floods. Struggling through a wave of floods, on the advent of June 2018, the city ran into an extreme heatwave, marking the most sweltering summer. Not too far from Miami, in July 2019, the Amazon rainforest in Brazil witnessed the disastrous effects of deforestation, with an area equivalent to 7693 square km being cleared, affecting the local climate and habitat. With winter around the corner in late 2019, Miami experienced an abnormal rise in temperature, upsetting the migratory patterns of diverse bird species. As 2021 set in, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami, a catastrophe largely blamed on climate change.",
-        "Question": "In which year did Miami experience rising sea levels inducing recurring floods?",
-        "Answer Choices": ["2017", "2018", "2019", "2020"],
-        "Answer": "2017",
-        "Reasoning": "According to the story, Miami began its battle with the unpleasant repercussions of climate change when sea levels started rising around 2017's corner, inducing recurring floods."
+        "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.",
+        "Question": "Which area witnessed a severe heatwave due to hotter temperatures in June 2018?",
+        "Answer Choices": ["Florida", "Brazil", "Atlantic", "Amazon rainforest in Brazil"],
+        "Answer": "Florida",
+        "Reasoning": "The severe heatwave due to hotter temperatures is mentioned in the context of Florida in the story."
     },
     {
-        "Story": "Miami, a picturesque coastal city, began its battle with the unpleasant repercussions of climate change when sea levels started rising around 2017's corner, inducing recurring floods. Struggling through a wave of floods, on the advent of June 2018, the city ran into an extreme heatwave, marking the most sweltering summer. Not too far from Miami, in July 2019, the Amazon rainforest in Brazil witnessed the disastrous effects of deforestation, with an area equivalent to 7693 square km being cleared, affecting the local climate and habitat. With winter around the corner in late 2019, Miami experienced an abnormal rise in temperature, upsetting the migratory patterns of diverse bird species. As 2021 set in, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami, a catastrophe largely blamed on climate change.",
-        "Question": "During which season of 2019 did Miami experience an abnormal rise in temperature?",
-        "Answer Choices": ["Spring", "Summer", "Autumn", "Winter"],
-        "Answer": "Winter",
-        "Reasoning": "The story clearly mentions that 'With winter around the corner in late 2019, Miami experienced an abnormal rise in temperature', making the answer winter."
+        "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.",
+        "Question": "Where did the unprecedented number of tropical storms hit during the Atlantic hurricane season in 2021?",
+        "Answer Choices": ["Amazon rainforest in Brazil","Miami","Florida","Atlantic"],
+        "Answer": "Miami",
+        "Reasoning": "The story mentions Miami as the location where an unprecedented number of tropical storms occurred during the 2021 Atlantic hurricane season."
     },
     {
-        "Story": "Miami, a picturesque coastal city, began its battle with the unpleasant repercussions of climate change when sea levels started rising around 2017's corner, inducing recurring floods. Struggling through a wave of floods, on the advent of June 2018, the city ran into an extreme heatwave, marking the most sweltering summer. Not too far from Miami, in July 2019, the Amazon rainforest in Brazil witnessed the disastrous effects of deforestation, with an area equivalent to 7693 square km being cleared, affecting the local climate and habitat. With winter around the corner in late 2019, Miami experienced an abnormal rise in temperature, upsetting the migratory patterns of diverse bird species. As 2021 set in, the Atlantic hurricane season unleashed an unparalleled number of tropical storms onto Miami, a catastrophe largely blamed on climate change.",
-        "Question": "What event in June 2018 marked the most sweltering summer in Miami?",
-        "Answer Choices": ["Rising sea level", "Extreme heatwave", "Deforestation", "Unparalleled number of tropical storms"],
-        "Answer": "Extreme heatwave",
-        "Reasoning": "The story says 'on the advent of June 2018, the city ran into an extreme heatwave, marking the most sweltering summer', so the extreme heatwave marked the most sweltering summer in Miami in June 2018."
-    },
-    {
-        "Story": "Beijing, a bustling and vibrant metropolis engulfed in hazardous air pollution levels in 2015, was at the receiving end of significant respiratory issues among its residents. In 2019, after fervent measures to curb the pollution, they were confronted with another peril in the form of floods triggered by excessive rainfall in the Yangtze River. As a consequence of this calamity, millions of people were displaced and massive destruction followed. By this time, restoration was just commencing, but it soon crashed into yet another environmental challenge. In the span of four years, this time the Himalayan glaciers started melting, leading to a severe water scarcity in the region that affected both agriculture and livelihoods. Stretching to 2023, the coastal city of Shanghai, already strained by the previous disasters, was now battling frequently high tides and flooding. These relentless tides caused havoc on established infrastructure, putting the city's residents in a challenging predicament.",
-        "Question": "How many years passed between the air pollution in Beijing and the flooding in Shanghai?",
-        "Answer Choices": ["4 years", "6 years", "8 years", "10 years"],
-        "Answer": "8 years",
-        "Reasoning": "The air pollution in Beijing occurred in 2015 and the flooding in Shanghai occurred in 2023. The difference between 2023 and 2015 is 8 years."
-    },
-    {
-        "Story": "Beijing, a bustling and vibrant metropolis engulfed in hazardous air pollution levels in 2015, was at the receiving end of significant respiratory issues among its residents. In 2019, after fervent measures to curb the pollution, they were confronted with another peril in the form of floods triggered by excessive rainfall in the Yangtze River. As a consequence of this calamity, millions of people were displaced and massive destruction followed. By this time, restoration was just commencing, but it soon crashed into yet another environmental challenge. In the span of four years, this time the Himalayan glaciers started melting, leading to a severe water scarcity in the region that affected both agriculture and livelihoods. Stretching to 2023, the coastal city of Shanghai, already strained by the previous disasters, was now battling frequently high tides and flooding. These relentless tides caused havoc on established infrastructure, putting the city's residents in a challenging predicament.",
-        "Question": "In what year did the Himalayan glaciers begin to melt?",
-        "Answer Choices": ["2013", "2015", "2019", "2023"],
-        "Answer": "2019",
-        "Reasoning": "The story states that the Himalayan glaciers began melting four years after 2015, which is 2019."
-    },
-    {
-        "Story": "Beijing, a bustling and vibrant metropolis engulfed in hazardous air pollution levels in 2015, was at the receiving end of significant respiratory issues among its residents. In 2019, after fervent measures to curb the pollution, they were confronted with another peril in the form of floods triggered by excessive rainfall in the Yangtze River. As a consequence of this calamity, millions of people were displaced and massive destruction followed. By this time, restoration was just commencing, but it soon crashed into yet another environmental challenge. In the span of four years, this time the Himalayan glaciers started melting, leading to a severe water scarcity in the region that affected both agriculture and livelihoods. Stretching to 2023, the coastal city of Shanghai, already strained by the previous disasters, was now battling frequently high tides and flooding. These relentless tides caused havoc on established infrastructure, putting the city's residents in a challenging predicament.",
-        "Question": "How many years after the floods in Yangtze River did the Himalayan glaciers start melting?",
-        "Answer Choices": ["In the same year", "1 year later", "2 years later", "4 years later"],
-        "Answer": "In the same year",
-        "Reasoning": "The story mentions the floods in Yangtze River and the melting of Himalayan glaciers in the same year, 2019."
-    },
-    {
-        "Story": "Beijing, a bustling and vibrant metropolis engulfed in hazardous air pollution levels in 2015, was at the receiving end of significant respiratory issues among its residents. In 2019, after fervent measures to curb the pollution, they were confronted with another peril in the form of floods triggered by excessive rainfall in the Yangtze River. As a consequence of this calamity, millions of people were displaced and massive destruction followed. By this time, restoration was just commencing, but it soon crashed into yet another environmental challenge. In the span of four years, this time the Himalayan glaciers started melting, leading to a severe water scarcity in the region that affected both agriculture and livelihoods. Stretching to 2023, the coastal city of Shanghai, already strained by the previous disasters, was now battling frequently high tides and flooding. These relentless tides caused havoc on established infrastructure, putting the city's residents in a challenging predicament.",
-        "Question": "In what year did Shanghai start facing frequent high tides and flooding?",
-        "Answer Choices": ["2015", "2019", "2021", "2023"],
-        "Answer": "2023",
-        "Reasoning": "The story explicitly mentions that Shanghai started facing high tides and flooding in 2023."
-    },
-    {
-        "Story": "Beijing, a bustling and vibrant metropolis engulfed in hazardous air pollution levels in 2015, was at the receiving end of significant respiratory issues among its residents. In 2019, after fervent measures to curb the pollution, they were confronted with another peril in the form of floods triggered by excessive rainfall in the Yangtze River. As a consequence of this calamity, millions of people were displaced and massive destruction followed. By this time, restoration was just commencing, but it soon crashed into yet another environmental challenge. In the span of four years, this time the Himalayan glaciers started melting, leading to a severe water scarcity in the region that affected both agriculture and livelihoods. Stretching to 2023, the coastal city of Shanghai, already strained by the previous disasters, was now battling frequently high tides and flooding. These relentless tides caused havoc on established infrastructure, putting the city's residents in a challenging predicament.",
-        "Question": "In what year did Beijing experience significant respiratory issues due to air pollution?",
-        "Answer Choices": ["2010", "2015", "2019", "2023"],
+        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.",
+        "Question": "When did the air pollution levels in Beijing reach hazardous levels?",
+        "Answer Choices": ["2015", "2019", "2023", "2021"],
         "Answer": "2015",
-        "Reasoning": "The story explicitly mentions that Beijing experienced significant respiratory issues due to air pollution in 2015."
+        "Reasoning": "The story states that air pollution levels reached hazardous levels in Beijing in 2015."
     },
     {
-        "Story": "Beijing, a bustling and vibrant metropolis engulfed in hazardous air pollution levels in 2015, was at the receiving end of significant respiratory issues among its residents. In 2019, after fervent measures to curb the pollution, they were confronted with another peril in the form of floods triggered by excessive rainfall in the Yangtze River. As a consequence of this calamity, millions of people were displaced and massive destruction followed. By this time, restoration was just commencing, but it soon crashed into yet another environmental challenge. In the span of four years, this time the Himalayan glaciers started melting, leading to a severe water scarcity in the region that affected both agriculture and livelihoods. Stretching to 2023, the coastal city of Shanghai, already strained by the previous disasters, was now battling frequently high tides and flooding. These relentless tides caused havoc on established infrastructure, putting the city's residents in a challenging predicament.",
-        "Question": "What caused the flooding in Beijing in 2019?",
-        "Answer Choices": ["Melting of Himalayan glaciers", "Hazardous air pollution", "High tides and flooding in Shanghai", "Excessive rainfall in the Yangtze River"],
-        "Answer": "Excessive rainfall in the Yangtze River",
-        "Reasoning": "As per the story, the floods in Beijing in 2019 were caused by excessive rainfall in the Yangtze River."
+        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.",
+        "Question": "What event occurred in China in 2019?",
+        "Answer Choices": ["Air pollution in Beijing", "Melting glaciers in Himalayas", "Floods in Yangtze River", "Frequent high tides in Shanghai"],
+        "Answer": "Floods in Yangtze River",
+        "Reasoning": "The story mentions that in 2019, China witnessed devastating floods in the Yangtze River due to excessive rainfall."
     },
     {
-        "Story": "Beijing, a bustling and vibrant metropolis engulfed in hazardous air pollution levels in 2015, was at the receiving end of significant respiratory issues among its residents. In 2019, after fervent measures to curb the pollution, they were confronted with another peril in the form of floods triggered by excessive rainfall in the Yangtze River. As a consequence of this calamity, millions of people were displaced and massive destruction followed. By this time, restoration was just commencing, but it soon crashed into yet another environmental challenge. In the span of four years, this time the Himalayan glaciers started melting, leading to a severe water scarcity in the region that affected both agriculture and livelihoods. Stretching to 2023, the coastal city of Shanghai, already strained by the previous disasters, was now battling frequently high tides and flooding. These relentless tides caused havoc on established infrastructure, putting the city's residents in a challenging predicament.",
-        "Question": "What led to the water scarcity problem in Beijing in the span of four years after the floods?",
-        "Answer Choices": ["Air pollution", "Excessive rainfall in the Yangtze River", "Melting of the Himalayan glaciers", "High tides and flooding in Shanghai"],
-        "Answer": "Melting of the Himalayan glaciers",
-        "Reasoning": "According to the story, in the span of four years after the floods in Beijing, the Himalayan glaciers started melting which led to severe water scarcity in the region."
+        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.",
+        "Question": "What has caused water scarcity in the Himalayas?",
+        "Answer Choices": ["Air pollution in Beijing", "Floods in Yangtze River", "Melting glaciers", "Frequent high tides"],
+        "Answer": "Melting glaciers",
+        "Reasoning": "The story states that the melting glaciers in the Himalayas have led to water scarcity in the region."
     },
     {
-        "Story": "Beijing, a bustling and vibrant metropolis engulfed in hazardous air pollution levels in 2015, was at the receiving end of significant respiratory issues among its residents. In 2019, after fervent measures to curb the pollution, they were confronted with another peril in the form of floods triggered by excessive rainfall in the Yangtze River. As a consequence of this calamity, millions of people were displaced and massive destruction followed. By this time, restoration was just commencing, but it soon crashed into yet another environmental challenge. In the span of four years, this time the Himalayan glaciers started melting, leading to a severe water scarcity in the region that affected both agriculture and livelihoods. Stretching to 2023, the coastal city of Shanghai, already strained by the previous disasters, was now battling frequently high tides and flooding. These relentless tides caused havoc on established infrastructure, putting the city's residents in a challenging predicament.",
-        "Question": "What was the issue in Shanghai in 2023?",
-        "Answer Choices": ["Air pollution", "Flood caused by excessive rainfall", "Water scarcity due to melting of Himalayan glaciers", "Frequently high tides and flooding"],
-        "Answer": "Frequently high tides and flooding",
-        "Reasoning": "According to the story, the coastal city of Shanghai, already strained by the previous disasters, was now battling frequently high tides and flooding in 2023."
+        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.",
+        "Question": "When did the devastating floods occur in the Yangtze River?",
+        "Answer Choices": ["2015", "2019", "2023", "2021"],
+        "Answer": "2019",
+        "Reasoning": "The story mentions that in 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall."
     },
     {
-        "Story": "Beijing, a bustling and vibrant metropolis engulfed in hazardous air pollution levels in 2015, was at the receiving end of significant respiratory issues among its residents. In 2019, after fervent measures to curb the pollution, they were confronted with another peril in the form of floods triggered by excessive rainfall in the Yangtze River. As a consequence of this calamity, millions of people were displaced and massive destruction followed. By this time, restoration was just commencing, but it soon crashed into yet another environmental challenge. In the span of four years, this time the Himalayan glaciers started melting, leading to a severe water scarcity in the region that affected both agriculture and livelihoods. Stretching to 2023, the coastal city of Shanghai, already strained by the previous disasters, was now battling frequently high tides and flooding. These relentless tides caused havoc on established infrastructure, putting the city's residents in a challenging predicament.",
-        "Question": "What environmental challenge did Beijing face in 2015?",
-        "Answer Choices": ["Flood caused by excessive rainfall", "Melting of the Himalayan glaciers", "Frequently high tides and flooding", "Hazardous air pollution"],
-        "Answer": "Hazardous air pollution",
-        "Reasoning": "As per the story, Beijing was engulfed in hazardous air pollution levels in 2015."
+        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.",
+        "Question": "Which city experienced frequent high tides and flooding in 2023?",
+        "Answer Choices": ["Beijing", "Yangtze River", "Himalayas", "Shanghai"],
+        "Answer": "Shanghai",
+        "Reasoning": "The story mentions that in 2023, the coastal city of Shanghai experienced frequent high tides and flooding."
     },
     {
-        "Story": "Beijing, a bustling and vibrant metropolis engulfed in hazardous air pollution levels in 2015, was at the receiving end of significant respiratory issues among its residents. In 2019, after fervent measures to curb the pollution, they were confronted with another peril in the form of floods triggered by excessive rainfall in the Yangtze River. As a consequence of this calamity, millions of people were displaced and massive destruction followed. By this time, restoration was just commencing, but it soon crashed into yet another environmental challenge. In the span of four years, this time the Himalayan glaciers started melting, leading to a severe water scarcity in the region that affected both agriculture and livelihoods. Stretching to 2023, the coastal city of Shanghai, already strained by the previous disasters, was now battling frequently high tides and flooding. These relentless tides caused havoc on established infrastructure, putting the city's residents in a challenging predicament.",
-        "Question": "What were the impacts of the frequently high tides and flooding in Shanghai?",
-        "Answer Choices": ["Massive destruction and displacement of people", "Severe water scarcity", "Significant respiratory issues among residents", "Havoc on established infrastructure"],
-        "Answer": "Havoc on established infrastructure",
-        "Reasoning": "According to the story, the frequently high tides and flooding in Shanghai caused havoc on established infrastructure."
+        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.",
+        "Question": "What were the consequences of air pollution in Beijing in 2015?",
+        "Answer Choices": ["Water scarcity and agriculture problems", "Displacement of millions of people", "Frequent high tides and flooding", "Respiratory issues among the population"],
+        "Answer": "Respiratory issues among the population",
+        "Reasoning": "The story mentions that air pollution in Beijing in 2015 led to respiratory issues among its population."
+    }, 
+    {
+        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.",
+        "Question": "What caused the devastating floods in the Yangtze River in 2019?",
+        "Answer Choices": ["Excessive rainfall", "Melting glaciers in the Himalayas", "Frequent high tides and flooding", "Air pollution in Beijing"],
+        "Answer": "Excessive rainfall",
+        "Reasoning": "The story states that the devastating floods in the Yangtze River in 2019 were caused by excessive rainfall."
+    }, 
+    {
+        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.",
+        "Question": "What is one of the impacts of melting glaciers in the Himalayas?",
+        "Answer Choices": ["Respiratory issues among the population", "Displacement of millions of people", "Water scarcity and agriculture problems", "Frequent high tides and flooding"],
+        "Answer": "Water scarcity and agriculture problems",
+        "Reasoning": "The story mentions that melting glaciers in the Himalayas have led to water scarcity in the region, affecting agriculture and livelihoods."
+    }, 
+    {
+        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.",
+        "Question": "What were the consequences of frequent high tides and flooding in Shanghai in 2023?",
+        "Answer Choices": ["Excessive rainfall", "Melting glaciers in the Himalayas", "Respiratory issues among the population", "Impact on infrastructure and risk to residents"],
+        "Answer": "Impact on infrastructure and risk to residents",
+        "Reasoning": "The story states that frequent high tides and flooding in Shanghai in 2023 impacted infrastructure and put its residents at risk."
+    }, 
+    {
+        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.",
+        "Question": "Which region is facing water scarcity due to melting glaciers?",
+        "Answer Choices": ["Beijing", "Shanghai", "Himalayas", "Yangtze River"],
+        "Answer": "Himalayas",
+        "Reasoning": "The story mentions that melting glaciers in the Himalayas have led to water scarcity in the region, affecting agriculture and livelihoods."
     },
     {
-        "Story": "Switzerland, the idyllic nation nestled amongst the Alps, began experiencing accelerated glacial melting in 2010, causing a considerable impact on their freshwater supply. Despite strenuous efforts to mitigate this problem, it worsened and by the year 2017, the revered Matterhorn mountain fell prey to an unprecedented landslide, a result of the melting permafrost diminishing the solidness of the mountain. Switzerland envisioned regaining its environmental balance, but instead, faced a snow deficit in the popular ski village, Zermatt, in 2022. This unforeseen setback brought hefty economic repercussions to the local shops and the vacation sector. Progressing further into the new decade, in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves, which laid a burden on farming practices and elevated the probability of forest fires.",
-        "Question": "When did the accelerated glacial melting in Switzerland begin?",
+        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.",
+        "Question": "When did the melting of the glaciers in the Alps begin?",
         "Answer Choices": ["2010", "2017", "2022", "2025"],
         "Answer": "2010",
-        "Reasoning": "The story specifically mentions that 'Switzerland began experiencing accelerated glacial melting in 2010.'"
+        "Reasoning": "The story states that rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010."
     },
     {
-        "Story": "Switzerland, the idyllic nation nestled amongst the Alps, began experiencing accelerated glacial melting in 2010, causing a considerable impact on their freshwater supply. Despite strenuous efforts to mitigate this problem, it worsened and by the year 2017, the revered Matterhorn mountain fell prey to an unprecedented landslide, a result of the melting permafrost diminishing the solidness of the mountain. Switzerland envisioned regaining its environmental balance, but instead, faced a snow deficit in the popular ski village, Zermatt, in 2022. This unforeseen setback brought hefty economic repercussions to the local shops and the vacation sector. Progressing further into the new decade, in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves, which laid a burden on farming practices and elevated the probability of forest fires.",
-        "Question": "In which year did The Matterhorn mountain fell due to an unprecedented landslide?",
-        "Answer Choices": ["2010", "2017", "2022", "2025"],
-        "Answer": "2017",
-        "Reasoning": "The narrative specifically states that 'by the year 2017, the revered Matterhorn mountain fell prey to an unprecedented landslide.'"
+        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.",
+        "Question": "What event caused the reduced stability of the Matterhorn mountain?",
+        "Answer Choices": ["Melting permafrost", "Rising temperatures", "Record-breaking landslide", "Severe economic consequences"],
+        "Answer": "Melting permafrost",
+        "Reasoning": "The story mentions that the reduced stability of the Matterhorn mountain was caused by melting permafrost."
     },
     {
-        "Story": "Switzerland, the idyllic nation nestled amongst the Alps, began experiencing accelerated glacial melting in 2010, causing a considerable impact on their freshwater supply. Despite strenuous efforts to mitigate this problem, it worsened and by the year 2017, the revered Matterhorn mountain fell prey to an unprecedented landslide, a result of the melting permafrost diminishing the solidness of the mountain. Switzerland envisioned regaining its environmental balance, but instead, faced a snow deficit in the popular ski village, Zermatt, in 2022. This unforeseen setback brought hefty economic repercussions to the local shops and the vacation sector. Progressing further into the new decade, in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves, which laid a burden on farming practices and elevated the probability of forest fires.",
-        "Question": "When did Switzerland face a snow deficit in the popular ski village, Zermatt?",
+        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.",
+        "Question": "Which year did Zermatt face a snow drought?",
         "Answer Choices": ["2010", "2017", "2022", "2025"],
         "Answer": "2022",
-        "Reasoning": "According to the story, 'Switzerland faced a snow deficit in the popular ski village, Zermatt, in 2022."
+        "Reasoning": "The story states that in 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism."
     },
     {
-        "Story": "Switzerland, the idyllic nation nestled amongst the Alps, began experiencing accelerated glacial melting in 2010, causing a considerable impact on their freshwater supply. Despite strenuous efforts to mitigate this problem, it worsened and by the year 2017, the revered Matterhorn mountain fell prey to an unprecedented landslide, a result of the melting permafrost diminishing the solidness of the mountain. Switzerland envisioned regaining its environmental balance, but instead, faced a snow deficit in the popular ski village, Zermatt, in 2022. This unforeseen setback brought hefty economic repercussions to the local shops and the vacation sector. Progressing further into the new decade, in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves, which laid a burden on farming practices and elevated the probability of forest fires.",
-        "Question": "In which year was Geneva, an eminent city in Switzerland gripped by intense heatwaves?",
+        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.",
+        "Question": "What were the economic consequences for local businesses and tourism in Zermatt?",
+        "Answer Choices": ["Melting glaciers", "Snow drought", "Intense heatwaves", "Record-breaking landslide"],
+        "Answer": "Snow drought",
+        "Reasoning": "The story mentions that the snow drought in 2022 caused severe economic consequences for local businesses and tourism in Zermatt."
+    },
+    {
+        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.",
+        "Question": "Which Swiss city suffered from intense heatwaves in 2025?",
+        "Answer Choices": ["Zermatt", "Geneva", "Matterhorn", "Alps"],
+        "Answer": "Geneva",
+        "Reasoning": "The story states that in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires."
+    },
+    {
+        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.",
+        "Question": "Which natural disaster occurred in the year 2017 as a result of reduced stability caused by melting permafrost?",
+        "Answer Choices": ["Flood", "Landslide", "Earthquake", "Tornado"],
+        "Answer": "Landslide",
+        "Reasoning": "The story mentions that the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost in the year 2017."
+    },
+    {
+        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.",
+        "Question": "Which year did the ski resort town of Zermatt face a snow drought?",
+        "Answer Choices": ["2010", "2017", "2022", "2025"],
+        "Answer": "2022",
+        "Reasoning": "The story mentions that in the year 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism."
+    },
+    {
+        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.",
+        "Question": "What was the year when the Swiss city of Geneva suffered from intense heatwaves?",
         "Answer Choices": ["2010", "2017", "2022", "2025"],
         "Answer": "2025",
-        "Reasoning": "The story specifically mentions that 'in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves.'"
+        "Reasoning": "The story mentions that in the year 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires."
     },
     {
-        "Story": "Switzerland, the idyllic nation nestled amongst the Alps, began experiencing accelerated glacial melting in 2010, causing a considerable impact on their freshwater supply. Despite strenuous efforts to mitigate this problem, it worsened and by the year 2017, the revered Matterhorn mountain fell prey to an unprecedented landslide, a result of the melting permafrost diminishing the solidness of the mountain. Switzerland envisioned regaining its environmental balance, but instead, faced a snow deficit in the popular ski village, Zermatt, in 2022. This unforeseen setback brought hefty economic repercussions to the local shops and the vacation sector. Progressing further into the new decade, in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves, which laid a burden on farming practices and elevated the probability of forest fires.",
-        "Question": "What is the time span between the beginning of accelerated glacial melting and the intense heatwaves in Geneva?",
-        "Answer Choices": ["5 years", "10 years", "15 years", "20 years"],
-        "Answer": "15 years",
-        "Reasoning": "The story mentions that accelerated glacial melting began in 2010 and Geneva experienced intense heatwaves in 2025. The time span between these two events is 15 years."
-    },
-    {
-        "Story": "Switzerland, the idyllic nation nestled amongst the Alps, began experiencing accelerated glacial melting in 2010, causing a considerable impact on their freshwater supply. Despite strenuous efforts to mitigate this problem, it worsened and by the year 2017, the revered Matterhorn mountain fell prey to an unprecedented landslide, a result of the melting permafrost diminishing the solidity of the mountain. Switzerland envisioned regaining its environmental balance, but instead, faced a snow deficit in the popular ski village, Zermatt, in 2022. This unforeseen setback brought hefty economic repercussions to the local shops and the vacation sector. Progressing further into the new decade, in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves, which laid a burden on farming practices and elevated the probability of forest fires.",
-        "Question": "In which location did the accelerated glacial melting begin in Switzerland?",
-        "Answer Choices": ["Zermatt", "Matterhorn mountain", "Geneva", "Alps"],
-        "Answer": "Alps",
-        "Reasoning": "The story mentions that Switzerland, nestled amongst the Alps, began experiencing glacial melting, implying that the melting occurred in the region of the Alps."
-    },
-    {
-        "Story": "Switzerland, the idyllic nation nestled amongst the Alps, began experiencing accelerated glacial melting in 2010, causing a considerable impact on their freshwater supply. Despite strenuous efforts to mitigate this problem, it worsened and by the year 2017, the revered Matterhorn mountain fell prey to an unprecedented landslide, a result of the melting permafrost diminishing the solidity of the mountain. Switzerland envisioned regaining its environmental balance, but instead, faced a snow deficit in the popular ski village, Zermatt, in 2022. This unforeseen setback brought hefty economic repercussions to the local shops and the vacation sector. Progressing further into the new decade, in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves, which laid a burden on farming practices and elevated the probability of forest fires.",
-        "Question": "Where did the snow deficit occur in 2022?",
-        "Answer Choices": ["Zermatt", "Matterhorn mountain", "Geneva", "Alps"],
-        "Answer": "Zermatt",
-        "Reasoning": "Switzerland faced a snow deficit in the popular ski village, Zermatt, in 2022 as mentioned in the story."
-    },
-    {
-        "Story": "Switzerland, the idyllic nation nestled amongst the Alps, began experiencing accelerated glacial melting in 2010, causing a considerable impact on their freshwater supply. Despite strenuous efforts to mitigate this problem, it worsened and by the year 2017, the revered Matterhorn mountain fell prey to an unprecedented landslide, a result of the melting permafrost diminishing the solidity of the mountain. Switzerland envisioned regaining its environmental balance, but instead, faced a snow deficit in the popular ski village, Zermatt, in 2022. This unforeseen setback brought hefty economic repercussions to the local shops and the vacation sector. Progressing further into the new decade, in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves, which laid a burden on farming practices and elevated the probability of forest fires.",
-        "Question": "Which city in Switzerland experienced intense heatwaves in 2025?",
-        "Answer Choices": ["Zermatt", "Matterhorn mountain", "Geneva", "Alps"],
-        "Answer": "Geneva",
-        "Reasoning": "The story states that in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves."
-    },
-    {
-        "Story": "Switzerland, the idyllic nation nestled amongst the Alps, began experiencing accelerated glacial melting in 2010, causing a considerable impact on their freshwater supply. Despite strenuous efforts to mitigate this problem, it worsened and by the year 2017, the revered Matterhorn mountain fell prey to an unprecedented landslide, a result of the melting permafrost diminishing the solidity of the mountain. Switzerland envisioned regaining its environmental balance, but instead, faced a snow deficit in the popular ski village, Zermatt, in 2022. This unforeseen setback brought hefty economic repercussions to the local shops and the vacation sector. Progressing further into the new decade, in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves, which laid a burden on farming practices and elevated the probability of forest fires.",
-        "Question": "Where was the landslide in 2017 caused by melting permafrost?",
-        "Answer Choices": ["Zermatt", "Matterhorn mountain", "Geneva", "Alps"],
-        "Answer": "Matterhorn mountain",
-        "Reasoning": "According to the story, the Matterhorn mountain fell prey to a landslide in 2017, as a result of melting permafrost."
-    },
-    {
-        "Story": "Switzerland, the idyllic nation nestled amongst the Alps, began experiencing accelerated glacial melting in 2010, causing a considerable impact on their freshwater supply. Despite strenuous efforts to mitigate this problem, it worsened and by the year 2017, the revered Matterhorn mountain fell prey to an unprecedented landslide, a result of the melting permafrost diminishing the solidity of the mountain. Switzerland envisioned regaining its environmental balance, but instead, faced a snow deficit in the popular ski village, Zermatt, in 2022. This unforeseen setback brought hefty economic repercussions to the local shops and the vacation sector. Progressing further into the new decade, in 2025, Geneva, an eminent city in Switzerland was gripped by intense heatwaves, which laid a burden on farming practices and elevated the probability of forest fires.",
-        "Question": "What is the significance of the Alps in the given context?",
-        "Answer Choices": ["Place of landslide", "Place of snow deficit", "Place of heatwave", "Place where glacial melting began"],
-        "Answer": "Place where glacial melting began",
-        "Reasoning": "The story mentions that Switzerland, located amongst the Alps, started experiencing accelerated glacial melting, suggesting that the melting initiated in the area of the Alps."
-    },
-    {
-        "Story": "Vancouver, an urban hub nestled within Canada, had to grapple with the severe consequences of climate change. When April 2019 dawned, the rising temperature instigated a rapid melting of glaciers nearby, causing a significant shortage of water as summer approached. After a grueling four months, by the end of July, they were barely managing to deal with the water scarcity, severely affecting agricultural productivity. Plans to restore cultivation and other ordinary activities were thwarted when unexpected heavy rainfall battered the city in December 2020. This severe weather event led to devastating floods, slowly eroding the homes of residents and prompting mass displacement. The floodwaters swept away properties much like how houses get carried away downstream by a rushing river. As the year drew to a close, Vancouver was left reeling from the destruction, a stark antithesis to the bustling metropolis it once was, similar to how a dark, stormy night contrasts with a clear, sunny day.",
-        "Question": "When did the shortage of water start?",
-        "Answer Choices": ["April 2019", "May 2019", "June 2019", "July 2019"],
-        "Answer": "April 2019",
-        "Reasoning": "The story clearly mentions 'When April 2019 dawned, the rising temperature instigated a rapid melting of glaciers nearby, causing a significant shortage of water as summer approached.' Hence, the shortage of water started in April 2019."
-    },
-    {
-        "Story": "Vancouver, an urban hub nestled within Canada, had to grapple with the severe consequences of climate change. When April 2019 dawned, the rising temperature instigated a rapid melting of glaciers nearby, causing a significant shortage of water as summer approached. After a grueling four months, by the end of July, they were barely managing to deal with the water scarcity, severely affecting agricultural productivity. Plans to restore cultivation and other ordinary activities were thwarted when unexpected heavy rainfall battered the city in December 2020. This severe weather event led to devastating floods, slowly eroding the homes of residents and prompting mass displacement. The floodwaters swept away properties much like how houses get carried away downstream by a rushing river. As the year drew to a close, Vancouver was left reeling from the destruction, a stark antithesis to the bustling metropolis it once was, similar to how a dark, stormy night contrasts with a clear, sunny day.",
-        "Question": "How long did Vancouver grapple with water scarcity before the unexpected heavy rainfall in December 2020?",
-        "Answer Choices": ["8 months", "16 months", "21 months", "29 months"],
-        "Answer": "21 months",
-        "Reasoning": "The water scarcity began in April 2019 and the heavy rainfall occurred in December 2020. This gives a total of 21 months in between these two events."
-    },
-    {
-        "Story": "Vancouver, an urban hub nestled within Canada, had to grapple with the severe consequences of climate change. When April 2019 dawned, the rising temperature instigated a rapid melting of glaciers nearby, causing a significant shortage of water as summer approached. After a grueling four months, by the end of July, they were barely managing to deal with the water scarcity, severely affecting agricultural productivity. Plans to restore cultivation and other ordinary activities were thwarted when unexpected heavy rainfall battered the city in December 2020. This severe weather event led to devastating floods, slowly eroding the homes of residents and prompting mass displacement. The floodwaters swept away properties much like how houses get carried away downstream by a rushing river. As the year drew to a close, Vancouver was left reeling from the destruction, a stark antithesis to the bustling metropolis it once was, similar to how a dark, stormy night contrasts with a clear, sunny day.",
-        "Question": "When was the city battered with unexpected heavy rainfall?",
-        "Answer Choices": ["April 2020", "July 2020", "October 2020", "December 2020"],
-        "Answer": "December 2020",
-        "Reasoning": "The narrative directly mentions that 'unexpected heavy rainfall battered the city in December 2020.' Hence, the correct answer is December 2020."
-    },
-    {
-        "Story": "Vancouver, an urban hub nestled within Canada, had to grapple with the severe consequences of climate change. When April 2019 dawned, the rising temperature instigated a rapid melting of glaciers nearby, causing a significant shortage of water as summer approached. After a grueling four months, by the end of July, they were barely managing to deal with the water scarcity, severely affecting agricultural productivity. Plans to restore cultivation and other ordinary activities were thwarted when unexpected heavy rainfall battered the city in December 2020. This severe weather event led to devastating floods, slowly eroding the homes of residents and prompting mass displacement. The floodwaters swept away properties much like how houses get carried away downstream by a rushing river. As the year drew to a close, Vancouver was left reeling from the destruction, a stark antithesis to the bustling metropolis it once was, similar to how a dark, stormy night contrasts with a clear, sunny day.",
-        "Question": "How long did it take for the city to start reeling from the destruction post the heavy rainfall?",
-        "Answer Choices": ["Immediately", "One month", "Three months", "Six months"],
-        "Answer": "Immediately",
-        "Reasoning": "From the text 'This severe weather event led to devastating floods, slowly eroding the homes..', it is inferred that the destructive effects of the floods started immediately."
-    },
-    {
-        "Story": "Vancouver, an urban hub nestled within Canada, had to grapple with the severe consequences of climate change. When April 2019 dawned, the rising temperature instigated a rapid melting of glaciers nearby, causing a significant shortage of water as summer approached. After a grueling four months, by the end of July, they were barely managing to deal with the water scarcity, severely affecting agricultural productivity. Plans to restore cultivation and other ordinary activities were thwarted when unexpected heavy rainfall battered the city in December 2020. This severe weather event led to devastating floods, slowly eroding the homes of residents and prompting mass displacement. The floodwaters swept away properties much like how houses get carried away downstream by a rushing river. As the year drew to a close, Vancouver was left reeling from the destruction, a stark antithesis to the bustling metropolis it once was, similar to how a dark, stormy night contrasts with a clear, sunny day.",
-        "Question": "For how many months did the water scarcity last?",
-        "Answer Choices": ["Four months", "Nine months", "Fifteen months", "Twenty-one months"],
-        "Answer": "Twenty-one months",
-        "Reasoning": "The water scarcity started in April of 2019 and ended with the flood rains in December 2020 which is a total of twenty one months."
-    },
-    {
-        "Story": "Vancouver, an urban hub nestled within Canada, had to grapple with the severe consequences of climate change. When April 2019 dawned, the rising temperature instigated a rapid melting of glaciers nearby, causing a significant shortage of water as summer approached. After a grueling four months, by the end of July, they were barely managing to deal with the water scarcity, severely affecting agricultural productivity. Plans to restore cultivation and other ordinary activities were thwarted when unexpected heavy rainfall battered the city in December 2020. This severe weather event led to devastating floods, slowly eroding the homes of residents and prompting mass displacement. The floodwaters swept away properties much like how houses get carried away downstream by a rushing river. As the year drew to a close, Vancouver was left reeling from the destruction, a stark antithesis to the bustling metropolis it once was, similar to how a dark, stormy night contrasts with a clear, sunny day.",
-        "Question": "Where is Vancouver located?",
-        "Answer Choices": ["In the United States", "Within Canada", "In Europe", "In Australia"],
-        "Answer": "Within Canada",
-        "Reasoning": "The story mentions that Vancouver is an urban hub nestled within Canada."
-    },
-    {
-        "Story": "Vancouver, an urban hub nestled within Canada, had to grapple with the severe consequences of climate change. When April 2019 dawned, the rising temperature instigated a rapid melting of glaciers nearby, causing a significant shortage of water as summer approached. After a grueling four months, by the end of July, they were barely managing to deal with the water scarcity, severely affecting agricultural productivity. Plans to restore cultivation and other ordinary activities were thwarted when unexpected heavy rainfall battered the city in December 2020. This severe weather event led to devastating floods, slowly eroding the homes of residents and prompting mass displacement. The floodwaters swept away properties much like how houses get carried away downstream by a rushing river. As the year drew to a close, Vancouver was left reeling from the destruction, a stark antithesis to the bustling metropolis it once was, similar to how a dark, stormy night contrasts with a clear, sunny day.",
-        "Question": "What geographical feature is located near Vancouver that melted in April 2019?",
-        "Answer Choices": ["Glaciers", "Mountains", "Deserts", "Oceans"],
+        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.",
+        "Question": "What geographic feature has been melting due to rising temperatures in Switzerland?",
+        "Answer Choices": ["Rivers", "Forests", "Mountain peaks", "Lakes"],
         "Answer": "Glaciers",
-        "Reasoning": "The story mentions that with the dawn of April 2019, the rising temperature instigated a rapid melting of glaciers nearby."
+        "Reasoning": "The story mentions that rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources."
     },
     {
-        "Story": "Vancouver, an urban hub nestled within Canada, had to grapple with the severe consequences of climate change. When April 2019 dawned, the rising temperature instigated a rapid melting of glaciers nearby, causing a significant shortage of water as summer approached. After a grueling four months, by the end of July, they were barely managing to deal with the water scarcity, severely affecting agricultural productivity. Plans to restore cultivation and other ordinary activities were thwarted when unexpected heavy rainfall battered the city in December 2020. This severe weather event led to devastating floods, slowly eroding the homes of residents and prompting mass displacement. The floodwaters swept away properties much like how houses get carried away downstream by a rushing river. As the year drew to a close, Vancouver was left reeling from the destruction, a stark antithesis to the bustling metropolis it once was, similar to how a dark, stormy night contrasts with a clear, sunny day.",
-        "Question": "During which month did heavy rainfall lead to devastating floods in Vancouver?",
-        "Answer Choices": ["April 2019", "July 2019", "December 2020", "No specific month mentioned"],
-        "Answer": "December 2020",
-        "Reasoning": "The story mentions that unexpected heavy rainfall battered the city in December 2020."
+        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.",
+        "Question": "What was the main consequence of the snow drought in the ski resort town of Zermatt?",
+        "Answer Choices": ["Reduced tourism", "Melting glaciers", "Forest fires", "Freshwater shortage"],
+        "Answer": "Reduced tourism",
+        "Reasoning": "The story mentions that the snow drought in the ski resort town of Zermatt caused severe economic consequences for local businesses and tourism."
     },
     {
-        "Story": "Vancouver, an urban hub nestled within Canada, had to grapple with the severe consequences of climate change. When April 2019 dawned, the rising temperature instigated a rapid melting of glaciers nearby, causing a significant shortage of water as summer approached. After a grueling four months, by the end of July, they were barely managing to deal with the water scarcity, severely affecting agricultural productivity. Plans to restore cultivation and other ordinary activities were thwarted when unexpected heavy rainfall battered the city in December 2020. This severe weather event led to devastating floods, slowly eroding the homes of residents and prompting mass displacement. The floodwaters swept away properties much like how houses get carried away downstream by a rushing river. As the year drew to a close, Vancouver was left reeling from the destruction, a stark antithesis to the bustling metropolis it once was, similar to how a dark, stormy night contrasts with a clear, sunny day.",
-        "Question": "What natural disaster affected Vancouver at the close of 2020?",
-        "Answer Choices": ["Earthquake", "Volcanic Eruption", "Floods", "Wildfires"],
-        "Answer": "Floods",
-        "Reasoning": "The story tells us that unexpected heavy rainfall led to devastating floods."
+        "Story": "In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.",
+        "Question": "When did the drought conditions severely impact agricultural production?",
+        "Answer Choices": ["April 2019", "April 2020", "December 2019", "December 2020"],
+        "Answer": "April 2019",
+        "Reasoning": "The story states that by April 2019, rising temperatures caused the glaciers to melt, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region."
     },
     {
-        "Story": "Vancouver, an urban hub nestled within Canada, had to grapple with the severe consequences of climate change. When April 2019 dawned, the rising temperature instigated a rapid melting of glaciers nearby, causing a significant shortage of water as summer approached. After a grueling four months, by the end of July, they were barely managing to deal with the water scarcity, severely affecting agricultural productivity. Plans to restore cultivation and other ordinary activities were thwarted when unexpected heavy rainfall battered the city in December 2020. This severe weather event led to devastating floods, slowly eroding the homes of residents and prompting mass displacement. The floodwaters swept away properties much like how houses get carried away downstream by a rushing river. As the year drew to a close, Vancouver was left reeling from the destruction, a stark antithesis to the bustling metropolis it once was, similar to how a dark, stormy night contrasts with a clear, sunny day.",
-        "Question": "What condition was Vancouver left in at the end of the year?",
-        "Answer Choices": ["A bustling metropolis", "A thriving agricultural hub", "A city in destruction due to flooding", "A desert due to severe heat"],
-        "Answer": "A city in destruction due to flooding",
-        "Reasoning": "The story describes at the end that Vancouver was left reeling from the destruction of devastating floods, in contrast to its original bustling metropolis state."
+        "Story": "In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.",
+        "Question": "What event caused the property damage and displacement of residents?",
+        "Answer Choices": ["Rising temperatures", "Melting glaciers", "Intense rainfall events", "Increased water scarcity"],
+        "Answer": "Intense rainfall events",
+        "Reasoning": "The story states that in the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents."
+    },
+    {
+        "Story": "In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.",
+        "Question": "When did the glaciers in nearby mountains melt at an alarming rate?",
+        "Answer Choices": ["April 2019", "April 2020", "December 2019", "December 2020"],
+        "Answer": "April 2019",
+        "Reasoning": "The story states that by April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate."
+    },
+    {
+        "Story": "In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.",
+        "Question": "Which season experienced increased water scarcity due to melting glaciers?",
+        "Answer Choices": ["Winter", "Spring", "Summer", "Autumn"],
+        "Answer": "Summer",
+        "Reasoning": "The story states that rising temperatures caused the glaciers to melt, leading to increased water scarcity during the summer months."
+    },
+    {
+        "Story": "In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.",
+        "Question": "When did the widespread flooding occur?",
+        "Answer Choices": ["April 2019", "April 2020", "December 2019", "December 2020"],
+        "Answer": "Winter of 2020",
+        "Reasoning": "The story states that in the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents."
+    },
+    {
+        "Story":"In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.",
+        "Question":"Which factor led to increased water scarcity during the summer months in Vancouver?",
+        "Answer Choices":["Alarming rate of glacier melting", "Unusually intense rainfall events", "Severe drought conditions", "Rising temperatures"],
+        "Answer":"Alarming rate of glacier melting",
+        "Reasoning":"The story states that rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate. This led to increased water scarcity during the summer months in Vancouver."
+    },
+    {
+        "Story":"In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.",
+        "Question":"Which event caused property damage and displacement of residents in Vancouver?",
+        "Answer Choices":["Rising temperatures", "Severe drought conditions", "Unusually intense rainfall events", "Increased water scarcity"],
+        "Answer":"Unusually intense rainfall events",
+        "Reasoning":"The story mentions that unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents in Vancouver."
+    },
+    {
+        "Story":"In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.",
+        "Question":"When did the severe drought conditions impact agricultural production in the region?",
+        "Answer Choices":["April 2019", "Winter 2020", "Summer months", "No impact on agricultural production"],
+        "Answer":"Summer months",
+        "Reasoning":"The story states that the drought conditions severely impacted agricultural production in the region during the summer months."
+    },
+    {
+        "Story":"In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.",
+        "Question":"What was the impact of rising temperatures on the glaciers in nearby mountains?",
+        "Answer Choices":["Increased water scarcity", "Severe drought conditions", "Widespread flooding", "Alarming rate of melting"],
+        "Answer":"Alarming rate of melting",
+        "Reasoning":"The story mentions that rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate."
+    },
+    {
+        "Story":"In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.",
+        "Question":"What were the effects of drought conditions on agricultural production in the region?",
+        "Answer Choices":["Increased water scarcity", "Alarming rate of glacier melting", "Widespread flooding", "Severe impact"],
+        "Answer":"Severe impact",
+        "Reasoning":"The story states that drought conditions severely impacted agricultural production in the region, indicating a severe impact on agricultural production."
+    },
+    {
+        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.",
+        "Question": "When did the extreme heatwaves occur in Mumbai?",
+        "Answer Choices": ["December 2017", "2018", "2019", "Before 2017"],
+        "Answer": "2018",
+        "Reasoning": "The extreme heatwaves occurred in the region in 2018, according to the information provided in the story."
+    },
+    {
+        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.",
+        "Question": "Which year experienced severe drought followed by flash floods and landslides?",
+        "Answer Choices": ["December 2017", "2018", "2019", "Before 2017"],
+        "Answer": "2019",
+        "Reasoning": "According to the story, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides."
+    },
+    {
+        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.",
+        "Question": "When did the rising sea levels cause frequent coastal flooding?",
+        "Answer Choices": ["December 2017", "2018", "2019", "Before 2017"],
+        "Answer": "December 2017",
+        "Reasoning": "According to the story, by December 2017, rising sea levels led to frequent coastal flooding."
+    },
+    {
+        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.",
+        "Question": "What were the impacts of rising sea levels in Mumbai?",
+        "Answer Choices": ["Frequent coastal flooding", "Extreme heatwaves", "Severe drought", "Erratic rainfall patterns"],
+        "Answer": "Frequent coastal flooding",
+        "Reasoning": "The impacts of rising sea levels in Mumbai were frequent coastal flooding, according to the story."
+    },
+    {
+        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.",
+        "Question": "When did the monsoon season with erratic rainfall patterns occur?",
+        "Answer Choices": ["December 2017", "2018", "2019", "Before 2017"],
+        "Answer": "2019",
+        "Reasoning": "The monsoon season with erratic rainfall patterns occurred in 2019, as mentioned in the story."
+    },
+    {
+        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.",
+        "Question": "Which event caused severe drought in Mumbai?",
+        "Answer Choices": ["Coastal flooding", "Extreme heatwaves", "Erratic rainfall patterns", "Flash floods and landslides"],
+        "Answer": "Erratic rainfall patterns",
+        "Reasoning": "The monsoon season in 2019 was characterized by erratic rainfall patterns, which resulted in severe drought in Mumbai."
+    },
+    {
+        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.",
+        "Question": "What was the effect of rising sea levels in Mumbai?",
+        "Answer Choices": ["Extreme heatwaves", "Coastal flooding", "Erratic rainfall patterns", "Flash floods and landslides"],
+        "Answer": "Coastal flooding",
+        "Reasoning": "Rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents in Mumbai."
+    },
+    {
+        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.",
+        "Question": "What caused the breaking of temperature records in Mumbai?",
+        "Answer Choices": ["Extreme heatwaves", "Coastal flooding", "Erratic rainfall patterns", "Flash floods and landslides"],
+        "Answer": "Extreme heatwaves",
+        "Reasoning": "The breaking of temperature records in Mumbai was caused by extreme heatwaves that swept through the region."
+    },
+    {
+        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.",
+        "Question": "Which event resulted in flash floods and landslides in Mumbai?",
+        "Answer Choices": ["Coastal flooding", "Extreme heatwaves", "Erratic rainfall patterns", "Severe drought"],
+        "Answer": "Erratic rainfall patterns",
+        "Reasoning": "The erratic rainfall patterns during the monsoon season in 2019 resulted in flash floods and landslides in Mumbai."
+    },
+    {
+        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.",
+        "Question": "What did the events in Mumbai highlight the need for?",
+        "Answer Choices": ["Coastal flooding", "Sustainable practices", "Extreme heatwaves", "Erratic rainfall patterns"],
+        "Answer": "Sustainable practices",
+        "Reasoning": "The events in Mumbai highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change."
     }
 ]
