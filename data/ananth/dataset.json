@@ -14,7 +14,7 @@
     {
         "Answer Choices": [
             "Devastating earthquake", 
-            "Incessant rains", 
+            "Flood caused by incessant rains", 
             "Wildfire", 
             "Chilling winter winds"
         ], 
@@ -939,7 +939,7 @@
         "Answer Choices": [
             "Rivers", 
             "Forests", 
-            "Mountain peaks", 
+            "Glaciers", 
             "Lakes"
         ], 
         "Answer": "Glaciers", 
@@ -1010,9 +1010,9 @@
     {
         "Answer Choices": [
             "April 2019", 
-            "April 2020", 
+            "Summer of 2020", 
             "December 2019", 
-            "December 2020"
+            "Winter of 2020"
         ], 
         "Answer": "Winter of 2020", 
         "Story": "In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.", 
