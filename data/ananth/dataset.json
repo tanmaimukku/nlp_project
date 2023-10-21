@@ -4920,7 +4920,7 @@
         "Reasoning": "The story reveals that on the first day, the group was in Rome where they indulged in traditional Italian cuisine at a local trattoria."
     }, 
     {
-        "Answer choices": [
+        "Answer Choices": [
             "Visiting the Peace Memorial Park", 
             "Skiing in Niseko", 
             "Exploring Osaka Castle and eating street food in Dotonbori", 
@@ -4932,7 +4932,7 @@
         "Reasoning": "In the story it's mentioned that they started in Tokyo on the first day, exploring Shibuya and eating sushi."
     }, 
     {
-        "Answer choices": [
+        "Answer Choices": [
             "Day 1", 
             "Day 2", 
             "Day 3", 
@@ -4944,7 +4944,7 @@
         "Reasoning": "The story states that on day 3, the family went to Hiroshima."
     }, 
     {
-        "Answer choices": [
+        "Answer Choices": [
             "1 Day", 
             "2 Days", 
             "3 Days", 
@@ -4956,7 +4956,7 @@
         "Reasoning": "According to the story, days 4 and 5 were spent in Hokkaido, totaling to 2 days."
     }, 
     {
-        "Answer choices": [
+        "Answer Choices": [
             "Osaka", 
             "Kyoto", 
             "Hiroshima", 
@@ -4968,7 +4968,7 @@
         "Reasoning": "From days 4 and 5, the family were in Hokkaido and then the story mentions their next stop as Osaka."
     }, 
     {
-        "Answer choices": [
+        "Answer Choices": [
             "Kyoto", 
             "Tokyo", 
             "Osaka", 
