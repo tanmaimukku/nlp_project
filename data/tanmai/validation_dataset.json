@@ -1,0 +1,962 @@
+[
+    {
+        "Story": "In February, the Chinese New Year celebrations in Beijing were a dazzling spectacle, with fireworks lighting up the night over the Forbidden City. By March, the Lantern Festival was celebrated in Shanghai, the lantern-lit skyline reflecting beautifully in the Huangpu River. In April, the Peony Festival in Luoyang was particularly spectacular, the captivating flowers in full bloom embellishing the city's landscapes. Come June, the Duanwu Festival, also known as the Dragon Boat Festival, took place in Hong Kong, the vibrant dragon boat races attracting thousands of spectators. Finally, in August, the Ghost Festival, a solemn occasion respected by all, was observed across rural areas of China, with elaborate rituals performed to honour the departed.",
+        "Question": "Which festival was celebrated between the Chinese New Year and the Peony Festival?",
+        "Answer choices": [
+            "Lantern Festival",
+            "Dragon Boat Festival",
+            "Ghost Festival",
+            "No festival"
+        ],
+        "Answer": "Lantern Festival",
+        "Reasoning": "The Lantern Festival in Shanghai was celebrated in March, between the Chinese New Year in February and the Peony festival in April."
+    },
+    {
+        "Story": "In 2010, the Chinese Art Festival commenced in Beijing, attracting artists from all over the country. The following year in 2011, the festival moved to Shanghai, only to return to Beijing in 2012 for its special 3rd edition. However, it was announced that the 2013 festival would be held in Yunnan, a beautiful southern province known for its various art forms. The festival in Yunnan showed huge success, leading organizers to hold it there for 2 consecutive years, in 2013 and 2014. Only to then move it back to Beijing in 2015, where it had all began, thus establishing a cyclical rotation.",
+        "Question": "Which year saw the festival taking place in the same location as the prior year?",
+        "Answer choices": [
+            "2013",
+            "2014",
+            "2015",
+            "2016"
+        ],
+        "Answer": "2014",
+        "Reasoning": "As per the story, the festival was held in the same city Yunnan for both years 2013 and 2014."
+    },
+    {
+        "Story": "In the serene coastal town of Lighthouse Bay, a yearly event known as 'Tidal Tales' takes center stage. Every summer solstice, on June 21st, the townspeople gather at the beachfront. Elders narrate ancient tales of sea monsters, mermaids, and legendary sailors as the waves rhythmically crash in the background. It's said that the event started when a sailor named Captain Merrick returned from an expedition, bringing with him a sea creature's relic. Nowadays, children compete in crafting intricate sand sculptures, inspired by the stories, making it a blend of history and imagination.",
+        "Question": "What do children now do during the 'Tidal Tales' event?",
+        "Answer choices": [
+            "Listen to the elder's tales",
+            "Go for a swim",
+            "Compete in crafting intricate sand sculptures",
+            "Search for sea creature relics"
+        ],
+        "Answer": "Compete in crafting intricate sand sculptures",
+        "Reasoning": "The story notes that nowadays, children compete in crafting intricate sand sculptures during the event."
+    },
+    {
+        "Story": "In a small town in Japan, a renowned artist announced a chain of artistic events that would take place throughout the country starting from Tokyo, transitioning to Kyoto, and finally culminating in Osaka. The first event, a modern art exhibition, was staged in Tokyo on January 15. On April 10, the artist then put together a calligraphy workshop in Kyoto, immersiving the attendees in the deep traditions of Japanese orthography. Finally, on July 1, the series of events was concluded with a grand Origami festival in Osaka, that celebrated the intricacies of paper folding art. As the year drew to a close, the artist reflected upon the journey that effectively promoted Japan's art forms, in different cities and across different times.",
+        "Question": "Which month did the artist hold the second event in the chain?",
+        "Answer choices": [
+            "January",
+            "April",
+            "July",
+            "None of the above"
+        ],
+        "Answer": "April",
+        "Reasoning": "The story states that the calligraphy workshop in Kyoto, which is the second event, was held on April 10."
+    },
+    {
+        "Story": "In 776 BC, the ancient city of Olympia, nestled in the Peloponnese peninsula, inaugurated the first Olympic Games. Nearly five centuries later, in 44 BC, the streets of Rome were shocked by the assassination of Julius Caesar. By the 15th century AD, Europe had transitioned from the Dark Ages to the Renaissance, with Florence at its heart. The following century witnessed the brave sailors crossing the Atlantic, discovering a New World in 1492. In 1789, the French Revolution's winds started to blow in Paris, reshaping the political landscape of Europe.",
+        "Question": "Which event happened first: the discovery of the New World or the start of the French Revolution?",
+        "Answer choices": [
+            "Discovery of the New World",
+            "Start of the French Revolution",
+            "Both occurred at the same time",
+            "Neither event took place"
+        ],
+        "Answer": "Discovery of the New World",
+        "Reasoning": "The story states that the New World was discovered in 1492, while the French Revolution started in 1789. Thus, the discovery of the New World happened first."
+    },
+    {
+        "Story": "In mid 1776, Thomas Jefferson was in Philadelphia drafting the declaration of independence, while George Washington was in New York preparing to confront the British forces. After signing the declaration in July, Jefferson moved to Virginia to assist in the local resistance. In August, Washington's troops engaged in the Battle of Long Island. Months later, in December, Washington led his troops across the Delaware River for a surprise attack on the British. By early 1777, Jefferson wrote the Virginia Statute for Religious Freedom while Washington was leading his troops to a victory in Princeton.",
+        "Question": "Where did George Washington lead a surprise attack?",
+        "Answer choices": [
+            "New York",
+            "Philadelphia",
+            "Virginia",
+            "Delaware"
+        ],
+        "Answer": "Delaware",
+        "Reasoning": "The story mentions Washington led his troops across the Delaware River for a surprise attack on the British."
+    },
+    {
+        "Story": "In 1969, amidst a cultural revolution, the iconic music festival Woodstock took place in Bethel, New York. Lasting for three days, from August 15 to August 18, it became a symbol of the 1960s counterculture movement. Acts like Jimi Hendrix and Janis Joplin performed, drawing a crowd of nearly half a million people. Despite minor hiccups, the festival was noted for its peaceful vibe. The event was later commemorated in documentaries and songs.",
+        "Question": "Which artist performed at Woodstock in 1969?",
+        "Answer choices": [
+            "Elvis Presley",
+            "Jimi Hendrix",
+            "The Beatles",
+            "Frank Sinatra"
+        ],
+        "Answer": "Jimi Hendrix",
+        "Reasoning": "The story states that acts like Jimi Hendrix performed at Woodstock."
+    },
+    {
+        "Story": "In the summer of 1968, a group of civil rights protesters gathered in Washington D.C. to advocate for racial equality in America. Over the course of four days, from July 28 to July 31, several speeches were delivered, including Martin Luther King's 'I Have a Dream' speech from the steps of the Lincoln Memorial. Despite the sweltering heat, the crowd remained peaceful and were respectful, inspiring people around the nation. The event made headlines worldwide and contributed to societal changes. It was later remembered in history books as a milestone in the Civil Rights Movement.",
+        "Question": "Who gave a notable speech during the 1968 civil rights protest in Washington D.C.?",
+        "Answer choices": [
+            "John F. Kennedy",
+            "Rosa Parks",
+            "Malcolm X",
+            "Martin Luther King"
+        ],
+        "Answer": "Martin Luther King",
+        "Reasoning": "The story states that Martin Luther King's 'I Have a Dream' speech was given at the protest."
+    },
+    {
+        "Story": "In the early dawn of 1775, the first shots of the American Revolution rang out in Massachusetts. In a swift reaction, the Continental Congress rallied in Philadelphia later that year, drafting the Olive Branch Petition and making a final attempt at peace with Britain. By 1781 however, the war had traveled southwards, culminating in the decisive Battle of Yorktown in Virginia, effectively ending the conflict. In the following year, the 1782 Treaty of Paris was negotiated in France. After final ratification by the involved parties, the treaty came into effect in early 1783, marking the official end of the Revolutionary War.",
+        "Question": "Which event took place after the Battle of Yorktown but before the effectiveness of Treaty of Paris?",
+        "Answer choices": [
+            "The Revolutionary War began",
+            "The Olive Branch petition was drafted",
+            "The start of the conflict",
+            "The negotiation of the Treaty of Paris"
+        ],
+        "Answer": "The negotiation of the Treaty of Paris",
+        "Reasoning": "After the Battle of Yorktown, the Treaty of Paris was negotiated before it came into effect, marking the official end of the war."
+    },
+    {
+        "Story": "In January, the Most Holy Church located in Detroit, Michigan, hosted a grand commemoration of their patron saint. In March, the same congregation traveled to Los Angeles, California, to join the nationwide prayer meet for inter-faith harmony. In July, the church congregants then journeyed to Houston, Texas, where they took part in a significant Bible Convention. During Thanksgiving in November, they returned to their Detroit church to participate in a local community Thanksgiving potluck. Finally, in late December, they made their annual pilgrimage to a historic church in Bethlehem, Pennsylvania, where they spent their Christmas praying and spreading the spirit of benevolence.",
+        "Question": "What was the event that the church members attended after the Thanksgiving potluck?",
+        "Answer choices": [
+            "Nationwide prayer meet in Los Angeles",
+            "Christmas prayer in Bethlehem",
+            "Bible Convention in Houston",
+            "Commemoration of their patron saint"
+        ],
+        "Answer": "Christmas prayer in Bethlehem",
+        "Reasoning": "According to the story, after participating in the Thanksgiving potluck in the Detroit church in November, church members visited a historic church in Bethlehem in late December."
+    },
+    {
+        "Story": "In the bustling city of Nova, every winter, a unique festival called the 'Lumina Fest' is celebrated. From December 10th to December 15th, the main streets are adorned with lanterns, emitting a warm glow against the cold backdrop. The Central Plaza hosts the 'Dance of Lights', where performers wield illuminated instruments. This ritual is believed to beckon the spirits of past ancestors to bless the city. While the event retains its traditional essence, recently, a tech exhibition featuring light-based gadgets became a part of the fest, blending the past and the present.",
+        "Question": "What is the primary purpose of the 'Dance of Lights' ritual?",
+        "Answer choices": [
+            "To provide entertainment",
+            "To attract tourists",
+            "To beckon the spirits of past ancestors",
+            "To celebrate the invention of electricity"
+        ],
+        "Answer": "To beckon the spirits of past ancestors",
+        "Reasoning": "The story notes that the 'Dance of Lights' ritual is believed to beckon the spirits of past ancestors to bless the city."
+    },
+    {
+        "Story": "In 1653, the holy community in Chartres organized a massive spiritual gathering which was very transformative. Then in 1708, they moved to Lourdes and carried out a magnificent spiritual fair there, which continued for years. In 1813, sensing the need for religious diversity, the community embarked on a voyage to Paris to establish an interfaith council. By the year 1902, they had successfully implemented several interfaith programs in different parts of Paris. The year 1955 saw them returning to Lourdes to commemorate their first spiritual fair.",
+        "Question": "Which French location did the community return to in 1955?",
+        "Answer choices": [
+            "Paris",
+            "Lourdes",
+            "Chartres",
+            "Bordeaux"
+        ],
+        "Answer": "Lourdes",
+        "Reasoning": "The story says that in 1955, the community returned to Lourdes to commemorate their first spiritual fair."
+    },
+    {
+        "Story": "Under an oppressive regime, a large protest movement began to form in the city of Arab Springi in 2010. It began in late December and continued for days, eventually turning into weeks of continuous protests. By February 2011, it had evolved into a full-blown revolution. Despite governmental attempts to subdue the movement through force and propaganda, it continued to gain ground. The demonstrations, strikes, boycotts, and marches led to the eventual downfall of the regime.",
+        "Question": "When did the protest movement evolve into a full revolution?",
+        "Answer choices": [
+            "February 2011",
+            "December 2010",
+            "January 2011",
+            "March 2011"
+        ],
+        "Answer": "February 2011",
+        "Reasoning": "The story states that by February 2011, the protest movement had evolved into a full-blown revolution."
+    },
+    {
+        "Story": "In 1989, the Tiananmen Square protests in Beijing, China captured the world's attention. Thousands of Chinese citizens gathered in the square in April to demand political reform. As the peaceful demonstration continued into June, the government responded with martial law. The resulting violence, which occurred primarily on June 3rd and 4th, led to numerous casualties. The precise number of deaths remains unknown and contentious, effectively shrouded in the silence enforced by censorship.",
+        "Question": "What did the Chinese citizens demand during the Tiananmen Square protests?",
+        "Answer choices": [
+            "Economic restructuring",
+            "Political reform",
+            "Cultural revolution",
+            "Religious freedom"
+        ],
+        "Answer": "Political reform",
+        "Reasoning": "The story explains that the Chinese citizens gathered in the square to demand political reform."
+    },
+    {
+        "Story": "In the mid-20th century, South Africa was gripped by the oppressive policy of apartheid, a system of institutionalized racial segregation. Nelson Mandela, a key anti-apartheid activist, was arrested in 1962 and imprisoned for 27 years. During these years, the African National Congress (ANC) and other groups organized protests, boycotts, and strikes against the regime. Global pressure mounted on South Africa, leading to escalating internal tensions. By 1994, apartheid was dismantled, and South Africa witnessed its first multiracial elections, ushering Mandela as the president.",
+        "Question": "For how many years was Nelson Mandela imprisoned?",
+        "Answer choices": [
+            "10 years",
+            "15 years",
+            "27 years",
+            "32 years"
+        ],
+        "Answer": "27 years",
+        "Reasoning": "The story states that Nelson Mandela was imprisoned for 27 years."
+    },
+    {
+        "Story": "In the spring of 2019, the annual Procession of the Holy Blood event took place in the city of Bruges, Belgium. This religious event, which traditionally takes place on Ascension Day, featured a public display of a vial containing a cloth with what is believed to be the Holy Blood of Christ. From Bruges, the spiritual journey then moved to Ghent in autumn, where the believers participated in the holy mass at Saint Bavo\u2019s Cathedral and the evening prayer at the Begijnhof. The next event was scheduled in Brussels in the winter, specifically at the Basilica of the Sacred Heart, a key religious site. The religious journey culminated in spring 2020 in Antwerp at the Cathedral of Our Lady, where the believers celebrated the resurrection of Christ on Easter Sunday.",
+        "Question": "Where did the believers pray in the evening while in Ghent?",
+        "Answer choices": [
+            "Basilica of the Sacred Heart",
+            "Saint Bavo\u2019s Cathedral",
+            "Begijnhof",
+            "Cathedral of Our Lady"
+        ],
+        "Answer": "Begijnhof",
+        "Reasoning": "The story mentions that while in Ghent, the believers participated in the evening prayer at the Begijnhof."
+    },
+    {
+        "Story": "Diana, a devout Christian, embarked on a spiritual pilgrimage journey. It began in Nazareth, where she participated in the annual feast of Annunciation and engaged deeply in spiritual sessions held in March. Later, she traveled to Rome in June to witness the papal Mass that happens every Pentecost week. In January, she found herself soaking in the quiet peace of prayer at the Holy Sepulchre in Jerusalem. At the end of her journey in December, Diana visited Vatican City for the grand Christmas Eve mass.",
+        "Question": "In which month did Diana pray at the Holy Sepulchre in Jerusalem?",
+        "Answer choices": [
+            "March",
+            "June",
+            "January",
+            "December"
+        ],
+        "Answer": "January",
+        "Reasoning": "The story provides temporal order of the events. Diana prayed at the Holy Sepulchre in Jerusalem in the month of January."
+    },
+    {
+        "Story": "In the late summer of 1965, in the heart of New Delhi, a massive gathering involving millions of pilgrims ensued for Ashura, a significant Muslim commemoration. As autumn set in, the spiritually charged event traveled to Varanasi to witness the auspicious Ganges Aarti, a Hindu ritual. During winter, they journeyed to Punjab to partake in the sacred Gurpurab of the Sikhs. With the advent of spring, the crowd migrated to Puri, Odisha, for the famed Ratha-Yatra, a chariot festival of Lord Jagannath. The series of religious events concluded in the summer of 1966 in Ladakh with the annual Hemis Festival, a sacred Buddhist ceremony.",
+        "Question": "Where did the first religious event in the series occur?",
+        "Answer choices": [
+            "New Delhi",
+            "Varanasi",
+            "Puri, Odisha",
+            "Ladakh"
+        ],
+        "Answer": "New Delhi",
+        "Reasoning": "The first event in the series was the Ashura, which took place in New Delhi."
+    },
+    {
+        "Story": "In 2010, a grand Catholic convention was held in Melbourne, Australia. After three years, a monumental Buddha statue was consecrated in a majestic ceremony in Brisbane. In 2015, the Hindu community of Sydney hosted a grand Diwali celebration. The following year, Aboriginal elders conducted a spiritual gathering in the heart of the Outback. By 2022, a national conference of all religions was hosted in Canberra, with representatives from every state attending.",
+        "Question": "Where would the event likely be held six years after the Aboriginal elders' spiritual gathering in the Outback?",
+        "Answer choices": [
+            "Melbourne",
+            "Brisbane",
+            "Sydney",
+            "Canberra"
+        ],
+        "Answer": "Canberra",
+        "Reasoning": "The Aboriginal elders conducted a spiritual gathering in the Outback in 2016. Adding 6 years would bring us to 2022, the year when a national conference of all religions was hosted in Canberra."
+    },
+    {
+        "Story": "In the spiritual heartland of Saudi Arabia, the city of Mecca, the annual Hajj pilgrimage was held in the first week of Dhul Hijjah. Following this, numerous spiritual retreats took place throughout the country over the second and third week of Dhul Hijjah. By the beginning of Muharram, several religious scholars held conferences in the major cities. During the second week of Muharram, smaller study circles began forming in towns across the country, that gradually dispersed to rural areas by the third week of the month.",
+        "Question": "Where did the Hajj pilgrimage take place?",
+        "Answer choices": [
+            "All throughout the country",
+            "Major cities",
+            "Mecca",
+            "Rural areas"
+        ],
+        "Answer": "Mecca",
+        "Reasoning": "The story mentions that the Hajj pilgrimage took place in the city of Mecca, which is the spiritual heartland of Saudi Arabia."
+    },
+    {
+        "Story": "Diana, a devout Christian, embarked on a spiritual pilgrimage journey. It began in Nazareth, where she participated in the annual feast of Annunciation and engaged deeply in spiritual sessions held in March. Later, she traveled to Rome in June to witness the papal Mass that happens every Pentecost week. In January, she found herself soaking in the quiet peace of prayer at the Holy Sepulchre in Jerusalem. At the end of her journey in December, Diana visited Vatican City for the grand Christmas Eve mass.",
+        "Question": "Which event marked the end of Diana's spiritual journey?",
+        "Answer choices": [
+            "Annual feast of Annunciation in Nazareth",
+            "Papal Mass in Rome",
+            "Prayer at the Holy Sepulchre in Jerusalem",
+            "Grand Christmas Eve mass in Vatican City"
+        ],
+        "Answer": "Grand Christmas Eve mass in Vatican City",
+        "Reasoning": "The narrative described a sequence of religious events that Diana attended, with the grand Christmas Eve mass in Vatican City being the final event mentioned, marking the end of her journey."
+    },
+    {
+        "Story": "The American Revolution began in 1775 in the city of Lexington, Massachusetts. It then spread across the thirteen colonies in North America over the next eight years. In 1781, the colonists finally won their independence from Britain in Yorktown, Virginia. A few years later, in 1787, the United States Constitution was drafted in Philadelphia, Pennsylvania. Thus, the new nation was officially formed and recognized.",
+        "Question": "Where did the drafting of the constitution take place after the event of American Independence?",
+        "Answer choices": [
+            "Lexington, Massachusetts",
+            "Yorktown, Virginia",
+            "Across thirteen colonies",
+            "Philadelphia, Pennsylvania"
+        ],
+        "Answer": "Philadelphia, Pennsylvania",
+        "Reasoning": "The historical chronology shows that after the American War of Independence which ended in Yorktown, Virginia in 1781, the constitution was drafted in 1787 in Philadelphia, Pennsylvania. This suggests that Philadelphia is the place where the drafting of the constitution happened post-independence."
+    },
+    {
+        "Story": "In February, the Chinese New Year celebrations in Beijing were a dazzling spectacle, with fireworks lighting up the night over the Forbidden City. By March, the Lantern Festival was celebrated in Shanghai, the lantern-lit skyline reflecting beautifully in the Huangpu River. In April, the Peony Festival in Luoyang was particularly spectacular, the captivating flowers in full bloom embellishing the city's landscapes. Come June, the Duanwu Festival, also known as the Dragon Boat Festival, took place in Hong Kong, the vibrant dragon boat races attracting thousands of spectators. Finally, in August, the Ghost Festival, a solemn occasion respected by all, was observed across rural areas of China, with elaborate rituals performed to honour the departed.",
+        "Question": "Which city had a festival in the period before Luoyang?",
+        "Answer choices": [
+            "Shanghai",
+            "Beijing",
+            "Hong Kong",
+            "No cities"
+        ],
+        "Answer": "Shanghai",
+        "Reasoning": "The Lantern festival in Shanghai was celebrated in March, following which in April the Peony Festival was held in Luoyang."
+    },
+    {
+        "Story": "In the late 20th century, Indonesia faced one of its most significant political upheavals. Under the leadership of President Suharto, the nation had been under an authoritarian regime called the 'New Order' for three decades. However, by the late 1990s, economic turmoil and political unrest began to mount. Student-led protests erupted across the nation in 1998, demanding reforms and an end to the Suharto regime. In May of that year, Suharto resigned, leading to the Reformation era in Indonesia, which aimed to bring about greater democracy and political freedom.",
+        "Question": "In which year did Suharto resign as the president?",
+        "Answer choices": [
+            "1995",
+            "1998",
+            "2001",
+            "2005"
+        ],
+        "Answer": "1998",
+        "Reasoning": "The story mentions that Suharto resigned in May of 1998."
+    },
+    {
+        "Story": "In the spiritual heartland of Saudi Arabia, the city of Mecca, the annual Hajj pilgrimage was held in the first week of Dhul Hijjah. Following this, numerous spiritual retreats took place throughout the country over the second and third week of Dhul Hijjah. By the beginning of Muharram, several religious scholars held conferences in the major cities. During the second week of Muharram, smaller study circles began forming in towns across the country, that gradually dispersed to rural areas by the third week of the month.",
+        "Question": "What event occurred in the third week of Muharram?",
+        "Answer choices": [
+            "Spiritual retreats",
+            "Conferences by religious scholars",
+            "Annual Hajj pilgrimage",
+            "Study circles in rural areas"
+        ],
+        "Answer": "Study circles in rural areas",
+        "Reasoning": "According to the story, by the third week of Muharram, study circles had dispersed to rural areas."
+    },
+    {
+        "Story": "In the late 18th century, as the winds of change swept through the American colonies, a momentous event was on the horizon. Boston, Massachusetts became a focal point of dissent against the British Crown. It was here, in 1773, that a group of American colonists, frustrated with the imposed tea tax, staged the Boston Tea Party. Disguised as Native Americans, they boarded three British ships and dumped an entire shipment of tea into the harbor. This act of defiance escalated tensions, eventually leading to the American Revolutionary War.",
+        "Question": "Which city became a central location for opposition against the British during the late 18th century in the American colonies?",
+        "Answer choices": [
+            "New York City",
+            "Philadelphia",
+            "Boston",
+            "Charleston"
+        ],
+        "Answer": "Boston",
+        "Reasoning": "The story identifies Boston, Massachusetts as a focal point of dissent against the British Crown."
+    },
+    {
+        "Story": "In 2010, a wave of revolutions started in Iran in response to the contentious election results triggering a significant crackdown. These protests took place predominantly in the urban areas. In August, the protesters began to mobilize in Brazil against government corruption. Right then, in France, an intervention was made in labor reform, leading to major strikes and protests. By the end of the year, the movement spread its roots to North America with the Occupy Wall Street in the USA.",
+        "Question": "In which month did the protests begin in Brazil?",
+        "Answer choices": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Answer": "August",
+        "Reasoning": "The story specifies that the protests in Brazil started in the month of August."
+    },
+    {
+        "Story": "In 2001, a grand Sri Rama Navami festival took place at Bhadrachalam in Andhra Pradesh, where devotees from several regions came to participate. In 2002, the same festival was held on a much grander scale at the auspicious Tirupati temple. In 2003 the festival moved to the city of Vijayawada, attracting even more visitors than before. In 2004, the festival was held in the town of Srisailam, famous for its Mallikarjuna Jyotirlinga shrine. The significant growth and shift of the religious festival across various regions of Andhra Pradesh demonstrated the fervent devotion of the residents over the years.",
+        "Question": "In what city did the festival take place two years after it was held in Tirupati?",
+        "Answer choices": [
+            "Bhadrachalam",
+            "Vijayawada",
+            "Tirupati",
+            "Srisailam"
+        ],
+        "Answer": "Srisailam",
+        "Reasoning": "The festival was held at Tirupati temple in 2002, and moving forward by 2 years would take us to 2004, where the festival was held in Srisailam."
+    },
+    {
+        "Story": "During ancient times, John, a devoted Christian, embarked on a pilgrimage deep into the holy land. On the first month, he reached Bethlehem, where he partook in a midnight mass at a local cathedral. Months later, he journeyed to Jerusalem, paying homage at the sacred Western Wall where he prayed for his family's wellbeing. By the end of the year, he had completed his spiritual journey, eventually traveling to Rome to witness the Holy Father's Christmas midnight sermon at the Vatican.",
+        "Question": "Which spiritual event did John take part in first?",
+        "Answer choices": [
+            "Midnight mass at a cathedral in Bethlehem",
+            "Paying homage at the Western Wall",
+            "Witnessing the Holy Father's sermon",
+            "Praying for his family's wellbeing"
+        ],
+        "Answer": "Midnight mass at a cathedral in Bethlehem",
+        "Reasoning": "The story mentions that John first took part in a midnight mass at a local cathedral in Bethlehem."
+    },
+    {
+        "Story": "In the early dawn of 1775, the first shots of the American Revolution rang out in Massachusetts. In a swift reaction, the Continental Congress rallied in Philadelphia later that year, drafting the Olive Branch Petition and making a final attempt at peace with Britain. By 1781 however, the war had traveled southwards, culminating in the decisive Battle of Yorktown in Virginia, effectively ending the conflict. In the following year, the 1782 Treaty of Paris was negotiated in France. After final ratification by the involved parties, the treaty came into effect in early 1783, marking the official end of the Revolutionary War.",
+        "Question": "What year did the official end of the Revolutionary War take place?",
+        "Answer choices": [
+            "1775",
+            "1781",
+            "1782",
+            "1783"
+        ],
+        "Answer": "1783",
+        "Reasoning": "The story states that the official end of the Revolutionary War, marked by the treaty coming into effect, was in 1783."
+    },
+    {
+        "Story": "The French Revolution, a pivotal point in European history, began in 1789 and lasted a decade until 1799. Trying to address the country's economic troubles, it started in Paris, and its effects reverberated throughout France. It was a period of radical political and societal change, influencing liberal, radical, and nationalist doctrines on a global scale. Firstly, the monarchy was abolished, followed by the rise of radical political groups. The revolution finally ended with the ascension of Napoleon Bonaparte as French Consul in November 1799.",
+        "Question": "Where did the French Revolution originate?",
+        "Answer choices": [
+            "Berlin, Germany",
+            "London, England",
+            "Paris, France",
+            "Rome, Italy"
+        ],
+        "Answer": "Paris, France",
+        "Reasoning": "The story specifies that the French Revolution started in Paris."
+    },
+    {
+        "Story": "In the late 18th century, the American Revolution took hold in the Eastern United States, primarily in cities like Boston and Philadelphia. By the early 19th century, following the revolution and subsequent war of 1812, the nation focused on westward expansion, reaching territories like the Rocky Mountains and the Mississippi river. Around the same period in Europe, the French Revolution was igniting, leading to the rise of Napoleon Bonaparte. By 1914, the First World War had enveloped Europe, with major battles in France and Germany. Meanwhile, the USA, distanced from direct conflict, began to see major industrial growth during this period.",
+        "Question": "During which time period did the USA start to see major industrial growth?",
+        "Answer choices": [
+            "Late 18th century",
+            "Early 19th century",
+            "During the French Revolution",
+            "By 1914"
+        ],
+        "Answer": "By 1914",
+        "Reasoning": "The story mentions that the USA began to see major industrial growth by 1914, during the First World War."
+    },
+    {
+        "Story": "In the summer of 2005, a community fair was held in the small town of Elmerton, Minnesota. Spread over the course of a week, from July 10th to July 16th, the fair offered an array of games, food stalls, and live performances attracting locals and tourists alike. The highlight of the fair was the annual music concert featuring popular local bands, which took the stage on July 15th. The event ended with a grand fireworks display on the final day. Post-fair, the town council organized a clean-up drive which lasted three days from July 17th to July 20th.",
+        "Question": "Which date did the music concert take place at the community fair?",
+        "Answer choices": [
+            "July 10th",
+            "July 12th",
+            "July 15th",
+            "July 16th"
+        ],
+        "Answer": "July 15th",
+        "Reasoning": "The story states that the annual music concert took stage on July 15th."
+    },
+    {
+        "Story": "In 1991, the political landscape of Europe was radically altered with the dissolution of the Soviet Union. The Soviet Union, a superpower that had dominated Eastern Europe and Central Asia for decades, faced economic hardships and rising nationalist sentiments among its member republics. On December 25th, Mikhail Gorbachev resigned as the president of the Soviet Union, effectively marking the end of the nation. This monumental shift led to the emergence of 15 independent republics, including Russia, Ukraine, and Belarus. As a symbol of its end, the Soviet flag was lowered from the Kremlin and replaced with the Russian tricolor.",
+        "Question": "How many republics emerged as independent nations after the dissolution of the Soviet Union?",
+        "Answer choices": [
+            "10",
+            "15",
+            "20",
+            "25"
+        ],
+        "Answer": "15",
+        "Reasoning": "The story states that the dissolution of the Soviet Union led to the emergence of 15 independent republics."
+    },
+    {
+        "Story": "Ancient Rome was a thriving civilization that began growing on the Italian Peninsula as early as the 8th century BC. Located along the Mediterranean Sea, it expanded to become one of the largest empires in the ancient world. However, the fall of Rome didn't happen overnight, it was a gradual process that took place over a few hundred years and eventually led to the formation of the Byzantine Empire in the 5th century AD.",
+        "Question": "In which century was the Byzantine Empire formed after the fall of Rome?",
+        "Answer choices": [
+            "8th century BC",
+            "1st century AD",
+            "5th century AD",
+            "After a few hundred years"
+        ],
+        "Answer": "5th century AD",
+        "Reasoning": "After the fall of Ancient Rome, the Byzantine Empire was established in the 5th century AD as per the historical sequence."
+    },
+    {
+        "Story": "In the year 1776, the American Revolution started in Boston, leading to the signing of the Declaration of Independence. By 1789, the French Revolution broke out in Paris, spreading revolutionary ideas throughout Europe. In 1861, the American Civil War began, primarily in the eastern and southern parts of the United States. Later, in 1914, World War I commenced, with its prominent battlefields in Western Europe. Finally, Germany ignited World War II in 1939, affecting all corners of the globe.",
+        "Question": "Where did the earliest mentioned event in the timeline occur?",
+        "Answer choices": [
+            "Boston",
+            "Paris",
+            "Eastern and southern United States",
+            "Western Europe"
+        ],
+        "Answer": "Boston",
+        "Reasoning": "The first event, the American Revolution in 1776, happened in Boston."
+    },
+    {
+        "Story": "In the vibrant city of New York, 1987 was an iconic year for art. From the gates of Bronx to Brooklyn, graffiti art was coming alive, and artists were leaving their imprints on subway cars, walls, and street corners. However, an artist named Keith Haring, who was gaining recognition nationally, decided he would turn his art into an international phenomenon, so he flew to Tokyo in June, to showcase his radiant child and barking dog. After Tokyo, he went to Paris in September to display his pop-art inspired graffiti in a grand exhibition. Then, he settled in London in October, for a community outreach event where he painted a massive mural with local artists.",
+        "Question": "What month did Keith Haring settle in London?",
+        "Answer choices": [
+            "September",
+            "June",
+            "July",
+            "October"
+        ],
+        "Answer": "October",
+        "Reasoning": "As stated in the story, Haring settled in London in October to participate in a community outreach event."
+    },
+    {
+        "Story": "During the time of the Civil Rights movement in 1963, Martin Luther King Jr. led over 200,000 marchers to Washington, D.C. to fight for equality. On August 28, at the Lincoln Memorial, the prominent civil rights activist delivered his historic 'I Have a Dream' speech, inspiring countless individuals. Over time, this move had a powerful impact, affecting presidential decisions and leading to the Civil Rights Act of 1964. The event is now remembered as a significant milestone in the fight against racial discrimination.",
+        "Question": "What was the main purpose of the march to Washington, D.C. in 1963?",
+        "Answer choices": [
+            "To fight for women's rights",
+            "To fight for racial equality",
+            "To protest the Vietnam War",
+            "To promote environmental conservation"
+        ],
+        "Answer": "To fight for racial equality",
+        "Reasoning": "The story mentions that Martin Luther King Jr. led over 200,000 marchers to Washington, D.C. to fight for equality."
+    },
+    {
+        "Story": "In 1969, amidst a cultural revolution, the iconic music festival Woodstock took place in Bethel, New York. Lasting for three days, from August 15 to August 18, it became a symbol of the 1960s counterculture movement. Acts like Jimi Hendrix and Janis Joplin performed, drawing a crowd of nearly half a million people. Despite minor hiccups, the festival was noted for its peaceful vibe. The event was later commemorated in documentaries and songs.",
+        "Question": "Where did Woodstock take place?",
+        "Answer choices": [
+            "Los Angeles, California",
+            "Bethel, New York",
+            "Chicago, Illinois",
+            "Austin, Texas"
+        ],
+        "Answer": "Bethel, New York",
+        "Reasoning": "The story states that the Woodstock festival took place in Bethel, New York."
+    },
+    {
+        "Story": "In the early 20th century, in the vast expanse of Russia, there was a growing unrest among the workers and peasants. They were dissatisfied with the autocratic rule of Tsar Nicholas II and the deep-seated social and economic inequalities. By 1917, these tensions led to the February Revolution, resulting in the abdication of the Tsar. However, this was only a precursor to the more profound October Revolution later that year, where the Bolsheviks, led by Vladimir Lenin, took control and laid the foundation for the Soviet Union.",
+        "Question": "Which leader emerged prominently post the October Revolution?",
+        "Answer choices": [
+            "Joseph Stalin",
+            "Mikhail Gorbachev",
+            "Vladimir Lenin",
+            "Nikita Khrushchev"
+        ],
+        "Answer": "Vladimir Lenin",
+        "Reasoning": "The story mentions that after the October Revolution, the Bolsheviks, led by Vladimir Lenin, took control."
+    },
+    {
+        "Story": "In 776 BC, the ancient city of Olympia, nestled in the Peloponnese peninsula, inaugurated the first Olympic Games. Nearly five centuries later, in 44 BC, the streets of Rome were shocked by the assassination of Julius Caesar. By the 15th century AD, Europe had transitioned from the Dark Ages to the Renaissance, with Florence at its heart. The following century witnessed the brave sailors crossing the Atlantic, discovering a New World in 1492. In 1789, the French Revolution's winds started to blow in Paris, reshaping the political landscape of Europe.",
+        "Question": "In which peninsula was the ancient city of Olympia located?",
+        "Answer choices": [
+            "Iberian Peninsula",
+            "Italian Peninsula",
+            "Balkan Peninsula",
+            "Peloponnese Peninsula"
+        ],
+        "Answer": "Peloponnese Peninsula",
+        "Reasoning": "The story mentions that the ancient city of Olympia was nestled in the Peloponnese peninsula."
+    },
+    {
+        "Story": "In the early 14th century, the city-state of Venice thrived as a hub for trade in the Mediterranean. Merchants from Asia, Africa, and Europe flocked to its grand marketplaces. By the 1350s, Venice established colonies on islands like Crete and Cyprus, expanding its influence. However, in 1373, a conflict with the Ottoman Empire weakened its territories. Despite this setback, the late 1380s witnessed Venice's rise as a dominant naval force, asserting control over the Adriatic Sea.",
+        "Question": "Which empire did Venice have a conflict with in 1373?",
+        "Answer choices": [
+            "Roman Empire",
+            "Byzantine Empire",
+            "Ottoman Empire",
+            "Mongol Empire"
+        ],
+        "Answer": "Ottoman Empire",
+        "Reasoning": "The story states that in 1373, Venice had a conflict with the Ottoman Empire."
+    },
+    {
+        "Story": "In the early 1800s, France's Napoleon led his armies from Paris, conquering large parts of Europe. By 1812, he decided to move eastwards and invade Russia, hoping to capture Moscow. However, harsh Russian winters and resilient defenses halted his progress. After his retreat from Russia, he faced various European coalitions that finally defeated him at Waterloo in 1815, leading to his exile to St. Helena.",
+        "Question": "When did Napoleon face defeat at Waterloo?",
+        "Answer choices": [
+            "1805",
+            "1810",
+            "1815",
+            "1820"
+        ],
+        "Answer": "1815",
+        "Reasoning": "The story mentions that he was defeated at Waterloo in 1815."
+    },
+    {
+        "Story": "In the early 1800s, France's Napoleon led his armies from Paris, conquering large parts of Europe. By 1812, he decided to move eastwards and invade Russia, hoping to capture Moscow. However, harsh Russian winters and resilient defenses halted his progress. After his retreat from Russia, he faced various European coalitions that finally defeated him at Waterloo in 1815, leading to his exile to St. Helena.",
+        "Question": "Which factor besides the harsh winter affected Napoleon's progress in Russia?",
+        "Answer choices": [
+            "Lack of supplies",
+            "Resilient defenses",
+            "Mutiny within his troops",
+            "Illness"
+        ],
+        "Answer": "Resilient defenses",
+        "Reasoning": "The story mentions that resilient defenses, along with harsh Russian winters, halted his progress."
+    },
+    {
+        "Story": "In the late summer of 1965, in the heart of New Delhi, a massive gathering involving millions of pilgrims ensued for Ashura, a significant Muslim commemoration. As autumn set in, the spiritually charged event traveled to Varanasi to witness the auspicious Ganges Aarti, a Hindu ritual. During winter, they journeyed to Punjab to partake in the sacred Gurpurab of the Sikhs. With the advent of spring, the crowd migrated to Puri, Odisha, for the famed Ratha-Yatra, a chariot festival of Lord Jagannath. The series of religious events concluded in the summer of 1966 in Ladakh with the annual Hemis Festival, a sacred Buddhist ceremony.",
+        "Question": "What religious event marks the conclusion of the series of religious events?",
+        "Answer choices": [
+            "Ashura in New Delhi",
+            "Gurpurab in Punjab",
+            "Ratha-Yatra in Odisha",
+            "Hemis Festival in Ladakh"
+        ],
+        "Answer": "Hemis Festival in Ladakh",
+        "Reasoning": "The Hemis Festival in Ladakh was described as the last event in the series, concluding the religious ceremonies during the summer of 1966."
+    },
+    {
+        "Story": "In the early 1800s, France's Napoleon led his armies from Paris, conquering large parts of Europe. By 1812, he decided to move eastwards and invade Russia, hoping to capture Moscow. However, harsh Russian winters and resilient defenses halted his progress. After his retreat from Russia, he faced various European coalitions that finally defeated him at Waterloo in 1815, leading to his exile to St. Helena.",
+        "Question": "Which direction did Napoleon decide to move in 1812?",
+        "Answer choices": [
+            "Westwards",
+            "Southwards",
+            "Northwards",
+            "Eastwards"
+        ],
+        "Answer": "Eastwards",
+        "Reasoning": "The story states that by 1812, he decided to move eastwards to invade Russia."
+    },
+    {
+        "Story": "In the late 1990s, the Bolivian government, in partnership with foreign corporations, sought to privatize the water supply in the city of Cochabamba. This move led to a significant increase in water prices for the local residents. Protests and demonstrations soon erupted in the early months of 2000, as people from various walks of life rallied against this privatization. These events, now known as the Bolivian Water War, culminated in the government's decision to reverse the privatization and return the water supply to public control by April 2000. This movement marked a significant victory for grassroots activism against corporate and government policies.",
+        "Question": "What marked the victory for grassroots activism?",
+        "Answer choices": [
+            "The introduction of foreign corporations",
+            "The start of privatization",
+            "The government's continuation with privatization",
+            "The government's reversal of privatization"
+        ],
+        "Answer": "The government's reversal of privatization",
+        "Reasoning": "The story mentions that the movement marked a significant victory for grassroots activism against corporate and government policies when the government decided to reverse the privatization."
+    },
+    {
+        "Story": "In the late summer of 1965, in the heart of New Delhi, a massive gathering involving millions of pilgrims ensued for Ashura, a significant Muslim commemoration. As autumn set in, the spiritually charged event traveled to Varanasi to witness the auspicious Ganges Aarti, a Hindu ritual. During winter, they journeyed to Punjab to partake in the sacred Gurpurab of the Sikhs. With the advent of spring, the crowd migrated to Puri, Odisha, for the famed Ratha-Yatra, a chariot festival of Lord Jagannath. The series of religious events concluded in the summer of 1966 in Ladakh with the annual Hemis Festival, a sacred Buddhist ceremony.",
+        "Question": "Which event took place just before the Hemis Festival in Ladakh?",
+        "Answer choices": [
+            "Ashura in New Delhi",
+            "Gurpurab in Punjab",
+            "Ratha-Yatra in Odisha",
+            "Hemis Festival in Ladakh"
+        ],
+        "Answer": "Ratha-Yatra in Odisha",
+        "Reasoning": "The Ratha-Yatra, which took place in springtime in Puri, Odisha, was the event that happened before the Hemis Festival in Ladakh."
+    },
+    {
+        "Story": "In the early 19th century, America's great expansion westward began with the Louisiana Purchase in 1803. The territory spanned from the Mississippi River to the Rocky Mountains, doubling the size of the United States. In 1849, the California Gold Rush started, causing a large migration of people towards the west. Many moved along the Oregon Trail, an overland route extending over 2,000 miles. This period of westward expansion shaped the current geographical boundaries of the modern United States.",
+        "Question": "Which event caused a large migration of people towards the west?",
+        "Answer choices": [
+            "The War of 1812",
+            "The Civil War",
+            "The Louisiana Purchase",
+            "The California Gold Rush"
+        ],
+        "Answer": "The California Gold Rush",
+        "Reasoning": "The story mentions that the California Gold Rush started in 1849, causing a large migration of people towards the west."
+    },
+    {
+        "Story": "In the picturesque city of Venice, Italy, every year, the air is filled with excitement and mystery, marking the beginning of the Venice Carnival. This traditional event, dating back to the 12th century, is celebrated for several weeks leading up to Lent. The city's narrow alleys and canals are adorned with individuals wearing elaborate masks and costumes, harkening back to a time when Venetians used the anonymity of masks to ensure freedom and equality in the societal hierarchy. Gondolas transport attendees to grand masquerade balls, and street performers entertain the masses with theatrical displays. The festival concludes with the 'Flight of the Angel,' where an individual, dressed as an angel, descends from the San Marco bell tower, captivating the sea of onlookers below.",
+        "Question": "Why did the people of Venice originally wear masks during the Carnival?",
+        "Answer choices": [
+            "To impersonate famous celebrities",
+            "To ensure freedom and equality in society",
+            "To honor a local deity",
+            "To ward off evil spirits"
+        ],
+        "Answer": "To ensure freedom and equality in society",
+        "Reasoning": "The story mentions that in the past, Venetians used the anonymity of masks to ensure freedom and equality in the societal hierarchy."
+    },
+    {
+        "Story": "In June, the small village of Ambala in India was preparing for the annual Kumbha Mela. The grand opening ceremony was scheduled for the first week of July. Later in August, the village was bustling with various religious activities including prayers, sermons, and holy dips in the river. A grand procession took place in September to mark the end of the Mela. Finally, in October, the pilgrims dispersed and returned to their respective places.",
+        "Question": "How long was the duration from the opening ceremony of the Kumbha Mela to the grand procession?",
+        "Answer choices": [
+            "2 months",
+            "3 months",
+            "1 week",
+            "1 year"
+        ],
+        "Answer": "2 months",
+        "Reasoning": "The Mela started in the first week of July and the grand procession was in September, marking the ending, which is a duration of 2 months."
+    },
+    {
+        "Story": "In 1991, the political landscape of Europe was radically altered with the dissolution of the Soviet Union. The Soviet Union, a superpower that had dominated Eastern Europe and Central Asia for decades, faced economic hardships and rising nationalist sentiments among its member republics. On December 25th, Mikhail Gorbachev resigned as the president of the Soviet Union, effectively marking the end of the nation. This monumental shift led to the emergence of 15 independent republics, including Russia, Ukraine, and Belarus. As a symbol of its end, the Soviet flag was lowered from the Kremlin and replaced with the Russian tricolor.",
+        "Question": "Which country's flag was raised in the Kremlin following the dissolution of the Soviet Union?",
+        "Answer choices": [
+            "Ukraine",
+            "Belarus",
+            "Russia",
+            "Latvia"
+        ],
+        "Answer": "Russia",
+        "Reasoning": "The story specifies that after the dissolution of the Soviet Union, the Soviet flag was lowered from the Kremlin and replaced with the Russian tricolor."
+    },
+    {
+        "Story": "The French Revolution, a pivotal point in European history, began in 1789 and lasted a decade until 1799. Trying to address the country's economic troubles, it started in Paris, and its effects reverberated throughout France. It was a period of radical political and societal change, influencing liberal, radical, and nationalist doctrines on a global scale. Firstly, the monarchy was abolished, followed by the rise of radical political groups. The revolution finally ended with the ascension of Napoleon Bonaparte as French Consul in November 1799.",
+        "Question": "What major event marked the end of the monarchy during the French Revolution?",
+        "Answer choices": [
+            "The crowning of King Louis XVI",
+            "The signing of the Treaty of Versailles",
+            "The abolition of the monarchy",
+            "The invasion by Britain"
+        ],
+        "Answer": "The abolition of the monarchy",
+        "Reasoning": "The story states that the monarchy was abolished during the French Revolution."
+    },
+    {
+        "Story": "In the mid-20th century, South Africa was gripped by the oppressive policy of apartheid, a system of institutionalized racial segregation. Nelson Mandela, a key anti-apartheid activist, was arrested in 1962 and imprisoned for 27 years. During these years, the African National Congress (ANC) and other groups organized protests, boycotts, and strikes against the regime. Global pressure mounted on South Africa, leading to escalating internal tensions. By 1994, apartheid was dismantled, and South Africa witnessed its first multiracial elections, ushering Mandela as the president.",
+        "Question": "What action by Nelson Mandela in 1955 sparked significant attention?",
+        "Answer choices": [
+            "He wrote a book",
+            "He refused to give up his bus seat",
+            "He started the ANC",
+            "He went on a hunger strike"
+        ],
+        "Answer": "He refused to give up his bus seat",
+        "Reasoning": "This is a trick question. The story mentions Rosa Parks refusing to give up her seat in 1955 in a different context (related to the Civil Rights Movement in the US), not Mandela."
+    },
+    {
+        "Story": "In the year 1776, the American Revolution started in Boston, leading to the signing of the Declaration of Independence. By 1789, the French Revolution broke out in Paris, spreading revolutionary ideas throughout Europe. In 1861, the American Civil War began, primarily in the eastern and southern parts of the United States. Later, in 1914, World War I commenced, with its prominent battlefields in Western Europe. Finally, Germany ignited World War II in 1939, affecting all corners of the globe.",
+        "Question": "Which event took place immediately after the French Revolution?",
+        "Answer choices": [
+            "American Revolution",
+            "French Revolution",
+            "American Civil War",
+            "World WarII"
+        ],
+        "Answer": "American Civil War",
+        "Reasoning": "The American Civil War of 1861 was the next event discussed after the French Revolution."
+    },
+    {
+        "Story": "In the late 20th century, Indonesia faced one of its most significant political upheavals. Under the leadership of President Suharto, the nation had been under an authoritarian regime called the 'New Order' for three decades. However, by the late 1990s, economic turmoil and political unrest began to mount. Student-led protests erupted across the nation in 1998, demanding reforms and an end to the Suharto regime. In May of that year, Suharto resigned, leading to the Reformation era in Indonesia, which aimed to bring about greater democracy and political freedom.",
+        "Question": "Which president's regime faced opposition in the late 20th century in Indonesia?",
+        "Answer choices": [
+            "Joko Widodo",
+            "Sukarno",
+            "Suharto",
+            "Jusuf Kalla"
+        ],
+        "Answer": "Suharto",
+        "Reasoning": "The story mentions that under the leadership of President Suharto, Indonesia had been under an authoritarian regime called the 'New Order'."
+    },
+    {
+        "Story": "In 2010, the Chinese Art Festival commenced in Beijing, attracting artists from all over the country. The following year in 2011, the festival moved to Shanghai, only to return to Beijing in 2012 for its special 3rd edition. However, it was announced that the 2013 festival would be held in Yunnan,   a beautiful southern province known for its various art forms. The festival in Yunnan showed huge success, leading organizers to hold it there for 2 consecutive years, in 2013 and 2014. Only to then move it back to Beijing in 2015, where it had all began, thus establishing a cyclical rotation.",
+        "Question": "Assuming the location pattern continues, where would be the festival in 2019?",
+        "Answer choices": [
+            "Beijing",
+            "Shanghai",
+            "Yunnan",
+            "Guangzhou"
+        ],
+        "Answer": "Beijing",
+        "Reasoning": "The rotation sequence as per the information in the story is Beijing (2010 & 2012), Shanghai (2011), Yunnan (2013 & 2014), Beijing (2015).  Following this pattern, the 2019 festival would be hosted in Beijing."
+    },
+    {
+        "Story": "In the early 15th century, a vast armada of ships embarked on a voyage from China. Commanded by Admiral Zheng He, these treasure voyages aimed to establish a Chinese presence in the Indian Ocean trade and to exert the Ming Dynasty's power. Between 1405 and 1433, Zheng He led seven expeditions, travelling as far as the eastern coast of Africa, visiting places such as Sri Lanka, India, and the Maldives. His ships, which were colossal wooden vessels, dwarfed the European ships of the same period. Despite their extensive exploration and trade connections, the voyages were halted in 1433, and China turned inwards, prioritizing internal matters.",
+        "Question": "Who commanded the Chinese treasure voyages in the 15th century?",
+        "Answer choices": [
+            "Kublai Khan",
+            "Confucius",
+            "Zheng He",
+            "Emperor Qin Shi Huang"
+        ],
+        "Answer": "Zheng He",
+        "Reasoning": "The story states that Admiral Zheng He commanded the treasure voyages from China in the 15th century."
+    },
+    {
+        "Story": "In the spiritual and religious spectrum of Israel, there were several significant events that unfolded over a year. The journey started in Jerusalem, in January, with the gathering of various religious groups for interfaith dialogue aiming to deepen their understanding of each other's traditions. In April, many pilgrims flocked to Nazareth, following an ancient trail through the holy sites to observe Easter. In July, the faithful ascended the Mount Tabor, as part of the annual Feast of Transfiguration. Finally, in December, a special lighting ceremony was held in Haifa, marking the beginning of Hanukkah.",
+        "Question": "What event was acknowledged before the Feast of Transfiguration in July?",
+        "Answer choices": [
+            "Interfaith dialogue",
+            "Observance of Easter",
+            "Hanukkah",
+            "None"
+        ],
+        "Answer": "Observance of Easter",
+        "Reasoning": "The story indicates that prior to the Feast of Transfiguration in July at Mount Tabor, the observance of Easter took place at Nazareth in April."
+    },
+    {
+        "Story": "In the late 18th century, the French Revolution began in Paris, radically transforming the socio-political landscape of the country. Moved by the tumultuous events in France, revolutionaries in Haiti began their own rebellion in 1791, leading to a 12-year-long war. In 1776, earlier than both these events, the American Revolutionary War began, resulting in the United States' independence from the British. In 1861, long after these events, the American Civil War began, reshaping the U.S. profoundly. These major historical events, though separated by time and geography, have had significant and lasting impacts on the world.",
+        "Question": "Which event happened first?",
+        "Answer choices": [
+            "The French Revolution",
+            "The American Revolutionary War",
+            "The Haitian Revolution",
+            "The American Civil War"
+        ],
+        "Answer": "The American Revolutionary War",
+        "Reasoning": "From the sequence of events given in the story, the American Revolutionary War began in 1776, earlier than the French Revolution and the Haitian Revolution, which both started in the late 18th century, and also earlier than the American Civil War, which started in 1861."
+    },
+    {
+        "Story": "Roberto was a culture enthusiast and always desired to experience African cultural events. In January, he attended a Maasai jumping dance in Kenya that left him exhilarated. In March, he went to Egypt to witness the colorful Egyptian wedding ceremony that captivated him. In May, his journey took him to Morocco where he got to observe the Gnaoua World Music Festival. Finally, in July, he found himself in South Africa attending the Reed Dance, a traditional Swazi and Zulu event.",
+        "Question": "In which country did Roberto experience the Gnaoua World Music Festival?",
+        "Answer choices": [
+            "Kenya",
+            "Egypt",
+            "Morocco",
+            "South Africa"
+        ],
+        "Answer": "Morocco",
+        "Reasoning": "The story directly mentions that Roberto attended the Gnaoua World Music Festival in Morocco."
+    },
+    {
+        "Story": "During ancient times, John, a devoted Christian, embarked on a pilgrimage deep into the holy land. On the first month, he reached Bethlehem, where he partook in a midnight mass at a local cathedral. Months later, he journeyed to Jerusalem, paying homage at the sacred Western Wall where he prayed for his family's wellbeing. By the end of the year, he had completed his spiritual journey, eventually traveling to Rome to witness the Holy Father's Christmas midnight sermon at the Vatican.",
+        "Question": "What action did John perform at the local cathedral in Bethlehem?",
+        "Answer choices": [
+            "Prayed for his family's wellbeing",
+            "Paid homage at the Western Wall",
+            "Witnessed the Holy Father's sermon",
+            "Partook in a midnight mass"
+        ],
+        "Answer": "Partook in a midnight mass",
+        "Reasoning": "While in Bethlehem, John partook in a midnight mass at a local cathedral."
+    },
+    {
+        "Story": "In 2010, the Chinese Art Festival commenced in Beijing, attracting artists from all over the country. The following year in 2011, the festival moved to Shanghai, only to return to Beijing in 2012 for its special 3rd edition. However, it was announced that the 2013 festival would be held in Yunnan,   a beautiful southern province known for its various art forms. The festival in Yunnan showed huge success, leading organizers to hold it there for 2 consecutive years, in 2013 and 2014. Only to then move it back to Beijing in 2015, where it had all began, thus establishing a cyclical rotation.",
+        "Question": "If the festival organizers decide to host the event in each city mentioned for the same number of years as previously done, when will the festival likely return to Yunnan? ",
+        "Answer choices": [
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ],
+        "Answer": "2017",
+        "Reasoning": "As per the rotation, Beijing hosted the event for 3 years in total (2010, 2012, 2015), Shanghai for 1 year (2011) and Yunnan for 2 years (2013, 2014).  If the festival organizers continue this pattern, Yunnan should host the event next in 2017 as per the order and number of years."
+    },
+    {
+        "Story": "In the early 20th century, in the vast expanse of Russia, there was a growing unrest among the workers and peasants. They were dissatisfied with the autocratic rule of Tsar Nicholas II and the deep-seated social and economic inequalities. By 1917, these tensions led to the February Revolution, resulting in the abdication of the Tsar. However, this was only a precursor to the more profound October Revolution later that year, where the Bolsheviks, led by Vladimir Lenin, took control and laid the foundation for the Soviet Union.",
+        "Question": "In which month was the foundation for the Soviet Union laid?",
+        "Answer choices": [
+            "November",
+            "February",
+            "March",
+            "October"
+        ],
+        "Answer": "October",
+        "Reasoning": "The story mentions that the foundation for the Soviet Union was laid during the October Revolution."
+    },
+    {
+        "Story": "In the heart of Seoul, South Korea, a cultural festival kicked off during the first week of January with a traditional Hanbok fashion show. The following week, the celebrations moved to Busan\u2019s scenic beaches for an old-fashioned moonlight dance. In February, the focus of the festival shifted to Daegu where people gathered for the city\u2019s famed Lantern Festival. The event was culminated in March with a vibrant Cherry Blossom festival in Jinhae. Each event showcased the unique traditional elements of South Korean culture, attracting masses both indigenous and tourists alike each time.",
+        "Question": "In which month did the Moonlight Dance occur in Busan?",
+        "Answer choices": [
+            "January",
+            "February",
+            "March",
+            "April"
+        ],
+        "Answer": "January",
+        "Reasoning": "Based on the sequential temporal information in the story, the moonlight dance occurred in Busan during the week following the Hanbok fashion show in Seoul in January."
+    },
+    {
+        "Story": "In the year 2002, cultural events ran rampant across the globe. The year kicked off with the annual Sundance Film Festival held in Utah, USA. A few months later, France shimmered with the glitz of the Cannes Film Festival. Shifting continents, Niger hosted the Cure Salee festival in September. Finally, Japan held the Kanto Matsuri festival in August before the year closed off in the Swiss Alps with the skiing festival.",
+        "Question": "In August 2002, which cultural event took place?",
+        "Answer choices": [
+            "Sundance Film Festival",
+            "Cannes Film Festival",
+            "Cure Salee festival",
+            "Kanto Matsuri festival"
+        ],
+        "Answer": "Kanto Matsuri festival",
+        "Reasoning": "The narrative provides a timeline of events, from which it is inferred that the Kanto Matsuri festival in Japan took place in August 2002."
+    },
+    {
+        "Story": "Every year, devotees from around the globe flock to Uttar Pradesh to witness the magical Kumbh Mela in January. Come February, the pulse of the city moves towards Maharashtra for the Thaipusam festival. By March, the southern part of India celebrates Maha Shivaratri, especially in Tamil Nadu. In July, the Rath Yatra chariot festival takes place in Puri, Odisha. The year culminates beautifully with Diwali in November, celebrated all across India, with noteworthy celebrations in Varanasi, Uttar Pradesh.",
+        "Question": "If one has just attended Diwali, when is the next festival?",
+        "Answer choices": [
+            "January",
+            "February",
+            "March",
+            "July"
+        ],
+        "Answer": "January",
+        "Reasoning": "The story suggests that after Diwali in November, the next religious event is the Kumbh Mela, which is celebrated in January in Uttar Pradesh."
+    },
+    {
+        "Story": "In the heart of Seoul, South Korea, a cultural festival kicked off during the first week of January with a traditional Hanbok fashion show. The following week, the celebrations moved to Busan\u2019s scenic beaches for an old-fashioned moonlight dance. In February, the focus of the festival shifted to Daegu where people gathered for the city\u2019s famed Lantern Festival. The event was culminated in March with a vibrant Cherry Blossom festival in Jinhae. Each event showcased the unique traditional elements of South Korean culture, attracting masses both indigenous and tourists alike each time.",
+        "Question": "What event occurred in the city before the Lantern Festival in Daegu?",
+        "Answer choices": [
+            "Hanbok Fashion Show in Seoul",
+            "Moonlight Dance in Busan",
+            "No event occurred",
+            "Cherry Blossom Festival in Jinhae"
+        ],
+        "Answer": "Moonlight Dance in Busan",
+        "Reasoning": "The story states that following the Moonlight Dance in Busan, the cultural festival then moved to Daegu for the Lantern Festival."
+    },
+    {
+        "Story": "In the picturesque town of Rivertown, every summer on June 21st, townspeople gather at Meadow Park for the Riverfest celebration. As the name suggests, the Riverfest commemorates the vital role of the Rivertown River, which once served as the primary trade route for the region. Simultaneously, on June 22nd, a boat race is organized starting from the Old Dock near the town center and finishing at the Lighthouse Point. On the final day, June 23rd, a grand feast is held at the historic Town Hall Square. Throughout these events, residents reminisce about the town's rich history, while also engaging in modern festivities and games.",
+        "Question": "Where do townspeople gather for the Riverfest celebration?",
+        "Answer choices": [
+            "Town Hall Square",
+            "Lighthouse Point",
+            "Old Dock",
+            "Meadow Park"
+        ],
+        "Answer": "Meadow Park",
+        "Reasoning": "The story specifies that townspeople gather at Meadow Park for the Riverfest celebration."
+    },
+    {
+        "Story": "In 1492, Christopher Columbus, hailing from Genoa, Italy, set sail westward from Spain hoping to find a direct route to Asia. Instead, he stumbled upon the islands of the Caribbean, marking the beginning of European exploration and colonization of the Americas. Over the next few decades, explorers from various European nations ventured forth, discovering new territories and establishing colonies. By the 17th century, the Spanish had set up colonies in Central and South America, while the English established their stronghold in North America. As the centuries progressed, these colonies would lead to numerous conflicts, trade, and cultural exchanges between the old and new worlds.",
+        "Question": "Which islands did Columbus discover on his journey?",
+        "Answer choices": [
+            "Islands of the Mediterranean",
+            "Islands of the Pacific",
+            "Islands of the Caribbean",
+            "Islands of the Atlantic"
+        ],
+        "Answer": "Islands of the Caribbean",
+        "Reasoning": "Columbus stumbled upon the islands of the Caribbean as mentioned in the story."
+    },
+    {
+        "Story": "In 2010, significant cultural and artistic events were held across the globe, portraying the richness of various societies. The year started with the renowned Sydney Art Festival in January, attracting art enthusiasts from all over the world. In June, France organised the Paris Music Fest, bringing together musicians from diverse backgrounds. Brazil, in August, hosted the famous Rio Film Fest followed by the New York Fashion Week in the United States in September. The year came to a close with the grand Christmas Carnival in London in December.",
+        "Question": "What was the second event held in 2010?",
+        "Answer choices": [
+            "Paris Music Fest",
+            "Sydney Art Festival",
+            "Rio Film Fest",
+            "New York Fashion Week"
+        ],
+        "Answer": "Paris Music Fest",
+        "Reasoning": "According to the timeline in the story, the Sydney Art Festival was the first event in January, followed by the Paris Music Fest in June."
+    },
+    {
+        "Story": "In the vibrant city of New York, 1987 was an iconic year for art. From the gates of Bronx to Brooklyn, graffiti art was coming alive, and artists were leaving their imprints on subway cars, walls, and street corners. However, an artist named Keith Haring, who was gaining recognition nationally, decided he would turn his art into an international phenomenon, so he flew to Tokyo in June, to showcase his radiant child and barking dog. After Tokyo, he went to Paris in September to display his pop-art inspired graffiti in a grand exhibition. Then, he settled in London in October, for a community outreach event where he painted a massive mural with local artists.",
+        "Question": "In what month did Keith travel to Paris?",
+        "Answer choices": [
+            "June",
+            "October",
+            "September",
+            "It did not mention"
+        ],
+        "Answer": "September",
+        "Reasoning": "The story mentions that Haring went to Paris in September."
+    },
+    {
+        "Story": "In 1492, Christopher Columbus, hailing from Genoa, Italy, set sail westward from Spain hoping to find a direct route to Asia. Instead, he stumbled upon the islands of the Caribbean, marking the beginning of European exploration and colonization of the Americas. Over the next few decades, explorers from various European nations ventured forth, discovering new territories and establishing colonies. By the 17th century, the Spanish had set up colonies in Central and South America, while the English established their stronghold in North America. As the centuries progressed, these colonies would lead to numerous conflicts, trade, and cultural exchanges between the old and new worlds.",
+        "Question": "What was Columbus's initial intended destination when he set sail in 1492?",
+        "Answer choices": [
+            "Caribbean islands",
+            "North America",
+            "Asia",
+            "Africa"
+        ],
+        "Answer": "Asia",
+        "Reasoning": "The story mentions that Columbus set sail hoping to find a direct route to Asia."
+    },
+    {
+        "Story": "In the late 18th century, the French Revolution began in Paris, radically transforming the socio-political landscape of the country. Moved by the tumultuous events in France, revolutionaries in Haiti began their own rebellion in 1791, leading to a 12-year-long war. In 1776, earlier than both these events, the American Revolutionary War began, resulting in the United States' independence from the British. In 1861, long after these events, the American Civil War began, reshaping the U.S. profoundly. These major historical events, though separated by time and geography, have had significant and lasting impacts on the world.",
+        "Question": "Which revolution had the longest duration?",
+        "Answer choices": [
+            "The French Revolution",
+            "The Haitian Revolution",
+            "The American Revolutionary War",
+            "The American Civil War"
+        ],
+        "Answer": "The Haitian Revolution",
+        "Reasoning": "The story states that the Haitian Revolution lasted 12 years, which is longer than typically recorded durations fot the other events."
+    },
+    {
+        "Story": "In 1991, the political landscape of Europe was radically altered with the dissolution of the Soviet Union. The Soviet Union, a superpower that had dominated Eastern Europe and Central Asia for decades, faced economic hardships and rising nationalist sentiments among its member republics. On December 25th, Mikhail Gorbachev resigned as the president of the Soviet Union, effectively marking the end of the nation. This monumental shift led to the emergence of 15 independent republics, including Russia, Ukraine, and Belarus. As a symbol of its end, the Soviet flag was lowered from the Kremlin and replaced with the Russian tricolor.",
+        "Question": "In which year did the political landscape of Europe change due to the dissolution of the Soviet Union?",
+        "Answer choices": [
+            "1985",
+            "1989",
+            "1991",
+            "1995"
+        ],
+        "Answer": "1991",
+        "Reasoning": "The story states that the political landscape of Europe was radically altered with the dissolution of the Soviet Union in 1991."
+    },
+    {
+        "Story": "In 1857, the sepoys in Meerut rebelled against the British, marking the start of the First War of Indian Independence. While this was happening, in South India, a significant social revolution was happening under the leadership of Narayana Guru which was aimed at the caste oppression prevalent in Kerala. Around the same time, on the Western front of India, the freedom fight was escalating under the banner of the Indian National Congress. Deeper into the Indian subcontinent, the Swadeshi Movement was gaining momentum in Bengal. The fight for freedom continued steadily until in 1947, India secured her independence from the British rule.",
+        "Question": "Which leader was responsible for the social revolution in South India targeting caste oppression?",
+        "Answer choices": [
+            "Gurudev Tagore",
+            "Chandrasekhar Azad",
+            "Narayana Guru",
+            "Maulana Abul Kalam Azad"
+        ],
+        "Answer": "Narayana Guru",
+        "Reasoning": "The story mentions that the significant social revolution in South India was happening under the leadership of Narayana Guru."
+    },
+    {
+        "Story": "In the late 1990s, the Bolivian government, in partnership with foreign corporations, sought to privatize the water supply in the city of Cochabamba. This move led to a significant increase in water prices for the local residents. Protests and demonstrations soon erupted in the early months of 2000, as people from various walks of life rallied against this privatization. These events, now known as the Bolivian Water War, culminated in the government's decision to reverse the privatization and return the water supply to public control by April 2000. This movement marked a significant victory for grassroots activism against corporate and government policies.",
+        "Question": "Who did the Bolivian government partner with for the privatization?",
+        "Answer choices": [
+            "Local businesses",
+            "Foreign corporations",
+            "Local farmers",
+            "International NGOs"
+        ],
+        "Answer": "Foreign corporations",
+        "Reasoning": "The story specifically mentions that the Bolivian government sought to privatize the water supply in partnership with foreign corporations."
+    },
+    {
+        "Story": "In a small town in Japan, a renowned artist announced a chain of artistic events that would take place throughout the country starting from Tokyo, transitioning to Kyoto, and finally culminating in Osaka. The first event, a modern art exhibition, was staged in Tokyo on January 15. On April 10, the artist then put together a calligraphy workshop in Kyoto, immersiving the attendees in the deep traditions of Japanese orthography. Finally, on July 1, the series of events was concluded with a grand Origami festival in Osaka, that celebrated the intricacies of paper folding art. As the year drew to a close, the artist reflected upon the journey that effectively promoted Japan's art forms, in different cities and across different times.",
+        "Question": "Where was the calligraphy workshop held?",
+        "Answer choices": [
+            "Tokyo",
+            "Kyoto",
+            "Osaka",
+            "None of the above"
+        ],
+        "Answer": "Kyoto",
+        "Reasoning": "In the context, it is stated that the artist put together a calligraphy workshop in Kyoto."
+    },
+    {
+        "Story": "In the summer of 1968, a group of civil rights protesters gathered in Washington D.C. to advocate for racial equality in America. Over the course of four days, from July 28 to July 31, several speeches were delivered, including Martin Luther King's 'I Have a Dream' speech from the steps of the Lincoln Memorial. Despite the sweltering heat, the crowd remained peaceful and were respectful, inspiring people around the nation. The event made headlines worldwide and contributed to societal changes. It was later remembered in history books as a milestone in the Civil Rights Movement.",
+        "Question": "What was the general sentiment of the crowd during the 1968 civil rights protest in Washington D.C.?",
+        "Answer choices": [
+            "Aggressive and confrontational",
+            "Peaceful and respectful",
+            "Chaotic and disorderly",
+            "Indifferent and unengaged"
+        ],
+        "Answer": "Peaceful and respectful",
+        "Reasoning": "The story notes that, despite the sweltering heat, the crowd remained peaceful and respectful."
+    },
+    {
+        "Story": "In the late 18th century, the French Revolution began in Paris, radically transforming the socio-political landscape of the country. Moved by the tumultuous events in France, revolutionaries in Haiti began their own rebellion in 1791, leading to a 12-year-long war. In 1776, earlier than both these events, the American Revolutionary War began, resulting in the United States' independence from the British. In 1861, long after these events, the American Civil War began, reshaping the U.S. profoundly. These major historical events, though separated by time and geography, have had significant and lasting impacts on the world.",
+        "Question": "Which of these events affected the United States directly?",
+        "Answer choices": [
+            "The French Revolution",
+            "The Haitian Revolution",
+            "Both the American Revolutionary War and the American Civil War",
+            "None of the above"
+        ],
+        "Answer": "Both the American Revolutionary War and the American Civil War",
+        "Reasoning": "Both the American Revolutionary War and the American Civil War directly affected the United States, as stated in the story."
+    }
+]
