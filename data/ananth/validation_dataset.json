@@ -659,7 +659,8 @@
         "Answer": "Exploring Temples", 
         "Story": "Last spring, my family and I embarked on a memorable fourteen-day adventure through Southeast Asia. Day 1 began in Bangkok, where we arrived in the evening and checked into our hotel. The next morning, we visited the Grand Palace at 9 AM and spent the afternoon exploring the vibrant street markets. Day 3 took us to Siem Reap, where we spent two days exploring the stunning temples of Angkor Wat and witnessing the sunrise over the ancient ruins. Days 5 and 6 were dedicated to island hopping in Phuket, where we enjoyed snorkeling, sunbathing, and indulging in delicious Thai cuisine. On Day 7, we flew to Hanoi, Vietnam, and spent the afternoon exploring the charming Old Quarter and tasting local street food. The following day, we took an overnight cruise in Halong Bay, admiring the limestone karsts and kayaking through hidden caves. Days 9 and 10 were spent in Ho Chi Minh City, where we visited the historical Cu Chi Tunnels and learned about the Vietnam War. Our final destination was Bali, where we spent the last three days relaxing on beautiful beaches, practicing yoga, and exploring Ubud's art scene.", 
         "Question": "What activity did the family do in Angkor Wat?", 
-        "Reasoning": "The statement 'we spent two days exploring the stunning temples of Angkor Wat' indicates that they explored temples in Angkor Wat."
+        "Reasoning": "The statement 'we spent two days exploring the stunning temples of Angkor Wat' indicates that they explored temples in Angkor Wat.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -671,7 +672,8 @@
         "Answer": "2 years and 3 months", 
         "Story": "In June 2019, an enthralling film production embarked on an epic voyage through the mystical landscapes of Morocco, featuring a stellar cast and an enchanting story steeped in ancient traditions. The movie entranced global audiences with its lush visuals and mesmerizing performances. In September 2021, an esteemed film festival took place in New York City, USA, showcasing a plethora of thought-provoking cinematic creations from around the world. Filmmakers and movie aficionados gathered to celebrate the power of diverse storytelling and witnessed the birth of new cinematic masterpieces. In January 2023, an ambitious film project commenced its shoot in the bustling streets of Shanghai, China, merging elements of historical drama and martial arts in an immersive period setting. The production employed intricate set designs and intricate fight choreography, promising an exhilarating blend of history and action.", 
         "Question": "How long after the film production in Morocco did the film festival in New York happen?", 
-        "Reasoning": "The film production in Morocco started in June 2019 and the film festival in New York took place in September 2021. So, the duration between the two events is 2 years and 3 months."
+        "Reasoning": "The film production in Morocco started in June 2019 and the film festival in New York took place in September 2021. So, the duration between the two events is 2 years and 3 months.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -683,7 +685,8 @@
         "Answer": "Amazon rainforest in Brazil", 
         "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.", 
         "Question": "Where in the earth was the alarming rate of deforestation experienced?", 
-        "Reasoning": "The mention of deforestation is linked with the Amazon rainforest in Brazil in the text."
+        "Reasoning": "The mention of deforestation is linked with the Amazon rainforest in Brazil in the text.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -695,7 +698,8 @@
         "Answer": "3 years", 
         "Story": "In July 2015, a massive Comic-Con event was held in San Diego, California, attracting dedicated fans of comics, movies, and TV shows. The convention featured exclusive previews, exciting panels with industry professionals, and cosplayers showcasing their elaborate costumes. It was a paradise for fans of popular culture. In September 2016, an international literature festival took place in Edinburgh, Scotland. The event brought together renowned authors, poets, and literary enthusiasts from around the globe. It celebrated the power of words and ignited intellectual conversations. In June 2019, a world-renowned fashion week was held in Paris, France, showcasing the latest trends and designs from luxury brands. The event featured glamorous runway shows and influential figures from the fashion industry.", 
         "Question": "How many years passed between the literature festival and the fashion week?", 
-        "Reasoning": "The Edinburgh Literature Festival occurred in September 2016 and the Paris Fashion Week happened in June 2019, so roughly around 3 years passed in between."
+        "Reasoning": "The Edinburgh Literature Festival occurred in September 2016 and the Paris Fashion Week happened in June 2019, so roughly around 3 years passed in between.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -707,7 +711,8 @@
         "Answer": "10 years", 
         "Story": "In the year 2009, the beautiful country of Thailand was home to a diverse population of 65 million people. Over the next decade, Bangkok, the capital city, experienced significant changes in its population dynamics. By 2019, the city's population rose from 7.7 million to 8.9 million, marking a growth rate of 15.5%. The demographic landscape revealed an interesting pattern as well. While the male population in Bangkok increased by 13.8%, the female population grew by 17.2%. These population dynamics showcased the evolving nature of this iconic city in Thailand over the span of a decade.", 
         "Question": "What was the duration of the population growth observed in the city of Bangkok?", 
-        "Reasoning": "The story states that the population data is from the year 2009 and the changed population is observed in the year 2019. Hence the duration of population growth is 10 years."
+        "Reasoning": "The story states that the population data is from the year 2009 and the changed population is observed in the year 2019. Hence the duration of population growth is 10 years.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -719,7 +724,8 @@
         "Answer": "Los Angeles, California", 
         "Story": "In October 2019, a major entertainment event was held in Los Angeles, California, attracting thousands of attendees from around the world. The event showcased the latest technological advancements in the media industry, including virtual reality and 3D projections. Over in New York City, the following year, a renowned film festival took place in April 2020. This event celebrated the art of filmmaking and provided a platform for emerging directors to showcase their talents. In August 2022, a music festival in London, England, brought together top artists from various genres, creating a sensational fusion of sounds that captivated the audience. Furthermore, in January 2023, an international gaming convention held in Tokyo, Japan, unveiled groundbreaking gaming consoles and hosted intense gaming competitions. These events marked significant milestones in the entertainment and media industry, pushing boundaries and shaping the future of entertainment.", 
         "Question": "Which city hosted an entertainment event that showcased the latest technological advancements in the media industry in October 2019?", 
-        "Reasoning": "The story mentions that in October 2019, a major entertainment event was held in Los Angeles, California, which showcased the latest technological advancements in the media industry."
+        "Reasoning": "The story mentions that in October 2019, a major entertainment event was held in Los Angeles, California, which showcased the latest technological advancements in the media industry.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -731,7 +737,8 @@
         "Answer": "Last Summer", 
         "Story": "Last summer, my friends and I embarked on an unforgettable seven-day travel and tourism adventure through Italy. Day 1 commenced in Rome, where we visited the iconic Colosseum and indulged in traditional Italian cuisine at a local trattoria. The following day, we journeyed to Florence, basking in art at the famed Uffizi Gallery and relishing delicious gelato in Piazza della Signoria. On Day 3, we reached the magnificent city of Venice, cruising on gondolas through picturesque canals and admiring the intricate architecture of Saint Mark's Basilica. Days 4 and 5 were dedicated to exploring the glorious landscapes of Tuscany, staying in charming countryside villas and indulging in delectable regional wines and cuisine. Our final destination was the breathtaking Amalfi Coast, where we spent days 6 and 7 leisurely sunbathing on pristine beaches and savoring authentic seafood dishes at cliffside restaurants.", 
         "Question": "When did the group start their adventure?", 
-        "Reasoning": "The story tells us that the travel adventure began last summer."
+        "Reasoning": "The story tells us that the travel adventure began last summer.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -743,7 +750,8 @@
         "Answer": "Sustainable practices", 
         "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.", 
         "Question": "What did the events in Mumbai highlight the need for?", 
-        "Reasoning": "The events in Mumbai highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change."
+        "Reasoning": "The events in Mumbai highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -755,7 +763,8 @@
         "Answer": "Orlando, USA", 
         "Story": "In the sweltering July of 1996, the dynamic city of Chicago, USA, focused the world\u2019s attention on the NBA Finals. The 'United Center', arguably the Mecca of basketball, echoed with the enthralling intensity of worldwide hoop enthusiasts. The torch was passed to Los Angeles in 2000 with the Staples Center playing host, filled with the unmatched spirit of fierce rivalry and sportsmanship. Despite the game\u2019s soaring popularity, a match-fixing scandal did cast a temporary shadow on the event. Progressing to 2004, the city of Detroit, USA, proved to be a spectacular stage for basketball's most distinguished contest. And finally, in a Covid-ridden 2020, the \u2018bubble\u2019 at the ESPN Wide World of Sports Complex, Orlando, Florida welcomed the NBA teams. With tenacious adherence to safety protocols, the tournament displayed an enduring testament to the invincible human spirit and its love for sport.", 
         "Question": "In which city was the NBA 'bubble' situated in 2020?", 
-        "Reasoning": "From the last few sentences, it's clear that in 2020, the NBA 'bubble' was situated in Orlando, USA."
+        "Reasoning": "From the last few sentences, it's clear that in 2020, the NBA 'bubble' was situated in Orlando, USA.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -767,7 +776,8 @@
         "Answer": "Sheikh Zayed Stadium, Abu Dhabi", 
         "Story": "The excitement of the ICC T20 World Cup began on October 18, 2020, with a thrilling match between India and Pakistan at the Dubai International Stadium. Despite a brief rain delay, the match commenced at 7:00 PM local time. On October 23, defending champions, West Indies, faced off against Australia at the Sheikh Zayed Stadium in Abu Dhabi, where the match was interrupted due to heavy rain that lasted for two hours. The battle for the title reached its climax on November 14, with the final match held at the iconic Eden Gardens in Kolkata. England and India fought fiercely, with occasional showers halting play for half an hour before England emerged as the champions.", 
         "Question": "Where did the match between the West Indies and Australia take place?", 
-        "Reasoning": "In the second sentence, it's stated that the match between the West Indies and Australia was held at the Sheikh Zayed Stadium in Abu Dhabi."
+        "Reasoning": "In the second sentence, it's stated that the match between the West Indies and Australia was held at the Sheikh Zayed Stadium in Abu Dhabi.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -779,7 +789,8 @@
         "Answer": "2005", 
         "Story": "In the year 2005, the prosperous city-state of Singapore was home to a diverse population of 4.35 million people. Over the next decade, this bustling metropolis experienced significant changes in its population dynamics. By 2015, Singapore witnessed a remarkable population increase, growing from 5.3 million to 5.8 million, indicating a growth rate of 9.4%. The demographic landscape revealed an interesting pattern as well. While the male population in Singapore increased by 12%, the female population grew by 7.8%. These population dynamics showcased the evolving nature of this iconic city-state over the span of a decade.", 
         "Question": "What was the starting year of the population dynamics study depicted in the story?", 
-        "Reasoning": "The story starts with the sentence 'In the year 2005...' indicating that the study began or the population count used is from that year."
+        "Reasoning": "The story starts with the sentence 'In the year 2005...' indicating that the study began or the population count used is from that year.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -791,7 +802,8 @@
         "Answer": "2021", 
         "Story": "In 2008, the Beijing Olympic Games kicked off, witnessing an array of athletes participating from different corners of the globe. The 'Bird\u2019s Nest' Stadium had become a bustling hub for sports, fostering a sense of global unity. Come 2012, the excitement shifted to London, with the city hosting magnificent games that further solidified the city\u2019s historic sporting legacy. However, in 2016, controversy infiltrated the Rio de Janeiro Olympics, with several athletes allegedly failing drug tests. Slowly but surely, by 2020, Tokyo was preparing to host the Games amid numerous challenges, transforming the city into a symbol of resilience. Remarkably, in 2021, the Games, delayed by a year, managed to take place progressively, adhering strictly to safety protocols, reminding the world of the enduring spirit of sportsmanship and unity.", 
         "Question": "In what year did the Olympic Games take place after being delayed due to challenges?", 
-        "Reasoning": "The story states that the Games were delayed by a year and managed to take place progressively in 2021."
+        "Reasoning": "The story states that the Games were delayed by a year and managed to take place progressively in 2021.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -803,7 +815,8 @@
         "Answer": "Grasses and small shrubs", 
         "Story": "Following the volcanic eruption on the island of Surtsey, Iceland in 1963, the land was barren and lifeless. The first signs of plant life by 1970, emerged in the form of lichens and mosses which began to colonize the now cooled lava. The influx of gulls and other migratory birds by 1980, introduced their droppings - a rich source of nutrients, kick-starting the ecological succession cycle. Gradually, by 2005, grasses and small shrubs appeared across the island\u2019s landscape. Despite the harsh Icelandic climate, by 2021, the island boasted a rich ecosystem with various bird species, seals and diverse plant life.", 
         "Question": "What types of plant life first started appearing by the year 2005?", 
-        "Reasoning": "By 2005, grasses and small shrubs began to appear across the island\u2019s landscape indicating that the landscape was gaining more plant diversity."
+        "Reasoning": "By 2005, grasses and small shrubs began to appear across the island\u2019s landscape indicating that the landscape was gaining more plant diversity.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -815,7 +828,8 @@
         "Answer": "5 decades", 
         "Story": "In a rocky terrains of Arizona desert, in the mid-1960s, the land was marked by the absence of any vegetation. A decade later, the wind carried seeds of lichen and moss to this desolate landscape, which facilitated a slow but significant transformation. Drought resistance shrubs appeared by 1980, survived the inhospitable conditions, and by 2000, hardy desert plants like cacti made their appearance. However, a pest outbreak in 2010 decimated the cacti population. Today, the landscape, though not lush, supports a variety of desert-adapted species and exhibits the cyclical pattern of ecological succession.", 
         "Question": "Approximately how many decades passed between the time the Arizona desert was devoid of vegetation to the transformation to a landscape supporting a variety of desert-adapted species?", 
-        "Reasoning": "If the desert was devoid of vegetation in the mid-1960s and supports a variety of desert-adapted species today (Assuming the story is recounted in real-time, in 2020's), then approximately five decades (50 years) have passed."
+        "Reasoning": "If the desert was devoid of vegetation in the mid-1960s and supports a variety of desert-adapted species today (Assuming the story is recounted in real-time, in 2020's), then approximately five decades (50 years) have passed.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -827,7 +841,8 @@
         "Answer": "New York", 
         "Story": "In the year 2010, the bustling city of New York was home to 8.2 million people, a diverse tapestry of residents spanning all walks of life. Over the course of a decade, this urban center witnessed remarkable changes in its population dynamics. By 2020, the city had swelled to 8.8 million, marking an impressive growth rate of 6.7%. The demographic landscape revealed a fascinating story too - the male population grew by 7.2%, while the female population increased by 6.3%. In contrast, across the Atlantic, London's population in 2010 stood at 7.7 million, experiencing a steady increase to 8.2 million by 2020, marking a 6.5% growth, though it was still overshadowed by the Big Apple's rapid expansion. The tale of two iconic cities, each with its unique population dynamics, as the years rolled by.", 
         "Question": "By 2020, which city had a larger population growth, London or New York?", 
-        "Reasoning": "The story provides the growth rates of both cities, with New York's growth rate at 6.7% and London's at 6.5%, indicating that New York had a larger growth."
+        "Reasoning": "The story provides the growth rates of both cities, with New York's growth rate at 6.7% and London's at 6.5%, indicating that New York had a larger growth.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -839,7 +854,8 @@
         "Answer": "Freshening effect", 
         "Story": "In the Atlantic Ocean, the Gulf Stream Current carries warm water from the Gulf of Mexico northwards towards Europe. In March 2012, the observed flow of the Gulf Stream was unusually swift causing disruptions in marine life habitats. Meanwhile, in the Pacific Ocean, the El Nino effect in 2015 produced unusually warm waters off the coast of Peru, impacting fish stocks and the local economy. In Antarctica, the meltwater from melting ice in 2017 led to a freshening effect on the Southern Ocean waters, disrupting the formation of dense Antarctic Bottom Water. In 2020, a research noted an unusual shift in the path of the Agulhas Current, the Indian Ocean's strongest current, that could influence global climate patterns.", 
         "Question": "What effect did the meltwater from melting ice in Antarctica have on the Southern Ocean waters?", 
-        "Reasoning": "The passage states that the meltwater from melting ice in 2017 led to a freshening effect on the Southern Ocean waters, disrupting the formation of dense Antarctic Bottom Water."
+        "Reasoning": "The passage states that the meltwater from melting ice in 2017 led to a freshening effect on the Southern Ocean waters, disrupting the formation of dense Antarctic Bottom Water.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -851,7 +867,8 @@
         "Answer": "Pacific Ocean", 
         "Story": "In the Atlantic Ocean, the Gulf Stream Current carries warm water from the Gulf of Mexico northwards towards Europe. In March 2012, the observed flow of the Gulf Stream was unusually swift causing disruptions in marine life habitats. Meanwhile, in the Pacific Ocean, the El Nino effect in 2015 produced unusually warm waters off the coast of Peru, impacting fish stocks and the local economy. In Antarctica, the meltwater from melting ice in 2017 led to a freshening effect on the Southern Ocean waters, disrupting the formation of dense Antarctic Bottom Water. In 2020, a research noted an unusual shift in the path of the Agulhas Current, the Indian Ocean's strongest current, that could influence global climate patterns.", 
         "Question": "Which ocean experienced the El Nino effect in 2015?", 
-        "Reasoning": "The El Nino effect in 2015 produced unusually warm waters off the coast of Peru, which is located in the Pacific Ocean."
+        "Reasoning": "The El Nino effect in 2015 produced unusually warm waters off the coast of Peru, which is located in the Pacific Ocean.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -863,7 +880,8 @@
         "Answer": "19.2 million", 
         "Story": "In the year 2000, the thriving country of Australia was home to a diverse population of 19.2 million people. Over the next decade, the population experienced substantial growth, reaching 23.1 million by 2010. This indicated a growth rate of 20.3% during this period. The male population in Australia increased by 20%, while the female population grew by 20.7%. These population dynamics showcased the evolving nature and attractiveness of this vast country down under.", 
         "Question": "What was the population of Australia in the year 2000?", 
-        "Reasoning": "The story specifies that in the year 2000, Australia's population was 19.2 million people."
+        "Reasoning": "The story specifies that in the year 2000, Australia's population was 19.2 million people.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -875,7 +893,8 @@
         "Answer": "2.1 million", 
         "Story": "In 2013, the vibrant city of Dubai in the United Arab Emirates had a population of 2.1 million people. Over the next five years, the population steadily increased, reaching 2.9 million by 2018. This marked an impressive growth rate of 38.1% within this timeframe. The male population in Dubai grew by 37.4%, while the female population experienced a growth of 38.8%. These demographic changes showcased the rapid urbanization and economic growth in this cosmopolitan Middle Eastern city.", 
         "Question": "How many people lived in Dubai in 2013?", 
-        "Reasoning": "The story provides this information directly, stating that the 2013 population of Dubai was 2.1 million."
+        "Reasoning": "The story provides this information directly, stating that the 2013 population of Dubai was 2.1 million.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -887,7 +906,8 @@
         "Answer": "Venice, Italy", 
         "Story": "In November 2017, a captivating film production embarked on a sprawling journey through the ancient ruins of Egypt, featuring a renowned cast and an enchanting storyline rooted in history and mythology. The movie captivated audiences worldwide with its majestic cinematography and stellar performances. In May 2019, a prestigious film festival unfolded in Venice, Italy, immersing attendees in a world of cinematic artistry. Filmmakers and film enthusiasts reveled in the opulence of the historic city while witnessing the emergence of visionary storytelling. In October 2021, an audacious film project commenced its shoot in the neon-lit streets of Seoul, South Korea, blending the genres of science fiction and thriller amidst the backdrop of bustling city life. The production employed cutting-edge technology and sleek visuals, promising an adrenaline-pumping cinematic experience.", 
         "Question": "In which city did a film festival unfold in May 2019?", 
-        "Reasoning": "The story informs us that the film festival took place in Venice, Italy."
+        "Reasoning": "The story informs us that the film festival took place in Venice, Italy.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -899,7 +919,8 @@
         "Answer": "Floods in Yangtze River", 
         "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.", 
         "Question": "What event occurred in China in 2019?", 
-        "Reasoning": "The story mentions that in 2019, China witnessed devastating floods in the Yangtze River due to excessive rainfall."
+        "Reasoning": "The story mentions that in 2019, China witnessed devastating floods in the Yangtze River due to excessive rainfall.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -911,7 +932,8 @@
         "Answer": "0.4%", 
         "Story": "In 2013, the bustling city of Paris in France had a population of 2.2 million people. Over the following five years, the population steadily increased, reaching 2.4 million by 2018. This marked a growth rate of 9.1% within this timeframe. The male population in Paris grew by 9.5%, while the female population experienced a growth of 8.7%. These demographic changes reflected the ongoing allure and vibrant nature of the City of Light.", 
         "Question": "By how much does the male population growth rate differ from the overall growth rate from 2013 to 2018?", 
-        "Reasoning": "The text mentions that the male population grew by 9.5% and the overall growth was 9.1%, the difference being 0.4%."
+        "Reasoning": "The text mentions that the male population grew by 9.5% and the overall growth was 9.1%, the difference being 0.4%.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -923,7 +945,8 @@
         "Answer": "2020", 
         "Story": "In the winter-chilled February of 2014, the vibrant city of Sochi, Russia, embraced the thrills and chills of the Winter Olympics. The 'Fisht' Olympic Stadium, inspired by the enchanting Russian landscapes, reverberated with the cheering sounds of international spectators. As the baton passed to Rio de Janeiro in 2016 for the Summer Olympics, the Maracan\u00e3 Stadium brimmed with cultural vibrancy and enigmatic sporting energy. However, the journey was not entirely smooth, as several athletes faced dubious disqualification due to an alleged doping scandal. Fast forward to 2018, and the city of PyeongChang, South Korea, was battling ice with fire, embodying resilience and fortitude while hosting the Winter Olympics. Against incredible odds, in the Covid-threatened 2021, Tokyo took center stage. Adhering strictly to stringent health protocols, the city, paving way for the delayed 2020 Summer Olympics, stood as a testament to the sterling spirit of unity and willpower.", 
         "Question": "In what year was the Summer Olympics originally scheduled, before being delayed to 2021 due to Covid?", 
-        "Reasoning": "The text indicates that Tokyo adhered to strict health protocols in the delay of the 2020 Summer Olympics, which took place instead in 2021."
+        "Reasoning": "The text indicates that Tokyo adhered to strict health protocols in the delay of the 2020 Summer Olympics, which took place instead in 2021.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -935,7 +958,8 @@
         "Answer": "April 20, 2022", 
         "Story": "The IPL commenced on April 9, 2022, with an enthralling match between Mumbai Indians and Royal Challengers Bangalore at the Wankhede Stadium. The match started at 7:30 PM local time and played without any interruption. On April 20, Kolkata Knight Riders and Sunrisers Hyderabad clashed at the iconic Eden Gardens, where heavy rains caused a delay of 90 minutes, but it didn't impact the match's overall outcome. The tournament's climax arrived on May 30, with the final match between Delhi Capitals and Chennai Super Kings at the picturesque Arun Jaitley Stadium. Despite light rain showers, the match proceeded, and Delhi Capitals emerged victorious, clinching their maiden IPL title.", 
         "Question": "When did Kolkata Knight Riders and Sunrisers Hyderabad have their match?", 
-        "Reasoning": "The story mentions that the Kolkata Knight Riders and Sunrisers Hyderabad match happened on April 20."
+        "Reasoning": "The story mentions that the Kolkata Knight Riders and Sunrisers Hyderabad match happened on April 20.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -947,7 +971,8 @@
         "Answer": "Night", 
         "Story": "On a warm August night in 2024, a vibrant music festival illuminated the historic streets of Havana, Cuba, immersing festival-goers in a whirlwind of Latin rhythms and infectious beats. From traditional salsa and rumba to contemporary reggaeton and hip-hop, artists from across Cuba and beyond filled the air with an irresistible energy. As the sun set, the city's colonial buildings transformed into enchanting stages, casting a mesmerizing glow over the passionate crowds.", 
         "Question": "What time of day did the music festival occur?", 
-        "Reasoning": "The narration mentions that the music festival took place on a warm August 'night' in 2024 which indicates that the event occurred at night."
+        "Reasoning": "The narration mentions that the music festival took place on a warm August 'night' in 2024 which indicates that the event occurred at night.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -959,7 +984,8 @@
         "Answer": "Eden Gardens", 
         "Story": "The IPL commenced on April 9, 2022, with an enthralling match between Mumbai Indians and Royal Challengers Bangalore at the Wankhede Stadium. The match started at 7:30 PM local time and played without any interruption. On April 20, Kolkata Knight Riders and Sunrisers Hyderabad clashed at the iconic Eden Gardens, where heavy rains caused a delay of 90 minutes, but it didn't impact the match's overall outcome. The tournament's climax arrived on May 30, with the final match between Delhi Capitals and Chennai Super Kings at the picturesque Arun Jaitley Stadium. Despite light rain showers, the match proceeded, and Delhi Capitals emerged victorious, clinching their maiden IPL title.", 
         "Question": "Where was the match between Kolkata Knight Riders and Sunrisers Hyderabad played?", 
-        "Reasoning": "The recall from the story indicates that the match between Kolkata Knight Riders and Sunrisers Hyderabad was played at Eden Gardens."
+        "Reasoning": "The recall from the story indicates that the match between Kolkata Knight Riders and Sunrisers Hyderabad was played at Eden Gardens.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -971,7 +997,8 @@
         "Answer": "Mosses and lichens, grasses and shrubs, trees, landslide", 
         "Story": "In 1950, following an earthquake-triggered landslide in the Alps, an area was laid bare of forest cover. Mosses and lichens established themselves on this barren rock by the late 1950s. In the early 1970s, grasses and shrubs made their appearance, thanks to the nutrient-rich soil the pioneer species had created. By 2000, the plants and shrubs in the region made way for trees, resulting in a steady regeneration of the forest ecosystem. But in 2018, a landslide hit once again, sending the area back to the initial stages of succession.", 
         "Question": "Considering their appearances in the story's timeline and spatially locating the landscape, how did the forest ecosystem develop and regress due to natural disasters?", 
-        "Reasoning": "Following the 1950 landslide, the barren rock was first colonized by mosses and lichens. In the early 1970s, grasses and shrubs appeared, benefitting from the nutrient-rich soil developed by these pioneer species. By 2000, trees had established, reflecting a maturing forest ecosystem. However, a second landslide in 2018 reset the succession process back to square one."
+        "Reasoning": "Following the 1950 landslide, the barren rock was first colonized by mosses and lichens. In the early 1970s, grasses and shrubs appeared, benefitting from the nutrient-rich soil developed by these pioneer species. By 2000, trees had established, reflecting a maturing forest ecosystem. However, a second landslide in 2018 reset the succession process back to square one.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -983,7 +1010,8 @@
         "Answer": "500,000", 
         "Story": "In the year 2010, Canada was home to a diverse population of 34 million people. Over the next five years, the population grew steadily, reaching 36.5 million in 2015. This indicated a growth rate of 7.4%. The cities of Toronto and Vancouver experienced the most significant population increases during this period, with Toronto's population growing from 5.5 million to 6.4 million, and Vancouver's population increasing from 2.3 million to 2.8 million. These numbers showcased the growing popularity and appeal of these two Canadian cities.", 
         "Question": "By how much did Vancouver's population increase from 2010 to 2015?", 
-        "Reasoning": "Vancouver's population increased from 2.3 million to 2.8 million, which is an increase of 500,000."
+        "Reasoning": "Vancouver's population increased from 2.3 million to 2.8 million, which is an increase of 500,000.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -995,7 +1023,8 @@
         "Answer": "Erratic rainfall patterns", 
         "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.", 
         "Question": "Which event caused severe drought in Mumbai?", 
-        "Reasoning": "The monsoon season in 2019 was characterized by erratic rainfall patterns, which resulted in severe drought in Mumbai."
+        "Reasoning": "The monsoon season in 2019 was characterized by erratic rainfall patterns, which resulted in severe drought in Mumbai.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -1007,7 +1036,8 @@
         "Answer": "2015", 
         "Story": "In the year 2005, the prosperous city-state of Singapore was home to a diverse population of 4.35 million people. Over the next decade, this bustling metropolis experienced significant changes in its population dynamics. By 2015, Singapore witnessed a remarkable population increase, growing from 5.3 million to 5.8 million, indicating a growth rate of 9.4%. The demographic landscape revealed an interesting pattern as well. While the male population in Singapore increased by 12%, the female population grew by 7.8%. These population dynamics showcased the evolving nature of this iconic city-state over the span of a decade.", 
         "Question": "In which year did Singapore witness a population increase to 5.8 million?", 
-        "Reasoning": "The story mentions that by 2015, Singapore's population grew to 5.8 million."
+        "Reasoning": "The story mentions that by 2015, Singapore's population grew to 5.8 million.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -1019,7 +1049,8 @@
         "Answer": "Sri Lanka and Bangladesh", 
         "Story": "The Asia Cup kicked off on September 15, 2021, with a riveting match between arch-rivals India and Pakistan at the Dubai International Cricket Stadium. The match commenced at 3:00 PM local time, and despite a brief rain interruption in the first innings, it didn't affect the overall gameplay. On September 21, Sri Lanka and Bangladesh faced each other at the Sheikh Zayed Stadium, where relentless rain caused a frustrating delay of four hours. Finally, on October 2, the final match between India and Pakistan took place at the RACV Royal Pines Resort, Australia. Despite a slight drizzle, the match continued, and India emerged victorious, clinching the Asia Cup trophy.", 
         "Question": "Which teams faced off at the Sheikh Zayed Stadium?", 
-        "Reasoning": "According to the story, Sri Lanka and Bangladesh faced off at the Sheikh Zayed Stadium."
+        "Reasoning": "According to the story, Sri Lanka and Bangladesh faced off at the Sheikh Zayed Stadium.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -1031,7 +1062,8 @@
         "Answer": "Both", 
         "Story": "In 2005, the scenic country of Australia was home to a population of 20.4 million, spread across various states and territories. Over the subsequent decade, this vast nation experienced noteworthy shifts in its demographic landscape. By 2015, Australia's population had surged to 23.5 million, showcasing a remarkable growth rate of 15.2%. The statistical breakdown revealed intriguing insights too - the male population grew by 14.8%, while the female population increased by 15.6%. Meanwhile, across the Pacific Ocean, the United States boasted a population of 298.4 million in 2005, which grew at a moderate pace to reach 321.4 million by 2015, representing a 7.7% growth rate. Comparatively, Australia's population growth far exceeded that of the United States during this period, giving rise to discussions about the diverse factors behind this contrasting population dynamic in two distinct locations.", 
         "Question": "According to the story, in which country was there a discussion about the diverse factors behind the contrasting population dynamic?", 
-        "Reasoning": "The story mentions that Australia's population growth far exceeded that of the United States, which 'gave rise to discussions about the diverse factors behind this contrasting population dynamic in the two distinct locations.' Therefore, it can be inferred that these discussions took place in both countries."
+        "Reasoning": "The story mentions that Australia's population growth far exceeded that of the United States, which 'gave rise to discussions about the diverse factors behind this contrasting population dynamic in the two distinct locations.' Therefore, it can be inferred that these discussions took place in both countries.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -1043,7 +1075,8 @@
         "Answer": "Bay of Islands", 
         "Story": "During our unforgettable ten-day expedition through New Zealand, we commenced our journey in Auckland on Day 1. At around 11 AM, we explored the bustling city center for approximately an hour before indulging in a delectable seafood meal at a local restaurant. The following morning, we embarked on a picturesque ferry ride to Waiheke Island, departing around 6 AM. Our entire day on the island was spent savoring exquisite wines and basking in the breathtaking vistas of the Hauraki Gulf. Moving on to Day 3, we headed to Rotorua, where we immersed ourselves in the mesmerizing geothermal wonders of Wai-O-Tapu and enjoyed a relaxing soak in the natural hot springs. Days 4 and 5 were dedicated to thrilling adventures in Queenstown, engaging in heart-pounding activities like bungee jumping, skydiving, and jet boating. On Day 6, we embarked on a scenic two-hour drive to Milford Sound, where we embarked on a cruising expedition through the majestic fjords, relishing in the beauty of cascading waterfalls and diverse wildlife. The subsequent day was devoted to conquering the famous and challenging Tongariro Alpine Crossing, which required six hours of arduous trekking through awe-inspiring volcanic landscapes. Our exploration continued in Wellington on Days 8 and 9, as we delved into the city's cultural attractions and savored the exquisite craft beer selection at local breweries. Finally, we concluded our journey in the stunning Bay of Islands, where we devoted our last day to sailing, snorkeling, and unwinding on pristine beaches, all while witnessing the captivating sunset at 6:35 PM.", 
         "Question": "What was the final destination of the expedition?", 
-        "Reasoning": "The story mentions that they concluded their journey in the stunning Bay of Islands."
+        "Reasoning": "The story mentions that they concluded their journey in the stunning Bay of Islands.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -1055,7 +1088,8 @@
         "Answer": "Sitka", 
         "Story": "Last winter, my husband and I embarked on an adventurous eleven-day expedition through Alaska. Day 1 began in Anchorage, where we arrived in the morning and rented a car to drive to Denali National Park. The next morning, we took a bus tour to explore the vast wilderness and spot grizzly bears and moose. Day 3 took us to Seward, where we went on a thrilling glacier cruise and witnessed massive chunks of ice calving into the sea. Days 4 and 5 were dedicated to dog sledding and staying in a cozy cabin in Fairbanks, Alaska's northernmost city. On Day 6, we traveled to Juneau, the capital of Alaska, and went on a helicopter tour to the Mendenhall Glacier, where we hiked and enjoyed the stunning blue ice. The following day, we took a scenic ferry ride to Skagway and embarked on the historic White Pass & Yukon Route Railway, enjoying breathtaking views of the mountains. Days 8 and 9 were spent in Ketchikan, exploring the totem poles at the Totem Bight State Park and taking a thrilling zip line tour through the rainforest. Our final destination was Sitka, where we spent the last day kayaking in Sitka Sound and visiting the fascinating Alaska Raptor Center.", 
         "Question": "Which was the last city the couple visited during their expedition?", 
-        "Reasoning": "Their final destination was Sitka as per the story, where they kayaked in Sitka Sound and visited the Alaska Raptor Center."
+        "Reasoning": "Their final destination was Sitka as per the story, where they kayaked in Sitka Sound and visited the Alaska Raptor Center.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -1067,7 +1101,8 @@
         "Answer": "A drought in Wyoming in 2010", 
         "Story": "In 2001, a wildfire engulfed a massive area in Yellowstone National Park, permanently altering the composition of plant life in the region. By 2005, pioneer species such as fireweed and aspen trees had begun to colonize the grounds, setting the stage for the secondary succession. However, a severe drought in Wyoming in 2010 halted the succession. Gradually, by 2015, the region had transformed into a meadow, hosting various herbivores and bird species. Strikingly, in 2020, climax communities of spruce and fir began emerging, highlighting nature's resilience.", 
         "Question": "Which event in the story halted the secondary succession of plant life in the region?", 
-        "Reasoning": "The third sentence of the story mentions that a severe drought halted the succession of plant life in 2010."
+        "Reasoning": "The third sentence of the story mentions that a severe drought halted the succession of plant life in 2010.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -1079,7 +1114,8 @@
         "Answer": "Cusco", 
         "Story": "Last autumn, my partner and I embarked on an enchanting twelve-day adventure through South America. Day 1 began in Rio de Janeiro, where we arrived in the evening and took a cable car ride to the iconic Christ the Redeemer statue. The next morning, we flew to Iguazu Falls and spent the day exploring both the Brazilian and Argentine sides of the magnificent waterfalls. Day 3 took us to Buenos Aires, where we tango danced the night away in the vibrant neighborhood of San Telmo. Days 4 and 5 were dedicated to wine tasting in the picturesque vineyards of Mendoza, where we indulged in Malbec and enjoyed breathtaking views of the Andes. On Day 6, we traveled to Cusco, Peru, and began our trek to Machu Picchu on the famous Inca Trail. The following day, we reached the ancient citadel of Machu Picchu and marveled at its mystical beauty. Days 8 and 9 were spent in the Amazon Rainforest, where we embarked on a thrilling jungle tour, spotting exotic wildlife and venturing on night hikes. Our final destination was Lima, where we spent the last day exploring the historic city center and savoring delicious ceviche.", 
         "Question": "From where did they begin their trek to Machu Picchu?", 
-        "Reasoning": "According to the story, they started their trek to Machu Picchu from Cusco, Peru."
+        "Reasoning": "According to the story, they started their trek to Machu Picchu from Cusco, Peru.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -1091,7 +1127,8 @@
         "Answer": "Day 1", 
         "Story": "During the winter holidays, my family and I embarked on a magical ten-day journey through Iceland. Day 1 commenced in Reykjavik, where we visited the iconic Hallgrimskirkja Church and indulged in traditional Icelandic cuisine at a local restaurant. The following day, we journeyed to the mesmerizing Golden Circle, marveling at the mighty Gullfoss waterfall and exploring the geothermal area of Geysir. On Day 3, we reached the icy landscapes of Jokulsarlon Glacier Lagoon, where we marveled at the sparkling blue icebergs and took a thrilling boat ride. Days 4 and 5 were dedicated to the serene beauty of Lake Myvatn, where we hiked through lava fields and soaked in natural hot springs. Next, we ventured to the Westfjords, enjoying scenic drives along fjords and observing puffin colonies. The final leg of our journey took us to the enchanting Blue Lagoon, where we spent days 9 and 10 relaxing in the mineral-rich waters and indulging in luxurious spa treatments.", 
         "Question": "When did the family start their journey in Reykjavik?", 
-        "Reasoning": "The text explicitly says that Day 1 commenced in Reykjavik."
+        "Reasoning": "The text explicitly says that Day 1 commenced in Reykjavik.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -1103,7 +1140,8 @@
         "Answer": "London", 
         "Story": "In 2008, the Beijing Olympic Games kicked off, witnessing an array of athletes participating from different corners of the globe. The 'Bird\u2019s Nest' Stadium had become a bustling hub for sports, fostering a sense of global unity. Come 2012, the excitement shifted to London, with the city hosting magnificent games that further solidified the city\u2019s historic sporting legacy. However, in 2016, controversy infiltrated the Rio de Janeiro Olympics, with several athletes allegedly failing drug tests. Slowly but surely, by 2020, Tokyo was preparing to host the Games amid numerous challenges, transforming the city into a symbol of resilience. Remarkably, in 2021, the Games, delayed by a year, managed to take place progressively, adhering strictly to safety protocols, reminding the world of the enduring spirit of sportsmanship and unity.", 
         "Question": "Which city hosted the Olympic Games in 2012 following Beijing in 2008?", 
-        "Reasoning": "According to the story, the excitement of the Olympic Games shifted in 2012 to London from Beijing, which hosted the Games in 2008."
+        "Reasoning": "According to the story, the excitement of the Olympic Games shifted in 2012 to London from Beijing, which hosted the Games in 2008.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -1115,7 +1153,8 @@
         "Answer": "9.8%", 
         "Story": "In 2012, the bustling city of London in the United Kingdom had a population of 8.2 million people. Over the next six years, the population steadily increased, reaching 9 million by 2018. This displayed a growth rate of 9.8% within this timeframe. The male population in London grew by 9.5%, while the female population experienced a growth of 10.1%. These demographic changes reflected the continuous allure and opportunities offered by this dynamic global city.", 
         "Question": "By what percentage did the population of London grow between 2012 and 2018?", 
-        "Reasoning": "The story states that the population of London grew by 9.8% between 2012 and 2018."
+        "Reasoning": "The story states that the population of London grew by 9.8% between 2012 and 2018.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -1127,7 +1166,8 @@
         "Answer": "Exploring the streets of Fes and relaxing on the beach in Essaouira", 
         "Story": "Last spring, my friends and I embarked on an exhilarating nine-day adventure through Morocco. Day 1 began in Marrakech, where we arrived in the morning and explored the bustling souks and visited the beautiful Bahia Palace. The next morning, we took a camel ride at 8 AM to the Sahara Desert, spending the day trekking through the sand dunes and camping under the stars. Day 3 took us to Chefchaouen, the \"Blue City,\" where we spent the day wandering through its narrow blue streets. Days 4 and 5 were dedicated to exploring the majestic Atlas Mountains, hiking to remote Berber villages and enjoying panoramic views. On Day 6, we traveled to Fes and spent the day getting lost in the maze-like streets of the medina and visiting the famous tanneries. The following day, we took a scenic train ride to Essaouira and spent the day relaxing on the beautiful beach and enjoying fresh seafood. Days 8 and 9 were spent in Casablanca, exploring the modern city and visiting the Hassan II Mosque, one of the largest mosques in the world. Our final destination was Tangier, where we spent the last day exploring the historic Kasbah and enjoying stunning views of the Strait of Gibraltar.", 
         "Question": "What were the main activities on day 6 and 7?", 
-        "Reasoning": "On Day 6, the group got lost in the streets of Fes and visited the famous tanneries. And on Day 7, the group took a train ride to Essaouira and spent the day relaxing on the beach."
+        "Reasoning": "On Day 6, the group got lost in the streets of Fes and visited the famous tanneries. And on Day 7, the group took a train ride to Essaouira and spent the day relaxing on the beach.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -1139,7 +1179,8 @@
         "Answer": "November 26", 
         "Story": "In the mesmerizing FIFA World Cup tournament of 2022, the first captivating match unfolded on November 21 at the historic Luzhniki Stadium, Moscow. The fierce rivals, Germany and France clashed, enthralling the audience with their exceptional skills. The match commenced at 6:00 PM local time, with both teams displaying unwavering determination. In the 55th minute, Germany's midfielder delivered a sublime through-ball, setting up a perfectly timed run from their striker, resulting in a majestic goal and sending the crowd into raptures. However, just before the final whistle, France retaliated and scored a mesmerizing team goal in the 89th minute, securing a breathtaking victory at Luzhniki Stadium. Another thrilling encounter took place on November 26, at Estadio do Maracana, Rio de Janeiro, as Brazil faced off against Belgium. The match kicked off at 7:00 PM local time and witnessed a fierce battle between the two powerhouses. Brazil managed to score a dramatic late winner in extra time, securing a hard-fought victory over Belgium and leaving fans captivated.", 
         "Question": "On what date did the FIFA World Cup match between Brazil and Belgium take place?", 
-        "Reasoning": "The story clearly mentions that the Brazil vs Belgium match took place on November 26."
+        "Reasoning": "The story clearly mentions that the Brazil vs Belgium match took place on November 26.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -1151,7 +1192,8 @@
         "Answer": "Ketchikan", 
         "Story": "Last winter, my husband and I embarked on an adventurous eleven-day expedition through Alaska. Day 1 began in Anchorage, where we arrived in the morning and rented a car to drive to Denali National Park. The next morning, we took a bus tour to explore the vast wilderness and spot grizzly bears and moose. Day 3 took us to Seward, where we went on a thrilling glacier cruise and witnessed massive chunks of ice calving into the sea. Days 4 and 5 were dedicated to dog sledding and staying in a cozy cabin in Fairbanks, Alaska's northernmost city. On Day 6, we traveled to Juneau, the capital of Alaska, and went on a helicopter tour to the Mendenhall Glacier, where we hiked and enjoyed the stunning blue ice. The following day, we took a scenic ferry ride to Skagway and embarked on the historic White Pass & Yukon Route Railway, enjoying breathtaking views of the mountains. Days 8 and 9 were spent in Ketchikan, exploring the totem poles at the Totem Bight State Park and taking a thrilling zip line tour through the rainforest. Our final destination was Sitka, where we spent the last day kayaking in Sitka Sound and visiting the fascinating Alaska Raptor Center.", 
         "Question": "Where did the couple explore totem poles during their journey?", 
-        "Reasoning": "The couple explored the totem poles at the Totem Bight State Park in Ketchikan, as mentioned in the story."
+        "Reasoning": "The couple explored the totem poles at the Totem Bight State Park in Ketchikan, as mentioned in the story.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -1163,7 +1205,8 @@
         "Answer": "Bangkok", 
         "Story": "Last spring, my family and I embarked on a memorable fourteen-day adventure through Southeast Asia. Day 1 began in Bangkok, where we arrived in the evening and checked into our hotel. The next morning, we visited the Grand Palace at 9 AM and spent the afternoon exploring the vibrant street markets. Day 3 took us to Siem Reap, where we spent two days exploring the stunning temples of Angkor Wat and witnessing the sunrise over the ancient ruins. Days 5 and 6 were dedicated to island hopping in Phuket, where we enjoyed snorkeling, sunbathing, and indulging in delicious Thai cuisine. On Day 7, we flew to Hanoi, Vietnam, and spent the afternoon exploring the charming Old Quarter and tasting local street food. The following day, we took an overnight cruise in Halong Bay, admiring the limestone karsts and kayaking through hidden caves. Days 9 and 10 were spent in Ho Chi Minh City, where we visited the historical Cu Chi Tunnels and learned about the Vietnam War. Our final destination was Bali, where we spent the last three days relaxing on beautiful beaches, practicing yoga, and exploring Ubud's art scene.", 
         "Question": "Where did the family spend their first day of the adventure?", 
-        "Reasoning": "The story mentions 'Day 1 began in Bangkok.' This implies that the first day of the family's adventure was spent in Bangkok."
+        "Reasoning": "The story mentions 'Day 1 began in Bangkok.' This implies that the first day of the family's adventure was spent in Bangkok.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -1175,7 +1218,8 @@
         "Answer": "Female", 
         "Story": "In 2005, the scenic country of Australia was home to a population of 20.4 million, spread across various states and territories. Over the subsequent decade, this vast nation experienced noteworthy shifts in its demographic landscape. By 2015, Australia's population had surged to 23.5 million, showcasing a remarkable growth rate of 15.2%. The statistical breakdown revealed intriguing insights too - the male population grew by 14.8%, while the female population increased by 15.6%. Meanwhile, across the Pacific Ocean, the United States boasted a population of 298.4 million in 2005, which grew at a moderate pace to reach 321.4 million by 2015, representing a 7.7% growth rate. Comparatively, Australia's population growth far exceeded that of the United States during this period, giving rise to discussions about the diverse factors behind this contrasting population dynamic in two distinct locations.", 
         "Question": "Which gender population grew more in Australia between 2005 to 2015?", 
-        "Reasoning": "From the given story, it is stated that the male population grew by 14.8%, while the female population increased by 15.6%. Thus, the female population growth rate was higher."
+        "Reasoning": "From the given story, it is stated that the male population grew by 14.8%, while the female population increased by 15.6%. Thus, the female population growth rate was higher.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -1187,7 +1231,8 @@
         "Answer": "5.2%", 
         "Story": "In the year 2007, the vibrant country of Mexico was home to a diverse population of 107 million people. Over the next decade, Mexico City, the capital, experienced significant changes in its population dynamics. By 2017, the city's population rose from 8.8 million to 9.2 million, marking a growth rate of 4.5%. The demographic landscape revealed an interesting pattern as well. While the male population in Mexico City increased by 3.8%, the female population grew by 5.2%. These population dynamics showcased the evolving nature of this iconic city in Mexico over the span of a decade.", 
         "Question": "What was the female population growth rate in the city?", 
-        "Reasoning": "The story directly states that the female population in Mexico City grew by 5.2%."
+        "Reasoning": "The story directly states that the female population in Mexico City grew by 5.2%.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -1199,7 +1244,8 @@
         "Answer": "Day 3", 
         "Story": "Last winter, my family and I embarked on an exciting ten-day adventure through Japan. Day 1 began in Tokyo, where we explored the bustling streets of Shibuya and savored authentic sushi at a local restaurant. The following day, we took a bullet train to Kyoto, visiting the iconic Kiyomizu-dera Temple and immersing ourselves in the serene beauty of Arashiyama Bamboo Grove. On Day 3, we ventured to Hiroshima, paying our respects at the Peace Memorial Park and Museum. Days 4 and 5 were dedicated to the snow-covered landscapes of Hokkaido, where we enjoyed skiing in Niseko and indulged in hot springs in Noboribetsu. Our next stop was Osaka, where we spent two days exploring Osaka Castle and devouring delicious street food in Dotonbori. The final leg of our journey took us to the enchanting city of Kyoto, where we marveled at the stunning Golden Pavilion and participated in a traditional tea ceremony.", 
         "Question": "On which day of their Japan trip did the family visit Hiroshima?", 
-        "Reasoning": "The story states that on day 3, the family went to Hiroshima."
+        "Reasoning": "The story states that on day 3, the family went to Hiroshima.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -1211,7 +1257,8 @@
         "Answer": "Shibuya, Tokyo", 
         "Story": "Last winter, my family and I embarked on an exciting ten-day adventure through Japan. Day 1 began in Tokyo, where we explored the bustling streets of Shibuya and savored authentic sushi at a local restaurant. The following day, we took a bullet train to Kyoto, visiting the iconic Kiyomizu-dera Temple and immersing ourselves in the serene beauty of Arashiyama Bamboo Grove. On Day 3, we ventured to Hiroshima, paying our respects at the Peace Memorial Park and Museum. Days 4 and 5 were dedicated to the snow-covered landscapes of Hokkaido, where we enjoyed skiing in Niseko and indulged in hot springs in Noboribetsu. Our next stop was Osaka, where we spent two days exploring Osaka Castle and devouring delicious street food in Dotonbori. The final leg of our journey took us to the enchanting city of Kyoto, where we marveled at the stunning Golden Pavilion and participated in a traditional tea ceremony.", 
         "Question": "Where did the family go to savor authentic sushi?", 
-        "Reasoning": "In the story, it is stated that the family savored authentic sushi at a local restaurant in Shibuya, Tokyo on the first day of their adventure."
+        "Reasoning": "In the story, it is stated that the family savored authentic sushi at a local restaurant in Shibuya, Tokyo on the first day of their adventure.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -1223,7 +1270,8 @@
         "Answer": "6 days", 
         "Story": "The Asia Cup kicked off on September 15, 2021, with a riveting match between arch-rivals India and Pakistan at the Dubai International Cricket Stadium. The match commenced at 3:00 PM local time, and despite a brief rain interruption in the first innings, it didn't affect the overall gameplay. On September 21, Sri Lanka and Bangladesh faced each other at the Sheikh Zayed Stadium, where relentless rain caused a frustrating delay of four hours. Finally, on October 2, the final match between India and Pakistan took place at the RACV Royal Pines Resort, Australia. Despite a slight drizzle, the match continued, and India emerged victorious, clinching the Asia Cup trophy.", 
         "Question": "How many days after the first match did Sri Lanka and Bangladesh face each other?", 
-        "Reasoning": "Sri Lanka and Bangladesh faced each other on September 21, which is 6 days after the first match which was on September 15."
+        "Reasoning": "Sri Lanka and Bangladesh faced each other on September 21, which is 6 days after the first match which was on September 15.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -1235,7 +1283,8 @@
         "Answer": "They visited Muscat and explored the traditional souks and relaxed on beaches", 
         "Story": "Last autumn, my partner and I embarked on an enchanting twelve-day adventure through the Middle East. Day 1 began in Istanbul, where we arrived in the morning and immediately set off to explore the majestic Hagia Sophia. The next morning, we took a domestic flight at 8 AM to Cappadocia, spending the day exploring the fairy chimneys and taking a hot air balloon ride at sunrise. Day 3 took us to Petra, Jordan, where we hiked through the Siq and marveled at the Treasury. Days 4 and 5 were dedicated to exploring the ancient city of Jerusalem, visiting the Western Wall, the Church of the Holy Sepulchre, and the Mount of Olives. On Day 6, we traveled to Luxor, Egypt, and spent the day exploring the Valley of the Kings and the Temple of Karnak. The following day, we took a felucca boat ride along the Nile River, enjoying the serene beauty of the landscape. Days 8 and 9 were spent in Dubai, where we visited the Burj Khalifa, went on a desert safari, and indulged in shopping at the famous malls. Our final destination was Muscat, Oman, where we spent the last day exploring the traditional souks and relaxing on beautiful beaches.", 
         "Question": "Which city did the travelers visit after their journey in Dubai and what were the main activities there?", 
-        "Reasoning": "The story mentions that after Dubai, the final destination was Muscat, where they explored the traditional souks and relaxed on beautiful beaches."
+        "Reasoning": "The story mentions that after Dubai, the final destination was Muscat, where they explored the traditional souks and relaxed on beautiful beaches.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -1247,6 +1296,7 @@
         "Answer": "Johannesburg", 
         "Story": "In the year 2012, the vibrant country of South Africa was home to a diverse population of 52 million people. Over the next five years, several cities within the country experienced significant changes in their population dynamics. By 2017, Johannesburg, the largest city, saw its population rise from 4.4 million to 4.8 million, marking an impressive growth rate of 9.1%. Cape Town, on the other hand, witnessed a more moderate increase, with its population growing from 3.7 million in 2012 to 4.1 million in 2017, indicating a growth rate of 10.8%. The demographic landscape revealed an interesting pattern too - while the male population in Johannesburg increased by 8.7%, the female population grew by 9.5%. In Cape Town, the male population grew by 10.2%, while the female population saw a growth of 11.4%. These population dynamics showcased the evolving nature of these two iconic cities in South Africa over the span of five years.", 
         "Question": "In 2012, which city had a larger population: Johannesburg or Cape Town?", 
-        "Reasoning": "In 2012, Johannesburg's population was 4.4 million whereas Cape Town's population was 3.7 million. Therefore, Johannesburg had a larger population."
+        "Reasoning": "In 2012, Johannesburg's population was 4.4 million whereas Cape Town's population was 3.7 million. Therefore, Johannesburg had a larger population.",
+        "Label":0
     }
 ]
