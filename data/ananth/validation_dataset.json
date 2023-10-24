@@ -9,7 +9,8 @@
         "Answer": "Eden Gardens, Kolkata", 
         "Story": "The excitement of the ICC T20 World Cup began on October 18, 2020, with a thrilling match between India and Pakistan at the Dubai International Stadium. Despite a brief rain delay, the match commenced at 7:00 PM local time. On October 23, defending champions, West Indies, faced off against Australia at the Sheikh Zayed Stadium in Abu Dhabi, where the match was interrupted due to heavy rain that lasted for two hours. The battle for the title reached its climax on November 14, with the final match held at the iconic Eden Gardens in Kolkata. England and India fought fiercely, with occasional showers halting play for half an hour before England emerged as the champions.", 
         "Question": "In which stadium was the final match of the ICC T20 World Cup held?", 
-        "Reasoning": "In the third sentence, it's stated that the final match took place at the iconic Eden Gardens in Kolkata."
+        "Reasoning": "In the third sentence, it's stated that the final match took place at the iconic Eden Gardens in Kolkata.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -21,7 +22,8 @@
         "Answer": "Day 3", 
         "Story": "During the spring break, my friends and I embarked on a thrilling twelve-day backpacking trip through Europe. Day 1 started in Paris, where we explored the enchanting streets of Montmartre and tasted mouthwatering croissants at a local bakery. The following day, we hopped on a train to Amsterdam, wandering through the vibrant neighborhoods of Jordaan and taking a scenic boat tour along the famous canals. On Day 3, we ventured to Berlin, immersing ourselves in the city's compelling history with visits to the Berlin Wall and the Brandenburg Gate. Days 4 and 5 were dedicated to the romantic city of Venice, where we rode gondolas through the charming canals and admired the art at the Peggy Guggenheim Collection. Next, we whisked away to Rome, spending two days exploring the Vatican City and tossing coins into the Trevi Fountain for good luck. The final leg of our journey took us to the picturesque Amalfi Coast, where we soaked up the sun and marveled at the stunning cliffs of Positano.", 
         "Question": "On what day did they tour Berlin?", 
-        "Reasoning": "The story clearly states that they ventured to Berlin on Day 3 of their trip."
+        "Reasoning": "The story clearly states that they ventured to Berlin on Day 3 of their trip.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -33,7 +35,8 @@
         "Answer": "Valencia", 
         "Story": "In the exhilarating Europa League tournament of 2022, the first thrilling match unfolded on February 15 at the iconic Mestalla Stadium, Valencia. The intense rivals, Atletico Madrid and Manchester United clashed, enthralling the audience with their unparalleled skills. The match commenced at 9:00 PM local time, with both teams displaying unwavering determination. In the 75th minute, Atletico Madrid's midfielder executed a sensational free-kick, breaking the deadlock and sending the crowd into a frenzy. However, just before the final whistle, Manchester United retaliated and scored a phenomenal header in the 89th minute, securing a breathtaking victory at Mestalla. Another captivating encounter took place on February 27, at RheinEnergieStadion, Cologne, as Sevilla faced off against AC Milan. The match kicked off at 8:30 PM local time and witnessed a fierce battle between the two powerhouses. Sevilla managed to score a dramatic late winner in extra time, securing a hard-fought victory over AC Milan and leaving fans amazed.", 
         "Question": "What city hosted the match in which Atletico Madrid's midfielder scored a sensational free-kick?", 
-        "Reasoning": "The story states that the match where Atletico Madrid's midfielder executed a sensational free-kick happened at the Mestalla Stadium, which is in Valencia."
+        "Reasoning": "The story states that the match where Atletico Madrid's midfielder executed a sensational free-kick happened at the Mestalla Stadium, which is in Valencia.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -45,7 +48,8 @@
         "Answer": "New York", 
         "Story": "In the year 2006, the bustling city of New York in the United States had a population of 8.2 million people. Over the next twelve years, the population steadily increased, reaching 8.6 million by 2018. This displayed a growth rate of 4.9% within this timeframe. The male population in New York grew by 4.7%, while the female population experienced a growth of 5.1%. These demographic changes reflected the ongoing allure and opportunities offered by the Big Apple.", 
         "Question": "Which city in the United States had a population of 8.2 million in 2006?", 
-        "Reasoning": "The story mentions that the city of New York in the United States had a population of 8.2 million in 2006."
+        "Reasoning": "The story mentions that the city of New York in the United States had a population of 8.2 million in 2006.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -57,7 +61,8 @@
         "Answer": "9.5%", 
         "Story": "In 2012, the bustling city of London in the United Kingdom had a population of 8.2 million people. Over the next six years, the population steadily increased, reaching 9 million by 2018. This displayed a growth rate of 9.8% within this timeframe. The male population in London grew by 9.5%, while the female population experienced a growth of 10.1%. These demographic changes reflected the continuous allure and opportunities offered by this dynamic global city.", 
         "Question": "What was the percentage growth of the male population in London from 2012 to 2018?", 
-        "Reasoning": "The story states directly that the male population in London grew by 9.5% between 2012 to 2018."
+        "Reasoning": "The story states directly that the male population in London grew by 9.5% between 2012 to 2018.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -69,7 +74,8 @@
         "Answer": "Growth of grasses and shrubs", 
         "Story": "In 1950, following an earthquake-triggered landslide in the Alps, an area was laid bare of forest cover. Mosses and lichens established themselves on this barren rock by the late 1950s. In the early 1970s, grasses and shrubs made their appearance, thanks to the nutrient-rich soil the pioneer species had created. By 2000, the plants and shrubs in the region made way for trees, resulting in a steady regeneration of the forest ecosystem. But in 2018, a landslide hit once again, sending the area back to the initial stages of succession.", 
         "Question": "What significant change in the ecosystem did the early 1970s bring after the pioneer species had established themselves?", 
-        "Reasoning": "The story tells us that in the early 1970s, grasses and shrubs began to appear in the region, following the establishment of pioneer species."
+        "Reasoning": "The story tells us that in the early 1970s, grasses and shrubs began to appear in the region, following the establishment of pioneer species.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -81,7 +87,8 @@
         "Answer": "Sydney's sparkling harbor", 
         "Story": "In March 2022, a grand symphony orchestra graced the iconic Sydney Opera House with their awe-inspiring performance, leaving spectators spellbound. Against the backdrop of Sydney's sparkling harbor, renowned classical musicians from around the world showcased their virtuosity, taking the audience on an emotional journey through the timeless compositions of Mozart, Beethoven, and Tchaikovsky. The majestic architecture of the opera house served as a testament to the enduring power of music to unite hearts and souls.", 
         "Question": "What served as the backdrop for the orchestra performance?", 
-        "Reasoning": "The story states that Sydney's sparkling harbor served as the backdrop for the symphony orchestra performance."
+        "Reasoning": "The story states that Sydney's sparkling harbor served as the backdrop for the symphony orchestra performance.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -93,7 +100,8 @@
         "Answer": "Day 1", 
         "Story": "Last spring, my partner and I embarked on an enchanting twelve-day adventure through South Africa. Day 1 began in Cape Town, where we explored the vibrant V&A Waterfront and took a cable car ride up Table Mountain for stunning views. The following day, we journeyed to Stellenbosch, immersing ourselves in the picturesque vineyards and indulging in wine tastings. On Day 3, we reached the magnificent Kruger National Park, embarking on thrilling game drives and spotting the 'Big Five' animals. Days 4 and 5 were dedicated to exploring the stunning landscapes of the Garden Route, where we hiked in Tsitsikamma National Park and marveled at the dramatic cliffs of the Knysna Heads. Next, we ventured to Durban, spending two days relaxing on the pristine beaches and exploring the vibrant markets. The final leg of our journey took us to the world-famous Sabi Sand Game Reserve, where we spent days 10 and 11 on immersive safari experiences and luxurious lodge accommodations.", 
         "Question": "On which day did they explore the vibrant V&A Waterfront and took a cable car ride up Table Mountain?", 
-        "Reasoning": "The story mentions that they began their adventure in Cape Town where they explored the V&A Waterfront and took a cable car up Table Mountain on the first day."
+        "Reasoning": "The story mentions that they began their adventure in Cape Town where they explored the V&A Waterfront and took a cable car up Table Mountain on the first day.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -105,7 +113,8 @@
         "Answer": "Victoria - Day 2, Jasper National Park - Day 5 and 6", 
         "Story": "Last summer, my friends and I embarked on a thrilling seven-day adventure through Canada. Day 1 began in Vancouver, where we explored the lively city center around 10 AM for two hours and had lunch at a local sushi restaurant. The next morning, we took a scenic seaplane ride at 8 AM to Victoria, spending the day exploring the stunning Butchart Gardens and visiting the Royal British Columbia Museum. Day 3 took us to Whistler, where we enjoyed a full day of skiing on the world-famous slopes and stayed at a cozy lodge overnight. On Day 4, we traveled to Banff National Park, driving for six hours and stopping at picturesque Lake Louise for a quick hike. Days 5 and 6 were dedicated to hiking and wildlife spotting in Jasper National Park, where we embarked on a thrilling white-water rafting adventure on the Athabasca River. The following day, we visited Calgary and toured the impressive Calgary Tower, enjoying panoramic views of the city. Our final destination was Niagara Falls, where we spent the last day taking a boat tour to the base of the falls and exploring the surrounding attractions.", 
         "Question": "On which days did the group engage in activities in Victoria and Jasper National Park respectively?", 
-        "Reasoning": "On Day 2, the group took a seaplane ride to Victoria where they explored Butchart Gardens and visited the Royal British Columbia Museum, and on Days 5 and 6, they went hiking and wildlife spotting in Jasper National Park."
+        "Reasoning": "On Day 2, the group took a seaplane ride to Victoria where they explored Butchart Gardens and visited the Royal British Columbia Museum, and on Days 5 and 6, they went hiking and wildlife spotting in Jasper National Park.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -117,7 +126,8 @@
         "Answer": "Carnival, Film Festival, Music Award Ceremony", 
         "Story": "In March 2017, a vibrant carnival parade was held in Rio de Janeiro, Brazil, attracting millions of spectators. The streets came alive with colorful costumes, lively music, and energetic dance performances. The event showcased the rich cultural heritage of Brazil and brought together people from all over the world. In May 2018, a prestigious film festival took place in Cannes, France. The event featured the screening of critically acclaimed movies, and renowned actors and directors graced the red carpet. It was a hub of creativity and film appreciation. In November 2020, a grand music award ceremony was held in Las Vegas, Nevada, honoring the top artists and performers in the industry. The event dazzled with spectacular live performances, and the audience was spellbound by the talent on display.", 
         "Question": "What is the order of the events as per the temporal information in the story?", 
-        "Reasoning": "From the story, we learn that the carnival in Brazil happened in March 2017, the film festival in France happened in May 2018 and the music award ceremony in Las Vegas happened in November 2020. Hence the correct order is Carnival, Film Festival, Music Award Ceremony"
+        "Reasoning": "From the story, we learn that the carnival in Brazil happened in March 2017, the film festival in France happened in May 2018 and the music award ceremony in Las Vegas happened in November 2020. Hence the correct order is Carnival, Film Festival, Music Award Ceremony",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -129,7 +139,8 @@
         "Answer": "Paris, France", 
         "Story": "In March 2020, a grand theater performance took place in Paris, France, attracting theater enthusiasts from all over the world. The show featured a mesmerizing blend of dance, music, and theatrical storytelling, leaving the audience in awe. In November 2021, a renowned literature festival was held in Dublin, Ireland, bringing together celebrated authors and avid readers. This event served as a platform to discuss diverse literary works and exchange creative ideas. In June 2023, a comedy festival in Melbourne, Australia, showcased a lineup of talented comedians from around the globe, spreading laughter and joy. These events marked significant milestones in the entertainment industry, fostering cultural exchange and enriching the lives of attendees.", 
         "Question": "What city hosted a grand theater performance in March 2020?", 
-        "Reasoning": "The story explicitly states that a grand theater performance took place in Paris, France in March 2020."
+        "Reasoning": "The story explicitly states that a grand theater performance took place in Paris, France in March 2020.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -141,7 +152,8 @@
         "Answer": "15 years", 
         "Story": "In the year 2003, the culturally rich country of Brazil was home to a population of 176 million people. Over a span of fifteen years, the population expanded significantly, reaching 208 million by 2018. This marked an impressive growth rate of 18.2% during this period. The male population in Brazil grew by 17.6%, while the female population saw a growth of 18.8%. These population dynamics portrayed the ongoing changes and developments within this captivating South American nation.", 
         "Question": "What was the duration of the period in which Brazil's population expanded to reach 208 million?", 
-        "Reasoning": "As per the story, the change in population from 176 million to 208 million took place over a span of fifteen years."
+        "Reasoning": "As per the story, the change in population from 176 million to 208 million took place over a span of fifteen years.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -153,7 +165,8 @@
         "Answer": "1.5 years", 
         "Story": "In July 2019, an enchanting film production commenced in the sprawling landscapes of New Zealand, featuring a star-studded cast and a mesmerizing storyline. The movie captured the hearts of audiences worldwide with its breathtaking visuals and gripping performances. In March 2021, an esteemed film festival took place in Cannes, France, showcasing a diverse array of cinematic masterpieces from around the globe. Filmmakers and movie enthusiasts gathered to celebrate the art of storytelling and witnessed the emergence of new talents. In September 2022, an ambitious film project began shooting in the bustling streets of Tokyo, Japan, blending the elements of action and drama in a unique cultural setting. The production employed groundbreaking visual effects and innovative storytelling techniques, promising an exhilarating movie experience.", 
         "Question": "How much time elapsed between the film festival in Cannes and the start of the film project in Tokyo?", 
-        "Reasoning": "The film festival in Cannes took place in March 2021 and the film project in Tokyo began in September 2022. Thus, the time interval between these two events is approximately 1.5 years."
+        "Reasoning": "The film festival in Cannes took place in March 2021 and the film project in Tokyo began in September 2022. Thus, the time interval between these two events is approximately 1.5 years.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -165,7 +178,8 @@
         "Answer": "June 18, 2017", 
         "Story": "The Champions Trophy began on June 1, 2017, with a clash between England and Bangladesh at the Kennington Oval in London. The match started at 10:30 AM local time, but was interrupted by rain for an hour during the second innings. On June 8, South Africa and Pakistan faced off at the Sophia Gardens in Cardiff, where rain caused a delay of two hours and limited the match to 35 overs per side. The tournament reached its thrilling finale on June 18, with the final match between India and Pakistan at The Oval. Despite a persistent drizzle, the match persisted, and India came out victorious, capturing their third Champions Trophy title.", 
         "Question": "When was the final match of the Champions Trophy held?", 
-        "Reasoning": "The story states that the final match of the Champions Trophy between India and Pakistan took place on June 18."
+        "Reasoning": "The story states that the final match of the Champions Trophy between India and Pakistan took place on June 18.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -177,7 +191,8 @@
         "Answer": "Respiratory issues among the population", 
         "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.", 
         "Question": "What were the consequences of air pollution in Beijing in 2015?", 
-        "Reasoning": "The story mentions that air pollution in Beijing in 2015 led to respiratory issues among its population."
+        "Reasoning": "The story mentions that air pollution in Beijing in 2015 led to respiratory issues among its population.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -189,7 +204,8 @@
         "Answer": "Australia", 
         "Story": "In 2005, the scenic country of Australia was home to a population of 20.4 million, spread across various states and territories. Over the subsequent decade, this vast nation experienced noteworthy shifts in its demographic landscape. By 2015, Australia's population had surged to 23.5 million, showcasing a remarkable growth rate of 15.2%. The statistical breakdown revealed intriguing insights too - the male population grew by 14.8%, while the female population increased by 15.6%. Meanwhile, across the Pacific Ocean, the United States boasted a population of 298.4 million in 2005, which grew at a moderate pace to reach 321.4 million by 2015, representing a 7.7% growth rate. Comparatively, Australia's population growth far exceeded that of the United States during this period, giving rise to discussions about the diverse factors behind this contrasting population dynamic in two distinct locations.", 
         "Question": "Which country had a higher population growth rate between 2005 and 2015?", 
-        "Reasoning": "The population growth rate of Australia from 2005 to 2015 is mentioned as 15.2%. Meanwhile, the United States had a growth rate of 7.7%. Hence, Australia had a higher population growth rate during that period."
+        "Reasoning": "The population growth rate of Australia from 2005 to 2015 is mentioned as 15.2%. Meanwhile, the United States had a growth rate of 7.7%. Hence, Australia had a higher population growth rate during that period.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -201,7 +217,8 @@
         "Answer": "Coniferous trees", 
         "Story": "In the early 1900s, the logging industry thrived in the boreal forests of Northern Saskatchewan, leaving the landscapes devoid of native flora. Natural beauty returned by the 1940s as lichen and moss dominated the forest floor in the initial stages of ecological succession. Come 1950, small shrubs and deciduous trees began asserting their presence while attracting a diverse array of fauna. By 1980, a thriving community of coniferous trees established themselves as the climax community. However, the massive wildfires in 2017 resulted in the forests returning to their early successional phases.", 
         "Question": "What was the climax community established in the boreal forests of Northern Saskatchewan by 1980?", 
-        "Reasoning": "According to the story, a thriving community of coniferous trees established themselves as the climax community by 1980."
+        "Reasoning": "According to the story, a thriving community of coniferous trees established themselves as the climax community by 1980.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -213,7 +230,8 @@
         "Answer": "38.1%", 
         "Story": "In 2013, the vibrant city of Dubai in the United Arab Emirates had a population of 2.1 million people. Over the next five years, the population steadily increased, reaching 2.9 million by 2018. This marked an impressive growth rate of 38.1% within this timeframe. The male population in Dubai grew by 37.4%, while the female population experienced a growth of 38.8%. These demographic changes showcased the rapid urbanization and economic growth in this cosmopolitan Middle Eastern city.", 
         "Question": "What was the overall growth rate of Dubai's population between 2013 and 2018?", 
-        "Reasoning": "The story states that the overall growth rate from 2013 to 2018 was 38.1%."
+        "Reasoning": "The story states that the overall growth rate from 2013 to 2018 was 38.1%.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -225,7 +243,8 @@
         "Answer": "Chilling winter winds", 
         "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town\u2019s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.", 
         "Question": "What happened in December that affected the town's fishing businesses?", 
-        "Reasoning": "The story states that the chilling winter winds in December froze the river, which hindered the town's fishing businesses."
+        "Reasoning": "The story states that the chilling winter winds in December froze the river, which hindered the town's fishing businesses.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -237,7 +256,8 @@
         "Answer": "Winter of 2020", 
         "Story": "In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.", 
         "Question": "When did the widespread flooding occur?", 
-        "Reasoning": "The story states that in the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents."
+        "Reasoning": "The story states that in the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -249,7 +269,8 @@
         "Answer": "37.4%", 
         "Story": "In 2013, the vibrant city of Dubai in the United Arab Emirates had a population of 2.1 million people. Over the next five years, the population steadily increased, reaching 2.9 million by 2018. This marked an impressive growth rate of 38.1% within this timeframe. The male population in Dubai grew by 37.4%, while the female population experienced a growth of 38.8%. These demographic changes showcased the rapid urbanization and economic growth in this cosmopolitan Middle Eastern city.", 
         "Question": "How much did the male population grow in percentage between 2013 and 2018?", 
-        "Reasoning": "The story specifically mentions that the male population in Dubai grew by 37.4% within this timeframe."
+        "Reasoning": "The story specifically mentions that the male population in Dubai grew by 37.4% within this timeframe.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -261,7 +282,8 @@
         "Answer": "Chicago, USA", 
         "Story": "In the sweltering July of 1996, the dynamic city of Chicago, USA, focused the world\u2019s attention on the NBA Finals. The 'United Center', arguably the Mecca of basketball, echoed with the enthralling intensity of worldwide hoop enthusiasts. The torch was passed to Los Angeles in 2000 with the Staples Center playing host, filled with the unmatched spirit of fierce rivalry and sportsmanship. Despite the game\u2019s soaring popularity, a match-fixing scandal did cast a temporary shadow on the event. Progressing to 2004, the city of Detroit, USA, proved to be a spectacular stage for basketball's most distinguished contest. And finally, in a Covid-ridden 2020, the \u2018bubble\u2019 at the ESPN Wide World of Sports Complex, Orlando, Florida welcomed the NBA teams. With tenacious adherence to safety protocols, the tournament displayed an enduring testament to the invincible human spirit and its love for sport.", 
         "Question": "Where was the NBA Finals held in 1996?", 
-        "Reasoning": "The first set of sentences state that the NBA Finals took place in Chicago in 1996."
+        "Reasoning": "The first set of sentences state that the NBA Finals took place in Chicago in 1996.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -273,7 +295,8 @@
         "Answer": "1.5 years", 
         "Story": "In April 2018, an evocative film production embarked on a journey across the rugged terrains of Iceland, featuring a talented ensemble cast and an enthralling plot. The movie mesmerized audiences worldwide with its breathtaking landscapes and powerful performances. In February 2020, a distinguished film festival unfolded in Berlin, Germany, showcasing a rich tapestry of cinematic gems from diverse cultures. Filmmakers and cinephiles immersed themselves in the magic of storytelling and witnessed the rise of bold new voices. In July 2021, a daring cinematic endeavor commenced in the lively streets of Rio de Janeiro, Brazil, blending elements of romance and adventure against the backdrop of vibrant Carnaval celebrations. The production employed vibrant colors and captivating choreography, promising an unforgettable visual spectacle.", 
         "Question": "How much time passed between the film festival in Berlin, Germany and the start of the cinematic endeavor in Rio de Janeiro, Brazil?", 
-        "Reasoning": "The film festival in Berlin, Germany occurred in February 2020 while the cinematic endeavor in Rio de Janeiro, Brazil commenced in July 2021, indicating a timeline of about 1.5 years."
+        "Reasoning": "The film festival in Berlin, Germany occurred in February 2020 while the cinematic endeavor in Rio de Janeiro, Brazil commenced in July 2021, indicating a timeline of about 1.5 years.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -285,7 +308,8 @@
         "Answer": "July 14, 2019", 
         "Story": "In the scorching summer of June 15, 2019, the grand tournament of the ICC Cricket World Cup unfolded in England. Amid the lush greens of The Oval, London, the opening match took place between the fierce rivals, India and Pakistan. The excitement reached its peak on June 22, as Australia clashed with England at the historical Lord's Cricket Ground. On July 5, the picturesque Edgbaston Stadium hosted an intense encounter between New Zealand and West Indies. The tournament reached its pinnacle on July 14, with the final match between England and New Zealand held at the iconic Lord's, where the cricketing world witnessed a breathtaking showdown that went down to the super over. Ultimately, England emerged as the champions, etching their glory in the annals of cricket history.", 
         "Question": "On what date was the final match of the ICC Cricket World Cup 2019 played?", 
-        "Reasoning": "According to the story, the final match was held on July 14, 2019."
+        "Reasoning": "According to the story, the final match was held on July 14, 2019.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -297,7 +321,8 @@
         "Answer": "2022 in Qatar", 
         "Story": "In the chill-struck December of 1998, the lively city of Paris, France, bustled with the anticipation of hosting the FIFA World Cup. The 'Stade de France', quickly became the epicenter of euphoria for soccer devotees worldwide. Sweeping to the East, Yokohama, Japan was next in line come 2002. The International Stadium, flooded with glowing lanterns and echoing chants, painted a picture of an exhilarating aesthetical equilibrium. In spite of a few run-ins with referee controversies, the global enthusiasm for the beautiful game remained undeterred. Zipping fast forward to 2006, the heart of Europe, Berlin, Germany, bathed in an ambiance of festive energy while hosting the world\u2019s largest football contest. Amid the calamity of the Covid-19 pandemic, the 2022 edition, relocated to Qatar, will Mark the tournament's first winter event, demonstrating the relentless vigor of football and its worldwide following.", 
         "Question": "Which is the first FIFA World Cup event mentioned in the story to be held during winter?", 
-        "Reasoning": "The passage notes that the 2022 edition, hosted by Qatar, will be the tournament's first winter event."
+        "Reasoning": "The passage notes that the 2022 edition, hosted by Qatar, will be the tournament's first winter event.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -309,7 +334,8 @@
         "Answer": "Summer", 
         "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village\u2019s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.", 
         "Question": "What season of the year was it when Westbay faced high temperatures and water shortages?", 
-        "Reasoning": "The story indicates that it was during the high summer temperatures that caused serious water shortage in Westbay."
+        "Reasoning": "The story indicates that it was during the high summer temperatures that caused serious water shortage in Westbay.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -321,7 +347,8 @@
         "Answer": "Brazil", 
         "Story": "In the year 2003, the culturally rich country of Brazil was home to a population of 176 million people. Over a span of fifteen years, the population expanded significantly, reaching 208 million by 2018. This marked an impressive growth rate of 18.2% during this period. The male population in Brazil grew by 17.6%, while the female population saw a growth of 18.8%. These population dynamics portrayed the ongoing changes and developments within this captivating South American nation.", 
         "Question": "Which country's population is highlighted in the story?", 
-        "Reasoning": "The story revolves around the population growth in Brazil."
+        "Reasoning": "The story revolves around the population growth in Brazil.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -333,7 +360,8 @@
         "Answer": "7:30 PM", 
         "Story": "The IPL commenced on April 9, 2022, with an enthralling match between Mumbai Indians and Royal Challengers Bangalore at the Wankhede Stadium. The match started at 7:30 PM local time and played without any interruption. On April 20, Kolkata Knight Riders and Sunrisers Hyderabad clashed at the iconic Eden Gardens, where heavy rains caused a delay of 90 minutes, but it didn't impact the match's overall outcome. The tournament's climax arrived on May 30, with the final match between Delhi Capitals and Chennai Super Kings at the picturesque Arun Jaitley Stadium. Despite light rain showers, the match proceeded, and Delhi Capitals emerged victorious, clinching their maiden IPL title.", 
         "Question": "At what time did the first match on April 9 start?", 
-        "Reasoning": "The story clearly states that the match on April 9 started at 7:30 PM local time."
+        "Reasoning": "The story clearly states that the match on April 9 started at 7:30 PM local time.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -345,7 +373,8 @@
         "Answer": "Bondi Beach and Great Barrier Reef", 
         "Story": "During the summer vacation, my family and I embarked on an exciting fourteen-day adventure through Australia. Day 1 commenced in Sydney, where we explored the iconic Sydney Opera House and soaked up the sun at Bondi Beach. The following day, we journeyed to the Great Barrier Reef, snorkeling among vibrant coral reefs and encountering tropical marine life. On Day 3, we reached the stunning landscapes of the Blue Mountains, hiking to breathtaking lookout points and riding the scenic cable car. Days 4 and 5 were dedicated to exploring the vibrant city of Melbourne, where we enjoyed delicious coffee in the laneways and visited the famous Penguin Parade on Phillip Island. Next, we flew to the Red Centre, spending two days exploring Uluru-Kata Tjuta National Park and witnessing the mesmerizing sunset at Ayers Rock. The final leg of our journey took us to Cairns, where we spent days 10 to 14 diving in the pristine waters of the Great Barrier Reef and exploring the lush rainforests of the Daintree National Park.", 
         "Question": "Where did the family go after leaving Sydney Opera House but before visiting Melbourne?", 
-        "Reasoning": "Following their visit to the Sydney Opera House on Day 1, the family went to Bondi Beach in Sydney and the next day, they journeyed to the Great Barrier Reef. Afterwards, they reached the Blue Mountains and then visited Melbourne, so they visited Bondi Beach and the Great Barrier Reef after leaving Sydney Opera House and before visiting Melbourne."
+        "Reasoning": "Following their visit to the Sydney Opera House on Day 1, the family went to Bondi Beach in Sydney and the next day, they journeyed to the Great Barrier Reef. Afterwards, they reached the Blue Mountains and then visited Melbourne, so they visited Bondi Beach and the Great Barrier Reef after leaving Sydney Opera House and before visiting Melbourne.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -357,7 +386,8 @@
         "Answer": "Atmospheric Film production in Scotland, Film Festival in Toronto, Film project in Mumbai", 
         "Story": "In February 2020, an atmospheric film production embarked on a haunting journey through the misty mountains of Scotland, featuring an ensemble cast and a gripping plot centered around ancient folklore. The movie enticed audiences worldwide with its atmospheric cinematography and spellbinding performances. In October 2021, an acclaimed film festival unveiled itself in Toronto, Canada, showcasing a diverse range of cinematic marvels from across the globe. Filmmakers and cinema aficionados rejoiced in the vibrant city, immersing themselves in the beauty of diverse storytelling. In December 2022, an ambitious film project commenced its shoot in the bustling streets of Mumbai, India, merging elements of drama and musical artistry against the backdrop of the city's rich cultural tapestry. The production featured elaborate musical numbers and cinematic choreography, promising a truly extravagant cinematic feast.", 
         "Question": "What is the chronological order of the events in the story?", 
-        "Reasoning": "The story started with the atmospheric film production in Scotland which was in February 2020, followed by the film festival in Toronto in October 2021, and lastly the ambitious film project commenced in Mumbai in December 2022."
+        "Reasoning": "The story started with the atmospheric film production in Scotland which was in February 2020, followed by the film festival in Toronto in October 2021, and lastly the ambitious film project commenced in Mumbai in December 2022.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -369,7 +399,8 @@
         "Answer": "2010 to 2015", 
         "Story": "In the year 2010, the scenic country of New Zealand was home to a diverse population of 4.4 million people. Over the next five years, several cities within the country experienced significant changes in their population dynamics. By 2015, Auckland, the largest city, saw its population rise from 1.4 million to 1.6 million, marking an impressive growth rate of 14.3%. Wellington, on the other hand, witnessed a more moderate increase, with its population growing from 405,000 in 2010 to 435,000 in 2015, indicating a growth rate of 7.4%. The demographic landscape revealed an interesting pattern too - while the male population in Auckland increased by 13.8%, the female population grew by 14.9%. In Wellington, the male population grew by 6.5%, while the female population saw a growth of 8.3%. These population dynamics showcased the evolving nature of these two cities in New Zealand over the span of five years.", 
         "Question": "What period covers the increase in population in Auckland from a growth rate of 14.3%?", 
-        "Reasoning": "The population of Auckland grew from 1.4 million to 1.6 million, marking a growth rate of 14.3%, between the years 2010 and 2015 as mentioned in the story."
+        "Reasoning": "The population of Auckland grew from 1.4 million to 1.6 million, marking a growth rate of 14.3%, between the years 2010 and 2015 as mentioned in the story.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -381,7 +412,8 @@
         "Answer": "Japan", 
         "Story": "In the year 2010, the vibrant city of Tokyo in Japan had a population of 13.1 million people. Over the next eight years, the population steadily grew, reaching 14.6 million by 2018. This indicated a growth rate of 11.5% within this time frame. The male population in Tokyo increased by 10.8%, while the female population saw a growth of 12.2%. These demographic changes highlighted the ongoing urbanization and influx of people into this bustling Japanese metropolis.", 
         "Question": "Which country's population growth is discussed in the story?", 
-        "Reasoning": "The story discusses the population growth in the city of Tokyo, which is in Japan."
+        "Reasoning": "The story discusses the population growth in the city of Tokyo, which is in Japan.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -393,7 +425,8 @@
         "Answer": "2025", 
         "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.", 
         "Question": "What was the year when the Swiss city of Geneva suffered from intense heatwaves?", 
-        "Reasoning": "The story mentions that in the year 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires."
+        "Reasoning": "The story mentions that in the year 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -405,7 +438,8 @@
         "Answer": "Female", 
         "Story": "In the year 2007, the captivating state of Kerala in India had a population of 31.8 million residents. Over the next decade, the population steadily rose, reaching 33.9 million by 2017. This represented a growth rate of 6.6%, highlighting the steady growth pace in this region. The male population in Kerala grew by 6.3%, while the female population experienced a growth of 6.9%. These demographic shifts reflected the evolving dynamics within this culturally rich Indian state.", 
         "Question": "Which gender had a higher growth rate in Kerala from 2007 to 2017?", 
-        "Reasoning": "The story mentions that the male population grew by 6.3% and the female population experienced a growth of 6.9%, hence the growth in the female population was higher."
+        "Reasoning": "The story mentions that the male population grew by 6.3% and the female population experienced a growth of 6.9%, hence the growth in the female population was higher.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -417,7 +451,8 @@
         "Answer": "Hiking through lush rainforests and soaking in natural hot springs", 
         "Story": "Last summer, my friends and I embarked on a thrilling seven-day adventure through Costa Rica. Day 1 began in San Jose, where we explored the vibrant markets and enjoyed a traditional Costa Rican breakfast. The following day, we journeyed to Arenal Volcano National Park, hiking through lush rainforests and soaking in natural hot springs. On Day 3, we reached the breathtaking Manuel Antonio National Park, where we encountered stunning wildlife and relaxed on pristine beaches. Days 4 and 5 were dedicated to exploring the Monteverde Cloud Forest Reserve, ziplining through the canopy and marveling at the unique flora and fauna. Next, we ventured to the exotic Tortuguero National Park, cruising through remote canals and observing nesting sea turtles. The final leg of our journey took us to the picturesque Nicoya Peninsula, where we spent days 6 and 7 enjoying surf lessons and savoring delicious seafood at beachfront restaurants.", 
         "Question": "What activities were carried out on Day 2 of the trip?", 
-        "Reasoning": "The story outlines that on the second day of the trip, the group went to Arenal Volcano National Park where they hiked through lush rainforests and soaked in natural hot springs."
+        "Reasoning": "The story outlines that on the second day of the trip, the group went to Arenal Volcano National Park where they hiked through lush rainforests and soaked in natural hot springs.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -429,7 +464,8 @@
         "Answer": "2019", 
         "Story": "In September 2019, an enchanting music festival unfolded in the mystical forests of Kyoto, Japan. Surrounded by blooming cherry blossoms, attendees were treated to a diverse range of musical genres, from traditional Japanese folk melodies to modern electronic beats. The festival's stages were meticulously designed to blend harmoniously with the natural landscape, creating a transformative experience for all who ventured into this ethereal realm.", 
         "Question": "In what year did the music festival in Kyoto, Japan occur?", 
-        "Reasoning": "The story directly mentions that the event happened in September 2019."
+        "Reasoning": "The story directly mentions that the event happened in September 2019.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -441,7 +477,8 @@
         "Answer": "Nicoya Peninsula", 
         "Story": "Last summer, my friends and I embarked on a thrilling seven-day adventure through Costa Rica. Day 1 began in San Jose, where we explored the vibrant markets and enjoyed a traditional Costa Rican breakfast. The following day, we journeyed to Arenal Volcano National Park, hiking through lush rainforests and soaking in natural hot springs. On Day 3, we reached the breathtaking Manuel Antonio National Park, where we encountered stunning wildlife and relaxed on pristine beaches. Days 4 and 5 were dedicated to exploring the Monteverde Cloud Forest Reserve, ziplining through the canopy and marveling at the unique flora and fauna. Next, we ventured to the exotic Tortuguero National Park, cruising through remote canals and observing nesting sea turtles. The final leg of our journey took us to the picturesque Nicoya Peninsula, where we spent days 6 and 7 enjoying surf lessons and savoring delicious seafood at beachfront restaurants.", 
         "Question": "What coastal feature did the group explore last?", 
-        "Reasoning": "The Nicoya Peninsula was the last place visited by the group, as mentioned in the story. Here they spent days 6 and 7, making it the final location they visited."
+        "Reasoning": "The Nicoya Peninsula was the last place visited by the group, as mentioned in the story. Here they spent days 6 and 7, making it the final location they visited.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -453,7 +490,8 @@
         "Answer": "Females", 
         "Story": "In the year 2000, the thriving country of Australia was home to a diverse population of 19.2 million people. Over the next decade, the population experienced substantial growth, reaching 23.1 million by 2010. This indicated a growth rate of 20.3% during this period. The male population in Australia increased by 20%, while the female population grew by 20.7%. These population dynamics showcased the evolving nature and attractiveness of this vast country down under.", 
         "Question": "Between 2000 and 2010, which gender had a higher growth rate in Australia?", 
-        "Reasoning": "The story indicates that 'The male population in Australia increased by 20%, while the female population grew by 20.7%', thus the female population growth rate was slightly higher."
+        "Reasoning": "The story indicates that 'The male population in Australia increased by 20%, while the female population grew by 20.7%', thus the female population growth rate was slightly higher.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -465,7 +503,8 @@
         "Answer": "Caribbean Current", 
         "Story": "The Caribbean Current flows northwest into the Gulf of Mexico, impacting the climate in the region. However, in August 2014, researchers noticed an unexpected slowdown in the current, affecting the rainfall patterns in the Caribbean Islands. Over in the Northern Pacific Ocean, the Aleutian Current exhibited unusual movement patterns in 2015, due to a sudden increase in the ocean's heat content. Also, in the Southern Ocean, a significant increase in the Drake Passage Current's speed was reported in 2018. This led to a significant change in the upwelling of nutrients that feeds marine life. In 2021, the Canary Current was found to have crunched in its path, potentially threatening the rich marine life along the Canary Islands.", 
         "Question": "Which current experienced an unexpected slowdown in August 2014, affecting the rainfall patterns in the Caribbean Islands?", 
-        "Reasoning": "According to the story, in August 2014, researchers noticed an unexpected slowdown in the Caribbean Current, affecting the rainfall patterns in the Caribbean Islands."
+        "Reasoning": "According to the story, in August 2014, researchers noticed an unexpected slowdown in the Caribbean Current, affecting the rainfall patterns in the Caribbean Islands.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -477,7 +516,8 @@
         "Answer": "Kennington Oval in London", 
         "Story": "The Champions Trophy began on June 1, 2017, with a clash between England and Bangladesh at the Kennington Oval in London. The match started at 10:30 AM local time, but was interrupted by rain for an hour during the second innings. On June 8, South Africa and Pakistan faced off at the Sophia Gardens in Cardiff, where rain caused a delay of two hours and limited the match to 35 overs per side. The tournament reached its thrilling finale on June 18, with the final match between India and Pakistan at The Oval. Despite a persistent drizzle, the match persisted, and India came out victorious, capturing their third Champions Trophy title.", 
         "Question": "On June 1, at what venue was the 10:30 AM local time cricket match took place?", 
-        "Reasoning": "On June 1, the story notes that the cricket match took place at the Kennington Oval in London at 10:30 AM local time."
+        "Reasoning": "On June 1, the story notes that the cricket match took place at the Kennington Oval in London at 10:30 AM local time.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -489,19 +529,21 @@
         "Answer": "10:30 AM", 
         "Story": "The Champions Trophy began on June 1, 2017, with a clash between England and Bangladesh at the Kennington Oval in London. The match started at 10:30 AM local time, but was interrupted by rain for an hour during the second innings. On June 8, South Africa and Pakistan faced off at the Sophia Gardens in Cardiff, where rain caused a delay of two hours and limited the match to 35 overs per side. The tournament reached its thrilling finale on June 18, with the final match between India and Pakistan at The Oval. Despite a persistent drizzle, the match persisted, and India came out victorious, capturing their third Champions Trophy title.", 
         "Question": "At what local time did the match between England and Bangladesh start?", 
-        "Reasoning": "The story mentions that the match between England and Bangladesh started at 10:30 AM local time."
+        "Reasoning": "The story mentions that the match between England and Bangladesh started at 10:30 AM local time.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
             "Rivers", 
             "Forests", 
-            "Mountain peaks", 
+            "Glaciers", 
             "Lakes"
         ], 
         "Answer": "Glaciers", 
         "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.", 
         "Question": "What geographic feature has been melting due to rising temperatures in Switzerland?", 
-        "Reasoning": "The story mentions that rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources."
+        "Reasoning": "The story mentions that rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -513,7 +555,8 @@
         "Answer": "Freedom Trail", 
         "Story": "During the autumn season, my family and I embarked on a memorable twelve-day adventure through New England. Day 1 commenced in Boston, where we explored the historic Freedom Trail and enjoyed a delicious lobster dinner in Quincy Market. The following day, we journeyed to the coastal town of Salem, immersing ourselves in the haunting history of the Salem Witch Trials. On Day 3, we reached the charming city of Portland, Maine, indulging in fresh seafood and admiring the scenic views along Casco Bay. Days 4 and 5 were dedicated to the picturesque landscapes of Vermont, where we marveled at the vibrant fall foliage and tasted delectable maple syrup. Next, we drove to Newport, Rhode Island, spending two days exploring the grand mansions along the famous Cliff Walk and enjoying a relaxing sailboat tour. Our final destination was Cape Cod, where we spent days 10 and 11 strolling along the sandy shores and feasting on mouthwatering clam chowder.", 
         "Question": "What was the first historic location visited on the trip?", 
-        "Reasoning": "The story mentions that on the first day in Boston, they explored the Freedom Trail before enjoying a lobster dinner at Quincy Market."
+        "Reasoning": "The story mentions that on the first day in Boston, they explored the Freedom Trail before enjoying a lobster dinner at Quincy Market.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -525,7 +568,8 @@
         "Answer": "July 2019", 
         "Story": "In July 2019, the prestigious Locarno Film Festival commenced in the picturesque town of Locarno, Switzerland, where the Piazza Grande transformed into an open-air cinema under the starry sky. The subsequent year, in August 2020, the festival embraced a new adventure and journeyed to the vibrant city of Seoul, South Korea, stunning attendees with the iconic locations like the Seoul Cinema and COEX Conference Center. Throughout the following years, the Locarno Film Festival explored diverse locations, including the historic Teatro Di Verdura in Palermo, Italy, in July 2021, and the Museum of Contemporary Art Taipei in Taiwan in June 2022. Finally, in July 2023, the festival returned to its cherished Piazza Grande, captivating audiences once more with its unique blend of cinematic artistry and breathtaking surroundings.", 
         "Question": "When did the Locarno Film Festival commence in Locarno, Switzerland?", 
-        "Reasoning": "The story reveals that the Locarno Film Festival commenced in Locarno, Switzerland in July 2019."
+        "Reasoning": "The story reveals that the Locarno Film Festival commenced in Locarno, Switzerland in July 2019.",
+        "Label":0
     }, 
     {
         "Answer Choices": [
@@ -537,7 +581,8 @@
         "Answer": "1.5 years", 
         "Story": "In May 2020, a magical concert tour commenced in the iconic venues of Europe, showcasing a lineup of legendary musicians and electrifying performances. The tour swept through the majestic arenas of London, Paris, and Berlin, captivating audiences with its mesmerizing melodies and energetic stage presence. In December 2021, a prestigious music festival took place in Rio de Janeiro, Brazil, uniting music lovers from all corners of the globe. Against the backdrop of the vibrant city, renowned artists and emerging talents performed across multiple stages, creating an immersive musical experience that transcended boundaries. In June 2023, a groundbreaking music documentary began filming in the energetic streets of New Orleans, Louisiana, where jazz and blues filled the air. The filmmakers delved into the rich musical history and cultural heritage of the city, intricately blending interviews, archival footage, and live performances to transport viewers into a soul-stirring exploration of the local music scene.", 
         "Question": "How many years after the magical concert tour in Europe did the music festival in Rio de Janeiro occur?", 
-        "Reasoning": "The magical concert tour in Europe started in May 2020 and the music festival in Rio de Janeiro took place in December 2021, which is approximately 1.5 years later."
+        "Reasoning": "The magical concert tour in Europe started in May 2020 and the music festival in Rio de Janeiro took place in December 2021, which is approximately 1.5 years later.",
+        "Label":1
     }, 
     {
         "Answer Choices": [
@@ -549,7 +594,8 @@
         "Answer": "In both townships and city center", 
         "Story": "In October 2021, an extraordinary music documentary captured the essence of Johannesburg, South Africa's pulsating music scene. Filmed in the buzzing townships and bustling city center, the documentary showcased the fusion of traditional African rhythms, jazz, and vibrant Afro-pop sounds. The film's creators collaborated with local musicians and explored the historical significance of music in the struggle against apartheid, painting a vivid picture of the resilience and creativity that has shaped the city's musical landscape.", 
         "Question": "Where was the documentary showcasing Johannesburg's music scene filmed?", 
-        "Reasoning": "The story mentions that the documentary was filmed in the buzzing townships and bustling city center which represent different aspects of Johannesburg's music scene."
+        "Reasoning": "The story mentions that the documentary was filmed in the buzzing townships and bustling city center which represent different aspects of Johannesburg's music scene.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -561,7 +607,8 @@
         "Answer": "Italy", 
         "Story": "In 2012, the magnificent country of Italy was home to a population of 59.6 million people. Over the next six years, the population experienced modest growth, reaching 60.6 million by 2018. This indicated a growth rate of 1.7% during this period. The male population in Italy increased by 1.8%, while the female population grew by 1.6%. These population dynamics showcased the relatively stable demographic landscape within this captivating European nation.", 
         "Question": "In which European country did the overall population grow by 1.7% between 2012 and 2018?", 
-        "Reasoning": "The story specifies that in Italy, the population growth rate was 1.7% between 2012 and 2018."
+        "Reasoning": "The story specifies that in Italy, the population growth rate was 1.7% between 2012 and 2018.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -573,7 +620,8 @@
         "Answer": "Tokyo was preparing to host the Olympics", 
         "Story": "In 2008, the Beijing Olympic Games kicked off, witnessing an array of athletes participating from different corners of the globe. The 'Bird\u2019s Nest' Stadium had become a bustling hub for sports, fostering a sense of global unity. Come 2012, the excitement shifted to London, with the city hosting magnificent games that further solidified the city\u2019s historic sporting legacy. However, in 2016, controversy infiltrated the Rio de Janeiro Olympics, with several athletes allegedly failing drug tests. Slowly but surely, by 2020, Tokyo was preparing to host the Games amid numerous challenges, transforming the city into a symbol of resilience. Remarkably, in 2021, the Games, delayed by a year, managed to take place progressively, adhering strictly to safety protocols, reminding the world of the enduring spirit of sportsmanship and unity.", 
         "Question": "What significant event happened with the Olympics organization in 2020?", 
-        "Reasoning": "The text states that in 2020, Tokyo was preparing to host the Olympic Games amid various challenges."
+        "Reasoning": "The text states that in 2020, Tokyo was preparing to host the Olympic Games amid various challenges.",
+        "Label":3
     }, 
     {
         "Answer Choices": [
@@ -585,7 +633,8 @@
         "Answer": "4 years", 
         "Story": "In the winter-chilled February of 2014, the vibrant city of Sochi, Russia, embraced the thrills and chills of the Winter Olympics. The 'Fisht' Olympic Stadium, inspired by the enchanting Russian landscapes, reverberated with the cheering sounds of international spectators. As the baton passed to Rio de Janeiro in 2016 for the Summer Olympics, the Maracan\u00e3 Stadium brimmed with cultural vibrancy and enigmatic sporting energy. However, the journey was not entirely smooth, as several athletes faced dubious disqualification due to an alleged doping scandal. Fast forward to 2018, and the city of PyeongChang, South Korea, was battling ice with fire, embodying resilience and fortitude while hosting the Winter Olympics. Against incredible odds, in the Covid-threatened 2021, Tokyo took center stage. Adhering strictly to stringent health protocols, the city, paving way for the delayed 2020 Summer Olympics, stood as a testament to the sterling spirit of unity and willpower.", 
         "Question": "How many years are there between the Winter Olympics that were held in Sochi, Russia and PyeongChang, South Korea?", 
-        "Reasoning": "The Winter Olympics were held in Sochi, Russia in 2014 and in PyeongChang, South Korea in 2018. The difference between these two years is 4 years."
+        "Reasoning": "The Winter Olympics were held in Sochi, Russia in 2014 and in PyeongChang, South Korea in 2018. The difference between these two years is 4 years.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -597,7 +646,8 @@
         "Answer": "Hokkaido", 
         "Story": "Last winter, my family and I embarked on an exciting ten-day adventure through Japan. Day 1 began in Tokyo, where we explored the bustling streets of Shibuya and savored authentic sushi at a local restaurant. The following day, we took a bullet train to Kyoto, visiting the iconic Kiyomizu-dera Temple and immersing ourselves in the serene beauty of Arashiyama Bamboo Grove. On Day 3, we ventured to Hiroshima, paying our respects at the Peace Memorial Park and Museum. Days 4 and 5 were dedicated to the snow-covered landscapes of Hokkaido, where we enjoyed skiing in Niseko and indulged in hot springs in Noboribetsu. Our next stop was Osaka, where we spent two days exploring Osaka Castle and devouring delicious street food in Dotonbori. The final leg of our journey took us to the enchanting city of Kyoto, where we marveled at the stunning Golden Pavilion and participated in a traditional tea ceremony.", 
         "Question": "Which city did the family visit after exploring Hiroshima?", 
-        "Reasoning": "The story states that after visiting Hiroshima on Day 3, days 4 and 5 were dedicated to the snow-covered landscapes of Hokkaido."
+        "Reasoning": "The story states that after visiting Hiroshima on Day 3, days 4 and 5 were dedicated to the snow-covered landscapes of Hokkaido.",
+        "Label":2
     }, 
     {
         "Answer Choices": [
@@ -1140,7 +1190,7 @@
         "Reasoning": "The story directly states that the female population in Mexico City grew by 5.2%."
     }, 
     {
-        "Answer choices": [
+        "Answer Choices": [
             "Day 1", 
             "Day 2", 
             "Day 3", 
