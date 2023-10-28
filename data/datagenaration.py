@@ -2,7 +2,7 @@ import openai
 import json
 import os
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'your-open-ai-key'
 
 record_file_path = '/Users/devaduttsanka/Desktop/Masters/Fall-2023/NLP/Final_Project/data2.json'
 
