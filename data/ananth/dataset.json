@@ -37,18 +37,6 @@
     }, 
     {
         "Answer Choices": [
-            "Devastating earthquake", 
-            "Incessant rains", 
-            "Wildfire", 
-            "Chilling winter winds"
-        ], 
-        "Answer": "Chilling winter winds", 
-        "Story": "The peaceful town of Lakewood, nestled between mountains and a river, was hit by a devastating earthquake at 9 am on 1st July. After struggling for a month, they could finally manage to get the town's basic infrastructure up and running, only to face a flood caused by incessant rains on 10th August. The flood swept away the town\u2019s newly repaired bridge, disconnecting Lakewood to the nearby cities. In early October, a wildfire engulfs the surrounding mountain area nicely recovering from the earthquake and floods. Finally, chilling winter winds in December froze the river, hindering the town's fishing businesses.", 
-        "Question": "What happened in December that affected the town's fishing businesses?", 
-        "Reasoning": "The story states that the chilling winter winds in December froze the river, which hindered the town's fishing businesses."
-    }, 
-    {
-        "Answer Choices": [
             "1 month", 
             "1 day", 
             "3 months", 
@@ -334,18 +322,6 @@
         "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village\u2019s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.", 
         "Question": "What was the consequence of the lighthouse's destruction?", 
         "Reasoning": "According to the story, after the lighthouse was ruined, it isolated Westbay from nearby seaports."
-    }, 
-    {
-        "Answer Choices": [
-            "Spring", 
-            "Summer", 
-            "Autumn", 
-            "Winter"
-        ], 
-        "Answer": "Summer", 
-        "Story": "Westbay, a serene seaside village located between cliffs and the ocean, was disrupted by a powerful cyclone on the 1st of February. After weeks of toil, they managed to reestablish the village's central amenities only to face a sandstorm induced by abnormal desert winds on 10th April. The sandstorm ruined the village\u2019s newly rebuilt lighthouse, isolating Westbay from nearby seaports. Following in August, high summer temperatures caused serious water shortage abating the recovery from cyclone and sandstorm. In December, a sudden hailstorm hit the region, causing further damage to the fishing industry.", 
-        "Question": "What season of the year was it when Westbay faced high temperatures and water shortages?", 
-        "Reasoning": "The story indicates that it was during the high summer temperatures that caused serious water shortage in Westbay."
     }, 
     {
         "Answer Choices": [
@@ -661,18 +637,6 @@
     }, 
     {
         "Answer Choices": [
-            "Miami", 
-            "Amazon rainforest in Brazil", 
-            "Florida", 
-            "Atlantic"
-        ], 
-        "Answer": "Amazon rainforest in Brazil", 
-        "Story": "In the coastal city of Miami, rising sea levels due to global warming resulted in increased flooding incidents throughout 2017. By June 2018, hotter temperatures caused a severe heatwave throughout Florida, with Miami witnessing its hottest summer on record. In Brazil, Amazon rainforest experienced an alarming rate of deforestation with 7693 square km cleared by July 2019, drastically impacting local climate and habitats. Back in Miami, unusually warmer winters in late 2019 and early 2020 confused the migration patterns of many bird species. Finally, in 2021, the Atlantic hurricane season hit Miami with an unprecedented number of tropical storms, largely attributed to climate change.", 
-        "Question": "Where in the earth was the alarming rate of deforestation experienced?", 
-        "Reasoning": "The mention of deforestation is linked with the Amazon rainforest in Brazil in the text."
-    }, 
-    {
-        "Answer Choices": [
             "Brazil", 
             "Atlantic", 
             "Florida", 
@@ -734,18 +698,6 @@
     {
         "Answer Choices": [
             "Air pollution in Beijing", 
-            "Melting glaciers in Himalayas", 
-            "Floods in Yangtze River", 
-            "Frequent high tides in Shanghai"
-        ], 
-        "Answer": "Floods in Yangtze River", 
-        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.", 
-        "Question": "What event occurred in China in 2019?", 
-        "Reasoning": "The story mentions that in 2019, China witnessed devastating floods in the Yangtze River due to excessive rainfall."
-    }, 
-    {
-        "Answer Choices": [
-            "Air pollution in Beijing", 
             "Floods in Yangtze River", 
             "Melting glaciers", 
             "Frequent high tides"
@@ -778,18 +730,6 @@
         "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.", 
         "Question": "Which city experienced frequent high tides and flooding in 2023?", 
         "Reasoning": "The story mentions that in 2023, the coastal city of Shanghai experienced frequent high tides and flooding."
-    }, 
-    {
-        "Answer Choices": [
-            "Water scarcity and agriculture problems", 
-            "Displacement of millions of people", 
-            "Frequent high tides and flooding", 
-            "Respiratory issues among the population"
-        ], 
-        "Answer": "Respiratory issues among the population", 
-        "Story": "In the bustling metropolis of Beijing, China, air pollution levels reached hazardous levels in 2015, leading to respiratory issues among its population. By 2019, the country witnessed devastating floods in the Yangtze River due to excessive rainfall, displacing millions of people and causing widespread destruction. The melting glaciers in the Himalayas have also led to water scarcity in the region, affecting agriculture and livelihoods. Furthermore, in 2023, the coastal city of Shanghai experienced frequent high tides and flooding, impacting infrastructure and putting its residents at risk.", 
-        "Question": "What were the consequences of air pollution in Beijing in 2015?", 
-        "Reasoning": "The story mentions that air pollution in Beijing in 2015 led to respiratory issues among its population."
     }, 
     {
         "Answer Choices": [
@@ -925,30 +865,6 @@
     }, 
     {
         "Answer Choices": [
-            "2010", 
-            "2017", 
-            "2022", 
-            "2025"
-        ], 
-        "Answer": "2025", 
-        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.", 
-        "Question": "What was the year when the Swiss city of Geneva suffered from intense heatwaves?", 
-        "Reasoning": "The story mentions that in the year 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires."
-    }, 
-    {
-        "Answer Choices": [
-            "Rivers", 
-            "Forests", 
-            "Glaciers", 
-            "Lakes"
-        ], 
-        "Answer": "Glaciers", 
-        "Story": "In the picturesque country of Switzerland, rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources. By 2017, the iconic Matterhorn mountain experienced a record-breaking landslide due to reduced stability caused by melting permafrost. In 2022, the traditionally snowy ski resort town of Zermatt faced a snow drought, causing severe economic consequences for local businesses and tourism. Finally, in 2025, the Swiss city of Geneva suffered from intense heatwaves, affecting agriculture and increasing the risk of forest fires.", 
-        "Question": "What geographic feature has been melting due to rising temperatures in Switzerland?", 
-        "Reasoning": "The story mentions that rising temperatures have been melting the glaciers in the Alps at an alarming rate since 2010, leading to a significant loss of freshwater resources."
-    }, 
-    {
-        "Answer Choices": [
             "Reduced tourism", 
             "Melting glaciers", 
             "Forest fires", 
@@ -1006,18 +922,6 @@
         "Story": "In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.", 
         "Question": "Which season experienced increased water scarcity due to melting glaciers?", 
         "Reasoning": "The story states that rising temperatures caused the glaciers to melt, leading to increased water scarcity during the summer months."
-    }, 
-    {
-        "Answer Choices": [
-            "April 2019", 
-            "Summer of 2020", 
-            "December 2019", 
-            "Winter of 2020"
-        ], 
-        "Answer": "Winter of 2020", 
-        "Story": "In the city of Vancouver, Canada, climate change had detrimental effects on the local ecosystem. By April 2019, rising temperatures caused the glaciers in nearby mountains to melt at an alarming rate, leading to increased water scarcity during the summer months. These drought conditions severely impacted agricultural production in the region. In the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents.", 
-        "Question": "When did the widespread flooding occur?", 
-        "Reasoning": "The story states that in the following year, unusually intense rainfall events in the winter of 2020 caused widespread flooding, leading to property damage and displacement of residents."
     }, 
     {
         "Answer Choices": [
@@ -1141,18 +1045,6 @@
     }, 
     {
         "Answer Choices": [
-            "Coastal flooding", 
-            "Extreme heatwaves", 
-            "Erratic rainfall patterns", 
-            "Flash floods and landslides"
-        ], 
-        "Answer": "Erratic rainfall patterns", 
-        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.", 
-        "Question": "Which event caused severe drought in Mumbai?", 
-        "Reasoning": "The monsoon season in 2019 was characterized by erratic rainfall patterns, which resulted in severe drought in Mumbai."
-    }, 
-    {
-        "Answer Choices": [
             "Extreme heatwaves", 
             "Coastal flooding", 
             "Erratic rainfall patterns", 
@@ -1186,18 +1078,6 @@
         "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.", 
         "Question": "Which event resulted in flash floods and landslides in Mumbai?", 
         "Reasoning": "The erratic rainfall patterns during the monsoon season in 2019 resulted in flash floods and landslides in Mumbai."
-    }, 
-    {
-        "Answer Choices": [
-            "Coastal flooding", 
-            "Sustainable practices", 
-            "Extreme heatwaves", 
-            "Erratic rainfall patterns"
-        ], 
-        "Answer": "Sustainable practices", 
-        "Story": "In the bustling city of Mumbai, India, the impacts of climate change became increasingly evident. By December 2017, rising sea levels led to frequent coastal flooding, affecting the lives and livelihoods of thousands of residents. The situation worsened in 2018 as extreme heatwaves swept through the region, breaking temperature records and causing heat-related illnesses. In addition, the monsoon season in 2019 was characterized by erratic rainfall patterns, resulting in severe drought followed by flash floods and landslides. These events highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change.", 
-        "Question": "What did the events in Mumbai highlight the need for?", 
-        "Reasoning": "The events in Mumbai highlighted the urgent need for sustainable practices and adaptation measures in the face of climate change."
     }, 
     {
         "Answer Choices": [
@@ -1345,18 +1225,6 @@
     }, 
     {
         "Answer Choices": [
-            "Freshening effect", 
-            "Warming effect", 
-            "Dense water formation", 
-            "Increased marine life"
-        ], 
-        "Answer": "Freshening effect", 
-        "Story": "In the Atlantic Ocean, the Gulf Stream Current carries warm water from the Gulf of Mexico northwards towards Europe. In March 2012, the observed flow of the Gulf Stream was unusually swift causing disruptions in marine life habitats. Meanwhile, in the Pacific Ocean, the El Nino effect in 2015 produced unusually warm waters off the coast of Peru, impacting fish stocks and the local economy. In Antarctica, the meltwater from melting ice in 2017 led to a freshening effect on the Southern Ocean waters, disrupting the formation of dense Antarctic Bottom Water. In 2020, a research noted an unusual shift in the path of the Agulhas Current, the Indian Ocean's strongest current, that could influence global climate patterns.", 
-        "Question": "What effect did the meltwater from melting ice in Antarctica have on the Southern Ocean waters?", 
-        "Reasoning": "The passage states that the meltwater from melting ice in 2017 led to a freshening effect on the Southern Ocean waters, disrupting the formation of dense Antarctic Bottom Water."
-    }, 
-    {
-        "Answer Choices": [
             "It shifted its path", 
             "It stopped flowing", 
             "It intensified", 
@@ -1426,18 +1294,6 @@
         "Story": "In the Atlantic Ocean, the Gulf Stream Current carries warm water from the Gulf of Mexico northwards towards Europe. In March 2012, the observed flow of the Gulf Stream was unusually swift causing disruptions in marine life habitats. Meanwhile, in the Pacific Ocean, the El Nino effect in 2015 produced unusually warm waters off the coast of Peru, impacting fish stocks and the local economy. In Antarctica, the meltwater from melting ice in 2017 led to a freshening effect on the Southern Ocean waters, disrupting the formation of dense Antarctic Bottom Water. In 2020, a research noted an unusual shift in the path of the Agulhas Current, the Indian Ocean's strongest current, that could influence global climate patterns.", 
         "Question": "What did the research in 2020 note about the Agulhas Current?", 
         "Reasoning": "The research in 2020 noted an unusual shift in the path of the Agulhas Current, suggesting a change in its trajectory that could potentially influence global climate patterns."
-    }, 
-    {
-        "Answer Choices": [
-            "Atlantic Ocean", 
-            "Pacific Ocean", 
-            "Indian Ocean", 
-            "Southern Ocean"
-        ], 
-        "Answer": "Pacific Ocean", 
-        "Story": "In the Atlantic Ocean, the Gulf Stream Current carries warm water from the Gulf of Mexico northwards towards Europe. In March 2012, the observed flow of the Gulf Stream was unusually swift causing disruptions in marine life habitats. Meanwhile, in the Pacific Ocean, the El Nino effect in 2015 produced unusually warm waters off the coast of Peru, impacting fish stocks and the local economy. In Antarctica, the meltwater from melting ice in 2017 led to a freshening effect on the Southern Ocean waters, disrupting the formation of dense Antarctic Bottom Water. In 2020, a research noted an unusual shift in the path of the Agulhas Current, the Indian Ocean's strongest current, that could influence global climate patterns.", 
-        "Question": "Which ocean experienced the El Nino effect in 2015?", 
-        "Reasoning": "The El Nino effect in 2015 produced unusually warm waters off the coast of Peru, which is located in the Pacific Ocean."
     }, 
     {
         "Answer Choices": [
@@ -1782,18 +1638,6 @@
             "Drake Passage Current", 
             "Canary Current"
         ], 
-        "Answer": "Caribbean Current", 
-        "Story": "The Caribbean Current flows northwest into the Gulf of Mexico, impacting the climate in the region. However, in August 2014, researchers noticed an unexpected slowdown in the current, affecting the rainfall patterns in the Caribbean Islands. Over in the Northern Pacific Ocean, the Aleutian Current exhibited unusual movement patterns in 2015, due to a sudden increase in the ocean's heat content. Also, in the Southern Ocean, a significant increase in the Drake Passage Current's speed was reported in 2018. This led to a significant change in the upwelling of nutrients that feeds marine life. In 2021, the Canary Current was found to have crunched in its path, potentially threatening the rich marine life along the Canary Islands.", 
-        "Question": "Which current experienced an unexpected slowdown in August 2014, affecting the rainfall patterns in the Caribbean Islands?", 
-        "Reasoning": "According to the story, in August 2014, researchers noticed an unexpected slowdown in the Caribbean Current, affecting the rainfall patterns in the Caribbean Islands."
-    }, 
-    {
-        "Answer Choices": [
-            "Caribbean Current", 
-            "Aleutian Current", 
-            "Drake Passage Current", 
-            "Canary Current"
-        ], 
         "Answer": "Drake Passage Current", 
         "Story": "The Caribbean Current flows northwest into the Gulf of Mexico, impacting the climate in the region. However, in August 2014, researchers noticed an unexpected slowdown in the current, affecting the rainfall patterns in the Caribbean Islands. Over in the Northern Pacific Ocean, the Aleutian Current exhibited unusual movement patterns in 2015, due to a sudden increase in the ocean's heat content. Also, in the Southern Ocean, a significant increase in the Drake Passage Current's speed was reported in 2018. This led to a significant change in the upwelling of nutrients that feeds marine life. In 2021, the Canary Current was found to have crunched in its path, potentially threatening the rich marine life along the Canary Islands.", 
         "Question": "Which current experienced a significant increase in speed in 2018, resulting in a change in the upwelling of nutrients?", 
@@ -1882,18 +1726,6 @@
         "Story": "In 2001, a wildfire engulfed a massive area in Yellowstone National Park, permanently altering the composition of plant life in the region. By 2005, pioneer species such as fireweed and aspen trees had begun to colonize the grounds, setting the stage for the secondary succession. However, a severe drought in Wyoming in 2010 halted the succession. Gradually, by 2015, the region had transformed into a meadow, hosting various herbivores and bird species. Strikingly, in 2020, climax communities of spruce and fir began emerging, highlighting nature's resilience.", 
         "Question": "What type of plant life first colonized the grounds after the wildfire in the Yellowstone National Park in 2001?", 
         "Reasoning": "The second sentence of the story mentions that fireweed and aspen trees began to colonize the grounds by 2005 after the wildfire."
-    }, 
-    {
-        "Answer Choices": [
-            "A wildfire in 2001", 
-            "A drought in Wyoming in 2010", 
-            "The arrival of herbivores and bird species in 2015", 
-            "The emergence of spruce and fir in 2020"
-        ], 
-        "Answer": "A drought in Wyoming in 2010", 
-        "Story": "In 2001, a wildfire engulfed a massive area in Yellowstone National Park, permanently altering the composition of plant life in the region. By 2005, pioneer species such as fireweed and aspen trees had begun to colonize the grounds, setting the stage for the secondary succession. However, a severe drought in Wyoming in 2010 halted the succession. Gradually, by 2015, the region had transformed into a meadow, hosting various herbivores and bird species. Strikingly, in 2020, climax communities of spruce and fir began emerging, highlighting nature's resilience.", 
-        "Question": "Which event in the story halted the secondary succession of plant life in the region?", 
-        "Reasoning": "The third sentence of the story mentions that a severe drought halted the succession of plant life in 2010."
     }, 
     {
         "Answer Choices": [
@@ -2029,18 +1861,6 @@
     }, 
     {
         "Answer Choices": [
-            "Deciduous trees", 
-            "Lichen and moss", 
-            "Small shrubs", 
-            "Coniferous trees"
-        ], 
-        "Answer": "Coniferous trees", 
-        "Story": "In the early 1900s, the logging industry thrived in the boreal forests of Northern Saskatchewan, leaving the landscapes devoid of native flora. Natural beauty returned by the 1940s as lichen and moss dominated the forest floor in the initial stages of ecological succession. Come 1950, small shrubs and deciduous trees began asserting their presence while attracting a diverse array of fauna. By 1980, a thriving community of coniferous trees established themselves as the climax community. However, the massive wildfires in 2017 resulted in the forests returning to their early successional phases.", 
-        "Question": "What was the climax community established in the boreal forests of Northern Saskatchewan by 1980?", 
-        "Reasoning": "According to the story, a thriving community of coniferous trees established themselves as the climax community by 1980."
-    }, 
-    {
-        "Answer Choices": [
             "Eruption (1963), Bird's Arrival (1980), Grass & Shrubs (2005), Moss & Lichens (1970), Rich Ecosystem (2021)", 
             "Eruption (1963), Moss & Lichens (1970), Bird's Arrival (1980), Grass & Shrubs (2005), Rich Ecosystem (2021)", 
             "Eruption (1963), Bird's Arrival (1980), Moss & Lichens (1970), Rich Ecosystem (2021), Grass & Shrubs (2005)", 
@@ -2125,18 +1945,6 @@
     }, 
     {
         "Answer Choices": [
-            "Lichens and mosses", 
-            "Various bird species", 
-            "Seals", 
-            "Grasses and small shrubs"
-        ], 
-        "Answer": "Grasses and small shrubs", 
-        "Story": "Following the volcanic eruption on the island of Surtsey, Iceland in 1963, the land was barren and lifeless. The first signs of plant life by 1970, emerged in the form of lichens and mosses which began to colonize the now cooled lava. The influx of gulls and other migratory birds by 1980, introduced their droppings - a rich source of nutrients, kick-starting the ecological succession cycle. Gradually, by 2005, grasses and small shrubs appeared across the island\u2019s landscape. Despite the harsh Icelandic climate, by 2021, the island boasted a rich ecosystem with various bird species, seals and diverse plant life.", 
-        "Question": "What types of plant life first started appearing by the year 2005?", 
-        "Reasoning": "By 2005, grasses and small shrubs began to appear across the island\u2019s landscape indicating that the landscape was gaining more plant diversity."
-    }, 
-    {
-        "Answer Choices": [
             "A barren ecosystem", 
             "A water-dominated ecosystem", 
             "An ecosystem devoid of animal life", 
@@ -2209,18 +2017,6 @@
     }, 
     {
         "Answer Choices": [
-            "5 decades", 
-            "6 decades", 
-            "4 decades", 
-            "3 decades"
-        ], 
-        "Answer": "5 decades", 
-        "Story": "In a rocky terrains of Arizona desert, in the mid-1960s, the land was marked by the absence of any vegetation. A decade later, the wind carried seeds of lichen and moss to this desolate landscape, which facilitated a slow but significant transformation. Drought resistance shrubs appeared by 1980, survived the inhospitable conditions, and by 2000, hardy desert plants like cacti made their appearance. However, a pest outbreak in 2010 decimated the cacti population. Today, the landscape, though not lush, supports a variety of desert-adapted species and exhibits the cyclical pattern of ecological succession.", 
-        "Question": "Approximately how many decades passed between the time the Arizona desert was devoid of vegetation to the transformation to a landscape supporting a variety of desert-adapted species?", 
-        "Reasoning": "If the desert was devoid of vegetation in the mid-1960s and supports a variety of desert-adapted species today (Assuming the story is recounted in real-time, in 2020's), then approximately five decades (50 years) have passed."
-    }, 
-    {
-        "Answer Choices": [
             "First lichen and moss, then shrubs, followed by cacti and finaly, a variety of desert-adapted species", 
             "First shrubs, then lichen and moss, followed by a variety of desert adapted species, ending with cacti", 
             "First cacti, then lichen and moss, followed by shrubs, and finally a variety of desert-adapted species", 
@@ -2290,18 +2086,6 @@
         "Story": "In 1950, following an earthquake-triggered landslide in the Alps, an area was laid bare of forest cover. Mosses and lichens established themselves on this barren rock by the late 1950s. In the early 1970s, grasses and shrubs made their appearance, thanks to the nutrient-rich soil the pioneer species had created. By 2000, the plants and shrubs in the region made way for trees, resulting in a steady regeneration of the forest ecosystem. But in 2018, a landslide hit once again, sending the area back to the initial stages of succession.", 
         "Question": "How long did it take for the pioneer species to establish themselves after the landslide in 1950?", 
         "Reasoning": "According to the story, the landslide happened in 1950, and the mosses and lichens had established themselves by the late 1950s. Hence, it can be inferred that it took approximately 10 years."
-    }, 
-    {
-        "Answer Choices": [
-            "Emergence of trees", 
-            "Growth of grasses and shrubs", 
-            "Forest regeneration", 
-            "Another landslide"
-        ], 
-        "Answer": "Growth of grasses and shrubs", 
-        "Story": "In 1950, following an earthquake-triggered landslide in the Alps, an area was laid bare of forest cover. Mosses and lichens established themselves on this barren rock by the late 1950s. In the early 1970s, grasses and shrubs made their appearance, thanks to the nutrient-rich soil the pioneer species had created. By 2000, the plants and shrubs in the region made way for trees, resulting in a steady regeneration of the forest ecosystem. But in 2018, a landslide hit once again, sending the area back to the initial stages of succession.", 
-        "Question": "What significant change in the ecosystem did the early 1970s bring after the pioneer species had established themselves?", 
-        "Reasoning": "The story tells us that in the early 1970s, grasses and shrubs began to appear in the region, following the establishment of pioneer species."
     }, 
     {
         "Answer Choices": [
@@ -2389,18 +2173,6 @@
     }, 
     {
         "Answer Choices": [
-            "Mosses and lichens, grasses and shrubs, trees, landslide", 
-            "Landslide, grasses and shrubs, mosses and lichens, trees", 
-            "Trees, grasses and shrubs, landslide, mosses and lichens", 
-            "Grasses and shrubs, landslide, trees, mosses and lichens"
-        ], 
-        "Answer": "Mosses and lichens, grasses and shrubs, trees, landslide", 
-        "Story": "In 1950, following an earthquake-triggered landslide in the Alps, an area was laid bare of forest cover. Mosses and lichens established themselves on this barren rock by the late 1950s. In the early 1970s, grasses and shrubs made their appearance, thanks to the nutrient-rich soil the pioneer species had created. By 2000, the plants and shrubs in the region made way for trees, resulting in a steady regeneration of the forest ecosystem. But in 2018, a landslide hit once again, sending the area back to the initial stages of succession.", 
-        "Question": "Considering their appearances in the story's timeline and spatially locating the landscape, how did the forest ecosystem develop and regress due to natural disasters?", 
-        "Reasoning": "Following the 1950 landslide, the barren rock was first colonized by mosses and lichens. In the early 1970s, grasses and shrubs appeared, benefitting from the nutrient-rich soil developed by these pioneer species. By 2000, trees had established, reflecting a maturing forest ecosystem. However, a second landslide in 2018 reset the succession process back to square one."
-    }, 
-    {
-        "Answer Choices": [
             "6.5%", 
             "7.6%", 
             "6.7%", 
@@ -2473,18 +2245,6 @@
     }, 
     {
         "Answer Choices": [
-            "London", 
-            "New York", 
-            "Both had the same growth", 
-            "The story does not provide this information"
-        ], 
-        "Answer": "New York", 
-        "Story": "In the year 2010, the bustling city of New York was home to 8.2 million people, a diverse tapestry of residents spanning all walks of life. Over the course of a decade, this urban center witnessed remarkable changes in its population dynamics. By 2020, the city had swelled to 8.8 million, marking an impressive growth rate of 6.7%. The demographic landscape revealed a fascinating story too - the male population grew by 7.2%, while the female population increased by 6.3%. In contrast, across the Atlantic, London's population in 2010 stood at 7.7 million, experiencing a steady increase to 8.2 million by 2020, marking a 6.5% growth, though it was still overshadowed by the Big Apple's rapid expansion. The tale of two iconic cities, each with its unique population dynamics, as the years rolled by.", 
-        "Question": "By 2020, which city had a larger population growth, London or New York?", 
-        "Reasoning": "The story provides the growth rates of both cities, with New York's growth rate at 6.7% and London's at 6.5%, indicating that New York had a larger growth."
-    }, 
-    {
-        "Answer Choices": [
             "Male", 
             "Female", 
             "Both had the same growth rate", 
@@ -2542,30 +2302,6 @@
         "Story": "In 2005, the scenic country of Australia was home to a population of 20.4 million, spread across various states and territories. Over the subsequent decade, this vast nation experienced noteworthy shifts in its demographic landscape. By 2015, Australia's population had surged to 23.5 million, showcasing a remarkable growth rate of 15.2%. The statistical breakdown revealed intriguing insights too - the male population grew by 14.8%, while the female population increased by 15.6%. Meanwhile, across the Pacific Ocean, the United States boasted a population of 298.4 million in 2005, which grew at a moderate pace to reach 321.4 million by 2015, representing a 7.7% growth rate. Comparatively, Australia's population growth far exceeded that of the United States during this period, giving rise to discussions about the diverse factors behind this contrasting population dynamic in two distinct locations.", 
         "Question": "What was the United States' population in 2005?", 
         "Reasoning": "The story provides this information directly. It says that the United States boasted a population of 298.4 million in 2005."
-    }, 
-    {
-        "Answer Choices": [
-            "Male", 
-            "Female", 
-            "Both grew equally", 
-            "Not mentioned"
-        ], 
-        "Answer": "Female", 
-        "Story": "In 2005, the scenic country of Australia was home to a population of 20.4 million, spread across various states and territories. Over the subsequent decade, this vast nation experienced noteworthy shifts in its demographic landscape. By 2015, Australia's population had surged to 23.5 million, showcasing a remarkable growth rate of 15.2%. The statistical breakdown revealed intriguing insights too - the male population grew by 14.8%, while the female population increased by 15.6%. Meanwhile, across the Pacific Ocean, the United States boasted a population of 298.4 million in 2005, which grew at a moderate pace to reach 321.4 million by 2015, representing a 7.7% growth rate. Comparatively, Australia's population growth far exceeded that of the United States during this period, giving rise to discussions about the diverse factors behind this contrasting population dynamic in two distinct locations.", 
-        "Question": "Which gender population grew more in Australia between 2005 to 2015?", 
-        "Reasoning": "From the given story, it is stated that the male population grew by 14.8%, while the female population increased by 15.6%. Thus, the female population growth rate was higher."
-    }, 
-    {
-        "Answer Choices": [
-            "United States", 
-            "Australia", 
-            "Both had the same growth rate", 
-            "Not mentioned"
-        ], 
-        "Answer": "Australia", 
-        "Story": "In 2005, the scenic country of Australia was home to a population of 20.4 million, spread across various states and territories. Over the subsequent decade, this vast nation experienced noteworthy shifts in its demographic landscape. By 2015, Australia's population had surged to 23.5 million, showcasing a remarkable growth rate of 15.2%. The statistical breakdown revealed intriguing insights too - the male population grew by 14.8%, while the female population increased by 15.6%. Meanwhile, across the Pacific Ocean, the United States boasted a population of 298.4 million in 2005, which grew at a moderate pace to reach 321.4 million by 2015, representing a 7.7% growth rate. Comparatively, Australia's population growth far exceeded that of the United States during this period, giving rise to discussions about the diverse factors behind this contrasting population dynamic in two distinct locations.", 
-        "Question": "Which country had a higher population growth rate between 2005 and 2015?", 
-        "Reasoning": "The population growth rate of Australia from 2005 to 2015 is mentioned as 15.2%. Meanwhile, the United States had a growth rate of 7.7%. Hence, Australia had a higher population growth rate during that period."
     }, 
     {
         "Answer Choices": [
@@ -2629,18 +2365,6 @@
     }, 
     {
         "Answer Choices": [
-            "Australia", 
-            "United States", 
-            "Both", 
-            "The story does not provide this information"
-        ], 
-        "Answer": "Both", 
-        "Story": "In 2005, the scenic country of Australia was home to a population of 20.4 million, spread across various states and territories. Over the subsequent decade, this vast nation experienced noteworthy shifts in its demographic landscape. By 2015, Australia's population had surged to 23.5 million, showcasing a remarkable growth rate of 15.2%. The statistical breakdown revealed intriguing insights too - the male population grew by 14.8%, while the female population increased by 15.6%. Meanwhile, across the Pacific Ocean, the United States boasted a population of 298.4 million in 2005, which grew at a moderate pace to reach 321.4 million by 2015, representing a 7.7% growth rate. Comparatively, Australia's population growth far exceeded that of the United States during this period, giving rise to discussions about the diverse factors behind this contrasting population dynamic in two distinct locations.", 
-        "Question": "According to the story, in which country was there a discussion about the diverse factors behind the contrasting population dynamic?", 
-        "Reasoning": "The story mentions that Australia's population growth far exceeded that of the United States, which 'gave rise to discussions about the diverse factors behind this contrasting population dynamic in the two distinct locations.' Therefore, it can be inferred that these discussions took place in both countries."
-    }, 
-    {
-        "Answer Choices": [
             "2.1 million", 
             "38.1%", 
             "2.9 million", 
@@ -2668,36 +2392,12 @@
             "37.4%", 
             "38.8%", 
             "38.1%", 
-            "35%"
-        ], 
-        "Answer": "38.1%", 
-        "Story": "In 2013, the vibrant city of Dubai in the United Arab Emirates had a population of 2.1 million people. Over the next five years, the population steadily increased, reaching 2.9 million by 2018. This marked an impressive growth rate of 38.1% within this timeframe. The male population in Dubai grew by 37.4%, while the female population experienced a growth of 38.8%. These demographic changes showcased the rapid urbanization and economic growth in this cosmopolitan Middle Eastern city.", 
-        "Question": "What was the overall growth rate of Dubai's population between 2013 and 2018?", 
-        "Reasoning": "The story states that the overall growth rate from 2013 to 2018 was 38.1%."
-    }, 
-    {
-        "Answer Choices": [
-            "37.4%", 
-            "38.8%", 
-            "38.1%", 
             "2.1%"
         ], 
         "Answer": "38.8%", 
         "Story": "In 2013, the vibrant city of Dubai in the United Arab Emirates had a population of 2.1 million people. Over the next five years, the population steadily increased, reaching 2.9 million by 2018. This marked an impressive growth rate of 38.1% within this timeframe. The male population in Dubai grew by 37.4%, while the female population experienced a growth of 38.8%. These demographic changes showcased the rapid urbanization and economic growth in this cosmopolitan Middle Eastern city.", 
         "Question": "By what percentage did the female population in Dubai grow between 2013 and 2018?", 
         "Reasoning": "The story states that the female population in Dubai grew by 38.8% within this timeframe."
-    }, 
-    {
-        "Answer Choices": [
-            "37.4%", 
-            "38.1%", 
-            "2.1 million", 
-            "2.9 million"
-        ], 
-        "Answer": "37.4%", 
-        "Story": "In 2013, the vibrant city of Dubai in the United Arab Emirates had a population of 2.1 million people. Over the next five years, the population steadily increased, reaching 2.9 million by 2018. This marked an impressive growth rate of 38.1% within this timeframe. The male population in Dubai grew by 37.4%, while the female population experienced a growth of 38.8%. These demographic changes showcased the rapid urbanization and economic growth in this cosmopolitan Middle Eastern city.", 
-        "Question": "How much did the male population grow in percentage between 2013 and 2018?", 
-        "Reasoning": "The story specifically mentions that the male population in Dubai grew by 37.4% within this timeframe."
     }, 
     {
         "Answer Choices": [
@@ -2746,18 +2446,6 @@
         "Story": "In 2013, the vibrant city of Dubai in the United Arab Emirates had a population of 2.1 million people. Over the next five years, the population steadily increased, reaching 2.9 million by 2018. This marked an impressive growth rate of 38.1% within this timeframe. The male population in Dubai grew by 37.4%, while the female population experienced a growth of 38.8%. These demographic changes showcased the rapid urbanization and economic growth in this cosmopolitan Middle Eastern city.", 
         "Question": "What was the percentage increase in the female population in Dubai between 2013 and 2018?", 
         "Reasoning": "The story states that the female population in Dubai grew by 38.8% within the five years from 2013 to 2018."
-    }, 
-    {
-        "Answer Choices": [
-            "1.1 million", 
-            "2.1 million", 
-            "3.1 million", 
-            "4.1 million"
-        ], 
-        "Answer": "2.1 million", 
-        "Story": "In 2013, the vibrant city of Dubai in the United Arab Emirates had a population of 2.1 million people. Over the next five years, the population steadily increased, reaching 2.9 million by 2018. This marked an impressive growth rate of 38.1% within this timeframe. The male population in Dubai grew by 37.4%, while the female population experienced a growth of 38.8%. These demographic changes showcased the rapid urbanization and economic growth in this cosmopolitan Middle Eastern city.", 
-        "Question": "How many people lived in Dubai in 2013?", 
-        "Reasoning": "The story provides this information directly, stating that the 2013 population of Dubai was 2.1 million."
     }, 
     {
         "Answer Choices": [
@@ -2830,18 +2518,6 @@
         "Story": "In the year 2006, the bustling city of New York in the United States had a population of 8.2 million people. Over the next twelve years, the population steadily increased, reaching 8.6 million by 2018. This displayed a growth rate of 4.9% within this timeframe. The male population in New York grew by 4.7%, while the female population experienced a growth of 5.1%. These demographic changes reflected the ongoing allure and opportunities offered by the Big Apple.", 
         "Question": "Where did the demographic changes happen, causing a growth in population from 8.2 million to 8.6 million over twelve years?", 
         "Reasoning": "The story explicitly states that the population growth and demographic changes occurred in the city of New York."
-    }, 
-    {
-        "Answer Choices": [
-            "Los Angeles", 
-            "New York", 
-            "Chicago", 
-            "Seattle"
-        ], 
-        "Answer": "New York", 
-        "Story": "In the year 2006, the bustling city of New York in the United States had a population of 8.2 million people. Over the next twelve years, the population steadily increased, reaching 8.6 million by 2018. This displayed a growth rate of 4.9% within this timeframe. The male population in New York grew by 4.7%, while the female population experienced a growth of 5.1%. These demographic changes reflected the ongoing allure and opportunities offered by the Big Apple.", 
-        "Question": "Which city in the United States had a population of 8.2 million in 2006?", 
-        "Reasoning": "The story mentions that the city of New York in the United States had a population of 8.2 million in 2006."
     }, 
     {
         "Answer Choices": [
@@ -2989,18 +2665,6 @@
     }, 
     {
         "Answer Choices": [
-            "France", 
-            "Spain", 
-            "Germany", 
-            "Italy"
-        ], 
-        "Answer": "Italy", 
-        "Story": "In 2012, the magnificent country of Italy was home to a population of 59.6 million people. Over the next six years, the population experienced modest growth, reaching 60.6 million by 2018. This indicated a growth rate of 1.7% during this period. The male population in Italy increased by 1.8%, while the female population grew by 1.6%. These population dynamics showcased the relatively stable demographic landscape within this captivating European nation.", 
-        "Question": "In which European country did the overall population grow by 1.7% between 2012 and 2018?", 
-        "Reasoning": "The story specifies that in Italy, the population growth rate was 1.7% between 2012 and 2018."
-    }, 
-    {
-        "Answer Choices": [
             "2007", 
             "2017", 
             "2006", 
@@ -3046,18 +2710,6 @@
         "Story": "In the year 2007, the captivating state of Kerala in India had a population of 31.8 million residents. Over the next decade, the population steadily rose, reaching 33.9 million by 2017. This represented a growth rate of 6.6%, highlighting the steady growth pace in this region. The male population in Kerala grew by 6.3%, while the female population experienced a growth of 6.9%. These demographic shifts reflected the evolving dynamics within this culturally rich Indian state.", 
         "Question": "What was the overall population growth rate in Kerala from 2007 to 2017?", 
         "Reasoning": "The story mentions directly that this growth rate from 2007 to 2017 for Kerala was 6.6%."
-    }, 
-    {
-        "Answer Choices": [
-            "Male", 
-            "Female", 
-            "Both had the same", 
-            "Information is not provided"
-        ], 
-        "Answer": "Female", 
-        "Story": "In the year 2007, the captivating state of Kerala in India had a population of 31.8 million residents. Over the next decade, the population steadily rose, reaching 33.9 million by 2017. This represented a growth rate of 6.6%, highlighting the steady growth pace in this region. The male population in Kerala grew by 6.3%, while the female population experienced a growth of 6.9%. These demographic shifts reflected the evolving dynamics within this culturally rich Indian state.", 
-        "Question": "Which gender had a higher growth rate in Kerala from 2007 to 2017?", 
-        "Reasoning": "The story mentions that the male population grew by 6.3% and the female population experienced a growth of 6.9%, hence the growth in the female population was higher."
     }, 
     {
         "Answer Choices": [
@@ -3169,18 +2821,6 @@
     }, 
     {
         "Answer Choices": [
-            "0.4%", 
-            "0.2%", 
-            "1%", 
-            "0.8%"
-        ], 
-        "Answer": "0.4%", 
-        "Story": "In 2013, the bustling city of Paris in France had a population of 2.2 million people. Over the following five years, the population steadily increased, reaching 2.4 million by 2018. This marked a growth rate of 9.1% within this timeframe. The male population in Paris grew by 9.5%, while the female population experienced a growth of 8.7%. These demographic changes reflected the ongoing allure and vibrant nature of the City of Light.", 
-        "Question": "By how much does the male population growth rate differ from the overall growth rate from 2013 to 2018?", 
-        "Reasoning": "The text mentions that the male population grew by 9.5% and the overall growth was 9.1%, the difference being 0.4%."
-    }, 
-    {
-        "Answer Choices": [
             "London", 
             "Paris", 
             "Madrid", 
@@ -3238,18 +2878,6 @@
         "Story": "In 2013, the bustling city of Paris in France had a population of 2.2 million people. Over the following five years, the population steadily increased, reaching 2.4 million by 2018. This marked a growth rate of 9.1% within this timeframe. The male population in Paris grew by 9.5%, while the female population experienced a growth of 8.7%. These demographic changes reflected the ongoing allure and vibrant nature of the City of Light.", 
         "Question": "What is the alternate name for the city of Paris mentioned in the story?", 
         "Reasoning": "The story mentions Paris as 'the City of Light'."
-    }, 
-    {
-        "Answer Choices": [
-            "23.1 million", 
-            "19.2 million", 
-            "20.3 million", 
-            "20 million"
-        ], 
-        "Answer": "19.2 million", 
-        "Story": "In the year 2000, the thriving country of Australia was home to a diverse population of 19.2 million people. Over the next decade, the population experienced substantial growth, reaching 23.1 million by 2010. This indicated a growth rate of 20.3% during this period. The male population in Australia increased by 20%, while the female population grew by 20.7%. These population dynamics showcased the evolving nature and attractiveness of this vast country down under.", 
-        "Question": "What was the population of Australia in the year 2000?", 
-        "Reasoning": "The story specifies that in the year 2000, Australia's population was 19.2 million people."
     }, 
     {
         "Answer Choices": [
@@ -3349,18 +2977,6 @@
     }, 
     {
         "Answer Choices": [
-            "No difference", 
-            "Males", 
-            "Females", 
-            "Cannot be determined"
-        ], 
-        "Answer": "Females", 
-        "Story": "In the year 2000, the thriving country of Australia was home to a diverse population of 19.2 million people. Over the next decade, the population experienced substantial growth, reaching 23.1 million by 2010. This indicated a growth rate of 20.3% during this period. The male population in Australia increased by 20%, while the female population grew by 20.7%. These population dynamics showcased the evolving nature and attractiveness of this vast country down under.", 
-        "Question": "Between 2000 and 2010, which gender had a higher growth rate in Australia?", 
-        "Reasoning": "The story indicates that 'The male population in Australia increased by 20%, while the female population grew by 20.7%', thus the female population growth rate was slightly higher."
-    }, 
-    {
-        "Answer Choices": [
             "2012", 
             "2014", 
             "2016", 
@@ -3382,30 +2998,6 @@
         "Story": "In 2012, the bustling city of London in the United Kingdom had a population of 8.2 million people. Over the next six years, the population steadily increased, reaching 9 million by 2018. This displayed a growth rate of 9.8% within this timeframe. The male population in London grew by 9.5%, while the female population experienced a growth of 10.1%. These demographic changes reflected the continuous allure and opportunities offered by this dynamic global city.", 
         "Question": "Over how many years did the population of London increase from 8.2 million to 9 million?", 
         "Reasoning": "The story states that the population of London increased from 8.2 million in 2012 to 9 million by 2018, which is a span of 6 years."
-    }, 
-    {
-        "Answer Choices": [
-            "6.8%", 
-            "8.8%", 
-            "9.8%", 
-            "10.8%"
-        ], 
-        "Answer": "9.8%", 
-        "Story": "In 2012, the bustling city of London in the United Kingdom had a population of 8.2 million people. Over the next six years, the population steadily increased, reaching 9 million by 2018. This displayed a growth rate of 9.8% within this timeframe. The male population in London grew by 9.5%, while the female population experienced a growth of 10.1%. These demographic changes reflected the continuous allure and opportunities offered by this dynamic global city.", 
-        "Question": "By what percentage did the population of London grow between 2012 and 2018?", 
-        "Reasoning": "The story states that the population of London grew by 9.8% between 2012 and 2018."
-    }, 
-    {
-        "Answer Choices": [
-            "8.5%", 
-            "9.5%", 
-            "10.5%", 
-            "11.5%"
-        ], 
-        "Answer": "9.5%", 
-        "Story": "In 2012, the bustling city of London in the United Kingdom had a population of 8.2 million people. Over the next six years, the population steadily increased, reaching 9 million by 2018. This displayed a growth rate of 9.8% within this timeframe. The male population in London grew by 9.5%, while the female population experienced a growth of 10.1%. These demographic changes reflected the continuous allure and opportunities offered by this dynamic global city.", 
-        "Question": "What was the percentage growth of the male population in London from 2012 to 2018?", 
-        "Reasoning": "The story states directly that the male population in London grew by 9.5% between 2012 to 2018."
     }, 
     {
         "Answer Choices": [
@@ -3481,18 +3073,6 @@
     }, 
     {
         "Answer Choices": [
-            "10 years", 
-            "20 years", 
-            "15 years", 
-            "25 years"
-        ], 
-        "Answer": "15 years", 
-        "Story": "In the year 2003, the culturally rich country of Brazil was home to a population of 176 million people. Over a span of fifteen years, the population expanded significantly, reaching 208 million by 2018. This marked an impressive growth rate of 18.2% during this period. The male population in Brazil grew by 17.6%, while the female population saw a growth of 18.8%. These population dynamics portrayed the ongoing changes and developments within this captivating South American nation.", 
-        "Question": "What was the duration of the period in which Brazil's population expanded to reach 208 million?", 
-        "Reasoning": "As per the story, the change in population from 176 million to 208 million took place over a span of fifteen years."
-    }, 
-    {
-        "Answer Choices": [
             "2018", 
             "2003", 
             "2023", 
@@ -3550,18 +3130,6 @@
         "Story": "In the year 2003, the culturally rich country of Brazil was home to a population of 176 million people. Over a span of fifteen years, the population expanded significantly, reaching 208 million by 2018. This marked an impressive growth rate of 18.2% during this period. The male population in Brazil grew by 17.6%, while the female population saw a growth of 18.8%. These population dynamics portrayed the ongoing changes and developments within this captivating South American nation.", 
         "Question": "In which continent is the country with rapidly growing population mentioned in the story located?", 
         "Reasoning": "The story mentioned that Brazil, the country with rapidly growing population, is a South American nation."
-    }, 
-    {
-        "Answer Choices": [
-            "Argentina", 
-            "Chile", 
-            "Peru", 
-            "Brazil"
-        ], 
-        "Answer": "Brazil", 
-        "Story": "In the year 2003, the culturally rich country of Brazil was home to a population of 176 million people. Over a span of fifteen years, the population expanded significantly, reaching 208 million by 2018. This marked an impressive growth rate of 18.2% during this period. The male population in Brazil grew by 17.6%, while the female population saw a growth of 18.8%. These population dynamics portrayed the ongoing changes and developments within this captivating South American nation.", 
-        "Question": "Which country's population is highlighted in the story?", 
-        "Reasoning": "The story revolves around the population growth in Brazil."
     }, 
     {
         "Answer Choices": [
@@ -3805,18 +3373,6 @@
     }, 
     {
         "Answer Choices": [
-            "China", 
-            "South Korea", 
-            "United States", 
-            "Japan"
-        ], 
-        "Answer": "Japan", 
-        "Story": "In the year 2010, the vibrant city of Tokyo in Japan had a population of 13.1 million people. Over the next eight years, the population steadily grew, reaching 14.6 million by 2018. This indicated a growth rate of 11.5% within this time frame. The male population in Tokyo increased by 10.8%, while the female population saw a growth of 12.2%. These demographic changes highlighted the ongoing urbanization and influx of people into this bustling Japanese metropolis.", 
-        "Question": "Which country's population growth is discussed in the story?", 
-        "Reasoning": "The story discusses the population growth in the city of Tokyo, which is in Japan."
-    }, 
-    {
-        "Answer Choices": [
             "Urbanization", 
             "Rural migration", 
             "Suburban expansion", 
@@ -3934,18 +3490,6 @@
         "Story": "In the year 2010, Canada was home to a diverse population of 34 million people. Over the next five years, the population grew steadily, reaching 36.5 million in 2015. This indicated a growth rate of 7.4%. The cities of Toronto and Vancouver experienced the most significant population increases during this period, with Toronto's population growing from 5.5 million to 6.4 million, and Vancouver's population increasing from 2.3 million to 2.8 million. These numbers showcased the growing popularity and appeal of these two Canadian cities.", 
         "Question": "What was the total population of Canada in the year 2015?", 
         "Reasoning": "The population of Canada in 2015 is clearly mentioned in the story."
-    }, 
-    {
-        "Answer Choices": [
-            "500,000", 
-            "1 million", 
-            "900,000", 
-            "1.1 million"
-        ], 
-        "Answer": "500,000", 
-        "Story": "In the year 2010, Canada was home to a diverse population of 34 million people. Over the next five years, the population grew steadily, reaching 36.5 million in 2015. This indicated a growth rate of 7.4%. The cities of Toronto and Vancouver experienced the most significant population increases during this period, with Toronto's population growing from 5.5 million to 6.4 million, and Vancouver's population increasing from 2.3 million to 2.8 million. These numbers showcased the growing popularity and appeal of these two Canadian cities.", 
-        "Question": "By how much did Vancouver's population increase from 2010 to 2015?", 
-        "Reasoning": "Vancouver's population increased from 2.3 million to 2.8 million, which is an increase of 500,000."
     }, 
     {
         "Answer Choices": [
@@ -4201,18 +3745,6 @@
     }, 
     {
         "Answer Choices": [
-            "1 year", 
-            "5 years", 
-            "10 years", 
-            "20 years"
-        ], 
-        "Answer": "10 years", 
-        "Story": "In the year 2009, the beautiful country of Thailand was home to a diverse population of 65 million people. Over the next decade, Bangkok, the capital city, experienced significant changes in its population dynamics. By 2019, the city's population rose from 7.7 million to 8.9 million, marking a growth rate of 15.5%. The demographic landscape revealed an interesting pattern as well. While the male population in Bangkok increased by 13.8%, the female population grew by 17.2%. These population dynamics showcased the evolving nature of this iconic city in Thailand over the span of a decade.", 
-        "Question": "What was the duration of the population growth observed in the city of Bangkok?", 
-        "Reasoning": "The story states that the population data is from the year 2009 and the changed population is observed in the year 2019. Hence the duration of population growth is 10 years."
-    }, 
-    {
-        "Answer Choices": [
             "2001", 
             "2009", 
             "2010", 
@@ -4417,18 +3949,6 @@
     }, 
     {
         "Answer Choices": [
-            "Johannesburg", 
-            "Cape Town", 
-            "Both had the same population", 
-            "The story does not provide this information"
-        ], 
-        "Answer": "Johannesburg", 
-        "Story": "In the year 2012, the vibrant country of South Africa was home to a diverse population of 52 million people. Over the next five years, several cities within the country experienced significant changes in their population dynamics. By 2017, Johannesburg, the largest city, saw its population rise from 4.4 million to 4.8 million, marking an impressive growth rate of 9.1%. Cape Town, on the other hand, witnessed a more moderate increase, with its population growing from 3.7 million in 2012 to 4.1 million in 2017, indicating a growth rate of 10.8%. The demographic landscape revealed an interesting pattern too - while the male population in Johannesburg increased by 8.7%, the female population grew by 9.5%. In Cape Town, the male population grew by 10.2%, while the female population saw a growth of 11.4%. These population dynamics showcased the evolving nature of these two iconic cities in South Africa over the span of five years.", 
-        "Question": "In 2012, which city had a larger population: Johannesburg or Cape Town?", 
-        "Reasoning": "In 2012, Johannesburg's population was 4.4 million whereas Cape Town's population was 3.7 million. Therefore, Johannesburg had a larger population."
-    }, 
-    {
-        "Answer Choices": [
             "Male", 
             "Female", 
             "Both increased equally", 
@@ -4474,18 +3994,6 @@
         "Story": "In the year 2007, the vibrant country of Mexico was home to a diverse population of 107 million people. Over the next decade, Mexico City, the capital, experienced significant changes in its population dynamics. By 2017, the city's population rose from 8.8 million to 9.2 million, marking a growth rate of 4.5%. The demographic landscape revealed an interesting pattern as well. While the male population in Mexico City increased by 3.8%, the female population grew by 5.2%. These population dynamics showcased the evolving nature of this iconic city in Mexico over the span of a decade.", 
         "Question": "What was the rate at which the population of Mexico City increased from 2007 to 2017?", 
         "Reasoning": "The story specifically states that the city's population rose from 8.8 million to 9.2 million, marking a growth rate of 4.5%."
-    }, 
-    {
-        "Answer Choices": [
-            "3.8%", 
-            "5.2%", 
-            "4.5%", 
-            "10%"
-        ], 
-        "Answer": "5.2%", 
-        "Story": "In the year 2007, the vibrant country of Mexico was home to a diverse population of 107 million people. Over the next decade, Mexico City, the capital, experienced significant changes in its population dynamics. By 2017, the city's population rose from 8.8 million to 9.2 million, marking a growth rate of 4.5%. The demographic landscape revealed an interesting pattern as well. While the male population in Mexico City increased by 3.8%, the female population grew by 5.2%. These population dynamics showcased the evolving nature of this iconic city in Mexico over the span of a decade.", 
-        "Question": "What was the female population growth rate in the city?", 
-        "Reasoning": "The story directly states that the female population in Mexico City grew by 5.2%."
     }, 
     {
         "Answer Choices": [
@@ -4609,18 +4117,6 @@
     }, 
     {
         "Answer Choices": [
-            "2010 to 2015", 
-            "2005 to 2010", 
-            "2015 to 2020", 
-            "2000 to 2005"
-        ], 
-        "Answer": "2010 to 2015", 
-        "Story": "In the year 2010, the scenic country of New Zealand was home to a diverse population of 4.4 million people. Over the next five years, several cities within the country experienced significant changes in their population dynamics. By 2015, Auckland, the largest city, saw its population rise from 1.4 million to 1.6 million, marking an impressive growth rate of 14.3%. Wellington, on the other hand, witnessed a more moderate increase, with its population growing from 405,000 in 2010 to 435,000 in 2015, indicating a growth rate of 7.4%. The demographic landscape revealed an interesting pattern too - while the male population in Auckland increased by 13.8%, the female population grew by 14.9%. In Wellington, the male population grew by 6.5%, while the female population saw a growth of 8.3%. These population dynamics showcased the evolving nature of these two cities in New Zealand over the span of five years.", 
-        "Question": "What period covers the increase in population in Auckland from a growth rate of 14.3%?", 
-        "Reasoning": "The population of Auckland grew from 1.4 million to 1.6 million, marking a growth rate of 14.3%, between the years 2010 and 2015 as mentioned in the story."
-    }, 
-    {
-        "Answer Choices": [
             "Wellington", 
             "Hamilton", 
             "Auckland", 
@@ -4690,30 +4186,6 @@
         "Story": "In the year 2005, the prosperous city-state of Singapore was home to a diverse population of 4.35 million people. Over the next decade, this bustling metropolis experienced significant changes in its population dynamics. By 2015, Singapore witnessed a remarkable population increase, growing from 5.3 million to 5.8 million, indicating a growth rate of 9.4%. The demographic landscape revealed an interesting pattern as well. While the male population in Singapore increased by 12%, the female population grew by 7.8%. These population dynamics showcased the evolving nature of this iconic city-state over the span of a decade.", 
         "Question": "What was the duration of the population study in Singapore?", 
         "Reasoning": "The story clearly specifies that the population study took place over the next decade (from 2005 to 2015) which is 10 years."
-    }, 
-    {
-        "Answer Choices": [
-            "2005", 
-            "2010", 
-            "2015", 
-            "2012"
-        ], 
-        "Answer": "2015", 
-        "Story": "In the year 2005, the prosperous city-state of Singapore was home to a diverse population of 4.35 million people. Over the next decade, this bustling metropolis experienced significant changes in its population dynamics. By 2015, Singapore witnessed a remarkable population increase, growing from 5.3 million to 5.8 million, indicating a growth rate of 9.4%. The demographic landscape revealed an interesting pattern as well. While the male population in Singapore increased by 12%, the female population grew by 7.8%. These population dynamics showcased the evolving nature of this iconic city-state over the span of a decade.", 
-        "Question": "In which year did Singapore witness a population increase to 5.8 million?", 
-        "Reasoning": "The story mentions that by 2015, Singapore's population grew to 5.8 million."
-    }, 
-    {
-        "Answer Choices": [
-            "2000", 
-            "2001", 
-            "2005", 
-            "2010"
-        ], 
-        "Answer": "2005", 
-        "Story": "In the year 2005, the prosperous city-state of Singapore was home to a diverse population of 4.35 million people. Over the next decade, this bustling metropolis experienced significant changes in its population dynamics. By 2015, Singapore witnessed a remarkable population increase, growing from 5.3 million to 5.8 million, indicating a growth rate of 9.4%. The demographic landscape revealed an interesting pattern as well. While the male population in Singapore increased by 12%, the female population grew by 7.8%. These population dynamics showcased the evolving nature of this iconic city-state over the span of a decade.", 
-        "Question": "What was the starting year of the population dynamics study depicted in the story?", 
-        "Reasoning": "The story starts with the sentence 'In the year 2005...' indicating that the study began or the population count used is from that year."
     }, 
     {
         "Answer Choices": [
@@ -4849,18 +4321,6 @@
     }, 
     {
         "Answer Choices": [
-            "Spring", 
-            "Last Summer", 
-            "Winter", 
-            "Autumn"
-        ], 
-        "Answer": "Last Summer", 
-        "Story": "Last summer, my friends and I embarked on an unforgettable seven-day travel and tourism adventure through Italy. Day 1 commenced in Rome, where we visited the iconic Colosseum and indulged in traditional Italian cuisine at a local trattoria. The following day, we journeyed to Florence, basking in art at the famed Uffizi Gallery and relishing delicious gelato in Piazza della Signoria. On Day 3, we reached the magnificent city of Venice, cruising on gondolas through picturesque canals and admiring the intricate architecture of Saint Mark's Basilica. Days 4 and 5 were dedicated to exploring the glorious landscapes of Tuscany, staying in charming countryside villas and indulging in delectable regional wines and cuisine. Our final destination was the breathtaking Amalfi Coast, where we spent days 6 and 7 leisurely sunbathing on pristine beaches and savoring authentic seafood dishes at cliffside restaurants.", 
-        "Question": "When did the group start their adventure?", 
-        "Reasoning": "The story tells us that the travel adventure began last summer."
-    }, 
-    {
-        "Answer Choices": [
             "Rome and Florence", 
             "Venice and Tuscany", 
             "Florence and Venice", 
@@ -4933,18 +4393,6 @@
     }, 
     {
         "Answer Choices": [
-            "Day 1", 
-            "Day 2", 
-            "Day 3", 
-            "Day 4"
-        ], 
-        "Answer": "Day 3", 
-        "Story": "Last winter, my family and I embarked on an exciting ten-day adventure through Japan. Day 1 began in Tokyo, where we explored the bustling streets of Shibuya and savored authentic sushi at a local restaurant. The following day, we took a bullet train to Kyoto, visiting the iconic Kiyomizu-dera Temple and immersing ourselves in the serene beauty of Arashiyama Bamboo Grove. On Day 3, we ventured to Hiroshima, paying our respects at the Peace Memorial Park and Museum. Days 4 and 5 were dedicated to the snow-covered landscapes of Hokkaido, where we enjoyed skiing in Niseko and indulged in hot springs in Noboribetsu. Our next stop was Osaka, where we spent two days exploring Osaka Castle and devouring delicious street food in Dotonbori. The final leg of our journey took us to the enchanting city of Kyoto, where we marveled at the stunning Golden Pavilion and participated in a traditional tea ceremony.", 
-        "Question": "On which day of their Japan trip did the family visit Hiroshima?", 
-        "Reasoning": "The story states that on day 3, the family went to Hiroshima."
-    }, 
-    {
-        "Answer Choices": [
             "1 Day", 
             "2 Days", 
             "3 Days", 
@@ -4982,18 +4430,6 @@
     {
         "Answer Choices": [
             "Kyoto", 
-            "Tokyo", 
-            "Hokkaido", 
-            "Osaka"
-        ], 
-        "Answer": "Hokkaido", 
-        "Story": "Last winter, my family and I embarked on an exciting ten-day adventure through Japan. Day 1 began in Tokyo, where we explored the bustling streets of Shibuya and savored authentic sushi at a local restaurant. The following day, we took a bullet train to Kyoto, visiting the iconic Kiyomizu-dera Temple and immersing ourselves in the serene beauty of Arashiyama Bamboo Grove. On Day 3, we ventured to Hiroshima, paying our respects at the Peace Memorial Park and Museum. Days 4 and 5 were dedicated to the snow-covered landscapes of Hokkaido, where we enjoyed skiing in Niseko and indulged in hot springs in Noboribetsu. Our next stop was Osaka, where we spent two days exploring Osaka Castle and devouring delicious street food in Dotonbori. The final leg of our journey took us to the enchanting city of Kyoto, where we marveled at the stunning Golden Pavilion and participated in a traditional tea ceremony.", 
-        "Question": "Which city did the family visit after exploring Hiroshima?", 
-        "Reasoning": "The story states that after visiting Hiroshima on Day 3, days 4 and 5 were dedicated to the snow-covered landscapes of Hokkaido."
-    }, 
-    {
-        "Answer Choices": [
-            "Kyoto", 
             "Hiroshima", 
             "Osaka", 
             "Tokyo"
@@ -5014,18 +4450,6 @@
         "Story": "Last winter, my family and I embarked on an exciting ten-day adventure through Japan. Day 1 began in Tokyo, where we explored the bustling streets of Shibuya and savored authentic sushi at a local restaurant. The following day, we took a bullet train to Kyoto, visiting the iconic Kiyomizu-dera Temple and immersing ourselves in the serene beauty of Arashiyama Bamboo Grove. On Day 3, we ventured to Hiroshima, paying our respects at the Peace Memorial Park and Museum. Days 4 and 5 were dedicated to the snow-covered landscapes of Hokkaido, where we enjoyed skiing in Niseko and indulged in hot springs in Noboribetsu. Our next stop was Osaka, where we spent two days exploring Osaka Castle and devouring delicious street food in Dotonbori. The final leg of our journey took us to the enchanting city of Kyoto, where we marveled at the stunning Golden Pavilion and participated in a traditional tea ceremony.", 
         "Question": "Which city did the family visit first, Tokyo or Kyoto?", 
         "Reasoning": "The first destination the family visited was Tokyo as mentioned in the story that day 1 began in Tokyo."
-    }, 
-    {
-        "Answer Choices": [
-            "Shibuya, Tokyo", 
-            "Dotonbori, Osaka", 
-            "Niseko, Hokkaido", 
-            "Kyoto"
-        ], 
-        "Answer": "Shibuya, Tokyo", 
-        "Story": "Last winter, my family and I embarked on an exciting ten-day adventure through Japan. Day 1 began in Tokyo, where we explored the bustling streets of Shibuya and savored authentic sushi at a local restaurant. The following day, we took a bullet train to Kyoto, visiting the iconic Kiyomizu-dera Temple and immersing ourselves in the serene beauty of Arashiyama Bamboo Grove. On Day 3, we ventured to Hiroshima, paying our respects at the Peace Memorial Park and Museum. Days 4 and 5 were dedicated to the snow-covered landscapes of Hokkaido, where we enjoyed skiing in Niseko and indulged in hot springs in Noboribetsu. Our next stop was Osaka, where we spent two days exploring Osaka Castle and devouring delicious street food in Dotonbori. The final leg of our journey took us to the enchanting city of Kyoto, where we marveled at the stunning Golden Pavilion and participated in a traditional tea ceremony.", 
-        "Question": "Where did the family go to savor authentic sushi?", 
-        "Reasoning": "In the story, it is stated that the family savored authentic sushi at a local restaurant in Shibuya, Tokyo on the first day of their adventure."
     }, 
     {
         "Answer Choices": [
@@ -5062,18 +4486,6 @@
         "Story": "During the spring break, my friends and I embarked on a thrilling twelve-day backpacking trip through Europe. Day 1 started in Paris, where we explored the enchanting streets of Montmartre and tasted mouthwatering croissants at a local bakery. The following day, we hopped on a train to Amsterdam, wandering through the vibrant neighborhoods of Jordaan and taking a scenic boat tour along the famous canals. On Day 3, we ventured to Berlin, immersing ourselves in the city's compelling history with visits to the Berlin Wall and the Brandenburg Gate. Days 4 and 5 were dedicated to the romantic city of Venice, where we rode gondolas through the charming canals and admired the art at the Peggy Guggenheim Collection. Next, we whisked away to Rome, spending two days exploring the Vatican City and tossing coins into the Trevi Fountain for good luck. The final leg of our journey took us to the picturesque Amalfi Coast, where we soaked up the sun and marveled at the stunning cliffs of Positano.", 
         "Question": "Which two cities did they spend the most time exploring?", 
         "Reasoning": "The text mentions that they spent two days each in Venice and Rome, which is more time than they spent in the other cities mentioned."
-    }, 
-    {
-        "Answer Choices": [
-            "Day 1", 
-            "Day 2", 
-            "Day 3", 
-            "Day 4"
-        ], 
-        "Answer": "Day 3", 
-        "Story": "During the spring break, my friends and I embarked on a thrilling twelve-day backpacking trip through Europe. Day 1 started in Paris, where we explored the enchanting streets of Montmartre and tasted mouthwatering croissants at a local bakery. The following day, we hopped on a train to Amsterdam, wandering through the vibrant neighborhoods of Jordaan and taking a scenic boat tour along the famous canals. On Day 3, we ventured to Berlin, immersing ourselves in the city's compelling history with visits to the Berlin Wall and the Brandenburg Gate. Days 4 and 5 were dedicated to the romantic city of Venice, where we rode gondolas through the charming canals and admired the art at the Peggy Guggenheim Collection. Next, we whisked away to Rome, spending two days exploring the Vatican City and tossing coins into the Trevi Fountain for good luck. The final leg of our journey took us to the picturesque Amalfi Coast, where we soaked up the sun and marveled at the stunning cliffs of Positano.", 
-        "Question": "On what day did they tour Berlin?", 
-        "Reasoning": "The story clearly states that they ventured to Berlin on Day 3 of their trip."
     }, 
     {
         "Answer Choices": [
@@ -5341,18 +4753,6 @@
     }, 
     {
         "Answer Choices": [
-            "Quincy Market", 
-            "Freedom Trail", 
-            "Salem", 
-            "Cliff Walk"
-        ], 
-        "Answer": "Freedom Trail", 
-        "Story": "During the autumn season, my family and I embarked on a memorable twelve-day adventure through New England. Day 1 commenced in Boston, where we explored the historic Freedom Trail and enjoyed a delicious lobster dinner in Quincy Market. The following day, we journeyed to the coastal town of Salem, immersing ourselves in the haunting history of the Salem Witch Trials. On Day 3, we reached the charming city of Portland, Maine, indulging in fresh seafood and admiring the scenic views along Casco Bay. Days 4 and 5 were dedicated to the picturesque landscapes of Vermont, where we marveled at the vibrant fall foliage and tasted delectable maple syrup. Next, we drove to Newport, Rhode Island, spending two days exploring the grand mansions along the famous Cliff Walk and enjoying a relaxing sailboat tour. Our final destination was Cape Cod, where we spent days 10 and 11 strolling along the sandy shores and feasting on mouthwatering clam chowder.", 
-        "Question": "What was the first historic location visited on the trip?", 
-        "Reasoning": "The story mentions that on the first day in Boston, they explored the Freedom Trail before enjoying a lobster dinner at Quincy Market."
-    }, 
-    {
-        "Answer Choices": [
             "Newport, Rhode Island", 
             "Cape Cod", 
             "Salem", 
@@ -5398,18 +4798,6 @@
         "Story": "During the autumn season, my family and I embarked on a memorable twelve-day adventure through New England. Day 1 commenced in Boston, where we explored the historic Freedom Trail and enjoyed a delicious lobster dinner in Quincy Market. The following day, we journeyed to the coastal town of Salem, immersing ourselves in the haunting history of the Salem Witch Trials. On Day 3, we reached the charming city of Portland, Maine, indulging in fresh seafood and admiring the scenic views along Casco Bay. Days 4 and 5 were dedicated to the picturesque landscapes of Vermont, where we marveled at the vibrant fall foliage and tasted delectable maple syrup. Next, we drove to Newport, Rhode Island, spending two days exploring the grand mansions along the famous Cliff Walk and enjoying a relaxing sailboat tour. Our final destination was Cape Cod, where we spent days 10 and 11 strolling along the sandy shores and feasting on mouthwatering clam chowder.", 
         "Question": "How many days did the family spend in Newport, Rhode Island?", 
         "Reasoning": "The story mentions that the family spent two days exploring Newport, Rhode Island."
-    }, 
-    {
-        "Answer Choices": [
-            "Exploring the vibrant markets", 
-            "Hiking through lush rainforests and soaking in natural hot springs", 
-            "Ziplining through the canopy", 
-            "Surf lessons"
-        ], 
-        "Answer": "Hiking through lush rainforests and soaking in natural hot springs", 
-        "Story": "Last summer, my friends and I embarked on a thrilling seven-day adventure through Costa Rica. Day 1 began in San Jose, where we explored the vibrant markets and enjoyed a traditional Costa Rican breakfast. The following day, we journeyed to Arenal Volcano National Park, hiking through lush rainforests and soaking in natural hot springs. On Day 3, we reached the breathtaking Manuel Antonio National Park, where we encountered stunning wildlife and relaxed on pristine beaches. Days 4 and 5 were dedicated to exploring the Monteverde Cloud Forest Reserve, ziplining through the canopy and marveling at the unique flora and fauna. Next, we ventured to the exotic Tortuguero National Park, cruising through remote canals and observing nesting sea turtles. The final leg of our journey took us to the picturesque Nicoya Peninsula, where we spent days 6 and 7 enjoying surf lessons and savoring delicious seafood at beachfront restaurants.", 
-        "Question": "What activities were carried out on Day 2 of the trip?", 
-        "Reasoning": "The story outlines that on the second day of the trip, the group went to Arenal Volcano National Park where they hiked through lush rainforests and soaked in natural hot springs."
     }, 
     {
         "Answer Choices": [
@@ -5509,18 +4897,6 @@
     }, 
     {
         "Answer Choices": [
-            "Arenal Volcano National Park", 
-            "Manuel Antonio National Park", 
-            "Tortuguero National Park", 
-            "Nicoya Peninsula"
-        ], 
-        "Answer": "Nicoya Peninsula", 
-        "Story": "Last summer, my friends and I embarked on a thrilling seven-day adventure through Costa Rica. Day 1 began in San Jose, where we explored the vibrant markets and enjoyed a traditional Costa Rican breakfast. The following day, we journeyed to Arenal Volcano National Park, hiking through lush rainforests and soaking in natural hot springs. On Day 3, we reached the breathtaking Manuel Antonio National Park, where we encountered stunning wildlife and relaxed on pristine beaches. Days 4 and 5 were dedicated to exploring the Monteverde Cloud Forest Reserve, ziplining through the canopy and marveling at the unique flora and fauna. Next, we ventured to the exotic Tortuguero National Park, cruising through remote canals and observing nesting sea turtles. The final leg of our journey took us to the picturesque Nicoya Peninsula, where we spent days 6 and 7 enjoying surf lessons and savoring delicious seafood at beachfront restaurants.", 
-        "Question": "What coastal feature did the group explore last?", 
-        "Reasoning": "The Nicoya Peninsula was the last place visited by the group, as mentioned in the story. Here they spent days 6 and 7, making it the final location they visited."
-    }, 
-    {
-        "Answer Choices": [
             "Day 1", 
             "Day 2", 
             "Day 3", 
@@ -5542,18 +4918,6 @@
         "Story": "During the winter holidays, my family and I embarked on a magical ten-day journey through Iceland. Day 1 commenced in Reykjavik, where we visited the iconic Hallgrimskirkja Church and indulged in traditional Icelandic cuisine at a local restaurant. The following day, we journeyed to the mesmerizing Golden Circle, marveling at the mighty Gullfoss waterfall and exploring the geothermal area of Geysir. On Day 3, we reached the icy landscapes of Jokulsarlon Glacier Lagoon, where we marveled at the sparkling blue icebergs and took a thrilling boat ride. Days 4 and 5 were dedicated to the serene beauty of Lake Myvatn, where we hiked through lava fields and soaked in natural hot springs. Next, we ventured to the Westfjords, enjoying scenic drives along fjords and observing puffin colonies. The final leg of our journey took us to the enchanting Blue Lagoon, where we spent days 9 and 10 relaxing in the mineral-rich waters and indulging in luxurious spa treatments.", 
         "Question": "How many days did the family spend at the Blue Lagoon?", 
         "Reasoning": "The text mentions that the family spent days 9 and 10 at the Blue Lagoon, which totals to 2 days."
-    }, 
-    {
-        "Answer Choices": [
-            "Day 1", 
-            "Day 2", 
-            "Day 3", 
-            "Day 4"
-        ], 
-        "Answer": "Day 1", 
-        "Story": "During the winter holidays, my family and I embarked on a magical ten-day journey through Iceland. Day 1 commenced in Reykjavik, where we visited the iconic Hallgrimskirkja Church and indulged in traditional Icelandic cuisine at a local restaurant. The following day, we journeyed to the mesmerizing Golden Circle, marveling at the mighty Gullfoss waterfall and exploring the geothermal area of Geysir. On Day 3, we reached the icy landscapes of Jokulsarlon Glacier Lagoon, where we marveled at the sparkling blue icebergs and took a thrilling boat ride. Days 4 and 5 were dedicated to the serene beauty of Lake Myvatn, where we hiked through lava fields and soaked in natural hot springs. Next, we ventured to the Westfjords, enjoying scenic drives along fjords and observing puffin colonies. The final leg of our journey took us to the enchanting Blue Lagoon, where we spent days 9 and 10 relaxing in the mineral-rich waters and indulging in luxurious spa treatments.", 
-        "Question": "When did the family start their journey in Reykjavik?", 
-        "Reasoning": "The text explicitly says that Day 1 commenced in Reykjavik."
     }, 
     {
         "Answer Choices": [
@@ -5638,18 +5002,6 @@
         "Story": "During the winter holidays, my family and I embarked on a magical ten-day journey through Iceland. Day 1 commenced in Reykjavik, where we visited the iconic Hallgrimskirkja Church and indulged in traditional Icelandic cuisine at a local restaurant. The following day, we journeyed to the mesmerizing Golden Circle, marveling at the mighty Gullfoss waterfall and exploring the geothermal area of Geysir. On Day 3, we reached the icy landscapes of Jokulsarlon Glacier Lagoon, where we marveled at the sparkling blue icebergs and took a thrilling boat ride. Days 4 and 5 were dedicated to the serene beauty of Lake Myvatn, where we hiked through lava fields and soaked in natural hot springs. Next, we ventured to the Westfjords, enjoying scenic drives along fjords and observing puffin colonies. The final leg of our journey took us to the enchanting Blue Lagoon, where we spent days 9 and 10 relaxing in the mineral-rich waters and indulging in luxurious spa treatments.", 
         "Question": "How was the time spent at Lake Myvatn according to the story?", 
         "Reasoning": "According to the story, during their time at Lake Myvatn, the family hiked through lava fields and soaked in natural hot springs."
-    }, 
-    {
-        "Answer Choices": [
-            "Day 1", 
-            "Day 2", 
-            "Day 3", 
-            "Day 4"
-        ], 
-        "Answer": "Day 1", 
-        "Story": "Last spring, my partner and I embarked on an enchanting twelve-day adventure through South Africa. Day 1 began in Cape Town, where we explored the vibrant V&A Waterfront and took a cable car ride up Table Mountain for stunning views. The following day, we journeyed to Stellenbosch, immersing ourselves in the picturesque vineyards and indulging in wine tastings. On Day 3, we reached the magnificent Kruger National Park, embarking on thrilling game drives and spotting the 'Big Five' animals. Days 4 and 5 were dedicated to exploring the stunning landscapes of the Garden Route, where we hiked in Tsitsikamma National Park and marveled at the dramatic cliffs of the Knysna Heads. Next, we ventured to Durban, spending two days relaxing on the pristine beaches and exploring the vibrant markets. The final leg of our journey took us to the world-famous Sabi Sand Game Reserve, where we spent days 10 and 11 on immersive safari experiences and luxurious lodge accommodations.", 
-        "Question": "On which day did they explore the vibrant V&A Waterfront and took a cable car ride up Table Mountain?", 
-        "Reasoning": "The story mentions that they began their adventure in Cape Town where they explored the V&A Waterfront and took a cable car up Table Mountain on the first day."
     }, 
     {
         "Answer Choices": [
@@ -5842,18 +5194,6 @@
         "Story": "During the summer vacation, my family and I embarked on an exciting fourteen-day adventure through Australia. Day 1 commenced in Sydney, where we explored the iconic Sydney Opera House and soaked up the sun at Bondi Beach. The following day, we journeyed to the Great Barrier Reef, snorkeling among vibrant coral reefs and encountering tropical marine life. On Day 3, we reached the stunning landscapes of the Blue Mountains, hiking to breathtaking lookout points and riding the scenic cable car. Days 4 and 5 were dedicated to exploring the vibrant city of Melbourne, where we enjoyed delicious coffee in the laneways and visited the famous Penguin Parade on Phillip Island. Next, we flew to the Red Centre, spending two days exploring Uluru-Kata Tjuta National Park and witnessing the mesmerizing sunset at Ayers Rock. The final leg of our journey took us to Cairns, where we spent days 10 to 14 diving in the pristine waters of the Great Barrier Reef and exploring the lush rainforests of the Daintree National Park.", 
         "Question": "What two locations did the family visit after Melbourne and before reaching Cairns?", 
         "Reasoning": "After exploring Melbourne on Days 4 and 5, the family flew to the Red Centre, where they spent two days exploring Uluru-Kata Tjuta National Park and witnessing the mesmerizing sunset at Ayers Rock. Then, the final leg of their journey took them to Cairns, making these two the locations they visited after Melbourne and before reaching Cairns."
-    }, 
-    {
-        "Answer Choices": [
-            "Great Barrier Reef and Blue Mountains", 
-            "Bondi Beach and Great Barrier Reef", 
-            "Uluru-Kata Tjuta National Park and Ayers Rock", 
-            "Daintree National Park and Cairns"
-        ], 
-        "Answer": "Bondi Beach and Great Barrier Reef", 
-        "Story": "During the summer vacation, my family and I embarked on an exciting fourteen-day adventure through Australia. Day 1 commenced in Sydney, where we explored the iconic Sydney Opera House and soaked up the sun at Bondi Beach. The following day, we journeyed to the Great Barrier Reef, snorkeling among vibrant coral reefs and encountering tropical marine life. On Day 3, we reached the stunning landscapes of the Blue Mountains, hiking to breathtaking lookout points and riding the scenic cable car. Days 4 and 5 were dedicated to exploring the vibrant city of Melbourne, where we enjoyed delicious coffee in the laneways and visited the famous Penguin Parade on Phillip Island. Next, we flew to the Red Centre, spending two days exploring Uluru-Kata Tjuta National Park and witnessing the mesmerizing sunset at Ayers Rock. The final leg of our journey took us to Cairns, where we spent days 10 to 14 diving in the pristine waters of the Great Barrier Reef and exploring the lush rainforests of the Daintree National Park.", 
-        "Question": "Where did the family go after leaving Sydney Opera House but before visiting Melbourne?", 
-        "Reasoning": "Following their visit to the Sydney Opera House on Day 1, the family went to Bondi Beach in Sydney and the next day, they journeyed to the Great Barrier Reef. Afterwards, they reached the Blue Mountains and then visited Melbourne, so they visited Bondi Beach and the Great Barrier Reef after leaving Sydney Opera House and before visiting Melbourne."
     }, 
     {
         "Answer Choices": [
@@ -6205,18 +5545,6 @@
     }, 
     {
         "Answer Choices": [
-            "Lima", 
-            "Rio de Janeiro", 
-            "Cusco", 
-            "Iguazu Falls"
-        ], 
-        "Answer": "Cusco", 
-        "Story": "Last autumn, my partner and I embarked on an enchanting twelve-day adventure through South America. Day 1 began in Rio de Janeiro, where we arrived in the evening and took a cable car ride to the iconic Christ the Redeemer statue. The next morning, we flew to Iguazu Falls and spent the day exploring both the Brazilian and Argentine sides of the magnificent waterfalls. Day 3 took us to Buenos Aires, where we tango danced the night away in the vibrant neighborhood of San Telmo. Days 4 and 5 were dedicated to wine tasting in the picturesque vineyards of Mendoza, where we indulged in Malbec and enjoyed breathtaking views of the Andes. On Day 6, we traveled to Cusco, Peru, and began our trek to Machu Picchu on the famous Inca Trail. The following day, we reached the ancient citadel of Machu Picchu and marveled at its mystical beauty. Days 8 and 9 were spent in the Amazon Rainforest, where we embarked on a thrilling jungle tour, spotting exotic wildlife and venturing on night hikes. Our final destination was Lima, where we spent the last day exploring the historic city center and savoring delicious ceviche.", 
-        "Question": "From where did they begin their trek to Machu Picchu?", 
-        "Reasoning": "According to the story, they started their trek to Machu Picchu from Cusco, Peru."
-    }, 
-    {
-        "Answer Choices": [
             "Buenos Aires", 
             "Iguazu Falls", 
             "Machu Picchu", 
@@ -6322,18 +5650,6 @@
         "Story": "Last spring, my friends and I embarked on an exhilarating nine-day adventure through Morocco. Day 1 began in Marrakech, where we arrived in the morning and explored the bustling souks and visited the beautiful Bahia Palace. The next morning, we took a camel ride at 8 AM to the Sahara Desert, spending the day trekking through the sand dunes and camping under the stars. Day 3 took us to Chefchaouen, the \"Blue City,\" where we spent the day wandering through its narrow blue streets. Days 4 and 5 were dedicated to exploring the majestic Atlas Mountains, hiking to remote Berber villages and enjoying panoramic views. On Day 6, we traveled to Fes and spent the day getting lost in the maze-like streets of the medina and visiting the famous tanneries. The following day, we took a scenic train ride to Essaouira and spent the day relaxing on the beautiful beach and enjoying fresh seafood. Days 8 and 9 were spent in Casablanca, exploring the modern city and visiting the Hassan II Mosque, one of the largest mosques in the world. Our final destination was Tangier, where we spent the last day exploring the historic Kasbah and enjoying stunning views of the Strait of Gibraltar.", 
         "Question": "Where did they go after visiting the Atlas Mountains?", 
         "Reasoning": "The story mentions that after exploring the Atlas Mountains on Days 4 and 5, they traveled to Fes on Day 6."
-    }, 
-    {
-        "Answer Choices": [
-            "Exploring Atlas Mountains and visiting tanneries", 
-            "Visiting Bahia Palace and camel ride to Sahara Desert", 
-            "Exploring the streets of Fes and relaxing on the beach in Essaouira", 
-            "Exploring Casablanca and visiting the Hassan II Mosque"
-        ], 
-        "Answer": "Exploring the streets of Fes and relaxing on the beach in Essaouira", 
-        "Story": "Last spring, my friends and I embarked on an exhilarating nine-day adventure through Morocco. Day 1 began in Marrakech, where we arrived in the morning and explored the bustling souks and visited the beautiful Bahia Palace. The next morning, we took a camel ride at 8 AM to the Sahara Desert, spending the day trekking through the sand dunes and camping under the stars. Day 3 took us to Chefchaouen, the \"Blue City,\" where we spent the day wandering through its narrow blue streets. Days 4 and 5 were dedicated to exploring the majestic Atlas Mountains, hiking to remote Berber villages and enjoying panoramic views. On Day 6, we traveled to Fes and spent the day getting lost in the maze-like streets of the medina and visiting the famous tanneries. The following day, we took a scenic train ride to Essaouira and spent the day relaxing on the beautiful beach and enjoying fresh seafood. Days 8 and 9 were spent in Casablanca, exploring the modern city and visiting the Hassan II Mosque, one of the largest mosques in the world. Our final destination was Tangier, where we spent the last day exploring the historic Kasbah and enjoying stunning views of the Strait of Gibraltar.", 
-        "Question": "What were the main activities on day 6 and 7?", 
-        "Reasoning": "On Day 6, the group got lost in the streets of Fes and visited the famous tanneries. And on Day 7, the group took a train ride to Essaouira and spent the day relaxing on the beach."
     }, 
     {
         "Answer Choices": [
@@ -6577,30 +5893,6 @@
     }, 
     {
         "Answer Choices": [
-            "Sitka", 
-            "Juneau", 
-            "Ketchikan", 
-            "Fairbanks"
-        ], 
-        "Answer": "Ketchikan", 
-        "Story": "Last winter, my husband and I embarked on an adventurous eleven-day expedition through Alaska. Day 1 began in Anchorage, where we arrived in the morning and rented a car to drive to Denali National Park. The next morning, we took a bus tour to explore the vast wilderness and spot grizzly bears and moose. Day 3 took us to Seward, where we went on a thrilling glacier cruise and witnessed massive chunks of ice calving into the sea. Days 4 and 5 were dedicated to dog sledding and staying in a cozy cabin in Fairbanks, Alaska's northernmost city. On Day 6, we traveled to Juneau, the capital of Alaska, and went on a helicopter tour to the Mendenhall Glacier, where we hiked and enjoyed the stunning blue ice. The following day, we took a scenic ferry ride to Skagway and embarked on the historic White Pass & Yukon Route Railway, enjoying breathtaking views of the mountains. Days 8 and 9 were spent in Ketchikan, exploring the totem poles at the Totem Bight State Park and taking a thrilling zip line tour through the rainforest. Our final destination was Sitka, where we spent the last day kayaking in Sitka Sound and visiting the fascinating Alaska Raptor Center.", 
-        "Question": "Where did the couple explore totem poles during their journey?", 
-        "Reasoning": "The couple explored the totem poles at the Totem Bight State Park in Ketchikan, as mentioned in the story."
-    }, 
-    {
-        "Answer Choices": [
-            "Sitka", 
-            "Fairbanks", 
-            "Ketchikan", 
-            "Juneau"
-        ], 
-        "Answer": "Sitka", 
-        "Story": "Last winter, my husband and I embarked on an adventurous eleven-day expedition through Alaska. Day 1 began in Anchorage, where we arrived in the morning and rented a car to drive to Denali National Park. The next morning, we took a bus tour to explore the vast wilderness and spot grizzly bears and moose. Day 3 took us to Seward, where we went on a thrilling glacier cruise and witnessed massive chunks of ice calving into the sea. Days 4 and 5 were dedicated to dog sledding and staying in a cozy cabin in Fairbanks, Alaska's northernmost city. On Day 6, we traveled to Juneau, the capital of Alaska, and went on a helicopter tour to the Mendenhall Glacier, where we hiked and enjoyed the stunning blue ice. The following day, we took a scenic ferry ride to Skagway and embarked on the historic White Pass & Yukon Route Railway, enjoying breathtaking views of the mountains. Days 8 and 9 were spent in Ketchikan, exploring the totem poles at the Totem Bight State Park and taking a thrilling zip line tour through the rainforest. Our final destination was Sitka, where we spent the last day kayaking in Sitka Sound and visiting the fascinating Alaska Raptor Center.", 
-        "Question": "Which was the last city the couple visited during their expedition?", 
-        "Reasoning": "Their final destination was Sitka as per the story, where they kayaked in Sitka Sound and visited the Alaska Raptor Center."
-    }, 
-    {
-        "Answer Choices": [
             "Day 1", 
             "Day 2", 
             "Day 3", 
@@ -6829,18 +6121,6 @@
     }, 
     {
         "Answer Choices": [
-            "They visited Petra and hiked through the Siq", 
-            "They visited Jerusalem and visited the Church of the Holy Sepulchre", 
-            "They visited Muscat and explored the traditional souks and relaxed on beaches", 
-            "They visited Luxor and explored the Valley of Kings"
-        ], 
-        "Answer": "They visited Muscat and explored the traditional souks and relaxed on beaches", 
-        "Story": "Last autumn, my partner and I embarked on an enchanting twelve-day adventure through the Middle East. Day 1 began in Istanbul, where we arrived in the morning and immediately set off to explore the majestic Hagia Sophia. The next morning, we took a domestic flight at 8 AM to Cappadocia, spending the day exploring the fairy chimneys and taking a hot air balloon ride at sunrise. Day 3 took us to Petra, Jordan, where we hiked through the Siq and marveled at the Treasury. Days 4 and 5 were dedicated to exploring the ancient city of Jerusalem, visiting the Western Wall, the Church of the Holy Sepulchre, and the Mount of Olives. On Day 6, we traveled to Luxor, Egypt, and spent the day exploring the Valley of the Kings and the Temple of Karnak. The following day, we took a felucca boat ride along the Nile River, enjoying the serene beauty of the landscape. Days 8 and 9 were spent in Dubai, where we visited the Burj Khalifa, went on a desert safari, and indulged in shopping at the famous malls. Our final destination was Muscat, Oman, where we spent the last day exploring the traditional souks and relaxing on beautiful beaches.", 
-        "Question": "Which city did the travelers visit after their journey in Dubai and what were the main activities there?", 
-        "Reasoning": "The story mentions that after Dubai, the final destination was Muscat, where they explored the traditional souks and relaxed on beautiful beaches."
-    }, 
-    {
-        "Answer Choices": [
             "Day 5", 
             "Day 7", 
             "Day 1", 
@@ -6898,30 +6178,6 @@
         "Story": "Last spring, my family and I embarked on a memorable fourteen-day adventure through Southeast Asia. Day 1 began in Bangkok, where we arrived in the evening and checked into our hotel. The next morning, we visited the Grand Palace at 9 AM and spent the afternoon exploring the vibrant street markets. Day 3 took us to Siem Reap, where we spent two days exploring the stunning temples of Angkor Wat and witnessing the sunrise over the ancient ruins. Days 5 and 6 were dedicated to island hopping in Phuket, where we enjoyed snorkeling, sunbathing, and indulging in delicious Thai cuisine. On Day 7, we flew to Hanoi, Vietnam, and spent the afternoon exploring the charming Old Quarter and tasting local street food. The following day, we took an overnight cruise in Halong Bay, admiring the limestone karsts and kayaking through hidden caves. Days 9 and 10 were spent in Ho Chi Minh City, where we visited the historical Cu Chi Tunnels and learned about the Vietnam War. Our final destination was Bali, where we spent the last three days relaxing on beautiful beaches, practicing yoga, and exploring Ubud's art scene.", 
         "Question": "When did they visit the Grand Palace?", 
         "Reasoning": "According to the story, the family visited the Grand Palace the morning after they arrived in Bangkok, which was on Day 1."
-    }, 
-    {
-        "Answer Choices": [
-            "Bangkok", 
-            "Siem Reap", 
-            "Phuket", 
-            "Hanoi"
-        ], 
-        "Answer": "Bangkok", 
-        "Story": "Last spring, my family and I embarked on a memorable fourteen-day adventure through Southeast Asia. Day 1 began in Bangkok, where we arrived in the evening and checked into our hotel. The next morning, we visited the Grand Palace at 9 AM and spent the afternoon exploring the vibrant street markets. Day 3 took us to Siem Reap, where we spent two days exploring the stunning temples of Angkor Wat and witnessing the sunrise over the ancient ruins. Days 5 and 6 were dedicated to island hopping in Phuket, where we enjoyed snorkeling, sunbathing, and indulging in delicious Thai cuisine. On Day 7, we flew to Hanoi, Vietnam, and spent the afternoon exploring the charming Old Quarter and tasting local street food. The following day, we took an overnight cruise in Halong Bay, admiring the limestone karsts and kayaking through hidden caves. Days 9 and 10 were spent in Ho Chi Minh City, where we visited the historical Cu Chi Tunnels and learned about the Vietnam War. Our final destination was Bali, where we spent the last three days relaxing on beautiful beaches, practicing yoga, and exploring Ubud's art scene.", 
-        "Question": "Where did the family spend their first day of the adventure?", 
-        "Reasoning": "The story mentions 'Day 1 began in Bangkok.' This implies that the first day of the family's adventure was spent in Bangkok."
-    }, 
-    {
-        "Answer Choices": [
-            "Snorkeling", 
-            "Exploring Temples", 
-            "Practicing Yoga", 
-            "Tasting Local Street Food"
-        ], 
-        "Answer": "Exploring Temples", 
-        "Story": "Last spring, my family and I embarked on a memorable fourteen-day adventure through Southeast Asia. Day 1 began in Bangkok, where we arrived in the evening and checked into our hotel. The next morning, we visited the Grand Palace at 9 AM and spent the afternoon exploring the vibrant street markets. Day 3 took us to Siem Reap, where we spent two days exploring the stunning temples of Angkor Wat and witnessing the sunrise over the ancient ruins. Days 5 and 6 were dedicated to island hopping in Phuket, where we enjoyed snorkeling, sunbathing, and indulging in delicious Thai cuisine. On Day 7, we flew to Hanoi, Vietnam, and spent the afternoon exploring the charming Old Quarter and tasting local street food. The following day, we took an overnight cruise in Halong Bay, admiring the limestone karsts and kayaking through hidden caves. Days 9 and 10 were spent in Ho Chi Minh City, where we visited the historical Cu Chi Tunnels and learned about the Vietnam War. Our final destination was Bali, where we spent the last three days relaxing on beautiful beaches, practicing yoga, and exploring Ubud's art scene.", 
-        "Question": "What activity did the family do in Angkor Wat?", 
-        "Reasoning": "The statement 'we spent two days exploring the stunning temples of Angkor Wat' indicates that they explored temples in Angkor Wat."
     }, 
     {
         "Answer Choices": [
@@ -7057,18 +6313,6 @@
     }, 
     {
         "Answer Choices": [
-            "Victoria - Day 2, Jasper National Park - Day 5 and 6", 
-            "Victoria - Day 3, Jasper National Park - Day 4", 
-            "Victoria - Day 1, Jasper National Park - Day 7", 
-            "Victoria - Day 2, Jasper National Park - Day 3"
-        ], 
-        "Answer": "Victoria - Day 2, Jasper National Park - Day 5 and 6", 
-        "Story": "Last summer, my friends and I embarked on a thrilling seven-day adventure through Canada. Day 1 began in Vancouver, where we explored the lively city center around 10 AM for two hours and had lunch at a local sushi restaurant. The next morning, we took a scenic seaplane ride at 8 AM to Victoria, spending the day exploring the stunning Butchart Gardens and visiting the Royal British Columbia Museum. Day 3 took us to Whistler, where we enjoyed a full day of skiing on the world-famous slopes and stayed at a cozy lodge overnight. On Day 4, we traveled to Banff National Park, driving for six hours and stopping at picturesque Lake Louise for a quick hike. Days 5 and 6 were dedicated to hiking and wildlife spotting in Jasper National Park, where we embarked on a thrilling white-water rafting adventure on the Athabasca River. The following day, we visited Calgary and toured the impressive Calgary Tower, enjoying panoramic views of the city. Our final destination was Niagara Falls, where we spent the last day taking a boat tour to the base of the falls and exploring the surrounding attractions.", 
-        "Question": "On which days did the group engage in activities in Victoria and Jasper National Park respectively?", 
-        "Reasoning": "On Day 2, the group took a seaplane ride to Victoria where they explored Butchart Gardens and visited the Royal British Columbia Museum, and on Days 5 and 6, they went hiking and wildlife spotting in Jasper National Park."
-    }, 
-    {
-        "Answer Choices": [
             "Victoria - Butchart Gardens and Royal British Columbia Museum, Jasper National Park - white-water rafting on the Athabasca River", 
             "Victoria - Calgary Tower, Jasper National Park - skiing on the slopes", 
             "Victoria - Whistler slopes, Jasper National Park - exploring Banff National Park", 
@@ -7138,18 +6382,6 @@
         "Story": "During our unforgettable ten-day expedition through New Zealand, we commenced our journey in Auckland on Day 1. At around 11 AM, we explored the bustling city center for approximately an hour before indulging in a delectable seafood meal at a local restaurant. The following morning, we embarked on a picturesque ferry ride to Waiheke Island, departing around 6 AM. Our entire day on the island was spent savoring exquisite wines and basking in the breathtaking vistas of the Hauraki Gulf. Moving on to Day 3, we headed to Rotorua, where we immersed ourselves in the mesmerizing geothermal wonders of Wai-O-Tapu and enjoyed a relaxing soak in the natural hot springs. Days 4 and 5 were dedicated to thrilling adventures in Queenstown, engaging in heart-pounding activities like bungee jumping, skydiving, and jet boating. On Day 6, we embarked on a scenic two-hour drive to Milford Sound, where we embarked on a cruising expedition through the majestic fjords, relishing in the beauty of cascading waterfalls and diverse wildlife. The subsequent day was devoted to conquering the famous and challenging Tongariro Alpine Crossing, which required six hours of arduous trekking through awe-inspiring volcanic landscapes. Our exploration continued in Wellington on Days 8 and 9, as we delved into the city's cultural attractions and savored the exquisite craft beer selection at local breweries. Finally, we concluded our journey in the stunning Bay of Islands, where we devoted our last day to sailing, snorkeling, and unwinding on pristine beaches, all while witnessing the captivating sunset at 6:35 PM.", 
         "Question": "At what exact time did the group witness the sunset at the Bay of Islands?", 
         "Reasoning": "The narrative indicates that on their last day at the Bay of Islands, the group witnessed a captivating sunset at 6:35 PM."
-    }, 
-    {
-        "Answer Choices": [
-            "Rotorua", 
-            "Bay of Islands", 
-            "Wellington", 
-            "Auckland"
-        ], 
-        "Answer": "Bay of Islands", 
-        "Story": "During our unforgettable ten-day expedition through New Zealand, we commenced our journey in Auckland on Day 1. At around 11 AM, we explored the bustling city center for approximately an hour before indulging in a delectable seafood meal at a local restaurant. The following morning, we embarked on a picturesque ferry ride to Waiheke Island, departing around 6 AM. Our entire day on the island was spent savoring exquisite wines and basking in the breathtaking vistas of the Hauraki Gulf. Moving on to Day 3, we headed to Rotorua, where we immersed ourselves in the mesmerizing geothermal wonders of Wai-O-Tapu and enjoyed a relaxing soak in the natural hot springs. Days 4 and 5 were dedicated to thrilling adventures in Queenstown, engaging in heart-pounding activities like bungee jumping, skydiving, and jet boating. On Day 6, we embarked on a scenic two-hour drive to Milford Sound, where we embarked on a cruising expedition through the majestic fjords, relishing in the beauty of cascading waterfalls and diverse wildlife. The subsequent day was devoted to conquering the famous and challenging Tongariro Alpine Crossing, which required six hours of arduous trekking through awe-inspiring volcanic landscapes. Our exploration continued in Wellington on Days 8 and 9, as we delved into the city's cultural attractions and savored the exquisite craft beer selection at local breweries. Finally, we concluded our journey in the stunning Bay of Islands, where we devoted our last day to sailing, snorkeling, and unwinding on pristine beaches, all while witnessing the captivating sunset at 6:35 PM.", 
-        "Question": "What was the final destination of the expedition?", 
-        "Reasoning": "The story mentions that they concluded their journey in the stunning Bay of Islands."
     }, 
     {
         "Answer Choices": [
@@ -7266,18 +6498,6 @@
             "London, England", 
             "Tokyo, Japan"
         ], 
-        "Answer": "Los Angeles, California", 
-        "Story": "In October 2019, a major entertainment event was held in Los Angeles, California, attracting thousands of attendees from around the world. The event showcased the latest technological advancements in the media industry, including virtual reality and 3D projections. Over in New York City, the following year, a renowned film festival took place in April 2020. This event celebrated the art of filmmaking and provided a platform for emerging directors to showcase their talents. In August 2022, a music festival in London, England, brought together top artists from various genres, creating a sensational fusion of sounds that captivated the audience. Furthermore, in January 2023, an international gaming convention held in Tokyo, Japan, unveiled groundbreaking gaming consoles and hosted intense gaming competitions. These events marked significant milestones in the entertainment and media industry, pushing boundaries and shaping the future of entertainment.", 
-        "Question": "Which city hosted an entertainment event that showcased the latest technological advancements in the media industry in October 2019?", 
-        "Reasoning": "The story mentions that in October 2019, a major entertainment event was held in Los Angeles, California, which showcased the latest technological advancements in the media industry."
-    }, 
-    {
-        "Answer Choices": [
-            "Los Angeles, California", 
-            "New York City", 
-            "London, England", 
-            "Tokyo, Japan"
-        ], 
         "Answer": "New York City", 
         "Story": "In October 2019, a major entertainment event was held in Los Angeles, California, attracting thousands of attendees from around the world. The event showcased the latest technological advancements in the media industry, including virtual reality and 3D projections. Over in New York City, the following year, a renowned film festival took place in April 2020. This event celebrated the art of filmmaking and provided a platform for emerging directors to showcase their talents. In August 2022, a music festival in London, England, brought together top artists from various genres, creating a sensational fusion of sounds that captivated the audience. Furthermore, in January 2023, an international gaming convention held in Tokyo, Japan, unveiled groundbreaking gaming consoles and hosted intense gaming competitions. These events marked significant milestones in the entertainment and media industry, pushing boundaries and shaping the future of entertainment.", 
         "Question": "Where was the renowned film festival celebrated in April 2020?", 
@@ -7386,18 +6606,6 @@
             "Melbourne, Australia", 
             "New York, USA"
         ], 
-        "Answer": "Paris, France", 
-        "Story": "In March 2020, a grand theater performance took place in Paris, France, attracting theater enthusiasts from all over the world. The show featured a mesmerizing blend of dance, music, and theatrical storytelling, leaving the audience in awe. In November 2021, a renowned literature festival was held in Dublin, Ireland, bringing together celebrated authors and avid readers. This event served as a platform to discuss diverse literary works and exchange creative ideas. In June 2023, a comedy festival in Melbourne, Australia, showcased a lineup of talented comedians from around the globe, spreading laughter and joy. These events marked significant milestones in the entertainment industry, fostering cultural exchange and enriching the lives of attendees.", 
-        "Question": "What city hosted a grand theater performance in March 2020?", 
-        "Reasoning": "The story explicitly states that a grand theater performance took place in Paris, France in March 2020."
-    }, 
-    {
-        "Answer Choices": [
-            "Paris, France", 
-            "Dublin, Ireland", 
-            "Melbourne, Australia", 
-            "New York, USA"
-        ], 
         "Answer": "Dublin, Ireland", 
         "Story": "In March 2020, a grand theater performance took place in Paris, France, attracting theater enthusiasts from all over the world. The show featured a mesmerizing blend of dance, music, and theatrical storytelling, leaving the audience in awe. In November 2021, a renowned literature festival was held in Dublin, Ireland, bringing together celebrated authors and avid readers. This event served as a platform to discuss diverse literary works and exchange creative ideas. In June 2023, a comedy festival in Melbourne, Australia, showcased a lineup of talented comedians from around the globe, spreading laughter and joy. These events marked significant milestones in the entertainment industry, fostering cultural exchange and enriching the lives of attendees.", 
         "Question": "Which city played host to a literature festival in 2021?", 
@@ -7474,18 +6682,6 @@
         "Story": "In March 2017, a vibrant carnival parade was held in Rio de Janeiro, Brazil, attracting millions of spectators. The streets came alive with colorful costumes, lively music, and energetic dance performances. The event showcased the rich cultural heritage of Brazil and brought together people from all over the world. In May 2018, a prestigious film festival took place in Cannes, France. The event featured the screening of critically acclaimed movies, and renowned actors and directors graced the red carpet. It was a hub of creativity and film appreciation. In November 2020, a grand music award ceremony was held in Las Vegas, Nevada, honoring the top artists and performers in the industry. The event dazzled with spectacular live performances, and the audience was spellbound by the talent on display.", 
         "Question": "In which month and year was the grand music award ceremony held in Las Vegas, Nevada?", 
         "Reasoning": "According to the story, the grand music award ceremony in Las Vegas, Nevada was held in November 2020"
-    }, 
-    {
-        "Answer Choices": [
-            "Carnival, Film Festival, Music Award Ceremony", 
-            "Film Festival, Carnival, Music Award Ceremony", 
-            "Music Award Ceremony, Carnival, Film Festival", 
-            "Music Award Ceremony, Film Festival, Carnival"
-        ], 
-        "Answer": "Carnival, Film Festival, Music Award Ceremony", 
-        "Story": "In March 2017, a vibrant carnival parade was held in Rio de Janeiro, Brazil, attracting millions of spectators. The streets came alive with colorful costumes, lively music, and energetic dance performances. The event showcased the rich cultural heritage of Brazil and brought together people from all over the world. In May 2018, a prestigious film festival took place in Cannes, France. The event featured the screening of critically acclaimed movies, and renowned actors and directors graced the red carpet. It was a hub of creativity and film appreciation. In November 2020, a grand music award ceremony was held in Las Vegas, Nevada, honoring the top artists and performers in the industry. The event dazzled with spectacular live performances, and the audience was spellbound by the talent on display.", 
-        "Question": "What is the order of the events as per the temporal information in the story?", 
-        "Reasoning": "From the story, we learn that the carnival in Brazil happened in March 2017, the film festival in France happened in May 2018 and the music award ceremony in Las Vegas happened in November 2020. Hence the correct order is Carnival, Film Festival, Music Award Ceremony"
     }, 
     {
         "Answer Choices": [
@@ -7594,18 +6790,6 @@
         "Story": "In July 2015, a massive Comic-Con event was held in San Diego, California, attracting dedicated fans of comics, movies, and TV shows. The convention featured exclusive previews, exciting panels with industry professionals, and cosplayers showcasing their elaborate costumes. It was a paradise for fans of popular culture. In September 2016, an international literature festival took place in Edinburgh, Scotland. The event brought together renowned authors, poets, and literary enthusiasts from around the globe. It celebrated the power of words and ignited intellectual conversations. In June 2019, a world-renowned fashion week was held in Paris, France, showcasing the latest trends and designs from luxury brands. The event featured glamorous runway shows and influential figures from the fashion industry.", 
         "Question": "Which event took place earliest?", 
         "Reasoning": "According to the information given in the story, the San Diego Comic-Con took place in July 2015, which is earlier than the other two events."
-    }, 
-    {
-        "Answer Choices": [
-            "4 years", 
-            "3 years", 
-            "2 years", 
-            "1 year"
-        ], 
-        "Answer": "3 years", 
-        "Story": "In July 2015, a massive Comic-Con event was held in San Diego, California, attracting dedicated fans of comics, movies, and TV shows. The convention featured exclusive previews, exciting panels with industry professionals, and cosplayers showcasing their elaborate costumes. It was a paradise for fans of popular culture. In September 2016, an international literature festival took place in Edinburgh, Scotland. The event brought together renowned authors, poets, and literary enthusiasts from around the globe. It celebrated the power of words and ignited intellectual conversations. In June 2019, a world-renowned fashion week was held in Paris, France, showcasing the latest trends and designs from luxury brands. The event featured glamorous runway shows and influential figures from the fashion industry.", 
-        "Question": "How many years passed between the literature festival and the fashion week?", 
-        "Reasoning": "The Edinburgh Literature Festival occurred in September 2016 and the Paris Fashion Week happened in June 2019, so roughly around 3 years passed in between."
     }, 
     {
         "Answer Choices": [
@@ -7849,18 +7033,6 @@
     }, 
     {
         "Answer Choices": [
-            "1 year", 
-            "2 years", 
-            "1.5 years", 
-            "6 months"
-        ], 
-        "Answer": "1.5 years", 
-        "Story": "In July 2019, an enchanting film production commenced in the sprawling landscapes of New Zealand, featuring a star-studded cast and a mesmerizing storyline. The movie captured the hearts of audiences worldwide with its breathtaking visuals and gripping performances. In March 2021, an esteemed film festival took place in Cannes, France, showcasing a diverse array of cinematic masterpieces from around the globe. Filmmakers and movie enthusiasts gathered to celebrate the art of storytelling and witnessed the emergence of new talents. In September 2022, an ambitious film project began shooting in the bustling streets of Tokyo, Japan, blending the elements of action and drama in a unique cultural setting. The production employed groundbreaking visual effects and innovative storytelling techniques, promising an exhilarating movie experience.", 
-        "Question": "How much time elapsed between the film festival in Cannes and the start of the film project in Tokyo?", 
-        "Reasoning": "The film festival in Cannes took place in March 2021 and the film project in Tokyo began in September 2022. Thus, the time interval between these two events is approximately 1.5 years."
-    }, 
-    {
-        "Answer Choices": [
             "Cannes, France", 
             "Tokyo, Japan", 
             "New Zealand", 
@@ -7966,18 +7138,6 @@
         "Story": "In April 2018, an evocative film production embarked on a journey across the rugged terrains of Iceland, featuring a talented ensemble cast and an enthralling plot. The movie mesmerized audiences worldwide with its breathtaking landscapes and powerful performances. In February 2020, a distinguished film festival unfolded in Berlin, Germany, showcasing a rich tapestry of cinematic gems from diverse cultures. Filmmakers and cinephiles immersed themselves in the magic of storytelling and witnessed the rise of bold new voices. In July 2021, a daring cinematic endeavor commenced in the lively streets of Rio de Janeiro, Brazil, blending elements of romance and adventure against the backdrop of vibrant Carnaval celebrations. The production employed vibrant colors and captivating choreography, promising an unforgettable visual spectacle.", 
         "Question": "What was the timeline between the film production journey across Iceland and the film festival in Berlin, Germany?", 
         "Reasoning": "The film production journey across Iceland took place in April 2018, while the film festival in Berlin, Germany happened in February 2020, illustrating a timeline of about 2 years."
-    }, 
-    {
-        "Answer Choices": [
-            "1 year", 
-            "1.5 years", 
-            "2 years", 
-            "Not Mentioned"
-        ], 
-        "Answer": "1.5 years", 
-        "Story": "In April 2018, an evocative film production embarked on a journey across the rugged terrains of Iceland, featuring a talented ensemble cast and an enthralling plot. The movie mesmerized audiences worldwide with its breathtaking landscapes and powerful performances. In February 2020, a distinguished film festival unfolded in Berlin, Germany, showcasing a rich tapestry of cinematic gems from diverse cultures. Filmmakers and cinephiles immersed themselves in the magic of storytelling and witnessed the rise of bold new voices. In July 2021, a daring cinematic endeavor commenced in the lively streets of Rio de Janeiro, Brazil, blending elements of romance and adventure against the backdrop of vibrant Carnaval celebrations. The production employed vibrant colors and captivating choreography, promising an unforgettable visual spectacle.", 
-        "Question": "How much time passed between the film festival in Berlin, Germany and the start of the cinematic endeavor in Rio de Janeiro, Brazil?", 
-        "Reasoning": "The film festival in Berlin, Germany occurred in February 2020 while the cinematic endeavor in Rio de Janeiro, Brazil commenced in July 2021, indicating a timeline of about 1.5 years."
     }, 
     {
         "Answer Choices": [
@@ -8118,18 +7278,6 @@
             "Seoul, South Korea", 
             "None of the above"
         ], 
-        "Answer": "Venice, Italy", 
-        "Story": "In November 2017, a captivating film production embarked on a sprawling journey through the ancient ruins of Egypt, featuring a renowned cast and an enchanting storyline rooted in history and mythology. The movie captivated audiences worldwide with its majestic cinematography and stellar performances. In May 2019, a prestigious film festival unfolded in Venice, Italy, immersing attendees in a world of cinematic artistry. Filmmakers and film enthusiasts reveled in the opulence of the historic city while witnessing the emergence of visionary storytelling. In October 2021, an audacious film project commenced its shoot in the neon-lit streets of Seoul, South Korea, blending the genres of science fiction and thriller amidst the backdrop of bustling city life. The production employed cutting-edge technology and sleek visuals, promising an adrenaline-pumping cinematic experience.", 
-        "Question": "In which city did a film festival unfold in May 2019?", 
-        "Reasoning": "The story informs us that the film festival took place in Venice, Italy."
-    }, 
-    {
-        "Answer Choices": [
-            "Venice, Italy", 
-            "Ancient ruins of Egypt", 
-            "Seoul, South Korea", 
-            "None of the above"
-        ], 
         "Answer": "Seoul, South Korea", 
         "Story": "In November 2017, a captivating film production embarked on a sprawling journey through the ancient ruins of Egypt, featuring a renowned cast and an enchanting storyline rooted in history and mythology. The movie captivated audiences worldwide with its majestic cinematography and stellar performances. In May 2019, a prestigious film festival unfolded in Venice, Italy, immersing attendees in a world of cinematic artistry. Filmmakers and film enthusiasts reveled in the opulence of the historic city while witnessing the emergence of visionary storytelling. In October 2021, an audacious film project commenced its shoot in the neon-lit streets of Seoul, South Korea, blending the genres of science fiction and thriller amidst the backdrop of bustling city life. The production employed cutting-edge technology and sleek visuals, promising an adrenaline-pumping cinematic experience.", 
         "Question": "Where was the audacious film project that commenced in October 2021 shot?", 
@@ -8194,18 +7342,6 @@
         "Story": "In February 2020, an atmospheric film production embarked on a haunting journey through the misty mountains of Scotland, featuring an ensemble cast and a gripping plot centered around ancient folklore. The movie enticed audiences worldwide with its atmospheric cinematography and spellbinding performances. In October 2021, an acclaimed film festival unveiled itself in Toronto, Canada, showcasing a diverse range of cinematic marvels from across the globe. Filmmakers and cinema aficionados rejoiced in the vibrant city, immersing themselves in the beauty of diverse storytelling. In December 2022, an ambitious film project commenced its shoot in the bustling streets of Mumbai, India, merging elements of drama and musical artistry against the backdrop of the city's rich cultural tapestry. The production featured elaborate musical numbers and cinematic choreography, promising a truly extravagant cinematic feast.", 
         "Question": "When was the ambitious film project started in Mumbai, India?", 
         "Reasoning": "As per the story, the ambitious film project commenced its shoot in Mumbai, India in December 2022."
-    }, 
-    {
-        "Answer Choices": [
-            "Atmospheric Film production in Scotland, Film Festival in Toronto, Film project in Mumbai", 
-            "Film project in Mumbai, Film Festival in Toronto, Atmospheric Film production in Scotland", 
-            "Film Festival in Toronto, Film project in Mumbai, Atmospheric Film production in Scotland", 
-            "Atmospheric Film production in Scotland, Film project in Mumbai, Film Festival in Toronto"
-        ], 
-        "Answer": "Atmospheric Film production in Scotland, Film Festival in Toronto, Film project in Mumbai", 
-        "Story": "In February 2020, an atmospheric film production embarked on a haunting journey through the misty mountains of Scotland, featuring an ensemble cast and a gripping plot centered around ancient folklore. The movie enticed audiences worldwide with its atmospheric cinematography and spellbinding performances. In October 2021, an acclaimed film festival unveiled itself in Toronto, Canada, showcasing a diverse range of cinematic marvels from across the globe. Filmmakers and cinema aficionados rejoiced in the vibrant city, immersing themselves in the beauty of diverse storytelling. In December 2022, an ambitious film project commenced its shoot in the bustling streets of Mumbai, India, merging elements of drama and musical artistry against the backdrop of the city's rich cultural tapestry. The production featured elaborate musical numbers and cinematic choreography, promising a truly extravagant cinematic feast.", 
-        "Question": "What is the chronological order of the events in the story?", 
-        "Reasoning": "The story started with the atmospheric film production in Scotland which was in February 2020, followed by the film festival in Toronto in October 2021, and lastly the ambitious film project commenced in Mumbai in December 2022."
     }, 
     {
         "Answer Choices": [
@@ -8290,18 +7426,6 @@
         "Story": "In June 2019, an enthralling film production embarked on an epic voyage through the mystical landscapes of Morocco, featuring a stellar cast and an enchanting story steeped in ancient traditions. The movie entranced global audiences with its lush visuals and mesmerizing performances. In September 2021, an esteemed film festival took place in New York City, USA, showcasing a plethora of thought-provoking cinematic creations from around the world. Filmmakers and movie aficionados gathered to celebrate the power of diverse storytelling and witnessed the birth of new cinematic masterpieces. In January 2023, an ambitious film project commenced its shoot in the bustling streets of Shanghai, China, merging elements of historical drama and martial arts in an immersive period setting. The production employed intricate set designs and intricate fight choreography, promising an exhilarating blend of history and action.", 
         "Question": "When did the enthralling film production in Morocco start?", 
         "Reasoning": "The story mentions 'In June 2019, an enthralling film production embarked on an epic voyage.' It clearly indicates that the film production in Morocco started in June 2019."
-    }, 
-    {
-        "Answer Choices": [
-            "1 year", 
-            "2 years and 3 months", 
-            "3 years and 7 months", 
-            "None of the above"
-        ], 
-        "Answer": "2 years and 3 months", 
-        "Story": "In June 2019, an enthralling film production embarked on an epic voyage through the mystical landscapes of Morocco, featuring a stellar cast and an enchanting story steeped in ancient traditions. The movie entranced global audiences with its lush visuals and mesmerizing performances. In September 2021, an esteemed film festival took place in New York City, USA, showcasing a plethora of thought-provoking cinematic creations from around the world. Filmmakers and movie aficionados gathered to celebrate the power of diverse storytelling and witnessed the birth of new cinematic masterpieces. In January 2023, an ambitious film project commenced its shoot in the bustling streets of Shanghai, China, merging elements of historical drama and martial arts in an immersive period setting. The production employed intricate set designs and intricate fight choreography, promising an exhilarating blend of history and action.", 
-        "Question": "How long after the film production in Morocco did the film festival in New York happen?", 
-        "Reasoning": "The film production in Morocco started in June 2019 and the film festival in New York took place in September 2021. So, the duration between the two events is 2 years and 3 months."
     }, 
     {
         "Answer Choices": [
@@ -8425,18 +7549,6 @@
     }, 
     {
         "Answer Choices": [
-            "1 year", 
-            "1.5 years", 
-            "2 years", 
-            "3 years"
-        ], 
-        "Answer": "1.5 years", 
-        "Story": "In May 2020, a magical concert tour commenced in the iconic venues of Europe, showcasing a lineup of legendary musicians and electrifying performances. The tour swept through the majestic arenas of London, Paris, and Berlin, captivating audiences with its mesmerizing melodies and energetic stage presence. In December 2021, a prestigious music festival took place in Rio de Janeiro, Brazil, uniting music lovers from all corners of the globe. Against the backdrop of the vibrant city, renowned artists and emerging talents performed across multiple stages, creating an immersive musical experience that transcended boundaries. In June 2023, a groundbreaking music documentary began filming in the energetic streets of New Orleans, Louisiana, where jazz and blues filled the air. The filmmakers delved into the rich musical history and cultural heritage of the city, intricately blending interviews, archival footage, and live performances to transport viewers into a soul-stirring exploration of the local music scene.", 
-        "Question": "How many years after the magical concert tour in Europe did the music festival in Rio de Janeiro occur?", 
-        "Reasoning": "The magical concert tour in Europe started in May 2020 and the music festival in Rio de Janeiro took place in December 2021, which is approximately 1.5 years later."
-    }, 
-    {
-        "Answer Choices": [
             "May 2020", 
             "June 2020", 
             "June 2023", 
@@ -8518,18 +7630,6 @@
         "Story": "In May 2020, a magical concert tour commenced in the iconic venues of Europe, showcasing a lineup of legendary musicians and electrifying performances. The tour swept through the majestic arenas of London, Paris, and Berlin, captivating audiences with its mesmerizing melodies and energetic stage presence. In December 2021, a prestigious music festival took place in Rio de Janeiro, Brazil, uniting music lovers from all corners of the globe. Against the backdrop of the vibrant city, renowned artists and emerging talents performed across multiple stages, creating an immersive musical experience that transcended boundaries. In June 2023, a groundbreaking music documentary began filming in the energetic streets of New Orleans, Louisiana, where jazz and blues filled the air. The filmmakers delved into the rich musical history and cultural heritage of the city, intricately blending interviews, archival footage, and live performances to transport viewers into a soul-stirring exploration of the local music scene.", 
         "Question": "What is the geographical location where the music documentary filming started in June 2023?", 
         "Reasoning": "New Orleans, Louisiana, where the documentary began filming, is located in the United States which is part of North America."
-    }, 
-    {
-        "Answer Choices": [
-            "2018", 
-            "2019", 
-            "2020", 
-            "2021"
-        ], 
-        "Answer": "2019", 
-        "Story": "In September 2019, an enchanting music festival unfolded in the mystical forests of Kyoto, Japan. Surrounded by blooming cherry blossoms, attendees were treated to a diverse range of musical genres, from traditional Japanese folk melodies to modern electronic beats. The festival's stages were meticulously designed to blend harmoniously with the natural landscape, creating a transformative experience for all who ventured into this ethereal realm.", 
-        "Question": "In what year did the music festival in Kyoto, Japan occur?", 
-        "Reasoning": "The story directly mentions that the event happened in September 2019."
     }, 
     {
         "Answer Choices": [
@@ -8711,18 +7811,6 @@
     }, 
     {
         "Answer Choices": [
-            "Sydney's desert", 
-            "Brisbane's streets", 
-            "Sydney's sparkling harbor", 
-            "Melbourne's park"
-        ], 
-        "Answer": "Sydney's sparkling harbor", 
-        "Story": "In March 2022, a grand symphony orchestra graced the iconic Sydney Opera House with their awe-inspiring performance, leaving spectators spellbound. Against the backdrop of Sydney's sparkling harbor, renowned classical musicians from around the world showcased their virtuosity, taking the audience on an emotional journey through the timeless compositions of Mozart, Beethoven, and Tchaikovsky. The majestic architecture of the opera house served as a testament to the enduring power of music to unite hearts and souls.", 
-        "Question": "What served as the backdrop for the orchestra performance?", 
-        "Reasoning": "The story states that Sydney's sparkling harbor served as the backdrop for the symphony orchestra performance."
-    }, 
-    {
-        "Answer Choices": [
             "From Sydney", 
             "From Melbourne", 
             "From around the world", 
@@ -8768,18 +7856,6 @@
         "Story": "On a warm August night in 2024, a vibrant music festival illuminated the historic streets of Havana, Cuba, immersing festival-goers in a whirlwind of Latin rhythms and infectious beats. From traditional salsa and rumba to contemporary reggaeton and hip-hop, artists from across Cuba and beyond filled the air with an irresistible energy. As the sun set, the city's colonial buildings transformed into enchanting stages, casting a mesmerizing glow over the passionate crowds.", 
         "Question": "When did the music festival take place?", 
         "Reasoning": "The question is about temporal information. The story clearly mentions that the music festival took place on a warm August night in 2024."
-    }, 
-    {
-        "Answer Choices": [
-            "Morning", 
-            "Afternoon", 
-            "Evening", 
-            "Night"
-        ], 
-        "Answer": "Night", 
-        "Story": "On a warm August night in 2024, a vibrant music festival illuminated the historic streets of Havana, Cuba, immersing festival-goers in a whirlwind of Latin rhythms and infectious beats. From traditional salsa and rumba to contemporary reggaeton and hip-hop, artists from across Cuba and beyond filled the air with an irresistible energy. As the sun set, the city's colonial buildings transformed into enchanting stages, casting a mesmerizing glow over the passionate crowds.", 
-        "Question": "What time of day did the music festival occur?", 
-        "Reasoning": "The narration mentions that the music festival took place on a warm August 'night' in 2024 which indicates that the event occurred at night."
     }, 
     {
         "Answer Choices": [
@@ -8936,18 +8012,6 @@
         "Story": "In October 2021, an extraordinary music documentary captured the essence of Johannesburg, South Africa's pulsating music scene. Filmed in the buzzing townships and bustling city center, the documentary showcased the fusion of traditional African rhythms, jazz, and vibrant Afro-pop sounds. The film's creators collaborated with local musicians and explored the historical significance of music in the struggle against apartheid, painting a vivid picture of the resilience and creativity that has shaped the city's musical landscape.", 
         "Question": "Did the filming of the documentary take place after 2021?", 
         "Reasoning": "The story specifically mentions that the music documentary was filmed in October 2021, therefore, it did not take place after 2021."
-    }, 
-    {
-        "Answer Choices": [
-            "In the city center only", 
-            "In the townships only", 
-            "In both townships and city center", 
-            "It is not specified"
-        ], 
-        "Answer": "In both townships and city center", 
-        "Story": "In October 2021, an extraordinary music documentary captured the essence of Johannesburg, South Africa's pulsating music scene. Filmed in the buzzing townships and bustling city center, the documentary showcased the fusion of traditional African rhythms, jazz, and vibrant Afro-pop sounds. The film's creators collaborated with local musicians and explored the historical significance of music in the struggle against apartheid, painting a vivid picture of the resilience and creativity that has shaped the city's musical landscape.", 
-        "Question": "Where was the documentary showcasing Johannesburg's music scene filmed?", 
-        "Reasoning": "The story mentions that the documentary was filmed in the buzzing townships and bustling city center which represent different aspects of Johannesburg's music scene."
     }, 
     {
         "Answer Choices": [
@@ -9527,18 +8591,6 @@
     }, 
     {
         "Answer Choices": [
-            "July 2019", 
-            "August 2020", 
-            "July 2021", 
-            "June 2022"
-        ], 
-        "Answer": "July 2019", 
-        "Story": "In July 2019, the prestigious Locarno Film Festival commenced in the picturesque town of Locarno, Switzerland, where the Piazza Grande transformed into an open-air cinema under the starry sky. The subsequent year, in August 2020, the festival embraced a new adventure and journeyed to the vibrant city of Seoul, South Korea, stunning attendees with the iconic locations like the Seoul Cinema and COEX Conference Center. Throughout the following years, the Locarno Film Festival explored diverse locations, including the historic Teatro Di Verdura in Palermo, Italy, in July 2021, and the Museum of Contemporary Art Taipei in Taiwan in June 2022. Finally, in July 2023, the festival returned to its cherished Piazza Grande, captivating audiences once more with its unique blend of cinematic artistry and breathtaking surroundings.", 
-        "Question": "When did the Locarno Film Festival commence in Locarno, Switzerland?", 
-        "Reasoning": "The story reveals that the Locarno Film Festival commenced in Locarno, Switzerland in July 2019."
-    }, 
-    {
-        "Answer Choices": [
             "Seoul, South Korea", 
             "Palermo, Italy", 
             "Taipei, Taiwan", 
@@ -9608,30 +8660,6 @@
         "Story": "In the winter-chilled February of 2014, the vibrant city of Sochi, Russia, embraced the thrills and chills of the Winter Olympics. The 'Fisht' Olympic Stadium, inspired by the enchanting Russian landscapes, reverberated with the cheering sounds of international spectators. As the baton passed to Rio de Janeiro in 2016 for the Summer Olympics, the Maracan\u00e3 Stadium brimmed with cultural vibrancy and enigmatic sporting energy. However, the journey was not entirely smooth, as several athletes faced dubious disqualification due to an alleged doping scandal. Fast forward to 2018, and the city of PyeongChang, South Korea, was battling ice with fire, embodying resilience and fortitude while hosting the Winter Olympics. Against incredible odds, in the Covid-threatened 2021, Tokyo took center stage. Adhering strictly to stringent health protocols, the city, paving way for the delayed 2020 Summer Olympics, stood as a testament to the sterling spirit of unity and willpower.", 
         "Question": "After how many years from the 2014 Winter Olympics, was the Summer Olympics held in Rio de Janeiro?", 
         "Reasoning": "The Winter Olympics took place in Sochi, Russia in 2014 and the next Summer Olympics in Rio de Janeiro were held in 2016. The difference in years between these two events is 2 years."
-    }, 
-    {
-        "Answer Choices": [
-            "2 years", 
-            "3 years", 
-            "4 years", 
-            "5 years"
-        ], 
-        "Answer": "4 years", 
-        "Story": "In the winter-chilled February of 2014, the vibrant city of Sochi, Russia, embraced the thrills and chills of the Winter Olympics. The 'Fisht' Olympic Stadium, inspired by the enchanting Russian landscapes, reverberated with the cheering sounds of international spectators. As the baton passed to Rio de Janeiro in 2016 for the Summer Olympics, the Maracan\u00e3 Stadium brimmed with cultural vibrancy and enigmatic sporting energy. However, the journey was not entirely smooth, as several athletes faced dubious disqualification due to an alleged doping scandal. Fast forward to 2018, and the city of PyeongChang, South Korea, was battling ice with fire, embodying resilience and fortitude while hosting the Winter Olympics. Against incredible odds, in the Covid-threatened 2021, Tokyo took center stage. Adhering strictly to stringent health protocols, the city, paving way for the delayed 2020 Summer Olympics, stood as a testament to the sterling spirit of unity and willpower.", 
-        "Question": "How many years are there between the Winter Olympics that were held in Sochi, Russia and PyeongChang, South Korea?", 
-        "Reasoning": "The Winter Olympics were held in Sochi, Russia in 2014 and in PyeongChang, South Korea in 2018. The difference between these two years is 4 years."
-    }, 
-    {
-        "Answer Choices": [
-            "2018", 
-            "2019", 
-            "2020", 
-            "2022"
-        ], 
-        "Answer": "2020", 
-        "Story": "In the winter-chilled February of 2014, the vibrant city of Sochi, Russia, embraced the thrills and chills of the Winter Olympics. The 'Fisht' Olympic Stadium, inspired by the enchanting Russian landscapes, reverberated with the cheering sounds of international spectators. As the baton passed to Rio de Janeiro in 2016 for the Summer Olympics, the Maracan\u00e3 Stadium brimmed with cultural vibrancy and enigmatic sporting energy. However, the journey was not entirely smooth, as several athletes faced dubious disqualification due to an alleged doping scandal. Fast forward to 2018, and the city of PyeongChang, South Korea, was battling ice with fire, embodying resilience and fortitude while hosting the Winter Olympics. Against incredible odds, in the Covid-threatened 2021, Tokyo took center stage. Adhering strictly to stringent health protocols, the city, paving way for the delayed 2020 Summer Olympics, stood as a testament to the sterling spirit of unity and willpower.", 
-        "Question": "In what year was the Summer Olympics originally scheduled, before being delayed to 2021 due to Covid?", 
-        "Reasoning": "The text indicates that Tokyo adhered to strict health protocols in the delay of the 2020 Summer Olympics, which took place instead in 2021."
     }, 
     {
         "Answer Choices": [
@@ -9767,18 +8795,6 @@
     }, 
     {
         "Answer Choices": [
-            "Beijing hosted the Olympics", 
-            "London hosted the Olympics", 
-            "Rio de Janeiro hosted the Olympics", 
-            "Tokyo was preparing to host the Olympics"
-        ], 
-        "Answer": "Tokyo was preparing to host the Olympics", 
-        "Story": "In 2008, the Beijing Olympic Games kicked off, witnessing an array of athletes participating from different corners of the globe. The 'Bird\u2019s Nest' Stadium had become a bustling hub for sports, fostering a sense of global unity. Come 2012, the excitement shifted to London, with the city hosting magnificent games that further solidified the city\u2019s historic sporting legacy. However, in 2016, controversy infiltrated the Rio de Janeiro Olympics, with several athletes allegedly failing drug tests. Slowly but surely, by 2020, Tokyo was preparing to host the Games amid numerous challenges, transforming the city into a symbol of resilience. Remarkably, in 2021, the Games, delayed by a year, managed to take place progressively, adhering strictly to safety protocols, reminding the world of the enduring spirit of sportsmanship and unity.", 
-        "Question": "What significant event happened with the Olympics organization in 2020?", 
-        "Reasoning": "The text states that in 2020, Tokyo was preparing to host the Olympic Games amid various challenges."
-    }, 
-    {
-        "Answer Choices": [
             "London", 
             "Beijing", 
             "Tokyo", 
@@ -9812,30 +8828,6 @@
         "Story": "In 2008, the Beijing Olympic Games kicked off, witnessing an array of athletes participating from different corners of the globe. The 'Bird\u2019s Nest' Stadium had become a bustling hub for sports, fostering a sense of global unity. Come 2012, the excitement shifted to London, with the city hosting magnificent games that further solidified the city\u2019s historic sporting legacy. However, in 2016, controversy infiltrated the Rio de Janeiro Olympics, with several athletes allegedly failing drug tests. Slowly but surely, by 2020, Tokyo was preparing to host the Games amid numerous challenges, transforming the city into a symbol of resilience. Remarkably, in 2021, the Games, delayed by a year, managed to take place progressively, adhering strictly to safety protocols, reminding the world of the enduring spirit of sportsmanship and unity.", 
         "Question": "In which city did the Olympic Games face controversies in 2016?", 
         "Reasoning": "The story specifies that controversy infiltrated the Rio de Janeiro Olympics in 2016, with several athletes allegedly failing drug tests."
-    }, 
-    {
-        "Answer Choices": [
-            "Tokyo", 
-            "Beijing", 
-            "London", 
-            "Rio de Janeiro"
-        ], 
-        "Answer": "London", 
-        "Story": "In 2008, the Beijing Olympic Games kicked off, witnessing an array of athletes participating from different corners of the globe. The 'Bird\u2019s Nest' Stadium had become a bustling hub for sports, fostering a sense of global unity. Come 2012, the excitement shifted to London, with the city hosting magnificent games that further solidified the city\u2019s historic sporting legacy. However, in 2016, controversy infiltrated the Rio de Janeiro Olympics, with several athletes allegedly failing drug tests. Slowly but surely, by 2020, Tokyo was preparing to host the Games amid numerous challenges, transforming the city into a symbol of resilience. Remarkably, in 2021, the Games, delayed by a year, managed to take place progressively, adhering strictly to safety protocols, reminding the world of the enduring spirit of sportsmanship and unity.", 
-        "Question": "Which city hosted the Olympic Games in 2012 following Beijing in 2008?", 
-        "Reasoning": "According to the story, the excitement of the Olympic Games shifted in 2012 to London from Beijing, which hosted the Games in 2008."
-    }, 
-    {
-        "Answer Choices": [
-            "2021", 
-            "2012", 
-            "2016", 
-            "2008"
-        ], 
-        "Answer": "2021", 
-        "Story": "In 2008, the Beijing Olympic Games kicked off, witnessing an array of athletes participating from different corners of the globe. The 'Bird\u2019s Nest' Stadium had become a bustling hub for sports, fostering a sense of global unity. Come 2012, the excitement shifted to London, with the city hosting magnificent games that further solidified the city\u2019s historic sporting legacy. However, in 2016, controversy infiltrated the Rio de Janeiro Olympics, with several athletes allegedly failing drug tests. Slowly but surely, by 2020, Tokyo was preparing to host the Games amid numerous challenges, transforming the city into a symbol of resilience. Remarkably, in 2021, the Games, delayed by a year, managed to take place progressively, adhering strictly to safety protocols, reminding the world of the enduring spirit of sportsmanship and unity.", 
-        "Question": "In what year did the Olympic Games take place after being delayed due to challenges?", 
-        "Reasoning": "The story states that the Games were delayed by a year and managed to take place progressively in 2021."
     }, 
     {
         "Answer Choices": [
@@ -10067,18 +9059,6 @@
     }, 
     {
         "Answer Choices": [
-            "1998 in Paris, France", 
-            "2002 in Yokohama, Japan", 
-            "2006 in Berlin, Germany", 
-            "2022 in Qatar"
-        ], 
-        "Answer": "2022 in Qatar", 
-        "Story": "In the chill-struck December of 1998, the lively city of Paris, France, bustled with the anticipation of hosting the FIFA World Cup. The 'Stade de France', quickly became the epicenter of euphoria for soccer devotees worldwide. Sweeping to the East, Yokohama, Japan was next in line come 2002. The International Stadium, flooded with glowing lanterns and echoing chants, painted a picture of an exhilarating aesthetical equilibrium. In spite of a few run-ins with referee controversies, the global enthusiasm for the beautiful game remained undeterred. Zipping fast forward to 2006, the heart of Europe, Berlin, Germany, bathed in an ambiance of festive energy while hosting the world\u2019s largest football contest. Amid the calamity of the Covid-19 pandemic, the 2022 edition, relocated to Qatar, will Mark the tournament's first winter event, demonstrating the relentless vigor of football and its worldwide following.", 
-        "Question": "Which is the first FIFA World Cup event mentioned in the story to be held during winter?", 
-        "Reasoning": "The passage notes that the 2022 edition, hosted by Qatar, will be the tournament's first winter event."
-    }, 
-    {
-        "Answer Choices": [
             "1996", 
             "2000", 
             "2004", 
@@ -10144,34 +9124,10 @@
             "Detroit, USA", 
             "Orlando, USA"
         ], 
-        "Answer": "Chicago, USA", 
-        "Story": "In the sweltering July of 1996, the dynamic city of Chicago, USA, focused the world\u2019s attention on the NBA Finals. The 'United Center', arguably the Mecca of basketball, echoed with the enthralling intensity of worldwide hoop enthusiasts. The torch was passed to Los Angeles in 2000 with the Staples Center playing host, filled with the unmatched spirit of fierce rivalry and sportsmanship. Despite the game\u2019s soaring popularity, a match-fixing scandal did cast a temporary shadow on the event. Progressing to 2004, the city of Detroit, USA, proved to be a spectacular stage for basketball's most distinguished contest. And finally, in a Covid-ridden 2020, the \u2018bubble\u2019 at the ESPN Wide World of Sports Complex, Orlando, Florida welcomed the NBA teams. With tenacious adherence to safety protocols, the tournament displayed an enduring testament to the invincible human spirit and its love for sport.", 
-        "Question": "Where was the NBA Finals held in 1996?", 
-        "Reasoning": "The first set of sentences state that the NBA Finals took place in Chicago in 1996."
-    }, 
-    {
-        "Answer Choices": [
-            "Chicago, USA", 
-            "Los Angeles, USA", 
-            "Detroit, USA", 
-            "Orlando, USA"
-        ], 
         "Answer": "Los Angeles, USA", 
         "Story": "In the sweltering July of 1996, the dynamic city of Chicago, USA, focused the world\u2019s attention on the NBA Finals. The 'United Center', arguably the Mecca of basketball, echoed with the enthralling intensity of worldwide hoop enthusiasts. The torch was passed to Los Angeles in 2000 with the Staples Center playing host, filled with the unmatched spirit of fierce rivalry and sportsmanship. Despite the game\u2019s soaring popularity, a match-fixing scandal did cast a temporary shadow on the event. Progressing to 2004, the city of Detroit, USA, proved to be a spectacular stage for basketball's most distinguished contest. And finally, in a Covid-ridden 2020, the \u2018bubble\u2019 at the ESPN Wide World of Sports Complex, Orlando, Florida welcomed the NBA teams. With tenacious adherence to safety protocols, the tournament displayed an enduring testament to the invincible human spirit and its love for sport.", 
         "Question": "Where were the NBA finals hosted in the year 2000?", 
         "Reasoning": "In the text, it is explicitly mentioned that the NBA finals were hosted in Los Angeles, USA in the year 2000."
-    }, 
-    {
-        "Answer Choices": [
-            "Chicago, USA", 
-            "Los Angeles, USA", 
-            "Detroit, USA", 
-            "Orlando, USA"
-        ], 
-        "Answer": "Orlando, USA", 
-        "Story": "In the sweltering July of 1996, the dynamic city of Chicago, USA, focused the world\u2019s attention on the NBA Finals. The 'United Center', arguably the Mecca of basketball, echoed with the enthralling intensity of worldwide hoop enthusiasts. The torch was passed to Los Angeles in 2000 with the Staples Center playing host, filled with the unmatched spirit of fierce rivalry and sportsmanship. Despite the game\u2019s soaring popularity, a match-fixing scandal did cast a temporary shadow on the event. Progressing to 2004, the city of Detroit, USA, proved to be a spectacular stage for basketball's most distinguished contest. And finally, in a Covid-ridden 2020, the \u2018bubble\u2019 at the ESPN Wide World of Sports Complex, Orlando, Florida welcomed the NBA teams. With tenacious adherence to safety protocols, the tournament displayed an enduring testament to the invincible human spirit and its love for sport.", 
-        "Question": "In which city was the NBA 'bubble' situated in 2020?", 
-        "Reasoning": "From the last few sentences, it's clear that in 2020, the NBA 'bubble' was situated in Orlando, USA."
     }, 
     {
         "Answer Choices": [
@@ -10232,18 +9188,6 @@
         "Story": "In the scorching summer of June 15, 2019, the grand tournament of the ICC Cricket World Cup unfolded in England. Amid the lush greens of The Oval, London, the opening match took place between the fierce rivals, India and Pakistan. The excitement reached its peak on June 22, as Australia clashed with England at the historical Lord's Cricket Ground. On July 5, the picturesque Edgbaston Stadium hosted an intense encounter between New Zealand and West Indies. The tournament reached its pinnacle on July 14, with the final match between England and New Zealand held at the iconic Lord's, where the cricketing world witnessed a breathtaking showdown that went down to the super over. Ultimately, England emerged as the champions, etching their glory in the annals of cricket history.", 
         "Question": "What date was the match between Australia and England?", 
         "Reasoning": "The story states that Australia clashed with England on June 22, 2019."
-    }, 
-    {
-        "Answer Choices": [
-            "June 22, 2019", 
-            "July 5, 2019", 
-            "June 15, 2019", 
-            "July 14, 2019"
-        ], 
-        "Answer": "July 14, 2019", 
-        "Story": "In the scorching summer of June 15, 2019, the grand tournament of the ICC Cricket World Cup unfolded in England. Amid the lush greens of The Oval, London, the opening match took place between the fierce rivals, India and Pakistan. The excitement reached its peak on June 22, as Australia clashed with England at the historical Lord's Cricket Ground. On July 5, the picturesque Edgbaston Stadium hosted an intense encounter between New Zealand and West Indies. The tournament reached its pinnacle on July 14, with the final match between England and New Zealand held at the iconic Lord's, where the cricketing world witnessed a breathtaking showdown that went down to the super over. Ultimately, England emerged as the champions, etching their glory in the annals of cricket history.", 
-        "Question": "On what date was the final match of the ICC Cricket World Cup 2019 played?", 
-        "Reasoning": "According to the story, the final match was held on July 14, 2019."
     }, 
     {
         "Answer Choices": [
@@ -10391,30 +9335,6 @@
     }, 
     {
         "Answer Choices": [
-            "Dubai International Stadium", 
-            "Eden Gardens, Kolkata", 
-            "Sheikh Zayed Stadium, Abu Dhabi", 
-            "Lord's Cricket Ground"
-        ], 
-        "Answer": "Sheikh Zayed Stadium, Abu Dhabi", 
-        "Story": "The excitement of the ICC T20 World Cup began on October 18, 2020, with a thrilling match between India and Pakistan at the Dubai International Stadium. Despite a brief rain delay, the match commenced at 7:00 PM local time. On October 23, defending champions, West Indies, faced off against Australia at the Sheikh Zayed Stadium in Abu Dhabi, where the match was interrupted due to heavy rain that lasted for two hours. The battle for the title reached its climax on November 14, with the final match held at the iconic Eden Gardens in Kolkata. England and India fought fiercely, with occasional showers halting play for half an hour before England emerged as the champions.", 
-        "Question": "Where did the match between the West Indies and Australia take place?", 
-        "Reasoning": "In the second sentence, it's stated that the match between the West Indies and Australia was held at the Sheikh Zayed Stadium in Abu Dhabi."
-    }, 
-    {
-        "Answer Choices": [
-            "Dubai International Stadium", 
-            "Sheikh Zayed Stadium, Abu Dhabi", 
-            "Eden Gardens, Kolkata", 
-            "Melbourne Cricket Ground"
-        ], 
-        "Answer": "Eden Gardens, Kolkata", 
-        "Story": "The excitement of the ICC T20 World Cup began on October 18, 2020, with a thrilling match between India and Pakistan at the Dubai International Stadium. Despite a brief rain delay, the match commenced at 7:00 PM local time. On October 23, defending champions, West Indies, faced off against Australia at the Sheikh Zayed Stadium in Abu Dhabi, where the match was interrupted due to heavy rain that lasted for two hours. The battle for the title reached its climax on November 14, with the final match held at the iconic Eden Gardens in Kolkata. England and India fought fiercely, with occasional showers halting play for half an hour before England emerged as the champions.", 
-        "Question": "In which stadium was the final match of the ICC T20 World Cup held?", 
-        "Reasoning": "In the third sentence, it's stated that the final match took place at the iconic Eden Gardens in Kolkata."
-    }, 
-    {
-        "Answer Choices": [
             "Melbourne Cricket Ground", 
             "Dubai International Stadium", 
             "Eden Gardens, Kolkata", 
@@ -10448,18 +9368,6 @@
         "Story": "The Asia Cup kicked off on September 15, 2021, with a riveting match between arch-rivals India and Pakistan at the Dubai International Cricket Stadium. The match commenced at 3:00 PM local time, and despite a brief rain interruption in the first innings, it didn't affect the overall gameplay. On September 21, Sri Lanka and Bangladesh faced each other at the Sheikh Zayed Stadium, where relentless rain caused a frustrating delay of four hours. Finally, on October 2, the final match between India and Pakistan took place at the RACV Royal Pines Resort, Australia. Despite a slight drizzle, the match continued, and India emerged victorious, clinching the Asia Cup trophy.", 
         "Question": "On which date did the Asia Cup commence?", 
         "Reasoning": "The story mentions that 'The Asia Cup kicked off on September 15, 2021'."
-    }, 
-    {
-        "Answer Choices": [
-            "5 days", 
-            "6 days", 
-            "7 days", 
-            "8 days"
-        ], 
-        "Answer": "6 days", 
-        "Story": "The Asia Cup kicked off on September 15, 2021, with a riveting match between arch-rivals India and Pakistan at the Dubai International Cricket Stadium. The match commenced at 3:00 PM local time, and despite a brief rain interruption in the first innings, it didn't affect the overall gameplay. On September 21, Sri Lanka and Bangladesh faced each other at the Sheikh Zayed Stadium, where relentless rain caused a frustrating delay of four hours. Finally, on October 2, the final match between India and Pakistan took place at the RACV Royal Pines Resort, Australia. Despite a slight drizzle, the match continued, and India emerged victorious, clinching the Asia Cup trophy.", 
-        "Question": "How many days after the first match did Sri Lanka and Bangladesh face each other?", 
-        "Reasoning": "Sri Lanka and Bangladesh faced each other on September 21, which is 6 days after the first match which was on September 15."
     }, 
     {
         "Answer Choices": [
@@ -10508,18 +9416,6 @@
         "Story": "The Asia Cup kicked off on September 15, 2021, with a riveting match between arch-rivals India and Pakistan at the Dubai International Cricket Stadium. The match commenced at 3:00 PM local time, and despite a brief rain interruption in the first innings, it didn't affect the overall gameplay. On September 21, Sri Lanka and Bangladesh faced each other at the Sheikh Zayed Stadium, where relentless rain caused a frustrating delay of four hours. Finally, on October 2, the final match between India and Pakistan took place at the RACV Royal Pines Resort, Australia. Despite a slight drizzle, the match continued, and India emerged victorious, clinching the Asia Cup trophy.", 
         "Question": "Where was the first match of the Asia Cup 2021 held?", 
         "Reasoning": "According to the story, the first match of the Asia Cup 2021 was played at the Dubai International Cricket Stadium."
-    }, 
-    {
-        "Answer Choices": [
-            "India and Pakistan", 
-            "Sri Lanka and Bangladesh", 
-            "Australia and New Zealand", 
-            "West Indies and England"
-        ], 
-        "Answer": "Sri Lanka and Bangladesh", 
-        "Story": "The Asia Cup kicked off on September 15, 2021, with a riveting match between arch-rivals India and Pakistan at the Dubai International Cricket Stadium. The match commenced at 3:00 PM local time, and despite a brief rain interruption in the first innings, it didn't affect the overall gameplay. On September 21, Sri Lanka and Bangladesh faced each other at the Sheikh Zayed Stadium, where relentless rain caused a frustrating delay of four hours. Finally, on October 2, the final match between India and Pakistan took place at the RACV Royal Pines Resort, Australia. Despite a slight drizzle, the match continued, and India emerged victorious, clinching the Asia Cup trophy.", 
-        "Question": "Which teams faced off at the Sheikh Zayed Stadium?", 
-        "Reasoning": "According to the story, Sri Lanka and Bangladesh faced off at the Sheikh Zayed Stadium."
     }, 
     {
         "Answer Choices": [
@@ -10583,30 +9479,6 @@
     }, 
     {
         "Answer Choices": [
-            "June 1, 2017", 
-            "June 8, 2017", 
-            "June 18, 2017", 
-            "Not mentioned"
-        ], 
-        "Answer": "June 18, 2017", 
-        "Story": "The Champions Trophy began on June 1, 2017, with a clash between England and Bangladesh at the Kennington Oval in London. The match started at 10:30 AM local time, but was interrupted by rain for an hour during the second innings. On June 8, South Africa and Pakistan faced off at the Sophia Gardens in Cardiff, where rain caused a delay of two hours and limited the match to 35 overs per side. The tournament reached its thrilling finale on June 18, with the final match between India and Pakistan at The Oval. Despite a persistent drizzle, the match persisted, and India came out victorious, capturing their third Champions Trophy title.", 
-        "Question": "When was the final match of the Champions Trophy held?", 
-        "Reasoning": "The story states that the final match of the Champions Trophy between India and Pakistan took place on June 18."
-    }, 
-    {
-        "Answer Choices": [
-            "10:30 AM", 
-            "11:30 AM", 
-            "12:30 PM", 
-            "Not mentioned"
-        ], 
-        "Answer": "10:30 AM", 
-        "Story": "The Champions Trophy began on June 1, 2017, with a clash between England and Bangladesh at the Kennington Oval in London. The match started at 10:30 AM local time, but was interrupted by rain for an hour during the second innings. On June 8, South Africa and Pakistan faced off at the Sophia Gardens in Cardiff, where rain caused a delay of two hours and limited the match to 35 overs per side. The tournament reached its thrilling finale on June 18, with the final match between India and Pakistan at The Oval. Despite a persistent drizzle, the match persisted, and India came out victorious, capturing their third Champions Trophy title.", 
-        "Question": "At what local time did the match between England and Bangladesh start?", 
-        "Reasoning": "The story mentions that the match between England and Bangladesh started at 10:30 AM local time."
-    }, 
-    {
-        "Answer Choices": [
             "1 hour", 
             "2 hours", 
             "3 hours", 
@@ -10667,18 +9539,6 @@
     }, 
     {
         "Answer Choices": [
-            "Sophia Gardens in Cardiff", 
-            "The Oval", 
-            "Kennington Oval in London", 
-            "India"
-        ], 
-        "Answer": "Kennington Oval in London", 
-        "Story": "The Champions Trophy began on June 1, 2017, with a clash between England and Bangladesh at the Kennington Oval in London. The match started at 10:30 AM local time, but was interrupted by rain for an hour during the second innings. On June 8, South Africa and Pakistan faced off at the Sophia Gardens in Cardiff, where rain caused a delay of two hours and limited the match to 35 overs per side. The tournament reached its thrilling finale on June 18, with the final match between India and Pakistan at The Oval. Despite a persistent drizzle, the match persisted, and India came out victorious, capturing their third Champions Trophy title.", 
-        "Question": "On June 1, at what venue was the 10:30 AM local time cricket match took place?", 
-        "Reasoning": "On June 1, the story notes that the cricket match took place at the Kennington Oval in London at 10:30 AM local time."
-    }, 
-    {
-        "Answer Choices": [
             "April 9, 2022", 
             "May 30, 2022", 
             "April 20, 2022", 
@@ -10703,18 +9563,6 @@
     }, 
     {
         "Answer Choices": [
-            "April 9, 2022", 
-            "April 20, 2022", 
-            "April 30, 2022", 
-            "May 30, 2022"
-        ], 
-        "Answer": "April 20, 2022", 
-        "Story": "The IPL commenced on April 9, 2022, with an enthralling match between Mumbai Indians and Royal Challengers Bangalore at the Wankhede Stadium. The match started at 7:30 PM local time and played without any interruption. On April 20, Kolkata Knight Riders and Sunrisers Hyderabad clashed at the iconic Eden Gardens, where heavy rains caused a delay of 90 minutes, but it didn't impact the match's overall outcome. The tournament's climax arrived on May 30, with the final match between Delhi Capitals and Chennai Super Kings at the picturesque Arun Jaitley Stadium. Despite light rain showers, the match proceeded, and Delhi Capitals emerged victorious, clinching their maiden IPL title.", 
-        "Question": "When did Kolkata Knight Riders and Sunrisers Hyderabad have their match?", 
-        "Reasoning": "The story mentions that the Kolkata Knight Riders and Sunrisers Hyderabad match happened on April 20."
-    }, 
-    {
-        "Answer Choices": [
             "30 minutes", 
             "60 minutes", 
             "90 minutes", 
@@ -10724,18 +9572,6 @@
         "Story": "The IPL commenced on April 9, 2022, with an enthralling match between Mumbai Indians and Royal Challengers Bangalore at the Wankhede Stadium. The match started at 7:30 PM local time and played without any interruption. On April 20, Kolkata Knight Riders and Sunrisers Hyderabad clashed at the iconic Eden Gardens, where heavy rains caused a delay of 90 minutes, but it didn't impact the match's overall outcome. The tournament's climax arrived on May 30, with the final match between Delhi Capitals and Chennai Super Kings at the picturesque Arun Jaitley Stadium. Despite light rain showers, the match proceeded, and Delhi Capitals emerged victorious, clinching their maiden IPL title.", 
         "Question": "By how much time did the heavy rains delay the match on April 20?", 
         "Reasoning": "According to the story, heavy rains delayed the match on April 20 by 90 minutes."
-    }, 
-    {
-        "Answer Choices": [
-            "7:00 PM", 
-            "7:30 PM", 
-            "8:00 PM", 
-            "8:30 PM"
-        ], 
-        "Answer": "7:30 PM", 
-        "Story": "The IPL commenced on April 9, 2022, with an enthralling match between Mumbai Indians and Royal Challengers Bangalore at the Wankhede Stadium. The match started at 7:30 PM local time and played without any interruption. On April 20, Kolkata Knight Riders and Sunrisers Hyderabad clashed at the iconic Eden Gardens, where heavy rains caused a delay of 90 minutes, but it didn't impact the match's overall outcome. The tournament's climax arrived on May 30, with the final match between Delhi Capitals and Chennai Super Kings at the picturesque Arun Jaitley Stadium. Despite light rain showers, the match proceeded, and Delhi Capitals emerged victorious, clinching their maiden IPL title.", 
-        "Question": "At what time did the first match on April 9 start?", 
-        "Reasoning": "The story clearly states that the match on April 9 started at 7:30 PM local time."
     }, 
     {
         "Answer Choices": [
@@ -10772,18 +9608,6 @@
         "Story": "The IPL commenced on April 9, 2022, with an enthralling match between Mumbai Indians and Royal Challengers Bangalore at the Wankhede Stadium. The match started at 7:30 PM local time and played without any interruption. On April 20, Kolkata Knight Riders and Sunrisers Hyderabad clashed at the iconic Eden Gardens, where heavy rains caused a delay of 90 minutes, but it didn't impact the match's overall outcome. The tournament's climax arrived on May 30, with the final match between Delhi Capitals and Chennai Super Kings at the picturesque Arun Jaitley Stadium. Despite light rain showers, the match proceeded, and Delhi Capitals emerged victorious, clinching their maiden IPL title.", 
         "Question": "Which stadium hosted the first match of the IPL in 2022?", 
         "Reasoning": "The first match of IPL in 2022 was held at the Wankhede Stadium as mentioned in the story."
-    }, 
-    {
-        "Answer Choices": [
-            "Eden Gardens", 
-            "Wankhede Stadium", 
-            "Arun Jaitley Stadium", 
-            "Chepauk Stadium"
-        ], 
-        "Answer": "Eden Gardens", 
-        "Story": "The IPL commenced on April 9, 2022, with an enthralling match between Mumbai Indians and Royal Challengers Bangalore at the Wankhede Stadium. The match started at 7:30 PM local time and played without any interruption. On April 20, Kolkata Knight Riders and Sunrisers Hyderabad clashed at the iconic Eden Gardens, where heavy rains caused a delay of 90 minutes, but it didn't impact the match's overall outcome. The tournament's climax arrived on May 30, with the final match between Delhi Capitals and Chennai Super Kings at the picturesque Arun Jaitley Stadium. Despite light rain showers, the match proceeded, and Delhi Capitals emerged victorious, clinching their maiden IPL title.", 
-        "Question": "Where was the match between Kolkata Knight Riders and Sunrisers Hyderabad played?", 
-        "Reasoning": "The recall from the story indicates that the match between Kolkata Knight Riders and Sunrisers Hyderabad was played at Eden Gardens."
     }, 
     {
         "Answer Choices": [
@@ -11507,18 +10331,6 @@
     }, 
     {
         "Answer Choices": [
-            "Madrid", 
-            "Valencia", 
-            "Manchester", 
-            "Bilbao"
-        ], 
-        "Answer": "Valencia", 
-        "Story": "In the exhilarating Europa League tournament of 2022, the first thrilling match unfolded on February 15 at the iconic Mestalla Stadium, Valencia. The intense rivals, Atletico Madrid and Manchester United clashed, enthralling the audience with their unparalleled skills. The match commenced at 9:00 PM local time, with both teams displaying unwavering determination. In the 75th minute, Atletico Madrid's midfielder executed a sensational free-kick, breaking the deadlock and sending the crowd into a frenzy. However, just before the final whistle, Manchester United retaliated and scored a phenomenal header in the 89th minute, securing a breathtaking victory at Mestalla. Another captivating encounter took place on February 27, at RheinEnergieStadion, Cologne, as Sevilla faced off against AC Milan. The match kicked off at 8:30 PM local time and witnessed a fierce battle between the two powerhouses. Sevilla managed to score a dramatic late winner in extra time, securing a hard-fought victory over AC Milan and leaving fans amazed.", 
-        "Question": "What city hosted the match in which Atletico Madrid's midfielder scored a sensational free-kick?", 
-        "Reasoning": "The story states that the match where Atletico Madrid's midfielder executed a sensational free-kick happened at the Mestalla Stadium, which is in Valencia."
-    }, 
-    {
-        "Answer Choices": [
             "March 8", 
             "April 5", 
             "March 5", 
@@ -11876,18 +10688,6 @@
         "Story": "In the electrifying UEFA tournament of 2022, the first exhilarating match unfolded on April 10 at the legendary San Siro Stadium, Milan. The intense rivals, Inter Milan and Manchester City clashed, captivating the audience with their unmatched skills. The match commenced at 8:00 PM local time, with both teams displaying relentless determination. In the 70th minute, Inter Milan's striker unleashed a thunderbolt of a shot, finding the back of the net and igniting wild celebrations. However, just before the final whistle, Manchester City retaliated and scored an extraordinary volley in the 88th minute, snatching a dramatic victory at San Siro. Another enthralling encounter took place on April 20, at Signal Iduna Park, Dortmund, as Borussia Dortmund faced off against Chelsea. The match kicked off at 8:45 PM local time and witnessed a fierce battle between the two giants. Chelsea managed to break the deadlock in the 82nd minute, with a clinical finish, securing a hard-fought victory over Borussia Dortmund and leaving fans amazed.", 
         "Question": "Which city hosted the match between Inter Milan and Manchester City?", 
         "Reasoning": "The first match between Inter Milan and Manchester City took place at San Siro Stadium, which is in Milan."
-    }, 
-    {
-        "Answer Choices": [
-            "November 21", 
-            "November 26", 
-            "November 27", 
-            "November 28"
-        ], 
-        "Answer": "November 26", 
-        "Story": "In the mesmerizing FIFA World Cup tournament of 2022, the first captivating match unfolded on November 21 at the historic Luzhniki Stadium, Moscow. The fierce rivals, Germany and France clashed, enthralling the audience with their exceptional skills. The match commenced at 6:00 PM local time, with both teams displaying unwavering determination. In the 55th minute, Germany's midfielder delivered a sublime through-ball, setting up a perfectly timed run from their striker, resulting in a majestic goal and sending the crowd into raptures. However, just before the final whistle, France retaliated and scored a mesmerizing team goal in the 89th minute, securing a breathtaking victory at Luzhniki Stadium. Another thrilling encounter took place on November 26, at Estadio do Maracana, Rio de Janeiro, as Brazil faced off against Belgium. The match kicked off at 7:00 PM local time and witnessed a fierce battle between the two powerhouses. Brazil managed to score a dramatic late winner in extra time, securing a hard-fought victory over Belgium and leaving fans captivated.", 
-        "Question": "On what date did the FIFA World Cup match between Brazil and Belgium take place?", 
-        "Reasoning": "The story clearly mentions that the Brazil vs Belgium match took place on November 26."
     }, 
     {
         "Answer Choices": [
