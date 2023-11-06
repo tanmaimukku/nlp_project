@@ -1,0 +1,722 @@
+[
+    {
+        "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+        "Question": "How much time did Ramesh spend in Uttar Pradesh in total between attending the festival and visiting Agra?",
+        "Answer choices": [
+            "Less than a month",
+            "About a month",
+            "More than a month",
+            "Two months"
+        ],
+        "Answer": "About a month",
+        "Reasoning": "Ramesh travelled to Uttar Pradesh in February and stayed there for the duration of the Lucknow Literature Festival until 14th February, after which he visited Agra. If he returned to Delhi in mid-March, he approximately spent one month in Uttar Pradesh."
+    },
+    {
+        "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+        "Question": "If Ramesh wanted to visit a friend in Guwahati, Assam before returning to Delhi, by approximately which date should he leave from Ziro festival?",
+        "Answer choices": [
+            "25th May",
+            "28th May",
+            "1st June",
+            "5th June"
+        ],
+        "Answer": "28th May",
+        "Reasoning": "The Ziro Festival in Arunachal Pradesh ended on the 27th of May and Ramesh returned to Delhi in the end of June. Therefore, if Ramesh had wished to spend some additional time in Assam, he would have needed to leave Arunachal Pradesh as soon as possible after the festival, which would be 28th May."
+    },
+    {
+        "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+        "Question": "Approximately how many months did Ramesh spend travelling in total from attending the Lucknow festival to returning from Ziro festival?",
+        "Answer choices": [
+            "4 months",
+            "5 months",
+            "6 months",
+            "7 months"
+        ],
+        "Answer": "4 months",
+        "Reasoning": "Ramesh first travelled from Delhi to Uttar Pradesh to attend the festival in February, returned to Delhi in March, then went to Arunachal Pradesh in May and returned back to Delhi in June. If we consider these months as the duration of his travel, it totals to approximately 4 months."
+    },
+    {
+        "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+        "Question": "If Ramesh had to be in Delhi within three days of leaving the Arunachal Pradesh festival, when should he have left the Ziro festival at the latest?",
+        "Answer choices": [
+            "27th May",
+            "28th May",
+            "29th May",
+            "30th May"
+        ],
+        "Answer": "27th May",
+        "Reasoning": "Since Ramesh had to be in Delhi within three days of leaving the Ziro Festival in Arunachal Pradesh, and as per the story, the festival ended on the 27th of May and he travels at the end of the festival so, he would have had to leave Arunachal Pradesh on 27th May at the latest, to make it to Delhi within three days."
+    },
+    {
+        "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+        "Question": "Where was Ramesh, in the month of April?",
+        "Answer choices": [
+            "Delhi",
+            "Uttar Pradesh",
+            "Agra",
+            "Arunachal Pradesh"
+        ],
+        "Answer": "Delhi",
+        "Reasoning": "According to the story, after Ramesh returns from Uttar Pradesh in mid-March, he does not leave Delhi until May for the festival in Arunachal Pradesh. Hence, in April, Ramesh was in Delhi."
+    },
+    {
+        "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
+        "Question": "If Mary wants to stay the entire duration of the Festival of Arts, when is the earliest date she should leave for Rome?",
+        "Answer choices": [
+            "20 July",
+            "23 July",
+            "22 July",
+            "24 July"
+        ],
+        "Answer": "23 July",
+        "Reasoning": "The Festival of Arts event ends on July 22nd, so the earliest date she should leave for Rome would be the day after the festival, which is July 23rd."
+    },
+    {
+        "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
+        "Question": "If she plans to explore Rome for two days before the art exhibition, when should Mary reach Rome at latest?",
+        "Answer choices": [
+            "23 July",
+            "24 July",
+            "21 July",
+            "22 July"
+        ],
+        "Answer": "23 July",
+        "Reasoning": "She has to be in Rome at least 2 days before July 25th, i.e., she has to reach Rome by 23rd July."
+    },
+    {
+        "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
+        "Question": "If Mary wishes to devote five days to absorb and enjoy the art festival of Paris, on which date she should start attending the Festival?",
+        "Answer choices": [
+            "14 July",
+            "16 July",
+            "18 July",
+            "17 July"
+        ],
+        "Answer": "18 July",
+        "Reasoning": "The Festival of Arts starts on the 18th of July. Thus, to devote five days to the festival, Mary should start attending the festival from its commencement i.e., from 18th July."
+    },
+    {
+        "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
+        "Question": "If she plans to stay in Rome for three days post the exhibition, when should she return to Los Angeles at the earliest?",
+        "Answer choices": [
+            "27 July",
+            "28 July",
+            "29 July",
+            "30 July"
+        ],
+        "Answer": "28 July",
+        "Reasoning": "The exhibition in Rome is on the 25th of July, and if she plans to stay for 3 more days post-exhibition, she should be returning not before the 28th of July."
+    },
+    {
+        "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
+        "Question": "How many total days will Mary spend in traveling if considering only one-way travel i.e., from Los Angeles to Paris and from Paris to Rome?",
+        "Answer choices": [
+            "11 hours",
+            "22 hours",
+            "1 day",
+            "2 days"
+        ],
+        "Answer": "22 hours",
+        "Reasoning": "The flight duration from LA to Paris is approximately 11 hours. After the Festival of Arts, she travels from Paris to Rome, which approximately also takes 11 hours. So, she will spend around 22 hours in total for one-way travel."
+    },
+    {
+        "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
+        "Question": "What is the latest time Maria should leave D.C. on the 2nd of July if she plans to be in New York City by 6pm for the pre-celebration?",
+        "Answer choices": [
+            "11am",
+            "12pm",
+            "1pm",
+            "2pm"
+        ],
+        "Answer": "1pm",
+        "Reasoning": "If the travel by train takes approximately 5 hours and Maria wants to be in New York by 6pm, then she should leave D.C. by no later than 1pm to make it in time."
+    },
+    {
+        "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
+        "Question": "If Maria plans to return to D.C. on the 5th of July and it takes the same amount of time to travel back, what is the latest time she should leave New York City to be back in D.C. by 10pm?",
+        "Answer choices": [
+            "3pm",
+            "4pm",
+            "5pm",
+            "6pm"
+        ],
+        "Answer": "5pm",
+        "Reasoning": "As the travel time is 5 hours and Maria wants to be back in D.C. by 10pm, she would need to depart New York no later than 5pm."
+    },
+    {
+        "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
+        "Question": "If Maria was running late for her return journey and left New York City at 7pm, at what time would she reach Washington D.C.?",
+        "Answer choices": [
+            "11pm",
+            "12am",
+            "1am",
+            "2am"
+        ],
+        "Answer": "12am",
+        "Reasoning": "If the journey takes 5 hours and she left at 7pm, Maria would reach her destination at 12am."
+    },
+    {
+        "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
+        "Question": "If Maria decides to visit her aunt in Philadelphia before going to New York City, and the detour adds an additional 2 hours to her travel time, when should she leave D.C. to reach New York by 6pm?",
+        "Answer choices": [
+            "10am",
+            "11am",
+            "12pm",
+            "1pm"
+        ],
+        "Answer": "11am",
+        "Reasoning": "In addition to the 5-hour travel time, the detour to Philadelphia adds an extra 2 hours in total, which means Maria would require 7 hours to reach New York. If she wants to be there by 6pm, she should leave by 11am."
+    },
+    {
+        "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
+        "Question": "If Maria's train is delayed by 30 minutes, at what time would she reach New York City?",
+        "Answer choices": [
+            "5:30pm",
+            "6:30pm",
+            "7:30pm",
+            "8:30pm"
+        ],
+        "Answer": "6:30pm",
+        "Reasoning": "If Maria's train is delayed by half an hour on top of the 5-hour travel time, she would arrive in New York City at 6:30pm, assuming she leaves at 1pm as originally planned."
+    },
+    {
+        "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
+        "Question": "When will the events shift back to the Market square after the theater performance?",
+        "Answer choices": [
+            "3rd July",
+            "5th July",
+            "7th July",
+            "8th July"
+        ],
+        "Answer": "5th July",
+        "Reasoning": "The festival starts on the first day of July and lasts a week (7 days). After the festival's halfway point, events are moved to the local theater for two days, which would likely be the 3rd and 4th of July. Therefore, the events would likely return to Market Square on the 5th of July."
+    },
+    {
+        "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
+        "Question": "If an attendee wanted to visit the local theater for the play, which dates should they attend the festival?",
+        "Answer choices": [
+            "1st and 2nd July",
+            "2nd and 3rd July",
+            "3rd and 4th July",
+            "4th and 5th July"
+        ],
+        "Answer": "3rd and 4th July",
+        "Reasoning": "The festival begins on the 1st of July and, halfway through the week-long event, the festivities move to the local theater for two days. Assuming the festival is seven days long, halfway would be the mid-point between the 1st and 7th of July, which is the 3rd and 4th of July."
+    },
+    {
+        "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
+        "Question": "What is the earliest time an event would be scheduled at Market Square on July 6th?",
+        "Answer choices": [
+            "12 am",
+            "7 am",
+            "10 am",
+            "2 pm"
+        ],
+        "Answer": "10 am",
+        "Reasoning": "According to the story, events at Market Square during the festival are scheduled each day from 10 am to 10 pm. Therefore, the earliest an event would be scheduled on any given day of the festival, including July 6th, would be at 10 am."
+    },
+    {
+        "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
+        "Question": "If a visitor can only spend 3 days at the festival, which dates should they choose to experience both the Market Square events and the theater performance?",
+        "Answer choices": [
+            "2nd, 3rd, and 4th July",
+            "3rd, 4th, and 5th July",
+            "4th, 5th, and 6th July",
+            "5th, 6th, and 7th July"
+        ],
+        "Answer": "2nd, 3rd, and 4th July",
+        "Reasoning": "The festival schedule entails that the events take place at the Market Square until the midpoint of the festival, after which they shift to the local theater for the 'Krakowiak' play. This shift happens on the 3rd and 4th of July. So if a visitor wanted to experience events at both locations, they should visit on the 2nd (for Market Square), 3rd, and 4th (for the Theater performance) of July."
+    },
+    {
+        "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
+        "Question": "By what date would all the festival activities at the local theatre be completed?",
+        "Answer choices": [
+            "2nd July",
+            "3rd July",
+            "4th July",
+            "5th July"
+        ],
+        "Answer": "4th July",
+        "Reasoning": "According to the story, midway through the festival (which begins on 1st July and lasts a week), all festival activities shift to the local theater for 2 days. Midway through the week would be the 3rd and 4th of July. Therefore, all theater events would be completed by the end of the day on the 4th of July."
+    },
+    {
+        "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
+        "Question": "What could be a plausible date of the festival?",
+        "Answer choices": [
+            "2 October",
+            "15 October",
+            "9 October",
+            "1 October"
+        ],
+        "Answer": "9 October",
+        "Reasoning": "Since it is mentioned the festival takes place on the second Saturday of October, the plausible dates can be between 8th to 14th of October. Among the given choices, 9th October fits the description."
+    },
+    {
+        "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
+        "Question": "Where do participants move after leaving Hollywood sign?",
+        "Answer choices": [
+            "Paramount Studios",
+            "San Francisco",
+            "The adjacent camping area",
+            "Downtown LA"
+        ],
+        "Answer": "Paramount Studios",
+        "Reasoning": "In the story, it's stated that the race track starts from the Hollywood Sign, then moves south to Paramount Studios."
+    },
+    {
+        "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
+        "Question": "When does the celebration ceremony for the winner takes place?",
+        "Answer choices": [
+            "1 day after the race",
+            "1 week after the race",
+            "Same day in the evening",
+            "Next morning after the race"
+        ],
+        "Answer": "Same day in the evening",
+        "Reasoning": "The story mentions the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening."
+    },
+    {
+        "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
+        "Question": "When do the participants from San Francisco arrive in Los Angeles?",
+        "Answer choices": [
+            "2 days before the race",
+            "4 days before the race",
+            "Same day as the race",
+            "1 week before the race"
+        ],
+        "Answer": "4 days before the race",
+        "Reasoning": "The story mentioned that participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate."
+    },
+    {
+        "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
+        "Question": "If the race day is on 10th of October, when is the probable arrival day of San Francisco's participants in Los Angeles?",
+        "Answer choices": [
+            "4 October",
+            "6 October",
+            "8th October",
+            "10th October"
+        ],
+        "Answer": "6 October",
+        "Reasoning": "As per the story, participants from San Francisco usually arrive in Los Angeles 4 days before the race. So, if the race is on 10th of October, they'll likely arrive on 6th October."
+    },
+    {
+        "Story": "Franklin Delano Roosevelt, better known as FDR, was a prominent figure in American history. After serving as governor of New York, FDR was elected President of the United States in 1932, during the Great Depression. As president, he implemented a number of economic recovery measures known as the New Deal, from his base in the White House in Washington, D.C. He was also the leader during World War II, implementing strategies and policies from the year 1941 to 1945. In 1945, he passed away in Warm Springs, Georgia, while still in office.",
+        "Question": "Where was FDR based as he implemented the New Deal?",
+        "Answer Choices": [
+            "New York",
+            "Warm Springs",
+            "Washington D.C.",
+            "Great Depression"
+        ],
+        "Answer": "Washington D.C.",
+        "Reasoning": "The story mentions that FDR implemented the New Deal from his base in the White House, which is in Washington, D.C."
+    },
+    {
+        "Story": "Franklin Delano Roosevelt, better known as FDR, was a prominent figure in American history. After serving as governor of New York, FDR was elected President of the United States in 1932, during the Great Depression. As president, he implemented a number of economic recovery measures known as the New Deal, from his base in the White House in Washington, D.C. He was also the leader during World War II, implementing strategies and policies from the year 1941 to 1945. In 1945, he passed away in Warm Springs, Georgia, while still in office.",
+        "Question": "When did FDR start his leadership during World War II after becoming the president?",
+        "Answer Choices": [
+            "1932",
+            "1941",
+            "1945",
+            "After the Great Depression"
+        ],
+        "Answer": "1941",
+        "Reasoning": "The story states that FDR implemented strategies and policies during World War II, from the year 1941 to 1945, so he started his leadership in 1941."
+    },
+    {
+        "Story": "Franklin Delano Roosevelt, better known as FDR, was a prominent figure in American history. After serving as governor of New York, FDR was elected President of the United States in 1932, during the Great Depression. As president, he implemented a number of economic recovery measures known as the New Deal, from his base in the White House in Washington, D.C. He was also the leader during World War II, implementing strategies and policies from the year 1941 to 1945. In 1945, he passed away in Warm Springs, Georgia, while still in office.",
+        "Question": "What year was FDR elected president?",
+        "Answer Choices": [
+            "1932",
+            "1941",
+            "1945",
+            "During the World War II"
+        ],
+        "Answer": "1932",
+        "Reasoning": "The story mentions that FDR was elected president of the United States in 1932."
+    },
+    {
+        "Story": "Franklin Delano Roosevelt, better known as FDR, was a prominent figure in American history. After serving as governor of New York, FDR was elected President of the United States in 1932, during the Great Depression. As president, he implemented a number of economic recovery measures known as the New Deal, from his base in the White House in Washington, D.C. He was also the leader during World War II, implementing strategies and policies from the year 1941 to 1945. In 1945, he passed away in Warm Springs, Georgia, while still in office.",
+        "Question": "When did the World War II end in relation to FDR's tenure as president?",
+        "Answer Choices": [
+            "Before he became president",
+            "While he was president",
+            "After he passed away",
+            "After he implemented the New Deal"
+        ],
+        "Answer": "While he was president",
+        "Reasoning": "The story mentions that FDR was the leader during World War II from 1941 to 1945, which was during his tenure as president."
+    },
+    {
+        "Story": "Franklin Delano Roosevelt, better known as FDR, was a prominent figure in American history. After serving as governor of New York, FDR was elected President of the United States in 1932, during the Great Depression. As president, he implemented a number of economic recovery measures known as the New Deal, from his base in the White House in Washington, D.C. He was also the leader during World War II, implementing strategies and policies from the year 1941 to 1945. In 1945, he passed away in Warm Springs, Georgia, while still in office.",
+        "Question": "Where was FDR based when he was elected president?",
+        "Answer Choices": [
+            "New York",
+            "Washington D.C.",
+            "Warm Springs",
+            "During the Great Depression"
+        ],
+        "Answer": "New York",
+        "Reasoning": "The story tells us that FDR served as the governor of New York before being elected president, so he would likely have been based in New York when he was elected."
+    },
+    {
+        "Story": "The Grand Summer Sports Festival had a packed itinerary which was spread out across the city. The marathon kicked off from Downtown City Park on Monday, the 3rd of August, and concluded at Hillside Recreation Center. After the marathon, the basketball tournament started at the Riverside Gymnasium on Wednesday, 5th of August. The cycling race started from Bayfront Park on Friday, the 7th of August, and it ended at Sunshine Square. Ultimately, the closing ceremony was held after the swimming competitions at Thunder Stadium on Sunday, the 9th of August.",
+        "Question": "If someone wants to participate in both the marathon and basketball tournament, how many days they should wait after the marathon ends?",
+        "Answer Choices": [
+            "1 day",
+            "2 days",
+            "3 days",
+            "4 days"
+        ],
+        "Answer": "2 days",
+        "Reasoning": "In the story, the marathon concluded on the 3rd of August and the basketball tournament started on the 5th of August. Therefore, a participant would have to wait for 2 days."
+    },
+    {
+        "Story": "The Grand Summer Sports Festival had a packed itinerary which was spread out across the city. The marathon kicked off from Downtown City Park on Monday, the 3rd of August, and concluded at Hillside Recreation Center. After the marathon, the basketball tournament started at the Riverside Gymnasium on Wednesday, 5th of August. The cycling race started from Bayfront Park on Friday, the 7th of August, and it ended at Sunshine Square. Ultimately, the closing ceremony was held after the swimming competitions at Thunder Stadium on Sunday, the 9th of August.",
+        "Question": "Considering the basketball tournament began two days after the marathon ended, when was the likely date for the end of the basketball tournament if they wanted to start the cycling race immediately next day?",
+        "Answer Choices": [
+            "4th August",
+            "5th August",
+            "6th August",
+            "7th August"
+        ],
+        "Answer": "6th August",
+        "Reasoning": "According to the details provided, the marathon ended on the 3rd of August, and the basketball tournament started two days later, on the 5th of August. As the cycling race began on the 7th of August, it can be deduced that the basketball tournament likely ended on 6th of August to have the cycling race begin the next day."
+    },
+    {
+        "Story": "The Grand Summer Sports Festival had a packed itinerary which was spread out across the city. The marathon kicked off from Downtown City Park on Monday, the 3rd of August, and concluded at Hillside Recreation Center. After the marathon, the basketball tournament started at the Riverside Gymnasium on Wednesday, 5th of August. The cycling race started from Bayfront Park on Friday, the 7th of August, and it ended at Sunshine Square. Ultimately, the closing ceremony was held after the swimming competitions at Thunder Stadium on Sunday, the 9th of August.",
+        "Question": "Where does a participant who wants to participate in both cycling and swimming requires to travel from and to?",
+        "Answer Choices": [
+            "Bayfront Park to Thunder Stadium",
+            "Sunshine Square to Thunder Stadium",
+            "Hillside Recreation Center to Thunder Stadium",
+            "Riverside Gymnasium to Thunder Stadium"
+        ],
+        "Answer": "Bayfront Park to Thunder Stadium",
+        "Reasoning": "From the context, we see that the cycling event started at Bayfront Park and the swimming events were at Thunder Stadium. So, any participant wanting to be part of both these events will have to travel from Bayfront Park to Thunder Stadium."
+    },
+    {
+        "Story": "The Grand Summer Sports Festival had a packed itinerary which was spread out across the city. The marathon kicked off from Downtown City Park on Monday, the 3rd of August, and concluded at Hillside Recreation Center. After the marathon, the basketball tournament started at the Riverside Gymnasium on Wednesday, 5th of August. The cycling race started from Bayfront Park on Friday, the 7th of August, and it ended at Sunshine Square. Ultimately, the closing ceremony was held after the swimming competitions at Thunder Stadium on Sunday, the 9th of August.",
+        "Question": "If a spectator wanted to watch the basketball tournament and the closing ceremony, where would they need to go first?",
+        "Answer Choices": [
+            "Bayfront Park",
+            "Riverside Gymnasium",
+            "Hillside Recreation Center",
+            "Thunder Stadium"
+        ],
+        "Answer": "Riverside Gymnasium",
+        "Reasoning": "The basketball tournament took place at the Riverside Gymnasium before the closing ceremony held at the Thunder Stadium. Therefore, a spectator would first go to the Riverside Gymnasium."
+    },
+    {
+        "Story": "The Grand Summer Sports Festival had a packed itinerary which was spread out across the city. The marathon kicked off from Downtown City Park on Monday, the 3rd of August, and concluded at Hillside Recreation Center. After the marathon, the basketball tournament started at the Riverside Gymnasium on Wednesday, 5th of August. The cycling race started from Bayfront Park on Friday, the 7th of August, and it ended at Sunshine Square. Ultimately, the closing ceremony was held after the swimming competitions at Thunder Stadium on Sunday, the 9th of August.",
+        "Question": "How many days were there between the start of the marathon and the closing ceremony?",
+        "Answer Choices": [
+            "6 days",
+            "7 days",
+            "8 days",
+            "9 days"
+        ],
+        "Answer": "6 days",
+        "Reasoning": "The marathon started on 3rd August, and the closing ceremony was held on 9th August. Therefore, the number of days between them is 6."
+    },
+    {
+        "Story": "In 1861, at the outbreak of the American Civil War, a small regiment from Maine was ordered to march to Gettysburg, Pennsylvania. The journey was estimated to take five days on foot, but due to unavoidable detours and battles, the regiment arrived two weeks later. From Gettysburg, they moved eastward to the coastal city of Baltimore, reaching their destination three weeks after the departure from Gettysburg. A few months later, during March 1862, they were shipped down to New Orleans, arriving in May after a perilous journey. By the end of 1863, the regiment returned to Maine, having witnessed and participated in numerous battles.",
+        "Question": "How long after leaving Gettysburg did the regiment reach Baltimore?",
+        "Answer Choices": [
+            "Three days",
+            "Three weeks",
+            "Two weeks",
+            "One month"
+        ],
+        "Answer": "Three weeks",
+        "Reasoning": "The text clearly states that 'they moved eastward to the coastal city of Baltimore, reaching their destination three weeks after the departure from Gettysburg.'"
+    },
+    {
+        "Story": "In 1861, at the outbreak of the American Civil War, a small regiment from Maine was ordered to march to Gettysburg, Pennsylvania. The journey was estimated to take five days on foot, but due to unavoidable detours and battles, the regiment arrived two weeks later. From Gettysburg, they moved eastward to the coastal city of Baltimore, reaching their destination three weeks after the departure from Gettysburg. A few months later, during March 1862, they were shipped down to New Orleans, arriving in May after a perilous journey. By the end of 1863, the regiment returned to Maine, having witnessed and participated in numerous battles.",
+        "Question": "How many months after reaching Baltimore did they arrive in New Orleans?",
+        "Answer Choices": [
+            "1 month",
+            "3 months",
+            "2 months",
+            "4 months"
+        ],
+        "Answer": "2 months",
+        "Reasoning": "The text states that the soldiers reached Baltimore three weeks after leaving Gettysburg and were shipped down to New Orleans in March 1862. By counting the months, we can infer that they arrived in New Orleans exactly two months later."
+    },
+    {
+        "Story": "In 1861, at the outbreak of the American Civil War, a small regiment from Maine was ordered to march to Gettysburg, Pennsylvania. The journey was estimated to take five days on foot, but due to unavoidable detours and battles, the regiment arrived two weeks later. From Gettysburg, they moved eastward to the coastal city of Baltimore, reaching their destination three weeks after the departure from Gettysburg. A few months later, during March 1862, they were shipped down to New Orleans, arriving in May after a perilous journey. By the end of 1863, the regiment returned to Maine, having witnessed and participated in numerous battles.",
+        "Question": "Around what time does the regiment make it back to Maine?",
+        "Answer Choices": [
+            "By the end of 1862",
+            "At the beginning of 1863",
+            "In the midst of 1863",
+            "By the end of 1863"
+        ],
+        "Answer": "By the end of 1863",
+        "Reasoning": "The text states that 'by the end of 1863, the regiment returned to Maine,' indicating that the soldiers returned home by the end of that year."
+    },
+    {
+        "Story": "In 1861, at the outbreak of the American Civil War, a small regiment from Maine was ordered to march to Gettysburg, Pennsylvania. The journey was estimated to take five days on foot, but due to unavoidable detours and battles, the regiment arrived two weeks later. From Gettysburg, they moved eastward to the coastal city of Baltimore, reaching their destination three weeks after the departure from Gettysburg. A few months later, during March 1862, they were shipped down to New Orleans, arriving in May after a perilous journey. By the end of 1863, the regiment returned to Maine, having witnessed and participated in numerous battles.",
+        "Question": "How much time did it take for the regiment to reach Gettysburg from Maine?",
+        "Answer Choices": [
+            "One week",
+            "Two weeks",
+            "Three weeks",
+            "One month"
+        ],
+        "Answer": "Two weeks",
+        "Reasoning": "The story states that 'The journey was estimated to take five days on foot, but due to unavoidable detours and battles, the regiment arrived two weeks later.' Thus, it took them two weeks to travel from Maine to Gettysburg."
+    },
+    {
+        "Story": "In 1861, at the outbreak of the American Civil War, a small regiment from Maine was ordered to march to Gettysburg, Pennsylvania. The journey was estimated to take five days on foot, but due to unavoidable detours and battles, the regiment arrived two weeks later. From Gettysburg, they moved eastward to the coastal city of Baltimore, reaching their destination three weeks after the departure from Gettysburg. A few months later, during March 1862, they were shipped down to New Orleans, arriving in May after a perilous journey. By the end of 1863, the regiment returned to Maine, having witnessed and participated in numerous battles.",
+        "Question": "How long did it take the regiment to travel from Baltimore to New Orleans?",
+        "Answer Choices": [
+            "One month",
+            "Two months",
+            "Three months",
+            "It does not specify in the story"
+        ],
+        "Answer": "Two months",
+        "Reasoning": "The text mentions they left from Baltimore a few months later in March 1862 and arrived in New Orleans in May. This suggests a time frame of two months."
+    },
+    {
+        "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
+        "Question": "If Antony spends a whole day for each rally, on which date should Antony reach Bristol, considering 1 day for travel?",
+        "Answer choices": [
+            "June 9th",
+            "June 6th",
+            "June 7th",
+            "June 8th"
+        ],
+        "Answer": "June 6th",
+        "Reasoning": "Antony starts his campaigns from June 18th. He spends a week (7 days) campaigning in Birmingham, Liverpool, and Southampton and one day each for travel from Liverpool to Birmingham, and Birmingham to Southampton. He should, therefore, be in Leeds (first city in week two) on May 26th (June 18th + 7 days + 2 days travel), and since Bristol is the last city for week two of the campaign, he should be there on June 6th."
+    },
+    {
+        "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
+        "Question": "What is the first city on Antony's itinerary in the second week of his campaign?",
+        "Answer choices": [
+            "London",
+            "Leeds",
+            "Southampton",
+            "Birmingham"
+        ],
+        "Answer": "Leeds",
+        "Reasoning": "He planned to first visit Birmingham, Liverpool, and Southampton in the first week. And in the second week, he planned to visit Leeds, Newcastle, and Bristol in the order."
+    },
+    {
+        "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
+        "Question": "Which city is Antony planning to visit on June 5th?",
+        "Answer choices": [
+            "Bristol",
+            "Leeds",
+            "Newcastle",
+            "Sheffield"
+        ],
+        "Answer": "Newcastle",
+        "Reasoning": "According to Antony's campaign plan, Leeds is the first city he would visit in the second week, which starts on June 26th. Given that Antony spends a day at each rally and one day traveling between each city. Therefore, Antony will be in Newcastle on June 5th"
+    },
+    {
+        "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
+        "Question": "Considering his campaign plan, which would be the last city Antony visits before he heads to London?",
+        "Answer choices": [
+            "Manchester",
+            "Sheffield",
+            "Birmingham",
+            "Southampton"
+        ],
+        "Answer": "Sheffield",
+        "Reasoning": "Based on his campaign itinerary in the final week he would go to Manchester, Sheffield and London in order. Therefore, Sheffield would be the last city he visits before heading to London."
+    },
+    {
+        "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
+        "Question": "On which date Antony will finish his campaign in Southampton?",
+        "Answer choices": [
+            "25th May",
+            "24th May",
+            "26th May",
+            "27th May"
+        ],
+        "Answer": "25th May",
+        "Reasoning": "Antony starts his campaign on the 18th. He then spends one day at each rally, plus one day travelling between each city. Therefore, Antony will finish his campaign in Southampton (the last city in week one) on May 23rd (18th + 2 days for the rallies + 2 days travel)."
+    },
+    {
+        "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
+        "Question": "In which state did Bob spend the longest period of his political career?",
+        "Answer choices": [
+            "California",
+            "Texas",
+            "New York",
+            "Colorado"
+        ],
+        "Answer": "New York",
+        "Reasoning": "Although the exact durations are not specified, Bob's time spent in New York can be inferred as the longest. He moved to New York in 2006 and then to Colorado in 2011, giving us a rough estimate of 5 years."
+    },
+    {
+        "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
+        "Question": "What political position did Bob held after he moved from California?",
+        "Answer choices": [
+            "President",
+            "Senator",
+            "Assessor",
+            "Mayor"
+        ],
+        "Answer": "Assessor",
+        "Reasoning": "After his defeat in California in 1999, Bob moved to Texas where he held the position of Assessor."
+    },
+    {
+        "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
+        "Question": "In which year did Bob possibly stay out of political office, given the provided sequence of events?",
+        "Answer choices": [
+            "1999",
+            "2004",
+            "2005",
+            "2011"
+        ],
+        "Answer": "2005",
+        "Reasoning": "Bob was elected as an assessor in 2004 in Texas and moved to New York in 2006. Since his New York election was in 2006, there's a year gap in 2005 where he was likely not in office."
+    },
+    {
+        "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
+        "Question": "How many years was Bob possibly in Colorado before he became a senator?",
+        "Answer choices": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "Answer": "1",
+        "Reasoning": "Bob moved to Colorado in 2011 and became a senator in 2012, hence he spent about 1 year in Colorado before becoming a senator."
+    },
+    {
+        "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
+        "Question": "Before being elected president, which state was Bob's last workplace?",
+        "Answer choices": [
+            "New York",
+            "Texas",
+            "California",
+            "Colorado"
+        ],
+        "Answer": "Colorado",
+        "Reasoning": "Before being elected as president in 2016, Bob was a senator in Colorado from 2012."
+    },
+    {
+        "Story": "The biggest financial crisis that United States had ever seen began from the sunny state of Florida in July 2007, spreading like an epidemic to New York in September. Morgan, a successful entrepreneur from Chicago had been witnessing these events and by Christmas 2007, he realized the impacts of this turmoil at home. The crisis deepened in Chicago by February 2008, devastating large businesses and affecting mid-sized ones. Shaken, Morgan moved to Texas in October 2008, hoping to combat the economic downturn. Instead, by January 2009, the crisis had caught up in Texas too, forcing Morgan to reconsider options.",
+        "Question": "When did the financial crisis most likely hit Texas given Morgan's situation?",
+        "Answer Choices": [
+            "October 2008",
+            "November 2008",
+            "December 2008",
+            "January 2009"
+        ],
+        "Answer": "January 2009",
+        "Reasoning": "From the story, we know that Morgan moved to Texas in October 2008 to avoid the economic downturn. It wasn't until January 2009 that he was forced to reconsider his options because the crisis had hit Texas - indicating that the crisis most likely started impacting Texas in January 2009."
+    },
+    {
+        "Story": "The biggest financial crisis that United States had ever seen began from the sunny state of Florida in July 2007, spreading like an epidemic to New York in September. Morgan, a successful entrepreneur from Chicago had been witnessing these events and by Christmas 2007, he realized the impacts of this turmoil at home. The crisis deepened in Chicago by February 2008, devastating large businesses and affecting mid-sized ones. Shaken, Morgan moved to Texas in October 2008, hoping to combat the economic downturn. Instead, by January 2009, the crisis had caught up in Texas too, forcing Morgan to reconsider options.",
+        "Question": "How long was Morgan in Texas before the financial crisis hit?",
+        "Answer Choices": [
+            "2 months",
+            "3 months",
+            "4 months",
+            "5 months"
+        ],
+        "Answer": "3 months",
+        "Reasoning": "From the story, we know that Morgan moved to Texas in October 2008, and the crisis hit Texas in January 2009. Counting the months from October to January, we can deduce that Morgan was in Texas for three months before the crisis hit."
+    },
+    {
+        "Story": "The biggest financial crisis that United States had ever seen began from the sunny state of Florida in July 2007, spreading like an epidemic to New York in September. Morgan, a successful entrepreneur from Chicago had been witnessing these events and by Christmas 2007, he realized the impacts of this turmoil at home. The crisis deepened in Chicago by February 2008, devastating large businesses and affecting mid-sized ones. Shaken, Morgan moved to Texas in October 2008, hoping to combat the economic downturn. Instead, by January 2009, the crisis had caught up in Texas too, forcing Morgan to reconsider options.",
+        "Question": "By Christmas 2007, what were the states experiencing financial crisis based on Morgan's observation?",
+        "Answer Choices": [
+            "Florida and New York",
+            "Florida, New York, and Chicago",
+            "Florida and Chicago",
+            "New York and Chicago"
+        ],
+        "Answer": "Florida and New York",
+        "Reasoning": "From the story, we know Morgan is from Chicago, a city not a state, and he realizes the impacts of the crisis at home only by Christmas 2007. The story mentions that Florida and New York had already been affected by July and September 2007 respectively. So, it is likely that only Florida and New York, were the states experiencing crisis by Christmas 2007."
+    },
+    {
+        "Story": "The biggest financial crisis that United States had ever seen began from the sunny state of Florida in July 2007, spreading like an epidemic to New York in September. Morgan, a successful entrepreneur from Chicago had been witnessing these events and by Christmas 2007, he realized the impacts of this turmoil at home. The crisis deepened in Chicago by February 2008, devastating large businesses and affecting mid-sized ones. Shaken, Morgan moved to Texas in October 2008, hoping to combat the economic downturn. Instead, by January 2009, the crisis had caught up in Texas too, forcing Morgan to reconsider options.",
+        "Question": "Where was Morgan when he realized the impacts of the crisis?",
+        "Answer Choices": [
+            "Florida",
+            "New York",
+            "Chicago",
+            "Texas"
+        ],
+        "Answer": "Chicago",
+        "Reasoning": "In the story, it is mentioned that Morgan, a successful entrepreneur from Chicago realized the impacts of this turmoil at home by Christmas 2007. This suggests that he was in Chicago when he realized the impacts of the crisis."
+    },
+    {
+        "Story": "The biggest financial crisis that United States had ever seen began from the sunny state of Florida in July 2007, spreading like an epidemic to New York in September. Morgan, a successful entrepreneur from Chicago had been witnessing these events and by Christmas 2007, he realized the impacts of this turmoil at home. The crisis deepened in Chicago by February 2008, devastating large businesses and affecting mid-sized ones. Shaken, Morgan moved to Texas in October 2008, hoping to combat the economic downturn. Instead, by January 2009, the crisis had caught up in Texas too, forcing Morgan to reconsider options.",
+        "Question": "When did Morgan first witness the impact of the financial crisis?",
+        "Answer Choices": [
+            "July 2007",
+            "September 2007",
+            "Christmas 2007",
+            "February 2008"
+        ],
+        "Answer": "July 2007",
+        "Reasoning": "The story states that the financial crisis began in Florida in July 2007. Additionally, it stated that Morgan, a successful entrepreneur, had been witnessing these events. Therefore, we can infer that Morgan first witnessed the impact of the crisis in July 2007."
+    },
+    {
+        "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
+        "Question": "Considering that Andrew wants to rest for a day after his travel, what is the latest date he should leave Florence?",
+        "Answer choices": [
+            "31 October",
+            "1 November",
+            "2 November",
+            "3 November"
+        ],
+        "Answer": "1 November",
+        "Reasoning": "Andrew has to be in Rome by the 4th of November at the latest in order to rest for a day before the festival which starts on the 5th. The journey from Florence to Rome takes 2 hours, so technically he should leave on the 2nd to be within his timeline. However, to have a full day of rest, he must leave Florence no later than the 1st of November."
+    },
+    {
+        "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
+        "Question": "If no train is operated after 6 pm due to maintenance, what is the latest time Andrew can leave from Naples in order to reach Florence the same day?",
+        "Answer choices": [
+            "12 pm",
+            "1 pm",
+            "2 pm",
+            "3 pm"
+        ],
+        "Answer": "1 pm",
+        "Reasoning": "The journey from Naples to Florence requires roughly 5 hours. Considering the train operations cease after 6 pm, he should make sure he leaves at least 5 hours before this time. Therefore, 1 pm is the latest time he can leave Naples."
+    },
+    {
+        "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
+        "Question": "If Andrew leaves Naples at 10 am and plans to spend an hour in Florence for meals, at what time will he reach Rome at the earliest?",
+        "Answer choices": [
+            "5 pm",
+            "6 pm",
+            "7 pm",
+            "8 pm"
+        ],
+        "Answer": "6 pm",
+        "Reasoning": "The journey from Naples to Florence is 5 hours and the trip from Florence to Rome is another 2 hours. Added to this is the 1-hour meal break in Florence. If he leaves at 10 am, he should reach Rome by 6 pm at the earliest."
+    },
+    {
+        "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
+        "Question": "Assuming Andrew's return journey is the same and he needs 2 days to recover from the travel fatigue, on what date will Andrew be back in Naples?",
+        "Answer choices": [
+            "8 November",
+            "9 November",
+            "10 November",
+            "11 November"
+        ],
+        "Answer": "10 November",
+        "Reasoning": "The festival ends on the 8th of November, as he stays for 3 days after its commencement on the 5th. The return journey being similar to the to-journey will take about 1 day. Including the 2 recovery days, Andrew should be back in Naples by the 10th of November."
+    },
+    {
+        "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
+        "Question": "What will be the duration of Andrew's entire trip, including traveling, attending the festival, and recovery days?",
+        "Answer choices": [
+            "10 days",
+            "11 days",
+            "12 days",
+            "13 days"
+        ],
+        "Answer": "12 days",
+        "Reasoning": "Andrew starts his journey on the 30th of October and reaches back in Naples on the 10th of November considering travel time, the festival, and recovery time. This makes his entire trip a duration of 12 days."
+    }
+]
