@@ -2,7 +2,7 @@
     {
         "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
         "Question": "How much time did Ramesh spend in Uttar Pradesh in total between attending the festival and visiting Agra?",
-        "Answer choices": [
+        "Answer Choices": [
             "Less than a month",
             "About a month",
             "More than a month",
@@ -14,7 +14,7 @@
     {
         "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
         "Question": "If Ramesh wanted to visit a friend in Guwahati, Assam before returning to Delhi, by approximately which date should he leave from Ziro festival?",
-        "Answer choices": [
+        "Answer Choices": [
             "25th May",
             "28th May",
             "1st June",
@@ -26,7 +26,7 @@
     {
         "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
         "Question": "Approximately how many months did Ramesh spend travelling in total from attending the Lucknow festival to returning from Ziro festival?",
-        "Answer choices": [
+        "Answer Choices": [
             "4 months",
             "5 months",
             "6 months",
@@ -38,7 +38,7 @@
     {
         "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
         "Question": "If Ramesh had to be in Delhi within three days of leaving the Arunachal Pradesh festival, when should he have left the Ziro festival at the latest?",
-        "Answer choices": [
+        "Answer Choices": [
             "27th May",
             "28th May",
             "29th May",
@@ -50,7 +50,7 @@
     {
         "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
         "Question": "Where was Ramesh, in the month of April?",
-        "Answer choices": [
+        "Answer Choices": [
             "Delhi",
             "Uttar Pradesh",
             "Agra",
@@ -62,7 +62,7 @@
     {
         "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
         "Question": "If Mary wants to stay the entire duration of the Festival of Arts, when is the earliest date she should leave for Rome?",
-        "Answer choices": [
+        "Answer Choices": [
             "20 July",
             "23 July",
             "22 July",
@@ -74,7 +74,7 @@
     {
         "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
         "Question": "If she plans to explore Rome for two days before the art exhibition, when should Mary reach Rome at latest?",
-        "Answer choices": [
+        "Answer Choices": [
             "23 July",
             "24 July",
             "21 July",
@@ -86,7 +86,7 @@
     {
         "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
         "Question": "If Mary wishes to devote five days to absorb and enjoy the art festival of Paris, on which date she should start attending the Festival?",
-        "Answer choices": [
+        "Answer Choices": [
             "14 July",
             "16 July",
             "18 July",
@@ -98,7 +98,7 @@
     {
         "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
         "Question": "If she plans to stay in Rome for three days post the exhibition, when should she return to Los Angeles at the earliest?",
-        "Answer choices": [
+        "Answer Choices": [
             "27 July",
             "28 July",
             "29 July",
@@ -110,7 +110,7 @@
     {
         "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
         "Question": "How many total days will Mary spend in traveling if considering only one-way travel i.e., from Los Angeles to Paris and from Paris to Rome?",
-        "Answer choices": [
+        "Answer Choices": [
             "11 hours",
             "22 hours",
             "1 day",
@@ -122,7 +122,7 @@
     {
         "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
         "Question": "What is the latest time Maria should leave D.C. on the 2nd of July if she plans to be in New York City by 6pm for the pre-celebration?",
-        "Answer choices": [
+        "Answer Choices": [
             "11am",
             "12pm",
             "1pm",
@@ -134,7 +134,7 @@
     {
         "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
         "Question": "If Maria plans to return to D.C. on the 5th of July and it takes the same amount of time to travel back, what is the latest time she should leave New York City to be back in D.C. by 10pm?",
-        "Answer choices": [
+        "Answer Choices": [
             "3pm",
             "4pm",
             "5pm",
@@ -146,7 +146,7 @@
     {
         "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
         "Question": "If Maria was running late for her return journey and left New York City at 7pm, at what time would she reach Washington D.C.?",
-        "Answer choices": [
+        "Answer Choices": [
             "11pm",
             "12am",
             "1am",
@@ -158,7 +158,7 @@
     {
         "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
         "Question": "If Maria decides to visit her aunt in Philadelphia before going to New York City, and the detour adds an additional 2 hours to her travel time, when should she leave D.C. to reach New York by 6pm?",
-        "Answer choices": [
+        "Answer Choices": [
             "10am",
             "11am",
             "12pm",
@@ -170,7 +170,7 @@
     {
         "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
         "Question": "If Maria's train is delayed by 30 minutes, at what time would she reach New York City?",
-        "Answer choices": [
+        "Answer Choices": [
             "5:30pm",
             "6:30pm",
             "7:30pm",
@@ -182,7 +182,7 @@
     {
         "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
         "Question": "When will the events shift back to the Market square after the theater performance?",
-        "Answer choices": [
+        "Answer Choices": [
             "3rd July",
             "5th July",
             "7th July",
@@ -194,7 +194,7 @@
     {
         "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
         "Question": "If an attendee wanted to visit the local theater for the play, which dates should they attend the festival?",
-        "Answer choices": [
+        "Answer Choices": [
             "1st and 2nd July",
             "2nd and 3rd July",
             "3rd and 4th July",
@@ -206,7 +206,7 @@
     {
         "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
         "Question": "What is the earliest time an event would be scheduled at Market Square on July 6th?",
-        "Answer choices": [
+        "Answer Choices": [
             "12 am",
             "7 am",
             "10 am",
@@ -218,7 +218,7 @@
     {
         "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
         "Question": "If a visitor can only spend 3 days at the festival, which dates should they choose to experience both the Market Square events and the theater performance?",
-        "Answer choices": [
+        "Answer Choices": [
             "2nd, 3rd, and 4th July",
             "3rd, 4th, and 5th July",
             "4th, 5th, and 6th July",
@@ -230,7 +230,7 @@
     {
         "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
         "Question": "By what date would all the festival activities at the local theatre be completed?",
-        "Answer choices": [
+        "Answer Choices": [
             "2nd July",
             "3rd July",
             "4th July",
@@ -242,7 +242,7 @@
     {
         "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
         "Question": "What could be a plausible date of the festival?",
-        "Answer choices": [
+        "Answer Choices": [
             "2 October",
             "15 October",
             "9 October",
@@ -254,7 +254,7 @@
     {
         "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
         "Question": "Where do participants move after leaving Hollywood sign?",
-        "Answer choices": [
+        "Answer Choices": [
             "Paramount Studios",
             "San Francisco",
             "The adjacent camping area",
@@ -266,7 +266,7 @@
     {
         "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
         "Question": "When does the celebration ceremony for the winner takes place?",
-        "Answer choices": [
+        "Answer Choices": [
             "1 day after the race",
             "1 week after the race",
             "Same day in the evening",
@@ -278,7 +278,7 @@
     {
         "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
         "Question": "When do the participants from San Francisco arrive in Los Angeles?",
-        "Answer choices": [
+        "Answer Choices": [
             "2 days before the race",
             "4 days before the race",
             "Same day as the race",
@@ -290,7 +290,7 @@
     {
         "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
         "Question": "If the race day is on 10th of October, when is the probable arrival day of San Francisco's participants in Los Angeles?",
-        "Answer choices": [
+        "Answer Choices": [
             "4 October",
             "6 October",
             "8th October",
@@ -482,7 +482,7 @@
     {
         "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
         "Question": "If Antony spends a whole day for each rally, on which date should Antony reach Bristol, considering 1 day for travel?",
-        "Answer choices": [
+        "Answer Choices": [
             "June 9th",
             "June 6th",
             "June 7th",
@@ -494,7 +494,7 @@
     {
         "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
         "Question": "What is the first city on Antony's itinerary in the second week of his campaign?",
-        "Answer choices": [
+        "Answer Choices": [
             "London",
             "Leeds",
             "Southampton",
@@ -506,7 +506,7 @@
     {
         "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
         "Question": "Which city is Antony planning to visit on June 5th?",
-        "Answer choices": [
+        "Answer Choices": [
             "Bristol",
             "Leeds",
             "Newcastle",
@@ -518,7 +518,7 @@
     {
         "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
         "Question": "Considering his campaign plan, which would be the last city Antony visits before he heads to London?",
-        "Answer choices": [
+        "Answer Choices": [
             "Manchester",
             "Sheffield",
             "Birmingham",
@@ -530,7 +530,7 @@
     {
         "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
         "Question": "On which date Antony will finish his campaign in Southampton?",
-        "Answer choices": [
+        "Answer Choices": [
             "25th May",
             "24th May",
             "26th May",
@@ -542,7 +542,7 @@
     {
         "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
         "Question": "In which state did Bob spend the longest period of his political career?",
-        "Answer choices": [
+        "Answer Choices": [
             "California",
             "Texas",
             "New York",
@@ -554,7 +554,7 @@
     {
         "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
         "Question": "What political position did Bob held after he moved from California?",
-        "Answer choices": [
+        "Answer Choices": [
             "President",
             "Senator",
             "Assessor",
@@ -566,7 +566,7 @@
     {
         "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
         "Question": "In which year did Bob possibly stay out of political office, given the provided sequence of events?",
-        "Answer choices": [
+        "Answer Choices": [
             "1999",
             "2004",
             "2005",
@@ -578,7 +578,7 @@
     {
         "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
         "Question": "How many years was Bob possibly in Colorado before he became a senator?",
-        "Answer choices": [
+        "Answer Choices": [
             "0",
             "1",
             "2",
@@ -590,7 +590,7 @@
     {
         "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
         "Question": "Before being elected president, which state was Bob's last workplace?",
-        "Answer choices": [
+        "Answer Choices": [
             "New York",
             "Texas",
             "California",
@@ -662,7 +662,7 @@
     {
         "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
         "Question": "Considering that Andrew wants to rest for a day after his travel, what is the latest date he should leave Florence?",
-        "Answer choices": [
+        "Answer Choices": [
             "31 October",
             "1 November",
             "2 November",
@@ -674,7 +674,7 @@
     {
         "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
         "Question": "If no train is operated after 6 pm due to maintenance, what is the latest time Andrew can leave from Naples in order to reach Florence the same day?",
-        "Answer choices": [
+        "Answer Choices": [
             "12 pm",
             "1 pm",
             "2 pm",
@@ -686,7 +686,7 @@
     {
         "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
         "Question": "If Andrew leaves Naples at 10 am and plans to spend an hour in Florence for meals, at what time will he reach Rome at the earliest?",
-        "Answer choices": [
+        "Answer Choices": [
             "5 pm",
             "6 pm",
             "7 pm",
@@ -698,7 +698,7 @@
     {
         "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
         "Question": "Assuming Andrew's return journey is the same and he needs 2 days to recover from the travel fatigue, on what date will Andrew be back in Naples?",
-        "Answer choices": [
+        "Answer Choices": [
             "8 November",
             "9 November",
             "10 November",
@@ -710,7 +710,7 @@
     {
         "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
         "Question": "What will be the duration of Andrew's entire trip, including traveling, attending the festival, and recovery days?",
-        "Answer choices": [
+        "Answer Choices": [
             "10 days",
             "11 days",
             "12 days",

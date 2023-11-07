@@ -9470,77 +9470,77 @@
 {
     "Story": "In the late 1970s, the city of Seoul, South Korea's capital, became a hub of cultural revolutions, with multiple art movements being born. Among them, the Minjung art movement inaugurated in Seoul's urban setting in the early 80s, with artists expressing resistance against the socio-political norms. However, by the mid 90s, the movement migrated to the more traditional city of Gwangju, known for the infamous Gwangju Uprising. The shift brought a new narrative to the movement, intertwining it with the city's tragic history. This transition made the movement even more powerful and influential in Korea's cultural development.",
     "Question": "Where did the Minjung art movement find more influence?",
-    "Answer choices": ["Seoul", "Busan", "Incheon", "Gwangju"],
+    "Answer Choices": ["Seoul", "Busan", "Incheon", "Gwangju"],
     "Answer": "Gwangju",
     "Reasoning": "Although the Minjung art movement started in Seoul, the story indicates that its transition to Gwangju made it more powerful and influential."
 },
 {
     "Story": "In the late 1970s, the city of Seoul, South Korea's capital, became a hub of cultural revolutions, with multiple art movements being born. Among them, the Minjung art movement inaugurated in Seoul's urban setting in the early 80s, with artists expressing resistance against the socio-political norms. However, by the mid 90s, the movement migrated to the more traditional city of Gwangju, known for the infamous Gwangju Uprising. The shift brought a new narrative to the movement, intertwining it with the city's tragic history. This transition made the movement even more powerful and influential in Korea's cultural development.",
     "Question": "When did the Minjung art movement start evolving in Gwangju?",
-    "Answer choices": ["Late 70s", "Early 80s", "Late 80s", "Mid 90s"],
+    "Answer Choices": ["Late 70s", "Early 80s", "Late 80s", "Mid 90s"],
     "Answer": "Mid 90s",
     "Reasoning": "The story outlines that by the mid 90s, the Minjung Art movement had migrated to Gwangju."
 },
 {
     "Story": "In the late 1970s, the city of Seoul, South Korea's capital, became a hub of cultural revolutions, with multiple art movements being born. Among them, the Minjung art movement inaugurated in Seoul's urban setting in the early 80s, with artists expressing resistance against the socio-political norms. However, by the mid 90s, the movement migrated to the more traditional city of Gwangju, known for the infamous Gwangju Uprising. The shift brought a new narrative to the movement, intertwining it with the city's tragic history. This transition made the movement even more powerful and influential in Korea's cultural development.",
     "Question": "When did Seoul become a center for cultural revolutions?",
-    "Answer choices": ["Early 70s", "Late 70s", "Early 80s", "Late 80s"],
+    "Answer Choices": ["Early 70s", "Late 70s", "Early 80s", "Late 80s"],
     "Answer": "Late 70s",
     "Reasoning": "The story mentions that Seoul became a hub for cultural revolutions in the late 1970s."
 },
 {
     "Story": "In the late 1970s, the city of Seoul, South Korea's capital, became a hub of cultural revolutions, with multiple art movements being born. Among them, the Minjung art movement inaugurated in Seoul's urban setting in the early 80s, with artists expressing resistance against the socio-political norms. However, by the mid 90s, the movement migrated to the more traditional city of Gwangju, known for the infamous Gwangju Uprising. The shift brought a new narrative to the movement, intertwining it with the city's tragic history. This transition made the movement even more powerful and influential in Korea's cultural development.",
     "Question": "Which event is Gwangju known for?",
-    "Answer choices": ["Seoul Uprising", "Gwangju Uprising", "Busan Rebellion", "Incheon Revolution"],
+    "Answer Choices": ["Seoul Uprising", "Gwangju Uprising", "Busan Rebellion", "Incheon Revolution"],
     "Answer": "Gwangju Uprising",
     "Reasoning": "The story makes it clear that Gwangju is known for the infamous Gwangju Uprising."
 },
 {
     "Story": "In the late 1970s, the city of Seoul, South Korea's capital, became a hub of cultural revolutions, with multiple art movements being born. Among them, the Minjung art movement inaugurated in Seoul's urban setting in the early 80s, with artists expressing resistance against the socio-political norms. However, by the mid 90s, the movement migrated to the more traditional city of Gwangju, known for the infamous Gwangju Uprising. The shift brought a new narrative to the movement, intertwining it with the city's tragic history. This transition made the movement even more powerful and influential in Korea's cultural development.",
     "Question": "Which movement was expressed against the socio-political norms?",
-    "Answer choices": ["Gwangju Uprising", "Seoul Movement", "Minjung art movement", "Incheon Rebellion"],
+    "Answer Choices": ["Gwangju Uprising", "Seoul Movement", "Minjung art movement", "Incheon Rebellion"],
     "Answer": "Minjung art movement",
     "Reasoning": "The story points out that the Minjung art movement began as resistance against socio-political norms."
 },
 {
     "Story": "In the late 1970s, the city of Seoul, South Korea's capital, became a hub of cultural revolutions, with multiple art movements being born. Among them, the Minjung art movement inaugurated in Seoul's urban setting in the early 80s, with artists expressing resistance against the socio-political norms. However, by the mid 90s, the movement migrated to the more traditional city of Gwangju, known for the infamous Gwangju Uprising. The shift brought a new narrative to the movement, intertwining it with the city's tragic history. This transition made the movement even more powerful and influential in Korea's cultural development.",
     "Question": "Where did the Minjung art movement originate?",
-    "Answer choices": ["Gwangju", "Seoul", "Busan", "Incheon"],
+    "Answer Choices": ["Gwangju", "Seoul", "Busan", "Incheon"],
     "Answer": "Seoul",
     "Reasoning": "The story mentions that the Minjung art movement was commenced in Seoul's urban setting."
 },
 {
     "Story": "In the late 1970s, the city of Seoul, South Korea's capital, became a hub of cultural revolutions, with multiple art movements being born. Among them, the Minjung art movement inaugurated in Seoul's urban setting in the early 80s, with artists expressing resistance against the socio-political norms. However, by the mid 90s, the movement migrated to the more traditional city of Gwangju, known for the infamous Gwangju Uprising. The shift brought a new narrative to the movement, intertwining it with the city's tragic history. This transition made the movement even more powerful and influential in Korea's cultural development.",
     "Question": "When did the Minjung art movement begin in Seoul?",
-    "Answer choices": ["Late 70s", "Early 80s", "Late 80s", "Early 90s"],
+    "Answer Choices": ["Late 70s", "Early 80s", "Late 80s", "Early 90s"],
     "Answer": "Early 80s",
     "Reasoning": "The story states that Minjung art movement was born in the early 80s in Seoul."
 },
 {
     "Story": "In the late 1970s, the city of Seoul, South Korea's capital, became a hub of cultural revolutions, with multiple art movements being born. Among them, the Minjung art movement inaugurated in Seoul's urban setting in the early 80s, with artists expressing resistance against the socio-political norms. However, by the mid 90s, the movement migrated to the more traditional city of Gwangju, known for the infamous Gwangju Uprising. The shift brought a new narrative to the movement, intertwining it with the city's tragic history. This transition made the movement even more powerful and influential in Korea's cultural development.",
     "Question": "On moving to Gwangju, the cultural movement intertwined its narrative with what?",
-    "Answer choices": ["City's urban setting", "Gwangju Uprising", "City's modern history", "City's tragic history"],
+    "Answer Choices": ["City's urban setting", "Gwangju Uprising", "City's modern history", "City's tragic history"],
     "Answer": "City's tragic history",
     "Reasoning": "The story specifies that the movement, after moving to Gwangju, started entwining with the city's tragic history."
 },
 {
     "Story": "In the late 1970s, the city of Seoul, South Korea's capital, became a hub of cultural revolutions, with multiple art movements being born. Among them, the Minjung art movement inaugurated in Seoul's urban setting in the early 80s, with artists expressing resistance against the socio-political norms. However, by the mid 90s, the movement migrated to the more traditional city of Gwangju, known for the infamous Gwangju Uprising. The shift brought a new narrative to the movement, intertwining it with the city's tragic history. This transition made the movement even more powerful and influential in Korea's cultural development.",
     "Question": "Which city had a greater cultural influence in the late 90s?",
-    "Answer choices": ["Gwangju", "Seoul", "Busan", "Incheon"],
+    "Answer Choices": ["Gwangju", "Seoul", "Busan", "Incheon"],
     "Answer": "Gwangju",
     "Reasoning": "The story mentions that in the mid 90s, the Minjung art movement migrated to Gwangju and became more powerful and influential there."
 },
 {
     "Story": "In the late 1970s, the city of Seoul, South Korea's capital, became a hub of cultural revolutions, with multiple art movements being born. Among them, the Minjung art movement inaugurated in Seoul's urban setting in the early 80s, with artists expressing resistance against the socio-political norms. However, by the mid 90s, the movement migrated to the more traditional city of Gwangju, known for the infamous Gwangju Uprising. The shift brought a new narrative to the movement, intertwining it with the city's tragic history. This transition made the movement even more powerful and influential in Korea's cultural development.",
     "Question": "What made the cultural movement more powerful and influential?",
-    "Answer choices": ["Staying in Seoul", "Moving to Gwangju", "Incorporation of Modern Art", "Change in socio-political norms"],
+    "Answer Choices": ["Staying in Seoul", "Moving to Gwangju", "Incorporation of Modern Art", "Change in socio-political norms"],
     "Answer": "Moving to Gwangju",
     "Reasoning": "The story mentions that the transition of the movement to Gwangju made it more powerful and influential."
 },
 {
     "Story": "During the 50s, Korea underwent the Korean Wave on a large scale, particularly in Seoul, which changed the country's music scene permanently. In the 70s, Korea experienced another cultural revolution, the film renaissance in Busan, where cinematic innovations reshaped Korean cinema. In the early 80s, Daegu became the home of the Korean fashion revolution, as renowned Korean designers emerged from this city. Heading North to Gyeonggi in the late 90s, the digital revolution started, which brought a new wave of change in Korea's information technology landscape. All these cultural revolutions took place sequentially and had massive influences on Korean lifestyle and outlook.",
     "Question": "Which city became famous for cinematic innovation during the cultural revolutions?",
-    "Answer choices": ["Seoul", "Busan", "Daegu", "Gyeonggi"],
+    "Answer Choices": ["Seoul", "Busan", "Daegu", "Gyeonggi"],
     "Answer": "Busan",
     "Reasoning": "In the story, it's mentioned that during the 70s, Korea experienced another cultural revolution, the film renaissance in Busan, which indicates that Busan is the city that became famous for cinematic innovation."
 }
