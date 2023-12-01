@@ -1,0 +1,702 @@
+[
+    {
+        "Story": "The Jones family, residing in the vast farmlands of New York, held their annual autumn harvest festival on September 23, 2020. This 3-day event was attended by local farmers and citizens, who marveled at the rows of red apples and golden corn in the sprawling, scenic farmlands. However, on the second day, September 24, a sudden storm brewed, forcing the festival to move to the grand, rustic barn in the farm's southeastern region. Undeterred by the change, the event resumed the following morning of September 25, buzzing with excitement and laughter once more.",
+        "Question": "On which day did the harvest festival move to the barn due to the storm?",
+        "Answer Choices": ["September 23, 2020", "September 24, 2020", "September 25, 2020", "September 26, 2020"],
+        "Answer": "September 24, 2020",
+        "Reasoning": "From the story, it was the second day of the festival, September 24, when a sudden storm forced the event to be moved to the barn."
+    },
+    {
+        "Story": "The Jones family, residing in the vast farmlands of New York, held their annual autumn harvest festival on September 23, 2020. This 3-day event was attended by local farmers and citizens, who marveled at the rows of red apples and golden corn in the sprawling, scenic farmlands. However, on the second day, September 24, a sudden storm brewed, forcing the festival to move to the grand, rustic barn in the farm's southeastern region. Undeterred by the change, the event resumed the following morning of September 25, buzzing with excitement and laughter once more.",
+        "Question": "What was the duration of the Jones family's annual autumn harvest festival?",
+        "Answer Choices": ["1 day", "2 days", "3 days", "4 days"],
+        "Answer": "3 days",
+        "Reasoning": "According to the story, the harvest festival was a three-day event."
+    },
+    {
+        "Story": "The Jones family, residing in the vast farmlands of New York, held their annual autumn harvest festival on September 23, 2020. This 3-day event was attended by local farmers and citizens, who marveled at the red apples and golden corn in the sprawling, scenic farmlands. However, on the second day, September 24, a sudden storm brewed, forcing the festival to move to the grand, rustic barn in the farm's southeastern region. Undeterred by the change, the event resumed the following morning of September 25, buzzing with excitement and laughter once more.",
+        "Question": "In what direction of the farm was the grand, rustic barn located where the festival continued during the storm?",
+        "Answer Choices": ["Northwestern", "Western", "Southwestern", "Southeastern"],
+        "Answer": "Southeastern",
+        "Reasoning": "The story mentions that the festival was moved to the grand, rustic barn in the farm's southeastern region due to the storm."
+    },
+    {
+        "Story": "The Jones family, residing in the vast farmlands of New York, held their annual autumn harvest festival on September 23, 2020. This 3-day event was attended by local farmers and citizens, who marveled at the red apples and golden corn in the sprawling, scenic farmlands. However, on the second day, September 24, a sudden storm brewed, forcing the festival to move to the grand, rustic barn in the farm's southeastern region. Undeterred by the change, the event resumed the following morning of September 25, buzzing with excitement and laughter once more.",
+        "Question": "Where was the initial location of the festival before the storm took place?",
+        "Answer Choices": ["Grand, rustic barn", "Sprawling, scenic farmlands", "Southeastern region", "The city center"],
+        "Answer": "Sprawling, scenic farmlands",
+        "Reasoning": "Before the storm, the festival was held in the sprawling, scenic farmlands as mentioned in the passage. Due to the storm, they moved the festival to the grand, rustic barn."
+    },
+    {
+        "Story": "The Midwestern Farming Competition is a tradition for the farmers in Kansas. This event, thronged by participants from various towns, took place on March 20, 2021, in the heart of Wamego. The proceedings kicked off with a cattle show, then moved on to the dynamic corn-growing contest in the vast open fields in the north on March 21. On March 22, the event marked its end with an unanticipated twist - the crowning of the youngest champion in the history of the competition.",
+        "Question": "When did the corn-growing contest take place during the Midwest Farming Competition?",
+        "Answer Choices": ["March 20, 2021", "March 21, 2021", "March 22, 2021", "March 23, 2021"],
+        "Answer": "March 21, 2021",
+        "Reasoning": "The story clearly states that the corn-growing contest took place on March 21, 2021."
+    },
+    {
+        "Story": "The Midwestern Farming Competition is a tradition for the farmers in Kansas. This event, thronged by participants from various towns, took place on March 20, 2021, in the heart of Wamego. The proceedings kicked off with a cattle show, then moved on to the dynamic corn-growing contest in the vast open fields in the north on March 21. On March 22, the event marked its end with an unanticipated twist - the crowning of the youngest champion in the history of the competition.",
+        "Question": "How long did the Midwestern Farming Competition last?",
+        "Answer Choices": ["1 day", "2 days", "3 days", "4 days"],
+        "Answer": "3 days",
+        "Reasoning": "The competition started on March 20, 2021 and ended on March 22, 2021, lasting for a total of 3 days."
+    },
+    {
+        "Story": "The Midwestern Farming Competition is a tradition for the farmers in Kansas. This event, thronged by participants from various towns, took place on March 20, 2021, in the heart of Wamego. The proceedings kicked off with a cattle show, then moved on to the dynamic corn-growing contest in the vast open fields in the north on March 21. On March 22, the event marked its end with an unanticipated twist - the crowning of the youngest champion in the history of the competition.",
+        "Question": "Where was the corn-growing contest held in relation to the location of the competition?",
+        "Answer Choices": ["In the south of Wamego","In the east of Wamego","In the west of Wamego","In the north of Wamego"],
+        "Answer": "In the north of Wamego",
+        "Reasoning": "The story states that after the cattle show, the event moved to the dynamic corn-growing contest in the vast open fields in the north"
+    },
+    {
+        "Story": "The Midwestern Farming Competition is a tradition for the farmers in Kansas. This event, thronged by participants from various towns, took place on March 20, 2021, in the heart of Wamego. The proceedings kicked off with a cattle show, then moved on to the dynamic corn-growing contest in the vast open fields in the north on March 21. On March 22, the event marked its end with an unanticipated twist - the crowning of the youngest champion in the history of the competition.",
+        "Question": "Where was the Midwestern Farming Competition held?",
+        "Answer Choices": ["In the fields of Kansas","In the heart of Wamego","In various towns","On the northern fields"],
+        "Answer": "In the heart of Wamego",
+        "Reasoning": "The story mentions that the Midwestern Farming Competition took place in the heart of Wamego."
+    },
+    {
+        "Story": "The farmers of the quaint French village, La Beauce, are known for their summer grape harvest festival 'Fête des Raisins' - an event that occurs every year during the first week of August. On August 3, 2019, the village was a splash of vibrant colors as the farmers gathered in the central vineyard, displaying scores of grape varieties. The next day, the festivities moved to the rustic winery to the east, where the villagers indulged in wine-tasting till dusk. On August 5, the festival concluded with a spectacular firework display, lighting up the night sky over the sleepy village.",
+        "Question": "What is the chronological order of events that happened during the 'Fête des Raisins' in 2019?",
+        "Answer Choices": ["Farmers gathered in vineyard, Firework display, Wine tasting in winery", "Wine tasting in winery, Farmers gathered in vineyard, Firework display", "Farmers gathered in vineyard, Wine tasting in winery, Firework display", "Wine tasting in winery, Firework display, Farmers gathered in vineyard"],
+        "Answer": "Farmers gathered in vineyard, Wine tasting in winery, Firework display",
+        "Reasoning": "The story mentions that on August 3, farmers gathered in the central vineyard. The next day, the villagers moved to the winery for wine tasting. The festival concluded on August 5 with a firework display."
+    },
+    {
+        "Story": "The farmers of the quaint French village, La Beauce, are known for their summer grape harvest festival 'Fête des Raisins' - an event that occurs every year during the first week of August. On August 3, 2019, the village was a splash of vibrant colors as the farmers gathered in the central vineyard, displaying scores of grape varieties. The next day, the festivities moved to the rustic winery to the east, where the villagers indulged in wine-tasting till dusk. On August 5, the festival concluded with a spectacular firework display, lighting up the night sky over the sleepy village.",
+        "Question": "How many days did the 'Fête des Raisins' 2019 festival take place as per the story?",
+        "Answer Choices": ["2 days", "3 days", "4 days", "5 days"],
+        "Answer": "3 days",
+        "Reasoning": "The story mentions that the festival started on August 3, continued to the next day (August 4), where wine-tasting took place, and concluded with a firework display on August 5. Hence, the festival took place over three days."
+    },
+    {
+        "Story": "The farmers of the quaint French village, La Beauce, are known for their summer grape harvest festival 'Fête des Raisins' - an event that occurs every year during the first week of August. On August 3, 2019, the village was a splash of vibrant colors as the farmers gathered in the central vineyard, displaying scores of grape varieties. The next day, the festivities moved to the rustic winery to the east, where the villagers indulged in wine-tasting till dusk. On August 5, the festival concluded with a spectacular firework display, lighting up the night sky over the sleepy village.",
+        "Question": "Where were the two main locations of the festivities during the 'Fête des Raisins' in the village of La Beauce?",
+        "Answer Choices": ["the central vineyard and the church", "the famous bakery and the village square", "the central vineyard and the rustic winery to the east", "the village square and the rustic winery to the east"],
+        "Answer": "the central vineyard and the rustic winery to the east",
+        "Reasoning": "The story mentions that the farmers gathered in the central vineyard on August 3rd and the next day the festivities moved to the rustic winery to the east."
+    },
+    {
+        "Story": "The farmers of the quaint French village, La Beauce, are known for their summer grape harvest festival 'Fête des Raisins' - an event that occurs every year during the first week of August. On August 3, 2019, the village was a splash of vibrant colors as the farmers gathered in the central vineyard, displaying scores of grape varieties. The next day, the festivities moved to the rustic winery to the east, where the villagers indulged in wine-tasting till dusk. On August 5, the festival concluded with a spectacular firework display, lighting up the night sky over the sleepy village.",
+        "Question": "Considering the directions provided in the story, where might the winery be located relative to the central vineyard?",
+        "Answer Choices": ["to the west of the vineyard", "to the north of the vineyard", "to the east of the vineyard", "to the south of the vineyard"],
+        "Answer": "to the east of the vineyard",
+        "Reasoning": "According to the story, the 'Fête des Raisins' festivities moved to the rustic winery to the east after the gathering in the central vineyard."
+    },
+    {
+        "Story": "The Annual Agricultural Fair in Hampshire, England, is a key event in the community's calendar, attracting farmers and locals from neighboring counties. The 2019 event held on July 14, began in the lush green fields situated in the township's western outskirts. The fair then expanded to the central, bustling market square on July 15, where an enticing array of farm products was showcased. Finally, on July 16, the fair's grand finale took place at the historic barn in the northern part of town, wrapping up the festivities with an award ceremony.",
+        "Question": "Over how many days did the Agricultural Fair take place?",
+        "Answer Choices": ["Two days", "Three days", "Four days", "Five days"],
+        "Answer": "Three days",
+        "Reasoning": "The story mentions that the fair began on July 14 and ended on July 16, which equates to a total of three days."
+    },
+    {
+        "Story": "The Annual Agricultural Fair in Hampshire, England, is a key event in the community's calendar, attracting farmers and locals from neighboring counties. The 2019 event held on July 14, began in the lush green fields situated in the township's western outskirts. The fair then expanded to the central, bustling market square on July 15, where an enticing array of farm products was showcased. Finally, on July 16, the fair's grand finale took place at the historic barn in the northern part of town, wrapping up the festivities with an award ceremony.",
+        "Question": "What was the chronological order of the locations for the fair?",
+        "Answer Choices": ["Western Outskirts, Market Square, Northern Part", "Northern Part, Western Outskirts, Market Square", "Market Square, Western Outskirts, Northern Part", "Western Outskirts, Northern Part, Market Square"],
+        "Answer": "Western Outskirts, Market Square, Northern Part",
+        "Reasoning": "The story mentions that the fair started in the fields in the western outskirts on July 14, moved to the market square on July 15, and concluded in the northern part of the town on July 16. Hence, the order is as per the dates mentioned."
+    },
+    {
+        "Story": "The Annual Agricultural Fair in Hampshire, England, is a key event in the community's calendar, attracting farmers and locals from neighboring counties. The 2019 event held on July 14, began in the lush green fields situated in the township's western outskirts. The fair then expanded to the central, bustling market square on July 15, where an enticing array of farm products was showcased. Finally, on July 16, the fair's grand finale took place at the historic barn in the northern part of town, wrapping up the festivities with an award ceremony.",
+        "Question": "What is the final location for the fair, and where was it relative to the other locations?",
+        "Answer Choices": ["Southern outskirts of town; near the market", "Central market square; between the fields and the barn", "Historic barn; at the northern part of town and away from the other locations", "Lush green fields; at the city's west and closest to the barn"],
+        "Answer": "Historic barn; at the northern part of town and away from the other locations",
+        "Reasoning": "The story provides that the fair ended at the historic barn situated in the northern part of town, which is after it was held at the fields on the western outskirts and the market square in the center of the town."
+    },
+    {
+        "Story": "The Annual Agricultural Fair in Hampshire, England, is a key event in the community's calendar, attracting farmers and locals from neighboring counties. The 2019 event held on July 14, began in the lush green fields situated in the township's western outskirts. The fair then expanded to the central, bustling market square on July 15, where an enticing array of farm products was showcased. Finally, on July 16, the fair's grand finale took place at the historic barn in the northern part of town, wrapping up the festivities with an award ceremony.",
+        "Question": "In which part of the town is each stage of the agricultural fair located?",
+        "Answer Choices": ["Fields: East; Market square: South; Barn: West", "Fields: North; Market square: Center; Barn: South", "Fields: West; Market square: Center; Barn: North", "Fields: South; Market square: West; Barn: East"],
+        "Answer": "Fields: West; Market square: Center; Barn: North",
+        "Reasoning": "The story mentions that the fair started in the lush green fields situated in the township's western outskirts, then moved to the central, bustling market square and finally ended at the historic barn in the northern part of town."
+    },
+    {
+        "Story": "Every year in December, the Australian town of Yarra Valley hosts a unique Farmer's Holiday Market, which showcases the splendid diversity of its local products. On December 5, 2020, the rural roads of Yarra Valley were lined with colorful stalls exhibiting a variety of fruits, vegetables, cheeses, wines, and much more. The following day, all the activities were moved to the vibrant town center, where a friendly cooking competition was organized. On December 7, the market concluded in the southern park, with an enchanting evening of musical performances and crafts.",
+        "Question": "On which date was the friendly cooking competition organized during the Farmer's Holiday Market in Yarra Valley?",
+        "Answer Choices": ["December 5, 2020", "December 6, 2020", "December 7, 2020", "December 8, 2020"],
+        "Answer": "December 6, 2020",
+        "Reasoning": "According to the story, the cooking competition was organized the day after December 5, which is December 6."
+    },    
+    {
+        "Story": "Every year in December, the Australian town of Yarra Valley hosts a unique Farmer's Holiday Market, which showcases the splendid diversity of its local products. On December 5, 2020, the rural roads of Yarra Valley were lined with colorful stalls exhibiting a variety of fruits, vegetables, cheeses, wines, and much more. The following day, all the activities were moved to the vibrant town center, where a friendly cooking competition was organized. On December 7, the market concluded in the southern park, with an enchanting evening of musical performances and crafts.",
+        "Question": "What was the event that concluded the Farmer's Holiday Market in Yarra Valley on December 7, 2020?",
+        "Answer Choices": ["A cooking competition", "An evening of musical performances and crafts", "An exhibition of local products", "None of the above"],
+        "Answer": "An evening of musical performances and crafts",
+        "Reasoning": "The story states that the Farmer's Holiday Market concluded with an enchanting evening of musical performances and crafts on December 7."
+    },
+    {
+        "Story": "Every year in December, the Australian town of Yarra Valley hosts a unique Farmer's Holiday Market, which showcases the splendid diversity of its local products. On December 5, 2020, the rural roads of Yarra Valley were lined with colorful stalls exhibiting a variety of fruits, vegetables, cheeses, wines, and much more. The following day, all the activities were moved to the vibrant town center, where a friendly cooking competition was organized. On December 7, the market concluded in the southern park, with an enchanting evening of musical performances and crafts.",
+        "Question": "What two places hosted the Farmer's Holiday Market over the course of three days?",
+        "Answer Choices": ["Town Center and Rural Roads", "Rural Roads and Southern Park", "Town Center and Southern Park", "Rural Roads and Northern Park"],
+        "Answer": "Rural Roads and Southern Park",
+        "Reasoning": "From the story, on the first day, December 5, 2020, the rural roads hosted the market with numerous stalls. On the last day, December 7, the market concluded at the southern park with musical performances and crafts."
+    },
+    {
+        "Story": "Every year in December, the Australian town of Yarra Valley hosts a unique Farmer's Holiday Market, which showcases the splendid diversity of its local products. On December 5, 2020, the rural roads of Yarra Valley were lined with colorful stalls exhibiting a variety of fruits, vegetables, cheeses, wines, and much more. The following day, all the activities were moved to the vibrant town center, where a friendly cooking competition was organized. On December 7, the market concluded in the southern park, with an enchanting evening of musical performances and crafts.",
+        "Question": "Where was the friendly cooking competition organized during the Farmer's Holiday Market?",
+        "Answer Choices": ["Rural Roads", "Town Center", "Southern Park", "Northern Park"],
+        "Answer": "Town Center",
+        "Reasoning": "The story mentions that the cooking competition was moved to the vibrant town center on the day following December 5, 2020."
+    },
+    {
+        "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+        "Question": "When did Mary fly to New York for a book signing event at Barnes & Noble?",
+        "Answer Choices": ["July 12th", "July 13th", "July 14th", "July 15th"],
+        "Answer": "July 13th",
+        "Reasoning": "From the story, it is stated that Mary flew to New York for the book signing event the day after the international literary conference which was on July 12th, hence she flew on the July 13th."
+    },
+    {
+        "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+        "Question": "What was the date and time for the book signing event at Barnes & Noble in New York?",
+        "Answer Choices": ["July 13th at 5 pm", "July 14th at 5 pm", "July 15th at 5 pm", "July 16th at 5 pm"],
+        "Answer": "July 14th at 5 pm",
+        "Reasoning": "The book signing event in New York at Barnes & Noble was stated in the story to be scheduled for July 14th at 5 pm."
+    },
+    {
+        "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+        "Question": "When did Mary conduct an online publishing workshop for upcoming writers in Seattle?",
+        "Answer Choices": ["July 14th at 7 pm", "July 15th at 7 pm", "July 16th at 7 pm", "July 17th at 7 pm"],
+        "Answer": "July 15th at 7 pm",
+        "Reasoning": "From the story, it is stated that Mary conducted an online publishing workshop in Seattle the same evening she travelled back to Boston which is on July 15th, hence it was on July 15th at 7 pm."
+    },
+    {
+        "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+        "Question": "When did the hectic week of literary and publishing events end for Mary?",
+        "Answer Choices": ["July 13th", "July 14th", "July 15th", "July 16th"],
+        "Answer": "July 16th",
+        "Reasoning": "The story mentioned that the week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th, hence the events ended on July 16th."
+    },
+    {
+        "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+        "Question": "Which of these cities did Mary not visit physically during the described events?",
+        "Answer Choices": ["London", "New York", "Boston", "Seattle"],
+        "Answer": "Seattle",
+        "Reasoning": "Though Mary conducted a workshop for writers in Seattle, it was online, so she did not have to physically be in the city."
+    },
+    {
+        "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+        "Question": "In which city did the last event of Mary's week take place?",
+        "Answer Choices": ["London", "New York", "Boston", "Seattle"],
+        "Answer": "Boston",
+        "Reasoning": "The last event mentioned in the text is a book club meeting which happened at the Boston public library."
+    },
+    {
+        "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+        "Question": "Where was Mary on July 14th?",
+        "Answer Choices": ["London", "New York", "Boston", "Seattle"],
+        "Answer": "New York",
+        "Reasoning": "Just after arriving on July 13th, she had a book signing event scheduled in New York at Barnes and Noble on July 14th, so she was in New York."
+    },
+    {
+        "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+        "Question": "For which city's residents did Mary conduct an online publishing workshop?",
+        "Answer Choices": ["London", "New York", "Boston", "Seattle"],
+        "Answer": "Seattle",
+        "Reasoning": "As mentioned in the text, the publishing workshop conducted by Mary was for the upcoming writers in Seattle."
+    },
+    {
+        "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+        "Question": "How long was John at the Frankfurt Book Fair?",
+        "Answer Choices": ["4 days", "5 days", "6 days", "7 days"],
+        "Answer": "5 days",
+        "Reasoning": "The Frankfurt Book Fair was held from October 11th to October 15th, which is a span of 5 days."
+    },
+    {
+        "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+        "Question": "How many days did John spend in Vienna?",
+        "Answer Choices": ["7 days", "8 days", "9 days", "10 days"],
+        "Answer": "8 days",
+        "Reasoning": "John arrived in Vienna on October 18th and left on October 26th, which is a span of 8 days."
+    },
+    {
+        "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+        "Question": "When did John speak at a masterclass about publishing ethics?",
+        "Answer Choices": ["October 17th", "October 18th", "October 19th", "October 20th"],
+        "Answer": "October 19th",
+        "Reasoning": "The story mentions that John spoke at a masterclass about publishing ethics on October 19th."
+    },
+    {
+        "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+        "Question": "When did John return to San Francisco?",
+        "Answer Choices": ["October 24th", "October 25th", "October 26th", "October 27th"],
+        "Answer": "October 26th",
+        "Reasoning": "The story mentions that John returned to San Francisco on October 26th."
+    },
+    {
+        "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+        "Question": "What was John's first destination when he embarked on his literary tour across Europe in the spring of 2017?",
+        "Answer Choices": ["Paris", "Vienna", "Frankfurt", "San Francisco"],
+        "Answer": "Frankfurt",
+        "Reasoning": "In the story, it is stated that John's first stop was at the Frankfurt Book Fair in Germany."
+    },
+    {
+        "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+        "Question": "In which city did John participate in a round table conference about the future of publishing?",
+        "Answer Choices": ["Frankfurt", "Vienna", "Paris", "San Francisco"],
+        "Answer": "Paris",
+        "Reasoning": "The story mentions that John travelled to Paris to attend a round table conference about the future of publishing."
+    },
+    {
+        "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+        "Question": "Where did John speak at a masterclass about publishing ethics?",
+        "Answer Choices": ["Frankfurt", "Vienna", "Paris", "San Francisco"],
+        "Answer": "Vienna",
+        "Reasoning": "According to the story, John flew to Vienna to speak at a masterclass about publishing ethics."
+    },
+    {
+        "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+        "Question": "Where did John visit after going to Paris?",
+        "Answer Choices": ["Frankfurt", "Vienna", "San Francisco", "Rome"],
+        "Answer": "Vienna",
+        "Reasoning": "In the storyline, it is clearly stated that after Paris, John flew to Vienna."
+    },
+    {
+        "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+        "Question": "What was the first event Linda attended in February?",
+        "Answer Choices": ["Jaipur Literature Festival", "Sydney Writers Festival", "Manga publishing expo", "Author meet-and-greet in Singapore"],
+        "Answer": "Sydney Writers Festival",
+        "Reasoning": "The story clearly mentions that Linda started her month with the Sydney Writers Festival on February 1st, which makes it the first event she attended."
+    },
+    {
+        "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+        "Question": "When did Linda leave for Tokyo?",
+        "Answer Choices": ["February 1st", "February 5th", "February 6th", "February 8th"],
+        "Answer": "February 5th",
+        "Reasoning": "According to the story, Linda jetted off to Tokyo on February 5th to attend a manga publishing expo."
+    },
+    {
+        "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+        "Question": "How many days did the Jaipur Literature Festival last?",
+        "Answer Choices": ["5 days", "6 days", "7 days", "8 days"],
+        "Answer": "6 days",
+        "Reasoning": "The story informs that the Jaipur Literature Festival started on February 9th and ended on February 14th. So, it lasted for 6 days."
+    },
+    {
+        "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+        "Question": "When did Linda return to Sydney?",
+        "Answer Choices": ["February 14th", "February 15th", "February 16th", "February 17th"],
+        "Answer": "February 16th",
+        "Reasoning": "In the story, it is stated that Linda returned home (Sydney) on February 16th."
+    },
+    {
+        "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+        "Question": "Which was the first international city Linda visited in her busy February 2022 schedule?",
+        "Answer Choices": ["New Delhi", "Tokyo", "Sydney", "Singapore"],
+        "Answer": "Tokyo",
+        "Reasoning": "According to the story, after starting her month in Sydney, the first city she travelled to was Tokyo to attend a manga publishing expo."
+    },
+    {
+        "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+        "Question": "Where was Linda when the Jaipur Literature Festival started on February 9th?",
+        "Answer Choices": ["Sydney", "Tokyo", "New Delhi", "Singapore"],
+        "Answer": "New Delhi",
+        "Reasoning": "Referencing the story, Linda arrived in New Delhi by February 8th to attend the Jaipur Literature Festival which started on February 9th."
+    },
+    {
+        "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+        "Question": "On February 15th, 2022 where was Linda located?",
+        "Answer Choices": ["Sydney", "Tokyo", "New Delhi", "Singapore"],
+        "Answer": "Singapore",
+        "Reasoning": "As per the story, before returning home, Linda went to Singapore for a meet-and-greet at Kinokuniya bookstore on February 15th."
+    },
+    {
+        "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+        "Question": "Where did Linda go after the manga publishing expo?",
+        "Answer Choices": ["Sydney", "Tokyo", "New Delhi", "Singapore"],
+        "Answer": "New Delhi",
+        "Reasoning": "Based on the story, Linda travelled to New Delhi for the Jaipur Literature Festival after attending the manga publishing expo in Tokyo."
+    },
+    {
+        "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+        "Question": "How many days did Chris spend on his cross-country trip before returning to Los Angeles?",
+        "Answer Choices": ["6 days", "9 days", "10 days", "12 days"],
+        "Answer": "10 days",
+        "Reasoning": "Chris began his journey on December 1 and ended on December 10. To calculate the total number of days, simply subtract the first day from the last, which results in 10 days."
+    },
+    {
+        "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+        "Question": "What was the duration, in days, between Chris's visit to the Book Launch in Miami and the Pacific Northwest Booksellers Association meeting in Seattle?",
+        "Answer Choices": ["2 days", "5 days", "7 days", "6 days"],
+        "Answer": "5 days",
+        "Reasoning": "Chris attended the book launch in Miami on December 1st and attended the Pacific Northwest Booksellers Association meeting in Seattle on December 6th. So, the duration between these two events is 6-1=5 days."
+    },
+    {
+        "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+        "Question": "How many days passed between the writer's pitch event at the New York Public Library and Chris's return to Los Angeles?",
+        "Answer Choices": ["3 days", "4 days", "6 days", "7 days"],
+        "Answer": "6 days",
+        "Reasoning": "Chris attended the writers' pitch event at the New York Public Library on December 4th and came back to Los Angeles on December 10th. So, the number of days that passed between these two events is 10-4=6 days."
+    },
+    {
+        "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+        "Question": "What was the order of cities based on when the agent visited them in December 2019?",
+        "Answer Choices": ["Miami, New York, Seattle, Los Angeles", "Los Angeles, Seattle, New York, Miami", "New York, Miami, Seattle, Los Angeles", "Seattle, Miami, New York, Los Angeles"],
+        "Answer": "Miami, New York, Seattle, Los Angeles",
+        "Reasoning": "According to the story, his journey started on December 1st in Miami, then he visited New York on December 4th, after that he flew to Seattle on December 6th, and finally returned to Los Angeles on December 10th."
+    },
+    {
+        "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+        "Question": "Where did the agent spend the least amount of time during his December 2019 trip?",
+        "Answer Choices": ["Miami", "New York", "Seattle", "Los Angeles"],
+        "Answer": "Seattle",
+        "Reasoning": "Based on the given timeline, Chris only stayed in Seattle for 4 days (from December 6th to December 10th), whereas he stayed for longer in the other cities."
+    },
+    {
+        "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+        "Question": "Which event did the agent attend last during his whirlwind trip?",
+        "Answer Choices": ["Book launch in Miami", "Writers' pitch event at New York Public Library", "Pacific Northwest Booksellers Association meeting in Seattle", "Holiday bash in Los Angeles"],
+        "Answer": "Holiday bash in Los Angeles",
+        "Reasoning": "The story mentions that the agent hosted a holiday bash in Los Angeles on December 10th, which is the latest date given in the story, indicating it was the last event he attended."
+    },
+    {
+        "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+        "Question": "Where did Rachel travel after hosting interviews at the Edinburgh International Book Festival?",
+        "Answer Choices": ["Nairobi International Book Fair", "London", "Brooklyn Book Festival", "None of the above"],
+        "Answer": "Nairobi International Book Fair",
+        "Reasoning": "The story states that after Edinburgh, Rachel traveled to Kenya for the Nairobi International Book Fair."
+    },
+    {
+        "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+        "Question": "What was the last event Rachel attended before returning to London?",
+        "Answer Choices": ["Edinburgh International Book Festival", "Nairobi International Book Fair", "Brooklyn Book Festival", "None of the above"],
+        "Answer": "Brooklyn Book Festival",
+        "Reasoning": "The story mentions that after being in New York for the Brooklyn Book Festival, Rachel returned to London."
+    },
+    {
+        "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+        "Question": "Which city did Rachel visit on September 12th?",
+        "Answer Choices": ["Edinburgh", "Nairobi", "New York", "London"],
+        "Answer": "New York",
+        "Reasoning": "As per the story, Rachel was in New York to cover the Brooklyn Book Festival on September 12th."
+    },
+    {
+        "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+        "Question": "Where was Rachel before she arrived in Kenya?",
+        "Answer Choices": ["Edinburgh", "Brooklyn", "London", "None of the above"],
+        "Answer": "Edinburgh",
+        "Reasoning": "According to the story, Rachel was at the Edinburgh International Book Festival before she traveled to Kenya."
+    },
+    {
+        "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+        "Question": "Where was Rachel's final destination after her international journey?",
+        "Answer Choices": ["Edinburgh", "New York", "London", "Nairobi"],
+        "Answer": "London",
+        "Reasoning": "The story concludes with Rachel returning to her home, London, on September 20th after her international journey."
+    },
+    {
+        "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+        "Question": "How many days after the Edinburgh International Book Festival did Rachel travel to Kenya for the Nairobi International Book Fair?",
+        "Answer Choices": ["3 days", "4 days", "5 days", "6 days"],
+        "Answer": "4 days",
+        "Reasoning": "The Edinburgh International Book Festival was on September 1st and the Nairobi International Book Fair was on September 5th. So, Rachel traveled to Kenya 4 days after the festival in Scotland."
+    },
+    {
+        "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+        "Question": "How many days after the Nairobi International Book Fair did Rachel find herself in New York for the Brooklyn Book Festival?",
+        "Answer Choices": ["7 days", "6 days", "8 days", "9 days"],
+        "Answer": "7 days",
+        "Reasoning": "The Nairobi International Book Fair was on September 5th and the Brooklyn Book Festival happens on September 12th. Thus, a week or 7 days later, she was in New York."
+    },
+    {
+        "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+        "Question": "How long did Rachel stay in New York before returning to London?",
+        "Answer Choices": ["7 days", "8 days", "9 days", "10 days"],
+        "Answer": "8 days",
+        "Reasoning": "Rachel covered the Brooklyn Book Festival in New York on September 12th and returned to London on September 20th. So, she stayed in New York for 8 days."
+    },
+    {
+        "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+        "Question": "What was the length of Rachel's whole trip, from the Edinburgh International Book Festival to her return to London?",
+        "Answer Choices": ["19 days", "20 days", "21 days", "22 days"],
+        "Answer": "19 days",
+        "Reasoning": "Rachel's trip started with her interview in Edinburgh on September 1st and ended with her return to London on September 20th. So, the entire trip lasted for 19 days."
+    },
+    {
+        "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+        "Question": "How many days after covering the Brooklyn Book Festival did Rachel return to London?",
+        "Answer Choices": ["7 days", "8 days", "9 days", "10 days"],
+        "Answer": "8 days",
+        "Reasoning": "The Brooklyn Book Festival was on September 12th and she returned to London on September 20th. So, Rachel got back 8 days after the festival in New York."
+    },
+    {
+        "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+        "Question": "When did the legal case known as 'The Savoy Affair' start?",
+        "Answer Choices": ["January 15, 2018", "July 20, 2019", "January 15, 2019", "September 30, 2019"],
+        "Answer": "January 15, 2019",
+        "Reasoning": "The date when 'The Savoy Affair' started is clearly mentioned in the first sentence."
+    },
+    {
+        "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+        "Question": "How long after the start of the trial did the important witness disappear?",
+        "Answer Choices": ["Six months", "Five months and five days", "Seven months and five days", "Three months"],
+        "Answer": "Five months and five days",
+        "Reasoning": "The trial started on January 15, 2019, and the witness disappeared on July 20, 2019. Thus, the witness disappeared five months and five days after the start of the trial."
+    },
+    {
+        "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+        "Question": "When was proof of the missing witness' whereabouts found?",
+        "Answer Choices": ["July 20, 2019", "August 2019", "September 30, 2019", "January 15, 2019"],
+        "Answer": "August 2019",
+        "Reasoning": "It is mentioned in the story that evidence of the missing witness's whereabouts was found in Darwin in August."
+    },
+    {
+        "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+        "Question": "How long was the period between the disappearance of the witness and the finding of his whereabouts?",
+        "Answer Choices": ["One month", "Two months", "Three months", "Less than a month"],
+        "Answer": "Less than a month",
+        "Reasoning": "The witness disappeared on July 20, 2019, and evidence of his whereabouts was found in August 2019. Which is less than a month."
+    },
+    {
+        "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+        "Question": "How long did 'The Savoy Affair' last from start to end?",
+        "Answer Choices": ["Eight months and 15 days", "Six months", "Seven months", "Eight months"],
+        "Answer": "Eight months and 15 days",
+        "Reasoning": "The trial started on January 15, 2019, and the verdict was announced on September 30, 2019. Thus, it lasted for eight months and 15 days."
+    },
+    {
+        "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+        "Question": "Where was the legal case known as 'The Savoy Affair' started?",
+        "Answer Choices": ["Melbourne", "Sydney", "Darwin", "Canberra"],
+        "Answer": "Melbourne",
+        "Reasoning": "The information mentioned directly in the initial part of the story that 'The Savoy Affair' started in Melbourne, Australia."
+    },
+    {
+        "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+        "Question": "In which city did the important witness disappear?",
+        "Answer Choices": ["Melbourne", "Sydney", "Darwin", "Canberra"],
+        "Answer": "Sydney",
+        "Reasoning": "The text reveals that on July 20, 2019, an important witness disappeared mysteriously in Sydney."
+    },
+    {
+        "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+        "Question": "Where was the proof of the disappeared witness's whereabouts found?",
+        "Answer Choices": ["Melbourne", "Sydney", "Darwin", "Canberra"],
+        "Answer": "Darwin",
+        "Reasoning": "In the story, it's stated that the investigation resumed and proof of his whereabouts was found at Darwin in August."
+    },
+    {
+        "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+        "Question": "Where was the verdict of 'The Savoy Affair' announced?",
+        "Answer Choices": ["Melbourne", "Sydney", "Darwin", "Canberra"],
+        "Answer": "Melbourne",
+        "Reasoning": "The final part of the story states that the verdict was announced at the court in Melbourne."
+    },
+    {
+        "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+        "Question": "In which city did new evidence emerge which contributed to the final verdict?",
+        "Answer Choices": ["Melbourne", "Sydney", "Darwin", "Canberra"],
+        "Answer": "Darwin",
+        "Reasoning": "The text mentions that owing to new evidence from Darwin, the court in Melbourne announced the verdict."
+    },
+    {
+        "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+        "Question": "When did the court proceeding initially begin?",
+        "Answer Choices": ["April 19, 2020", "September 1, 2020", "October 2, 2020", "January 25, 2021"],
+        "Answer": "April 19, 2020",
+        "Reasoning": "The story clearly mentions that the court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020."
+    },
+    {
+        "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+        "Question": "When was the case moved to the Montgomery County Courthouse?",
+        "Answer Choices": ["April 19, 2020", "September 1, 2020", "December 24, 2020", "January 25, 2021"],
+        "Answer": "September 1, 2020",
+        "Reasoning": "The case was moved to the Montgomery County Courthouse on September 1, 2020 according to the story."
+    },
+    {
+        "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+        "Question": "When did the jurors return to Croydon?",
+        "Answer Choices": ["October 2, 2020", "December 24, 2020", "January 25, 2021", "They never returned"],
+        "Answer": "December 24, 2020",
+        "Reasoning": "It is mentioned that the jury, who had been in California, returned to Croydon late at night on December 24."
+    },
+    {
+        "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+        "Question": "When was the verdict of the case reached?",
+        "Answer Choices": ["October 2, 2020", "December 24, 2020", "January 25, 2021", "The verdict was not reached"],
+        "Answer": "January 25, 2021",
+        "Reasoning": "The verdict was reached on January 25, 2021 back in the original courthouse in Croydon."
+    },
+    {
+        "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+        "Question": "When were the jurors flown to Sacramento, California?",
+        "Answer Choices": ["September 1, 2020", "October 2, 2020", "December 24, 2020", "January 25, 2021"],
+        "Answer": "October 2, 2020",
+        "Reasoning": "The jurors were flown to Sacramento, California on October 2, 2020, as mentioned in the story."
+    },
+    {
+        "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+        "Question": "Where did the court proceeding originally begin before it moved to Montgomery County Courthouse?",
+        "Answer Choices": ["Sacramento, California", "Croydon, Pennsylvania", "Montgomery County", "Norristown"],
+        "Answer": "Croydon, Pennsylvania",
+        "Reasoning": "The story mentions that the court proceedings originally began in Croydon, Pennsylvania before it was moved to the Montgomery County Courthouse."
+    },
+    {
+        "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+        "Question": "Where were the jurors flown to, where a crucial piece of evidence had been found?",
+        "Answer Choices": ["Croydon, Pennsylvania", "Montgomery County", "Norristown", "Sacramento, California"],
+        "Answer": "Sacramento, California",
+        "Reasoning": "The jurors were flown to Sacramento, California where they discovered a crucial piece of evidence."
+    },
+    {
+        "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+        "Question": "On what date did the jury return to Croydon?",
+        "Answer Choices": ["September 1, 2020", "October 2, 2020", "December 24, 2020", "January 25, 2021"],
+        "Answer": "December 24, 2020",
+        "Reasoning": "The story indicates that the jury returned to Croydon late at night on December 24."
+    },
+    {
+        "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+        "Question": "Where did the case conclude and a verdict was reached?",
+        "Answer Choices": ["Croydon, Pennsylvania", "Sacramento, California", "Norristown", "Montgomery County"],
+        "Answer": "Croydon, Pennsylvania",
+        "Reasoning": "The case concluded and a verdict was reached back in the original courthouse, which is located in Croydon, Pennsylvania."
+    },
+    {
+        "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+        "Question": "Where did the proceedings move to from Bucks County Court of Common Pleas?",
+        "Answer Choices": ["Norristown", "Sacramento, California", "Montgomery County Courthouse", "Croydon, Pennsylvania"],
+        "Answer": "Montgomery County Courthouse",
+        "Reasoning": "The case was moved to the Montgomery County Courthouse after it started at the Bucks County Court of Common Pleas."
+    },
+    {
+        "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+        "Question": "How many months after the start of the international tribunal did the case move to the International Court of Justice in The Hague?",
+        "Answer Choices": ["2 months", "3 months", "4 months", "5 months"],
+        "Answer": "3 months",
+        "Reasoning": "The international tribunal started in March, and the case moved to The Hague in June, that's a difference of three months."
+    },
+    {
+         "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+         "Question": "In what month was a key document discovered that disrupted the legal proceedings?",
+         "Answer Choices": ["June", "July", "August", "September"],
+         "Answer": "July",
+         "Reasoning": "The story states that a key document was discovered in Paris, France in July."
+    },
+    {
+        "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+        "Question": "How much time passed between the start of the international tribunal and the delivery of the historic ruling?",
+        "Answer Choices": ["8 months", "9 months", "10 months", "11 months"],
+        "Answer": "8 months",
+        "Reasoning": "The tribunal started in March 2018 and the ruling was delivered in November 2018, a total of 8 months."
+    },
+    {
+        "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+        "Question": "How many months after the discovery of the key document was the historic ruling delivered?",
+        "Answer Choices": ["3 months", "4 months", "5 months", "6 months"],
+        "Answer": "4 months",
+        "Reasoning": "The key document was discovered in July, and the ruling was delivered in November, that's a difference of four months."
+    },
+    {
+        "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+        "Question": "When did the case switch to the French Supreme Court?",
+        "Answer Choices": ["June 30", "July 1", "August 20", "September 15"],
+        "Answer": "August 20",
+        "Reasoning": "The story states that the court session switched to the French Supreme Court on August 20th."
+    },
+    {
+        "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+        "Question": "Where did the international tribunal first start?",
+        "Answer Choices": ["International Court of Justice in The Hague, Netherlands", "French Supreme Court, Paris, France", "Palazzo di Giustizia, Rome, Italy", "No specific location given"],
+        "Answer": "Palazzo di Giustizia, Rome, Italy",
+        "Reasoning": "The story clearly mentions that the international tribunal started in Rome, Italy at the Palazzo di Giustizia."
+    },
+    {
+        "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+        "Question": "Which court held the session after the discovery of the key document in Paris?",
+        "Answer Choices": ["French Supreme Court, Paris, France", "International Court of Justice in The Hague, Netherlands", "No court held a session", "Palazzo di Giustizia, Rome, Italy"],
+        "Answer": "French Supreme Court, Paris, France",
+        "Reasoning": "The story mentions that after a key document was discovered in Paris, the court session shifted to the French Supreme Court."
+    },
+    {
+        "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+        "Question": "Where was the case moved to after more parties got involved?",
+        "Answer Choices": ["International Court of Justice in The Hague, Netherlands", "French Supreme Court, Paris, France", "Palazzo di Giustizia, Rome, Italy", "The case wasn't moved"],
+        "Answer": "International Court of Justice in The Hague, Netherlands",
+        "Reasoning": "The story states that as more parties got involved, the case was moved to the International Court of Justice in The Hague, Netherlands."
+    },
+    {
+        "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+        "Question": "In what city was a key document discovered that disrupted the legal proceedings?",
+        "Answer Choices": ["Paris, France", "Rome, Italy", "The Hague, Netherlands", "No specific city mentioned"],
+        "Answer": "Paris, France",
+        "Reasoning": "The story explicitly mentions that the legal proceedings were disrupted when a key document was discovered in Paris, France."
+    },
+    {
+        "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+        "Question": "What time was the historic ruling delivered?",
+        "Answer Choices": ["3 pm", "No specific time given", "12 pm", "6 pm"],
+        "Answer": "3 pm",
+        "Reasoning": "The story clearly states that the historic ruling was delivered at 3 pm."
+    },
+    {
+        "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+        "Question": "How long did it take for the case to move from the Karnataka High Court to the Supreme Court of India?",
+        "Answer Choices": ["3 months", "10 days", "almost 4 months", "1 year"],
+        "Answer": "almost 4 months",
+        "Reasoning": "The case began at the Karnataka High Court on February 5, 2004 and was moved to the Supreme Court of India on May 27, 2004 which is close to 4 months."
+    },
+    {
+        "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+        "Question": "When was the judgement of the case announced?",
+        "Answer Choices": ["December 1, 2004", "May 27, 2004", "March 6, 2005", "February 5, 2004"],
+        "Answer": "March 6, 2005",
+        "Reasoning": "The story states that the court announced its judgement on March 6, 2005."
+    },
+    {
+        "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+        "Question": "How much time elapsed between the unexpected twist with the whistleblower and the case being taken up by the International Court of Arbitration?",
+        "Answer Choices": ["1 month", "nearly 3 months", "2 weeks", "half a year"],
+        "Answer": "nearly 3 months",
+        "Reasoning": "The unexpected twist occurred on September 12 and the case was taken up by the International Court of Arbitration on December 1st, which is approximately a 3 month period."
+    },
+    {
+        "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+        "Question": "When did the whistleblower provide additional evidence?",
+        "Answer Choices": ["May 27, 2004", "December 1, 2004", "February 5, 2004", "September 12, 2004"],
+        "Answer": "September 12, 2004",
+        "Reasoning": "The story states that a breakthrough whistleblower provided additional evidence on September 12, 2004."
+    },
+    {
+        "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+        "Question": "How long did the overall case last from when it began at the Karnataka High Court to when the final judgement was announced?",
+        "Answer Choices": ["1 year and 1 month", "About a year", "6 months", "3 months"],
+        "Answer": "About a year",
+        "Reasoning": "The case began at the Karnataka High Court on February 5, 2004 and the final judgement was announced on March 6, 2005. This is roughly a period of one year."
+    },
+    {
+        "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+        "Question": "Where was the trial moved to from the Karnataka High Court,Bangalore?",
+        "Answer Choices": ["Supreme Court of India, Delhi", "High Court, agra", "International Court of Arbitration, London", "none of the above"],
+        "Answer": "Supreme Court of India, Delhi",
+        "Reasoning": "The story states the trial was moved to the Supreme Court of India in Delhi from the Karnataka High Court."
+    },
+    {
+        "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+        "Question": "Where was the case taken up after being in the Supreme Court of India?",
+        "Answer Choices": ["High Court, agra", "International Court of Arbitration, London", "Karnataka High Court,Bangalore", "none of the above"],
+        "Answer": "International Court of Arbitration, London",
+        "Reasoning": "According to the story, after the case was heard in the Supreme Court of India, it was taken up by the International Court of Arbitration in London."
+    },
+    {
+        "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+        "Question": "Where was the lawsuit first filed?",
+        "Answer Choices": ["Karnataka High Court, Bangalore", "Supreme Court of India, Delhi", "High Court, agra", "International Court of Arbitration, London"],
+        "Answer": "Karnataka High Court, Bangalore",
+        "Reasoning": "The story states that the high-stakes fraud case began at the Karnataka High Court in Bangalore."
+    },
+    {
+        "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+        "Question": "From which location was additional evidence provided by the whistleblower?",
+        "Answer Choices": ["Delhi, India", "Bangalore, India", "London, UK", "Agra, India"],
+        "Answer": "London, UK",
+        "Reasoning": "The story elaborates on an unexpected event where a whistleblower from London, UK, provided additional evidence."
+    },
+    {
+        "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+        "Question": "Where was the final judgment in favor of the whistleblower announced?",
+        "Answer Choices": ["Karnataka High Court, Bangalore", "Supreme Court of India, Delhi", "High Court, Agra", "International Court of Arbitration, London"],
+        "Answer": "International Court of Arbitration, London",
+        "Reasoning": "The final decision in favor of the whistleblower was announced at the International Court of Arbitration in London as per the story."
+    }
+]
