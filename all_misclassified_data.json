@@ -1,0 +1,1842 @@
+[
+    {
+        "data": {
+            "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+            "Question": "How much time did Ramesh spend in Uttar Pradesh in total between attending the festival and visiting Agra?",
+            "Answer Choices": [
+                "Less than a month",
+                "About a month",
+                "More than a month",
+                "Two months"
+            ],
+            "Answer": "About a month",
+            "Reasoning": "Ramesh travelled to Uttar Pradesh in February and stayed there for the duration of the Lucknow Literature Festival until 14th February, after which he visited Agra. If he returned to Delhi in mid-March, he approximately spent one month in Uttar Pradesh."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+            "Question": "If Ramesh wanted to visit a friend in Guwahati, Assam before returning to Delhi, by approximately which date should he leave from Ziro festival?",
+            "Answer Choices": [
+                "25th May",
+                "28th May",
+                "1st June",
+                "5th June"
+            ],
+            "Answer": "28th May",
+            "Reasoning": "The Ziro Festival in Arunachal Pradesh ended on the 27th of May and Ramesh returned to Delhi in the end of June. Therefore, if Ramesh had wished to spend some additional time in Assam, he would have needed to leave Arunachal Pradesh as soon as possible after the festival, which would be 28th May."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+            "Question": "Approximately how many months did Ramesh spend travelling in total from attending the Lucknow festival to returning from Ziro festival?",
+            "Answer Choices": [
+                "4 months",
+                "5 months",
+                "6 months",
+                "7 months"
+            ],
+            "Answer": "4 months",
+            "Reasoning": "Ramesh first travelled from Delhi to Uttar Pradesh to attend the festival in February, returned to Delhi in March, then went to Arunachal Pradesh in May and returned back to Delhi in June. If we consider these months as the duration of his travel, it totals to approximately 4 months."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+            "Question": "If Ramesh had to be in Delhi within three days of leaving the Arunachal Pradesh festival, when should he have left the Ziro festival at the latest?",
+            "Answer Choices": [
+                "27th May",
+                "28th May",
+                "29th May",
+                "30th May"
+            ],
+            "Answer": "27th May",
+            "Reasoning": "Since Ramesh had to be in Delhi within three days of leaving the Ziro Festival in Arunachal Pradesh, and as per the story, the festival ended on the 27th of May and he travels at the end of the festival so, he would have had to leave Arunachal Pradesh on 27th May at the latest, to make it to Delhi within three days."
+        },
+        "ground_truth": 0,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+            "Question": "Where was Ramesh, in the month of April?",
+            "Answer Choices": [
+                "Delhi",
+                "Uttar Pradesh",
+                "Agra",
+                "Arunachal Pradesh"
+            ],
+            "Answer": "Delhi",
+            "Reasoning": "According to the story, after Ramesh returns from Uttar Pradesh in mid-March, he does not leave Delhi until May for the festival in Arunachal Pradesh. Hence, in April, Ramesh was in Delhi."
+        },
+        "ground_truth": 0,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
+            "Question": "If Mary wants to stay the entire duration of the Festival of Arts, when is the earliest date she should leave for Rome?",
+            "Answer Choices": [
+                "20 July",
+                "23 July",
+                "22 July",
+                "24 July"
+            ],
+            "Answer": "23 July",
+            "Reasoning": "The Festival of Arts event ends on July 22nd, so the earliest date she should leave for Rome would be the day after the festival, which is July 23rd."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
+            "Question": "If Mary wishes to devote five days to absorb and enjoy the art festival of Paris, on which date she should start attending the Festival?",
+            "Answer Choices": [
+                "14 July",
+                "16 July",
+                "18 July",
+                "17 July"
+            ],
+            "Answer": "18 July",
+            "Reasoning": "The Festival of Arts starts on the 18th of July. Thus, to devote five days to the festival, Mary should start attending the festival from its commencement i.e., from 18th July."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
+            "Question": "If she plans to stay in Rome for three days post the exhibition, when should she return to Los Angeles at the earliest?",
+            "Answer Choices": [
+                "27 July",
+                "28 July",
+                "29 July",
+                "30 July"
+            ],
+            "Answer": "28 July",
+            "Reasoning": "The exhibition in Rome is on the 25th of July, and if she plans to stay for 3 more days post-exhibition, she should be returning not before the 28th of July."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "The Festival of Arts, a prominent global event, celebrated every year, was scheduled for the 18th to 22nd of July in Paris. As an avid art lover, Mary planned to attend the festival. She lived in Los Angeles, which is approximately 11 hours apart by plane. To adjust the time zone difference and to explore the city, she decided to leave on July 11th. After enjoying the festival, she planned to visit Rome for another art exhibition opening on July 25th.",
+            "Question": "How many total days will Mary spend in traveling if considering only one-way travel i.e., from Los Angeles to Paris and from Paris to Rome?",
+            "Answer Choices": [
+                "11 hours",
+                "22 hours",
+                "1 day",
+                "2 days"
+            ],
+            "Answer": "22 hours",
+            "Reasoning": "The flight duration from LA to Paris is approximately 11 hours. After the Festival of Arts, she travels from Paris to Rome, which approximately also takes 11 hours. So, she will spend around 22 hours in total for one-way travel."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
+            "Question": "What is the latest time Maria should leave D.C. on the 2nd of July if she plans to be in New York City by 6pm for the pre-celebration?",
+            "Answer Choices": [
+                "11am",
+                "12pm",
+                "1pm",
+                "2pm"
+            ],
+            "Answer": "1pm",
+            "Reasoning": "If the travel by train takes approximately 5 hours and Maria wants to be in New York by 6pm, then she should leave D.C. by no later than 1pm to make it in time."
+        },
+        "ground_truth": 2,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
+            "Question": "If Maria decides to visit her aunt in Philadelphia before going to New York City, and the detour adds an additional 2 hours to her travel time, when should she leave D.C. to reach New York by 6pm?",
+            "Answer Choices": [
+                "10am",
+                "11am",
+                "12pm",
+                "1pm"
+            ],
+            "Answer": "11am",
+            "Reasoning": "In addition to the 5-hour travel time, the detour to Philadelphia adds an extra 2 hours in total, which means Maria would require 7 hours to reach New York. If she wants to be there by 6pm, she should leave by 11am."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
+            "Question": "If Maria's train is delayed by 30 minutes, at what time would she reach New York City?",
+            "Answer Choices": [
+                "5:30pm",
+                "6:30pm",
+                "7:30pm",
+                "8:30pm"
+            ],
+            "Answer": "6:30pm",
+            "Reasoning": "If Maria's train is delayed by half an hour on top of the 5-hour travel time, she would arrive in New York City at 6:30pm, assuming she leaves at 1pm as originally planned."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
+            "Question": "When will the events shift back to the Market square after the theater performance?",
+            "Answer Choices": [
+                "3rd July",
+                "5th July",
+                "7th July",
+                "8th July"
+            ],
+            "Answer": "5th July",
+            "Reasoning": "The festival starts on the first day of July and lasts a week (7 days). After the festival's halfway point, events are moved to the local theater for two days, which would likely be the 3rd and 4th of July. Therefore, the events would likely return to Market Square on the 5th of July."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
+            "Question": "If an attendee wanted to visit the local theater for the play, which dates should they attend the festival?",
+            "Answer Choices": [
+                "1st and 2nd July",
+                "2nd and 3rd July",
+                "3rd and 4th July",
+                "4th and 5th July"
+            ],
+            "Answer": "3rd and 4th July",
+            "Reasoning": "The festival begins on the 1st of July and, halfway through the week-long event, the festivities move to the local theater for two days. Assuming the festival is seven days long, halfway would be the mid-point between the 1st and 7th of July, which is the 3rd and 4th of July."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
+            "Question": "If a visitor can only spend 3 days at the festival, which dates should they choose to experience both the Market Square events and the theater performance?",
+            "Answer Choices": [
+                "2nd, 3rd, and 4th July",
+                "3rd, 4th, and 5th July",
+                "4th, 5th, and 6th July",
+                "5th, 6th, and 7th July"
+            ],
+            "Answer": "2nd, 3rd, and 4th July",
+            "Reasoning": "The festival schedule entails that the events take place at the Market Square until the midpoint of the festival, after which they shift to the local theater for the 'Krakowiak' play. This shift happens on the 3rd and 4th of July. So if a visitor wanted to experience events at both locations, they should visit on the 2nd (for Market Square), 3rd, and 4th (for the Theater performance) of July."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
+            "Question": "By what date would all the festival activities at the local theatre be completed?",
+            "Answer Choices": [
+                "2nd July",
+                "3rd July",
+                "4th July",
+                "5th July"
+            ],
+            "Answer": "4th July",
+            "Reasoning": "According to the story, midway through the festival (which begins on 1st July and lasts a week), all festival activities shift to the local theater for 2 days. Midway through the week would be the 3rd and 4th of July. Therefore, all theater events would be completed by the end of the day on the 4th of July."
+        },
+        "ground_truth": 2,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
+            "Question": "What could be a plausible date of the festival?",
+            "Answer Choices": [
+                "2 October",
+                "15 October",
+                "9 October",
+                "1 October"
+            ],
+            "Answer": "9 October",
+            "Reasoning": "Since it is mentioned the festival takes place on the second Saturday of October, the plausible dates can be between 8th to 14th of October. Among the given choices, 9th October fits the description."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
+            "Question": "Where do participants move after leaving Hollywood sign?",
+            "Answer Choices": [
+                "Paramount Studios",
+                "San Francisco",
+                "The adjacent camping area",
+                "Downtown LA"
+            ],
+            "Answer": "Paramount Studios",
+            "Reasoning": "In the story, it's stated that the race track starts from the Hollywood Sign, then moves south to Paramount Studios."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
+            "Question": "If the race day is on 10th of October, when is the probable arrival day of San Francisco's participants in Los Angeles?",
+            "Answer Choices": [
+                "4 October",
+                "6 October",
+                "8th October",
+                "10th October"
+            ],
+            "Answer": "6 October",
+            "Reasoning": "As per the story, participants from San Francisco usually arrive in Los Angeles 4 days before the race. So, if the race is on 10th of October, they'll likely arrive on 6th October."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "Franklin Delano Roosevelt, better known as FDR, was a prominent figure in American history. After serving as governor of New York, FDR was elected President of the United States in 1932, during the Great Depression. As president, he implemented a number of economic recovery measures known as the New Deal, from his base in the White House in Washington, D.C. He was also the leader during World War II, implementing strategies and policies from the year 1941 to 1945. In 1945, he passed away in Warm Springs, Georgia, while still in office.",
+            "Question": "Where was FDR based as he implemented the New Deal?",
+            "Answer Choices": [
+                "New York",
+                "Warm Springs",
+                "Washington D.C.",
+                "Great Depression"
+            ],
+            "Answer": "Washington D.C.",
+            "Reasoning": "The story mentions that FDR implemented the New Deal from his base in the White House, which is in Washington, D.C."
+        },
+        "ground_truth": 2,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "Franklin Delano Roosevelt, better known as FDR, was a prominent figure in American history. After serving as governor of New York, FDR was elected President of the United States in 1932, during the Great Depression. As president, he implemented a number of economic recovery measures known as the New Deal, from his base in the White House in Washington, D.C. He was also the leader during World War II, implementing strategies and policies from the year 1941 to 1945. In 1945, he passed away in Warm Springs, Georgia, while still in office.",
+            "Question": "When did the World War II end in relation to FDR's tenure as president?",
+            "Answer Choices": [
+                "Before he became president",
+                "While he was president",
+                "After he passed away",
+                "After he implemented the New Deal"
+            ],
+            "Answer": "While he was president",
+            "Reasoning": "The story mentions that FDR was the leader during World War II from 1941 to 1945, which was during his tenure as president."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "Franklin Delano Roosevelt, better known as FDR, was a prominent figure in American history. After serving as governor of New York, FDR was elected President of the United States in 1932, during the Great Depression. As president, he implemented a number of economic recovery measures known as the New Deal, from his base in the White House in Washington, D.C. He was also the leader during World War II, implementing strategies and policies from the year 1941 to 1945. In 1945, he passed away in Warm Springs, Georgia, while still in office.",
+            "Question": "Where was FDR based when he was elected president?",
+            "Answer Choices": [
+                "New York",
+                "Washington D.C.",
+                "Warm Springs",
+                "During the Great Depression"
+            ],
+            "Answer": "New York",
+            "Reasoning": "The story tells us that FDR served as the governor of New York before being elected president, so he would likely have been based in New York when he was elected."
+        },
+        "ground_truth": 0,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "The Grand Summer Sports Festival had a packed itinerary which was spread out across the city. The marathon kicked off from Downtown City Park on Monday, the 3rd of August, and concluded at Hillside Recreation Center. After the marathon, the basketball tournament started at the Riverside Gymnasium on Wednesday, 5th of August. The cycling race started from Bayfront Park on Friday, the 7th of August, and it ended at Sunshine Square. Ultimately, the closing ceremony was held after the swimming competitions at Thunder Stadium on Sunday, the 9th of August.",
+            "Question": "If someone wants to participate in both the marathon and basketball tournament, how many days they should wait after the marathon ends?",
+            "Answer Choices": [
+                "1 day",
+                "2 days",
+                "3 days",
+                "4 days"
+            ],
+            "Answer": "2 days",
+            "Reasoning": "In the story, the marathon concluded on the 3rd of August and the basketball tournament started on the 5th of August. Therefore, a participant would have to wait for 2 days."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The Grand Summer Sports Festival had a packed itinerary which was spread out across the city. The marathon kicked off from Downtown City Park on Monday, the 3rd of August, and concluded at Hillside Recreation Center. After the marathon, the basketball tournament started at the Riverside Gymnasium on Wednesday, 5th of August. The cycling race started from Bayfront Park on Friday, the 7th of August, and it ended at Sunshine Square. Ultimately, the closing ceremony was held after the swimming competitions at Thunder Stadium on Sunday, the 9th of August.",
+            "Question": "Considering the basketball tournament began two days after the marathon ended, when was the likely date for the end of the basketball tournament if they wanted to start the cycling race immediately next day?",
+            "Answer Choices": [
+                "4th August",
+                "5th August",
+                "6th August",
+                "7th August"
+            ],
+            "Answer": "6th August",
+            "Reasoning": "According to the details provided, the marathon ended on the 3rd of August, and the basketball tournament started two days later, on the 5th of August. As the cycling race began on the 7th of August, it can be deduced that the basketball tournament likely ended on 6th of August to have the cycling race begin the next day."
+        },
+        "ground_truth": 2,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "The Grand Summer Sports Festival had a packed itinerary which was spread out across the city. The marathon kicked off from Downtown City Park on Monday, the 3rd of August, and concluded at Hillside Recreation Center. After the marathon, the basketball tournament started at the Riverside Gymnasium on Wednesday, 5th of August. The cycling race started from Bayfront Park on Friday, the 7th of August, and it ended at Sunshine Square. Ultimately, the closing ceremony was held after the swimming competitions at Thunder Stadium on Sunday, the 9th of August.",
+            "Question": "If a spectator wanted to watch the basketball tournament and the closing ceremony, where would they need to go first?",
+            "Answer Choices": [
+                "Bayfront Park",
+                "Riverside Gymnasium",
+                "Hillside Recreation Center",
+                "Thunder Stadium"
+            ],
+            "Answer": "Riverside Gymnasium",
+            "Reasoning": "The basketball tournament took place at the Riverside Gymnasium before the closing ceremony held at the Thunder Stadium. Therefore, a spectator would first go to the Riverside Gymnasium."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In 1861, at the outbreak of the American Civil War, a small regiment from Maine was ordered to march to Gettysburg, Pennsylvania. The journey was estimated to take five days on foot, but due to unavoidable detours and battles, the regiment arrived two weeks later. From Gettysburg, they moved eastward to the coastal city of Baltimore, reaching their destination three weeks after the departure from Gettysburg. A few months later, during March 1862, they were shipped down to New Orleans, arriving in May after a perilous journey. By the end of 1863, the regiment returned to Maine, having witnessed and participated in numerous battles.",
+            "Question": "How much time did it take for the regiment to reach Gettysburg from Maine?",
+            "Answer Choices": [
+                "One week",
+                "Two weeks",
+                "Three weeks",
+                "One month"
+            ],
+            "Answer": "Two weeks",
+            "Reasoning": "The story states that 'The journey was estimated to take five days on foot, but due to unavoidable detours and battles, the regiment arrived two weeks later.' Thus, it took them two weeks to travel from Maine to Gettysburg."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In 1861, at the outbreak of the American Civil War, a small regiment from Maine was ordered to march to Gettysburg, Pennsylvania. The journey was estimated to take five days on foot, but due to unavoidable detours and battles, the regiment arrived two weeks later. From Gettysburg, they moved eastward to the coastal city of Baltimore, reaching their destination three weeks after the departure from Gettysburg. A few months later, during March 1862, they were shipped down to New Orleans, arriving in May after a perilous journey. By the end of 1863, the regiment returned to Maine, having witnessed and participated in numerous battles.",
+            "Question": "How long did it take the regiment to travel from Baltimore to New Orleans?",
+            "Answer Choices": [
+                "One month",
+                "Two months",
+                "Three months",
+                "It does not specify in the story"
+            ],
+            "Answer": "Two months",
+            "Reasoning": "The text mentions they left from Baltimore a few months later in March 1862 and arrived in New Orleans in May. This suggests a time frame of two months."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
+            "Question": "If Antony spends a whole day for each rally, on which date should Antony reach Bristol, considering 1 day for travel?",
+            "Answer Choices": [
+                "June 9th",
+                "June 6th",
+                "June 7th",
+                "June 8th"
+            ],
+            "Answer": "June 6th",
+            "Reasoning": "Antony starts his campaigns from June 18th. He spends a week (7 days) campaigning in Birmingham, Liverpool, and Southampton and one day each for travel from Liverpool to Birmingham, and Birmingham to Southampton. He should, therefore, be in Leeds (first city in week two) on May 26th (June 18th + 7 days + 2 days travel), and since Bristol is the last city for week two of the campaign, he should be there on June 6th."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
+            "Question": "What is the first city on Antony's itinerary in the second week of his campaign?",
+            "Answer Choices": [
+                "London",
+                "Leeds",
+                "Southampton",
+                "Birmingham"
+            ],
+            "Answer": "Leeds",
+            "Reasoning": "He planned to first visit Birmingham, Liverpool, and Southampton in the first week. And in the second week, he planned to visit Leeds, Newcastle, and Bristol in the order."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
+            "Question": "On which date Antony will finish his campaign in Southampton?",
+            "Answer Choices": [
+                "25th May",
+                "24th May",
+                "26th May",
+                "27th May"
+            ],
+            "Answer": "25th May",
+            "Reasoning": "Antony starts his campaign on the 18th. He then spends one day at each rally, plus one day travelling between each city. Therefore, Antony will finish his campaign in Southampton (the last city in week one) on May 23rd (18th + 2 days for the rallies + 2 days travel)."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
+            "Question": "What political position did Bob held after he moved from California?",
+            "Answer Choices": [
+                "President",
+                "Senator",
+                "Assessor",
+                "Mayor"
+            ],
+            "Answer": "Assessor",
+            "Reasoning": "After his defeat in California in 1999, Bob moved to Texas where he held the position of Assessor."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
+            "Question": "In which year did Bob possibly stay out of political office, given the provided sequence of events?",
+            "Answer Choices": [
+                "1999",
+                "2004",
+                "2005",
+                "2011"
+            ],
+            "Answer": "2005",
+            "Reasoning": "Bob was elected as an assessor in 2004 in Texas and moved to New York in 2006. Since his New York election was in 2006, there's a year gap in 2005 where he was likely not in office."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
+            "Question": "How many years was Bob possibly in Colorado before he became a senator?",
+            "Answer Choices": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "Answer": "1",
+            "Reasoning": "Bob moved to Colorado in 2011 and became a senator in 2012, hence he spent about 1 year in Colorado before becoming a senator."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
+            "Question": "Before being elected president, which state was Bob's last workplace?",
+            "Answer Choices": [
+                "New York",
+                "Texas",
+                "California",
+                "Colorado"
+            ],
+            "Answer": "Colorado",
+            "Reasoning": "Before being elected as president in 2016, Bob was a senator in Colorado from 2012."
+        },
+        "ground_truth": 3,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The biggest financial crisis that United States had ever seen began from the sunny state of Florida in July 2007, spreading like an epidemic to New York in September. Morgan, a successful entrepreneur from Chicago had been witnessing these events and by Christmas 2007, he realized the impacts of this turmoil at home. The crisis deepened in Chicago by February 2008, devastating large businesses and affecting mid-sized ones. Shaken, Morgan moved to Texas in October 2008, hoping to combat the economic downturn. Instead, by January 2009, the crisis had caught up in Texas too, forcing Morgan to reconsider options.",
+            "Question": "By Christmas 2007, what were the states experiencing financial crisis based on Morgan's observation?",
+            "Answer Choices": [
+                "Florida and New York",
+                "Florida, New York, and Chicago",
+                "Florida and Chicago",
+                "New York and Chicago"
+            ],
+            "Answer": "Florida and New York",
+            "Reasoning": "From the story, we know Morgan is from Chicago, a city not a state, and he realizes the impacts of the crisis at home only by Christmas 2007. The story mentions that Florida and New York had already been affected by July and September 2007 respectively. So, it is likely that only Florida and New York, were the states experiencing crisis by Christmas 2007."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "The biggest financial crisis that United States had ever seen began from the sunny state of Florida in July 2007, spreading like an epidemic to New York in September. Morgan, a successful entrepreneur from Chicago had been witnessing these events and by Christmas 2007, he realized the impacts of this turmoil at home. The crisis deepened in Chicago by February 2008, devastating large businesses and affecting mid-sized ones. Shaken, Morgan moved to Texas in October 2008, hoping to combat the economic downturn. Instead, by January 2009, the crisis had caught up in Texas too, forcing Morgan to reconsider options.",
+            "Question": "When did Morgan first witness the impact of the financial crisis?",
+            "Answer Choices": [
+                "July 2007",
+                "September 2007",
+                "Christmas 2007",
+                "February 2008"
+            ],
+            "Answer": "July 2007",
+            "Reasoning": "The story states that the financial crisis began in Florida in July 2007. Additionally, it stated that Morgan, a successful entrepreneur, had been witnessing these events. Therefore, we can infer that Morgan first witnessed the impact of the crisis in July 2007."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
+            "Question": "Considering that Andrew wants to rest for a day after his travel, what is the latest date he should leave Florence?",
+            "Answer Choices": [
+                "31 October",
+                "1 November",
+                "2 November",
+                "3 November"
+            ],
+            "Answer": "1 November",
+            "Reasoning": "Andrew has to be in Rome by the 4th of November at the latest in order to rest for a day before the festival which starts on the 5th. The journey from Florence to Rome takes 2 hours, so technically he should leave on the 2nd to be within his timeline. However, to have a full day of rest, he must leave Florence no later than the 1st of November."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
+            "Question": "If no train is operated after 6 pm due to maintenance, what is the latest time Andrew can leave from Naples in order to reach Florence the same day?",
+            "Answer Choices": [
+                "12 pm",
+                "1 pm",
+                "2 pm",
+                "3 pm"
+            ],
+            "Answer": "1 pm",
+            "Reasoning": "The journey from Naples to Florence requires roughly 5 hours. Considering the train operations cease after 6 pm, he should make sure he leaves at least 5 hours before this time. Therefore, 1 pm is the latest time he can leave Naples."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Andrew, a photographer from Naples, heard about the yearly light festival in Rome. The festival was going to commence in two weeks, on the 5th of November and Andrew meant to start his journey on the 30th of October. Leaving from Naples, he planned a short overnight stay in Florence. The trip from Naples to Florence would take around 5 hours by train and from Florence to Rome, a further 2 hours. He would stay in Rome for 3 days.",
+            "Question": "What will be the duration of Andrew's entire trip, including traveling, attending the festival, and recovery days?",
+            "Answer Choices": [
+                "10 days",
+                "11 days",
+                "12 days",
+                "13 days"
+            ],
+            "Answer": "12 days",
+            "Reasoning": "Andrew starts his journey on the 30th of October and reaches back in Naples on the 10th of November considering travel time, the festival, and recovery time. This makes his entire trip a duration of 12 days."
+        },
+        "ground_truth": 2,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In the 13th Century, Southeast Asia was home to the thriving Khmer Empire, which was located in what is present-day Cambodia. However, by the 14th century, the Empire waned as the rising Ayutthaya Kingdom, located in modern-day Thailand, began to assert its influence. During the 16th-century the Dutch colonised Indonesia, which lasted until they were overthrown by the Indonesian National Revolution in the 20th Century. Meanwhile, the British colonised Malaysia in the 19th Century and were able to maintain their control until they granted the country independence in 1957.",
+            "Question": "When was the end of the Dutch colonial rule in Indonesia?",
+            "Answer Choices": [
+                "13th Century",
+                "14th Century",
+                "16th Century",
+                "20th Century"
+            ],
+            "Answer": "20th Century",
+            "Reasoning": "The story states that the Dutch were overthrown by the Indonesian National Revolution in the 20th Century, concluding the Dutch colonial rule in Indonesia."
+        },
+        "ground_truth": 3,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In 1066, William, the Duke of Normandy, invaded England which marked the beginning of the Norman conquest. The conquest initiated major changes in the cultural and political landscape of England. By 1087, after extensive battles and political struggles, the Normans had become the rulers of England. However, they became involved in conflicts with the Welsh and didn't conquer Wales until 1283. Finally, by the early 15th century, England began asserting control over parts of France, marking the beginning of the Hundred Years' War.",
+            "Question": "What event happened last in the story?",
+            "Answer Choices": [
+                "The invasion of England",
+                "The Normans becoming rulers of England",
+                "The conquest of Wales",
+                "The beginning of the Hundred Years' War"
+            ],
+            "Answer": "The beginning of the Hundred Years' War",
+            "Reasoning": "The story mentions the beginning of the Hundred Years' War as the last event."
+        },
+        "ground_truth": 3,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In 1066, William, the Duke of Normandy, invaded England which marked the beginning of the Norman conquest. The conquest initiated major changes in the cultural and political landscape of England. By 1087, after extensive battles and political struggles, the Normans had become the rulers of England. However, they became involved in conflicts with the Welsh and didn't conquer Wales until 1283. Finally, by the early 15th century, England began asserting control over parts of France, marking the beginning of the Hundred Years' War.",
+            "Question": "Which region was conquered after England?",
+            "Answer Choices": [
+                "Normandy",
+                "England",
+                "Wales",
+                "France"
+            ],
+            "Answer": "Wales",
+            "Reasoning": "The story mentions that after the Normans became the rulers of England, they conquered Wales."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In 1066, William, the Duke of Normandy, invaded England which marked the beginning of the Norman conquest. The conquest initiated major changes in the cultural and political landscape of England. By 1087, after extensive battles and political struggles, the Normans had become the rulers of England. However, they became involved in conflicts with the Welsh and didn't conquer Wales until 1283. Finally, by the early 15th century, England began asserting control over parts of France, marking the beginning of the Hundred Years' War.",
+            "Question": "Who became the rulers of England?",
+            "Answer Choices": [
+                "William, the Duke of Normandy",
+                "The Welsh",
+                "The English",
+                "The Normans"
+            ],
+            "Answer": "The Normans",
+            "Reasoning": "The story mentions that by 1087, the Normans had become the rulers of England."
+        },
+        "ground_truth": 3,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In the late 1940s, Europe was still nursing the devastating effects of World War II. The establishment of the North Atlantic Treaty Organization (NATO) in 1949, with its headquarters in London, was Europe's response to the lingering threats. The decade that followed introduced The Treaty of Rome in 1957 which saw the formation of the European Economic Community in Brussels, Belgium. This recalibrated the economic power in Europe and led to the establishment of the European Union in 1993 in Maastricht, the Netherlands. These events marked important spatial and temporal shifts in the political and economic landscape of Europe.",
+            "Question": "Which event marked the stabilization of the economic power in Europe?",
+            "Answer Choices": [
+                "World War II",
+                "Establishment of NATO",
+                "Treaty of Rome",
+                "Establishment of the European Union"
+            ],
+            "Answer": "Treaty of Rome",
+            "Reasoning": "The story indicates that the Treaty of Rome in 1957, which led to the formation of the European Economic Community, recalibrated the economic power in Europe."
+        },
+        "ground_truth": 2,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "Europe has witnessed a host of critical events throughout history. The 1800s saw the commencement of the Russian Revolution, consequently resulting in the formation of the Soviet Union with its heart in Moscow. The decades of early 1900s observed the First and the Second World Wars, subsequently leading to the Treaty of Versailles and the establishment of United Nations Headquartered in Geneva, Switzerland. The mid-1950s endured the cold war that marked a sharp divide between Moscow and the rest of Europe. Yet, the year 1989 marks one of the most significant events of European history when the Berlin Wall came crumbling down, symbolizing the death of the Cold War.",
+            "Question": "Which event signified the end of the Cold War in Europe?",
+            "Answer Choices": [
+                "Commencement of the Russian Revolution",
+                "World Wars",
+                "Formation of the Soviet Union",
+                "Fall of the Berlin Wall"
+            ],
+            "Answer": "Fall of the Berlin Wall",
+            "Reasoning": "The last line of the story states that the fall of the Berlin Wall in 1989 symbolized the end of the Cold War in Europe."
+        },
+        "ground_truth": 3,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In 1945, along with the end of World War II, the Republic of Korea was established in the southern half of the Korean Peninsula while the People's Republic of Korea was established in the north. This division led to the Korean War in the 1950s, with South Korea backed by the United Nations and North Korea by China and the USSR. Following the end of the war, both nations remained divided, with a demilitarized zone (DMZ) established between them. Then in 1947, India gained independence from British rule, bringing about a huge political shift in South Asia. India soon emerged as a regional leader and a significant global player.",
+            "Question": "Which event occurred first in this historical timeline?",
+            "Answer Choices": [
+                "Independence of India",
+                "Establishment of the Republic of Korea and People's Republic of Korea",
+                "End of World War II",
+                "Establishment of DMZ"
+            ],
+            "Answer": "End of World War II",
+            "Reasoning": "In this chronologically ordered story, the first event to take place was the end of World War II in 1945."
+        },
+        "ground_truth": 2,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In 1945, along with the end of World War II, the Republic of Korea was established in the southern half of the Korean Peninsula while the People's Republic of Korea was established in the north. This division led to the Korean War in the 1950s, with South Korea backed by the United Nations and North Korea by China and the USSR. Following the end of the war, both nations remained divided, with a demilitarized zone (DMZ) established between them. Then in 1947, India gained independence from British rule, bringing about a huge political shift in South Asia. India soon emerged as a regional leader and a significant global player.",
+            "Question": "What consequence was there after the Korean War in this story?",
+            "Answer Choices": [
+                "South Korea was backed by the United Nations",
+                "Establishment of the DMZ",
+                "India gained independence",
+                "End of World War II"
+            ],
+            "Answer": "Establishment of the DMZ",
+            "Reasoning": "After the Korean War, the consequence mentioned in the story is the establishment of the DMZ between North and South Korea."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In 1492, Christopher Columbus reached the Caribbean, marking the beginning of European engagement with the Americas. In 1620, the Pilgrims established the settlement of Plymouth in modern-day Massachusetts. Further south, in 1607 Jamestown was founded for economic reasons. Civilization moved westward in 1803 with the Louisiana Purchase doubling America's territory. In 1848, the California Gold Rush ushered in a new wave of migrants heading west.",
+            "Question": "Which area did European engagement with the Americas begin from?",
+            "Answer Choices": [
+                "California",
+                "Louisiana",
+                "Jamestown",
+                "The Caribbean"
+            ],
+            "Answer": "The Caribbean",
+            "Reasoning": "The story states that Christopher Columbus reached the Caribbean in 1492, marking the beginning of European engagement with the Americas."
+        },
+        "ground_truth": 3,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In 1933, Adolf Hitler came to power in Germany, bringing with him the rise of Nazi ideologies and subsequent oppression of the Jews. By 1939, the tension erupted into World War II with Germany's invasion of Poland. However, by the end of 1945, Germany had surrendered, and the aftermath of the war was met with the separation of Germany into East and West. The Berlin Wall, erected in 1961, symbolized this division, but in 1989 it was taken down, paving the way for German reunification in 1990.",
+            "Question": "What temporal transition can be observed from 1939 to 1945 in relation to Germany?",
+            "Answer Choices": [
+                "Germany invaded Poland",
+                "Germany became reunified",
+                "Adolf Hitler came to power",
+                "Germany surrendered in World War II"
+            ],
+            "Answer": "Germany surrendered in World War II",
+            "Reasoning": "The temporal change or transition referenced in the story between 1939 and 1945 is the end of Germany's participation in World War II, denoted by Germany's surrender."
+        },
+        "ground_truth": 3,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In 1933, Adolf Hitler came to power in Germany, bringing with him the rise of Nazi ideologies and subsequent oppression of the Jews. By 1939, the tension erupted into World War II with Germany's invasion of Poland. However, by the end of 1945, Germany had surrendered, and the aftermath of the war was met with the separation of Germany into East and West. The Berlin Wall, erected in 1961, symbolized this division, but in 1989 it was taken down, paving the way for German reunification in 1990.",
+            "Question": "What spatial change can be inferred to have occurred in Germany around 1990?",
+            "Answer Choices": [
+                "Construction of the Berlin Wall",
+                "Fall of the Berlin Wall and reunion",
+                "Start of World War II",
+                "Rise of Adolf Hitler"
+            ],
+            "Answer": "Fall of the Berlin Wall and reunion",
+            "Reasoning": "The story indicates that the Berlin Wall collapsed in 1989, paving the way for the reunification of Germany in 1990, implying the spatial reconfiguration of Germany."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In 1933, Adolf Hitler came to power in Germany, bringing with him the rise of Nazi ideologies and subsequent oppression of the Jews. By 1939, the tension erupted into World War II with Germany's invasion of Poland. However, by the end of 1945, Germany had surrendered, and the aftermath of the war was met with the separation of Germany into East and West. The Berlin Wall, erected in 1961, symbolized this division, but in 1989 it was taken down, paving the way for German reunification in 1990.",
+            "Question": "Based on the sequence of events, which of the following most likely occurred after the surrender of Germany in World War II?",
+            "Answer Choices": [
+                "Outbreak of World War II",
+                "Adolf Hitler's rise to power",
+                "Erection of Berlin Wall",
+                "Invasion of Poland by Germany"
+            ],
+            "Answer": "Erection of Berlin Wall",
+            "Reasoning": "From the events listed following Germany's surrender in World War II, the next event in sequence was the separation of Germany into East and West and the erection of Berlin Wall in 1961."
+        },
+        "ground_truth": 2,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In Central-East Africa, during the 14th century, the grand Empire of Kitara covered parts of modern-day Uganda, Rwanda, Burundi, and Tanzania. By the 17th century, it had fragmented into a series of smaller kingdoms. In West Africa, by contrast, the Songhai Empire thrived up to the 16th century, becoming one of the largest states in African history before its decline. Throughout the period of the 1880s to the early 20th century, the now-divided region of Africa came under European colonial powers.",
+            "Question": "Which region experienced fragmentation into smaller kingdoms?",
+            "Answer Choices": [
+                "West Africa",
+                "Central-East Africa",
+                "Songhai Empire",
+                "Europe"
+            ],
+            "Answer": "Central-East Africa",
+            "Reasoning": "The story states that the Empire of Kitara, situated in Central-East Africa, had fragmented into a series of smaller kingdoms by the 17th century."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "The Great Fire of London devastated homes and led to the destruction of over 70,000 properties in 1666. Just a few decades later, the Glorious Revolution of 1688 saw the ascension of William of Orange to the throne, shifting the political landscape. By 1707, the Act of Union formally joined England and Scotland into one entity referred to as the United Kingdom. Moving into the era of imperialism, the British Empire expanded after the battle of Plassey in 1757. In 1833, the abolition of slavery was put into effect across all British colonies.",
+            "Question": "What event closely followed the 1666 Great Fire of London thereby shaping Britain's political landscape?",
+            "Answer Choices": [
+                "Abolition of Slavery",
+                "Battle of Plassey",
+                "Glorious Revolution",
+                "Act of Union"
+            ],
+            "Answer": "Glorious Revolution",
+            "Reasoning": "The text states that a few decades after the Great Fire of London, the Glorious Revolution occurred, thereby transforming the political landscape."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In 793, the attack on Lindisfarne marked the beginning of the Viking Age in Britain. About 300 years later, in 1066, the Battle of Hastings saw the Normans conquer England, ending the rule of the Anglo-Saxons. In 1215, King John signed the Magna Carta, asserting the principle that everyone is subjected to the law. In 1666, the Great Fire of London destroyed the city. The 19th Century introduced the Victorian Era, which left a profound mark on the country's culture and infrastructure.",
+            "Question": "Which event marked the end the Anglo-Saxon rule in England?",
+            "Answer Choices": [
+                "Magna Carta signing",
+                "Battle of Hastings",
+                "The Viking attack on Lindisfarne",
+                "The Great Fire of London"
+            ],
+            "Answer": "Battle of Hastings",
+            "Reasoning": "The story specifically states that the Battle of Hastings ended the rule of the Anglo-Saxons."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In 1950's North Africa, a wave of social revolutions transformed the political landscape. Algeria achieved independence in the early 1960s, just before Cameroon in Central Africa experienced similar tumult. By the late 70's, such revolutionary waves hit Southern Africa, with Zimbabwe leading the charge. By 1990, Namibia followed suit, joining the free nations. After a pause of nearly two decades, North Africa again felt the ground shaking with the 2011 Arab Spring, marking an epoch in Tunisia's history.",
+            "Question": "Which country, other than Tunisia, was a part of the revolutionary movement without any reference to a specific time frame?",
+            "Answer Choices": [
+                "Algeria",
+                "Zimbabwe",
+                "Namibia",
+                "Cameroon"
+            ],
+            "Answer": "Algeria",
+            "Reasoning": "The story mentions that Algeria achieved independence during the wave of social revolutions, similar to Tunisia, but no specific time frame is given for Algeria."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In 1950's North Africa, a wave of social revolutions transformed the political landscape. Algeria achieved independence in the early 1960s, just before Cameroon in Central Africa experienced similar tumult. By the late 70's, such revolutionary waves hit Southern Africa, with Zimbabwe leading the charge. By 1990, Namibia followed suit, joining the free nations. After a pause of nearly two decades, North Africa again felt the ground shaking with the 2011 Arab Spring, marking an epoch in Tunisia's history.",
+            "Question": "Which country's revolution was closest in time to Zimbabwe's?",
+            "Answer Choices": [
+                "Algeria",
+                "Cameroon",
+                "Namibia",
+                "Tunisia"
+            ],
+            "Answer": "Namibia",
+            "Reasoning": "Based on the timeline in the story, Namibia's revolution in 1990 would have been the closest in time to Zimbabwe's in the late 70's."
+        },
+        "ground_truth": 2,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In the 18th century, England witnessed a steep rise in social revolution. Workers in Birmingham, exasperated by low wages and poor working conditions, initiated protests in 1785 that soon spread to Leeds and Manchester. After a decade, in 1795, these shifts arrived in Scotland, shaking the foundations of Glasgow and Edinburgh. However, it wasn't until the dawn of the 19th century, around 1805, such revolutions reached Southern Wales, penetrating towns like Newport and Swansea. The social revolutions in Britain spanned over two decades, impacting different regions sequentially.",
+            "Question": "Which was the last region to be affected by the social revolutions?",
+            "Answer Choices": [
+                "Manchester",
+                "Leeds",
+                "Scotland",
+                "Southern Wales"
+            ],
+            "Answer": "Southern Wales",
+            "Reasoning": "According to the timeline given in the story, Southern Wales was the last region where the social revolutions occurred."
+        },
+        "ground_truth": 3,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In the 18th century, England witnessed a steep rise in social revolution. Workers in Birmingham, exasperated by low wages and poor working conditions, initiated protests in 1785 that soon spread to Leeds and Manchester. After a decade, in 1795, these shifts arrived in Scotland, shaking the foundations of Glasgow and Edinburgh. However, it wasn't until the dawn of the 19th century, around 1805, such revolutions reached Southern Wales, penetrating towns like Newport and Swansea. The social revolutions in Britain spanned over two decades, impacting different regions sequentially.",
+            "Question": "Which event happened first for the social revolutions?",
+            "Answer Choices": [
+                "Protests reached Leeds and Manchester",
+                "Changes arrived in Scotland",
+                "Revolutions reached Southern Wales",
+                "Workers in Birmingham initiated protests"
+            ],
+            "Answer": "Workers in Birmingham initiated protests",
+            "Reasoning": "The story stated that the revolution began in Birmingham, which sparked the subsequent events."
+        },
+        "ground_truth": 3,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "During the mid-20th century, India experienced a series of social revolutions. It started in Southern India in 1950 aimed at combating the societal inequalities. After a decade, Northern India also picked up the pace of revolution in 1960 and the focus was to eradicate poverty therein. Simultaneously, Eastern India adopted this revolutionary wave in 1970, focusing on gender equality. By 1980, the revolution had spread through the entire country, leading to a massive societal change.",
+            "Question": "Which part of India was the last to adopt the wave of social revolution according to the story?",
+            "Answer Choices": [
+                "Southern India",
+                "Northern India",
+                "Eastern India",
+                "The entire country"
+            ],
+            "Answer": "The entire country",
+            "Reasoning": "The text mentions that by 1980, the revolution had spread through the entire country, making it the last region to be covered."
+        },
+        "ground_truth": 3,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In the early 1900s, Australia found herself amidst a rising tide of social revolutions. It began in Sydney, where women were agitating for the right to vote, and spread to Queensland with Indigenous Australians demanding land rights. By the 1930s, these social movements had moved south to Melbourne where workers were pushing for better wages and working conditions. By the late 20th century, these revolutions had shifted focus to environmental issues, centered particularly in Tasmania. The turn of the 21st century saw these movements converge on Canberra, demanding comprehensive legislative changes.",
+            "Question": "Where did the social revolutions move to after Queensland?",
+            "Answer Choices": [
+                "Sydney",
+                "Melbourne",
+                "Tasmania",
+                "Canberra"
+            ],
+            "Answer": "Melbourne",
+            "Reasoning": "According to the story, after the social revolution in Queensland, the movements were shifted to Melbourne."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "Ana traveled to Colombia to experience its rich and vibrant cultural festivals. First, she attended the Carnival of Blacks and Whites in the southern city of Pasto, which kicked off in the first week of January. Then, in the second week of February, she made her way to the coastal city of Barranquilla to join in the colorful and lively Carnival de Barranquilla. As March rolled around, she found herself in the west, dancing to the rhythms of the Cali Fair. Finally, in August she participated in the Flower Festival in Medellin, located in the Aburr\u00e1 Valley of Colombia.",
+            "Question": "Which festival did Ana attend after the Carnival de Barranquilla?",
+            "Answer Choices": [
+                "Carnival of Blacks and Whites",
+                "Cali Fair",
+                "Flower Festival",
+                "She did not attend any more festivals"
+            ],
+            "Answer": "Cali Fair",
+            "Reasoning": "The story mentions that after February (the month of Carnival de Barranquilla), as March rolled around, she was present in the west, at the Cali Fair."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Ana traveled to Colombia to experience its rich and vibrant cultural festivals. First, she attended the Carnival of Blacks and Whites in the southern city of Pasto, which kicked off in the first week of January. Then, in the second week of February, she made her way to the coastal city of Barranquilla to join in the colorful and lively Carnival de Barranquilla. As March rolled around, she found herself in the west, dancing to the rhythms of the Cali Fair. Finally, in August she participated in the Flower Festival in Medellin, located in the Aburr\u00e1 Valley of Colombia.",
+            "Question": "Which city should Ana visit first to enjoy the festivals in their traditional order?",
+            "Answer Choices": [
+                "Barranquilla",
+                "Cali",
+                "Medellin",
+                "Pasto"
+            ],
+            "Answer": "Pasto",
+            "Reasoning": "The story outlines that the first festival Ana attends in the cultural journey is the Carnival of Blacks and Whites which is located in the southern city of Pasto, in January."
+        },
+        "ground_truth": 3,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "Ana traveled to Colombia to experience its rich and vibrant cultural festivals. First, she attended the Carnival of Blacks and Whites in the southern city of Pasto, which kicked off in the first week of January. Then, in the second week of February, she made her way to the coastal city of Barranquilla to join in the colorful and lively Carnival de Barranquilla. As March rolled around, she found herself in the west, dancing to the rhythms of the Cali Fair. Finally, in August she participated in the Flower Festival in Medellin, located in the Aburr\u00e1 Valley of Colombia.",
+            "Question": "Where was Ana located during the month of August?",
+            "Answer Choices": [
+                "Pasto",
+                "Barranquilla",
+                "Cali",
+                "Medellin"
+            ],
+            "Answer": "Medellin",
+            "Reasoning": "The story states that in August, Ana attended the Flower Festival which took place in Medellin."
+        },
+        "ground_truth": 3,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "On Mars, the Martians kicked off spring by celebrating 'Luminosity Day' at the base of Olympus Mons. They then prayed for five consecutive daily cycles at the Tharsis Range, which is traditionally done the week succeeding 'Luminosity Day'. Following these five days, a grand feast was thrown in the Elysium Planitia. A fortnight later, a closing ceremony marked by prayer was held close to Valles Marineris. This signaled the end of spring and of the religious events.",
+            "Question": "Where did the Martians gather to pray after celebrating 'Luminosity Day'?",
+            "Answer Choices": [
+                "Olympus Mons",
+                "Tharsis Range",
+                "Elysium Planitia",
+                "Valles Marineris"
+            ],
+            "Answer": "Tharsis Range",
+            "Reasoning": "The text mentions that after the celebration of 'Luminosity Day', the Martians prayed for five consecutive days at Tharsis Range."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The beautiful Hanami festival in Kyoto, marked by the blossoming of sakura trees, celebrates the arrival of spring in Japan. This is followed by the Tanabata festival in Sendai, which is celebrated in summer with vibrant streamers and paper wishes. As autumn creeps in, the Tohoku festival replaces the streamers with beautiful lanterns on the same streets of Sendai. Winter brings Hokkaido's biggest attraction, the Sapporo snow festival, where the night is lit with breathtaking ice sculptures. Thus, each season in Japan has its own unique festival.",
+            "Question": "Where is the festival that is celebrated after the festival in Hokkaido?",
+            "Answer Choices": [
+                "Kyoto",
+                "Sendai",
+                "Hokkaido",
+                "None of the above"
+            ],
+            "Answer": "Kyoto",
+            "Reasoning": "After winter (when the Sapporo snow festival in Hokkaido takes place), comes spring where the Hanami festival is celebrated in Kyoto."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Spring in Kyoto bursts into bloom with the Hanami festival, where people gather to appreciate the beauty of sakura flowers. The Tanabata festival occupies the summer in Sendai with colorful streamers to make a wish. Autumn in Sendai is marked by the Tohoku festival, where streets are lined with lanterns, casting a warm glow. Winter blankets Hokkaido, transforming it into a icy marvel, with the Sapporo snow festival showcasing stunning ice sculptures. From spring to winter, Japan comes alive with the exuberant display of these cultural festivals.",
+            "Question": "Who celebrates the festival after the Sapporo snow festival?",
+            "Answer Choices": [
+                "Kyoto",
+                "Tokyo",
+                "Sendai",
+                "Okinawa"
+            ],
+            "Answer": "Kyoto",
+            "Reasoning": "The story suggests that after winter (which is marked by the Sapporo snow festival in Hokkaido) comes spring, during which time the Hanami festival is celebrated in Kyoto."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Grace, a travel blogger, decided to attend a cultural festival in Japan in March 2023. The festival was divided into two parts - the first part took place in Tokyo for five days, and the second part was organized in Kyoto for the next four days. Grace spent the initial five days attending sushi making classes, calligraphy demonstrations, and sumo matches in Tokyo. Then, she took a train to Kyoto and raved about the tea ceremonies, historical architectures, and the lovely cherry blossoms over the next four days. She returned home on the tenth day in high spirits.",
+            "Question": "When did Grace return home from the festival?",
+            "Answer Choices": [
+                "March 8th",
+                "March 10th",
+                "March 15th",
+                "March 20th"
+            ],
+            "Answer": "March 10th",
+            "Reasoning": "The festival lasted for 9 days, five in Tokyo and four in Kyoto. Considering she started with the festival at the beginning of March, Grace would have returned home on the 10th of March."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In February 2024, Emily, a culture enthusiast, decided to participate in the Mardi Gras festival in New Orleans. The two-week-long festival usually begins with a grand parade, which Emily attended on the first day. She spent the next one week enjoying music performances, mask making workshops, and grand balls. On day ten, Emily tried the traditional Cajun and Creole cuisines, which she thoroughly enjoyed. The festival culminated with a dazzling display of floats and masquerades on day fourteen.",
+            "Question": "When did Emily try Cajun and Creole cuisines?",
+            "Answer Choices": [
+                "February 1st",
+                "February 10th",
+                "February 11th",
+                "February 14th"
+            ],
+            "Answer": "February 10th",
+            "Reasoning": "Emily attended the festival starting from the first day of February. She tried the Cajun and Creole cuisines on the tenth day of the festival, which would be February 10th."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "The Jones family, residing in the vast farmlands of New York, held their annual autumn harvest festival on September 23, 2020. This 3-day event was attended by local farmers and citizens, who marveled at the red apples and golden corn in the sprawling, scenic farmlands. However, on the second day, September 24, a sudden storm brewed, forcing the festival to move to the grand, rustic barn in the farm's southeastern region. Undeterred by the change, the event resumed the following morning of September 25, buzzing with excitement and laughter once more.",
+            "Question": "Where was the initial location of the festival before the storm took place?",
+            "Answer Choices": [
+                "Grand, rustic barn",
+                "Sprawling, scenic farmlands",
+                "Southeastern region",
+                "The city center"
+            ],
+            "Answer": "Sprawling, scenic farmlands",
+            "Reasoning": "Before the storm, the festival was held in the sprawling, scenic farmlands as mentioned in the passage. Due to the storm, they moved the festival to the grand, rustic barn."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The Midwestern Farming Competition is a tradition for the farmers in Kansas. This event, thronged by participants from various towns, took place on March 20, 2021, in the heart of Wamego. The proceedings kicked off with a cattle show, then moved on to the dynamic corn-growing contest in the vast open fields in the north on March 21. On March 22, the event marked its end with an unanticipated twist - the crowning of the youngest champion in the history of the competition.",
+            "Question": "When did the corn-growing contest take place during the Midwest Farming Competition?",
+            "Answer Choices": [
+                "March 20, 2021",
+                "March 21, 2021",
+                "March 22, 2021",
+                "March 23, 2021"
+            ],
+            "Answer": "March 21, 2021",
+            "Reasoning": "The story clearly states that the corn-growing contest took place on March 21, 2021."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The Midwestern Farming Competition is a tradition for the farmers in Kansas. This event, thronged by participants from various towns, took place on March 20, 2021, in the heart of Wamego. The proceedings kicked off with a cattle show, then moved on to the dynamic corn-growing contest in the vast open fields in the north on March 21. On March 22, the event marked its end with an unanticipated twist - the crowning of the youngest champion in the history of the competition.",
+            "Question": "How long did the Midwestern Farming Competition last?",
+            "Answer Choices": [
+                "1 day",
+                "2 days",
+                "3 days",
+                "4 days"
+            ],
+            "Answer": "3 days",
+            "Reasoning": "The competition started on March 20, 2021 and ended on March 22, 2021, lasting for a total of 3 days."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The Midwestern Farming Competition is a tradition for the farmers in Kansas. This event, thronged by participants from various towns, took place on March 20, 2021, in the heart of Wamego. The proceedings kicked off with a cattle show, then moved on to the dynamic corn-growing contest in the vast open fields in the north on March 21. On March 22, the event marked its end with an unanticipated twist - the crowning of the youngest champion in the history of the competition.",
+            "Question": "Where was the Midwestern Farming Competition held?",
+            "Answer Choices": [
+                "In the fields of Kansas",
+                "In the heart of Wamego",
+                "In various towns",
+                "On the northern fields"
+            ],
+            "Answer": "In the heart of Wamego",
+            "Reasoning": "The story mentions that the Midwestern Farming Competition took place in the heart of Wamego."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The farmers of the quaint French village, La Beauce, are known for their summer grape harvest festival 'F\u00eate des Raisins' - an event that occurs every year during the first week of August. On August 3, 2019, the village was a splash of vibrant colors as the farmers gathered in the central vineyard, displaying scores of grape varieties. The next day, the festivities moved to the rustic winery to the east, where the villagers indulged in wine-tasting till dusk. On August 5, the festival concluded with a spectacular firework display, lighting up the night sky over the sleepy village.",
+            "Question": "How many days did the 'F\u00eate des Raisins' 2019 festival take place as per the story?",
+            "Answer Choices": [
+                "2 days",
+                "3 days",
+                "4 days",
+                "5 days"
+            ],
+            "Answer": "3 days",
+            "Reasoning": "The story mentions that the festival started on August 3, continued to the next day (August 4), where wine-tasting took place, and concluded with a firework display on August 5. Hence, the festival took place over three days."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The farmers of the quaint French village, La Beauce, are known for their summer grape harvest festival 'F\u00eate des Raisins' - an event that occurs every year during the first week of August. On August 3, 2019, the village was a splash of vibrant colors as the farmers gathered in the central vineyard, displaying scores of grape varieties. The next day, the festivities moved to the rustic winery to the east, where the villagers indulged in wine-tasting till dusk. On August 5, the festival concluded with a spectacular firework display, lighting up the night sky over the sleepy village.",
+            "Question": "Where were the two main locations of the festivities during the 'F\u00eate des Raisins' in the village of La Beauce?",
+            "Answer Choices": [
+                "the central vineyard and the church",
+                "the famous bakery and the village square",
+                "the central vineyard and the rustic winery to the east",
+                "the village square and the rustic winery to the east"
+            ],
+            "Answer": "the central vineyard and the rustic winery to the east",
+            "Reasoning": "The story mentions that the farmers gathered in the central vineyard on August 3rd and the next day the festivities moved to the rustic winery to the east."
+        },
+        "ground_truth": 2,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "The Annual Agricultural Fair in Hampshire, England, is a key event in the community's calendar, attracting farmers and locals from neighboring counties. The 2019 event held on July 14, began in the lush green fields situated in the township's western outskirts. The fair then expanded to the central, bustling market square on July 15, where an enticing array of farm products was showcased. Finally, on July 16, the fair's grand finale took place at the historic barn in the northern part of town, wrapping up the festivities with an award ceremony.",
+            "Question": "Over how many days did the Agricultural Fair take place?",
+            "Answer Choices": [
+                "Two days",
+                "Three days",
+                "Four days",
+                "Five days"
+            ],
+            "Answer": "Three days",
+            "Reasoning": "The story mentions that the fair began on July 14 and ended on July 16, which equates to a total of three days."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The Annual Agricultural Fair in Hampshire, England, is a key event in the community's calendar, attracting farmers and locals from neighboring counties. The 2019 event held on July 14, began in the lush green fields situated in the township's western outskirts. The fair then expanded to the central, bustling market square on July 15, where an enticing array of farm products was showcased. Finally, on July 16, the fair's grand finale took place at the historic barn in the northern part of town, wrapping up the festivities with an award ceremony.",
+            "Question": "What was the chronological order of the locations for the fair?",
+            "Answer Choices": [
+                "Western Outskirts, Market Square, Northern Part",
+                "Northern Part, Western Outskirts, Market Square",
+                "Market Square, Western Outskirts, Northern Part",
+                "Western Outskirts, Northern Part, Market Square"
+            ],
+            "Answer": "Western Outskirts, Market Square, Northern Part",
+            "Reasoning": "The story mentions that the fair started in the fields in the western outskirts on July 14, moved to the market square on July 15, and concluded in the northern part of the town on July 16. Hence, the order is as per the dates mentioned."
+        },
+        "ground_truth": 0,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "The Annual Agricultural Fair in Hampshire, England, is a key event in the community's calendar, attracting farmers and locals from neighboring counties. The 2019 event held on July 14, began in the lush green fields situated in the township's western outskirts. The fair then expanded to the central, bustling market square on July 15, where an enticing array of farm products was showcased. Finally, on July 16, the fair's grand finale took place at the historic barn in the northern part of town, wrapping up the festivities with an award ceremony.",
+            "Question": "In which part of the town is each stage of the agricultural fair located?",
+            "Answer Choices": [
+                "Fields: East; Market square: South; Barn: West",
+                "Fields: North; Market square: Center; Barn: South",
+                "Fields: West; Market square: Center; Barn: North",
+                "Fields: South; Market square: West; Barn: East"
+            ],
+            "Answer": "Fields: West; Market square: Center; Barn: North",
+            "Reasoning": "The story mentions that the fair started in the lush green fields situated in the township's western outskirts, then moved to the central, bustling market square and finally ended at the historic barn in the northern part of town."
+        },
+        "ground_truth": 2,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "Every year in December, the Australian town of Yarra Valley hosts a unique Farmer's Holiday Market, which showcases the splendid diversity of its local products. On December 5, 2020, the rural roads of Yarra Valley were lined with colorful stalls exhibiting a variety of fruits, vegetables, cheeses, wines, and much more. The following day, all the activities were moved to the vibrant town center, where a friendly cooking competition was organized. On December 7, the market concluded in the southern park, with an enchanting evening of musical performances and crafts.",
+            "Question": "On which date was the friendly cooking competition organized during the Farmer's Holiday Market in Yarra Valley?",
+            "Answer Choices": [
+                "December 5, 2020",
+                "December 6, 2020",
+                "December 7, 2020",
+                "December 8, 2020"
+            ],
+            "Answer": "December 6, 2020",
+            "Reasoning": "According to the story, the cooking competition was organized the day after December 5, which is December 6."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "Every year in December, the Australian town of Yarra Valley hosts a unique Farmer's Holiday Market, which showcases the splendid diversity of its local products. On December 5, 2020, the rural roads of Yarra Valley were lined with colorful stalls exhibiting a variety of fruits, vegetables, cheeses, wines, and much more. The following day, all the activities were moved to the vibrant town center, where a friendly cooking competition was organized. On December 7, the market concluded in the southern park, with an enchanting evening of musical performances and crafts.",
+            "Question": "What two places hosted the Farmer's Holiday Market over the course of three days?",
+            "Answer Choices": [
+                "Town Center and Rural Roads",
+                "Rural Roads and Southern Park",
+                "Town Center and Southern Park",
+                "Rural Roads and Northern Park"
+            ],
+            "Answer": "Rural Roads and Southern Park",
+            "Reasoning": "From the story, on the first day, December 5, 2020, the rural roads hosted the market with numerous stalls. On the last day, December 7, the market concluded at the southern park with musical performances and crafts."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Every year in December, the Australian town of Yarra Valley hosts a unique Farmer's Holiday Market, which showcases the splendid diversity of its local products. On December 5, 2020, the rural roads of Yarra Valley were lined with colorful stalls exhibiting a variety of fruits, vegetables, cheeses, wines, and much more. The following day, all the activities were moved to the vibrant town center, where a friendly cooking competition was organized. On December 7, the market concluded in the southern park, with an enchanting evening of musical performances and crafts.",
+            "Question": "Where was the friendly cooking competition organized during the Farmer's Holiday Market?",
+            "Answer Choices": [
+                "Rural Roads",
+                "Town Center",
+                "Southern Park",
+                "Northern Park"
+            ],
+            "Answer": "Town Center",
+            "Reasoning": "The story mentions that the cooking competition was moved to the vibrant town center on the day following December 5, 2020."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+            "Question": "When did Mary fly to New York for a book signing event at Barnes & Noble?",
+            "Answer Choices": [
+                "July 12th",
+                "July 13th",
+                "July 14th",
+                "July 15th"
+            ],
+            "Answer": "July 13th",
+            "Reasoning": "From the story, it is stated that Mary flew to New York for the book signing event the day after the international literary conference which was on July 12th, hence she flew on the July 13th."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+            "Question": "What was the date and time for the book signing event at Barnes & Noble in New York?",
+            "Answer Choices": [
+                "July 13th at 5 pm",
+                "July 14th at 5 pm",
+                "July 15th at 5 pm",
+                "July 16th at 5 pm"
+            ],
+            "Answer": "July 14th at 5 pm",
+            "Reasoning": "The book signing event in New York at Barnes & Noble was stated in the story to be scheduled for July 14th at 5 pm."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+            "Question": "Which of these cities did Mary not visit physically during the described events?",
+            "Answer Choices": [
+                "London",
+                "New York",
+                "Boston",
+                "Seattle"
+            ],
+            "Answer": "Seattle",
+            "Reasoning": "Though Mary conducted a workshop for writers in Seattle, it was online, so she did not have to physically be in the city."
+        },
+        "ground_truth": 3,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+            "Question": "How long was John at the Frankfurt Book Fair?",
+            "Answer Choices": [
+                "4 days",
+                "5 days",
+                "6 days",
+                "7 days"
+            ],
+            "Answer": "5 days",
+            "Reasoning": "The Frankfurt Book Fair was held from October 11th to October 15th, which is a span of 5 days."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+            "Question": "How many days did John spend in Vienna?",
+            "Answer Choices": [
+                "7 days",
+                "8 days",
+                "9 days",
+                "10 days"
+            ],
+            "Answer": "8 days",
+            "Reasoning": "John arrived in Vienna on October 18th and left on October 26th, which is a span of 8 days."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+            "Question": "When did John speak at a masterclass about publishing ethics?",
+            "Answer Choices": [
+                "October 17th",
+                "October 18th",
+                "October 19th",
+                "October 20th"
+            ],
+            "Answer": "October 19th",
+            "Reasoning": "The story mentions that John spoke at a masterclass about publishing ethics on October 19th."
+        },
+        "ground_truth": 2,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+            "Question": "What was John's first destination when he embarked on his literary tour across Europe in the spring of 2017?",
+            "Answer Choices": [
+                "Paris",
+                "Vienna",
+                "Frankfurt",
+                "San Francisco"
+            ],
+            "Answer": "Frankfurt",
+            "Reasoning": "In the story, it is stated that John's first stop was at the Frankfurt Book Fair in Germany."
+        },
+        "ground_truth": 2,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+            "Question": "Where did John visit after going to Paris?",
+            "Answer Choices": [
+                "Frankfurt",
+                "Vienna",
+                "San Francisco",
+                "Rome"
+            ],
+            "Answer": "Vienna",
+            "Reasoning": "In the storyline, it is clearly stated that after Paris, John flew to Vienna."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+            "Question": "When did Linda leave for Tokyo?",
+            "Answer Choices": [
+                "February 1st",
+                "February 5th",
+                "February 6th",
+                "February 8th"
+            ],
+            "Answer": "February 5th",
+            "Reasoning": "According to the story, Linda jetted off to Tokyo on February 5th to attend a manga publishing expo."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+            "Question": "Which was the first international city Linda visited in her busy February 2022 schedule?",
+            "Answer Choices": [
+                "New Delhi",
+                "Tokyo",
+                "Sydney",
+                "Singapore"
+            ],
+            "Answer": "Tokyo",
+            "Reasoning": "According to the story, after starting her month in Sydney, the first city she travelled to was Tokyo to attend a manga publishing expo."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+            "Question": "On February 15th, 2022 where was Linda located?",
+            "Answer Choices": [
+                "Sydney",
+                "Tokyo",
+                "New Delhi",
+                "Singapore"
+            ],
+            "Answer": "Singapore",
+            "Reasoning": "As per the story, before returning home, Linda went to Singapore for a meet-and-greet at Kinokuniya bookstore on February 15th."
+        },
+        "ground_truth": 3,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "Linda, an accomplished author from Sydney, had a busy February in 2022. She started her month with the Sydney Writers Festival on February 1st. On February 5th, she jetted off to Tokyo to attend a manga publishing expo on February 6th. By February 8th, she was in New Delhi for the Jaipur Literature Festival which was to start on February 9th and end on February 14th. Before she returned home on February 16th, she managed to squeeze in an author meet-and-greet in Singapore at Kinokuniya bookstore on February 15th.",
+            "Question": "Where did Linda go after the manga publishing expo?",
+            "Answer Choices": [
+                "Sydney",
+                "Tokyo",
+                "New Delhi",
+                "Singapore"
+            ],
+            "Answer": "New Delhi",
+            "Reasoning": "Based on the story, Linda travelled to New Delhi for the Jaipur Literature Festival after attending the manga publishing expo in Tokyo."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+            "Question": "How many days did Chris spend on his cross-country trip before returning to Los Angeles?",
+            "Answer Choices": [
+                "6 days",
+                "9 days",
+                "10 days",
+                "12 days"
+            ],
+            "Answer": "10 days",
+            "Reasoning": "Chris began his journey on December 1 and ended on December 10. To calculate the total number of days, simply subtract the first day from the last, which results in 10 days."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+            "Question": "What was the duration, in days, between Chris's visit to the Book Launch in Miami and the Pacific Northwest Booksellers Association meeting in Seattle?",
+            "Answer Choices": [
+                "2 days",
+                "5 days",
+                "7 days",
+                "6 days"
+            ],
+            "Answer": "5 days",
+            "Reasoning": "Chris attended the book launch in Miami on December 1st and attended the Pacific Northwest Booksellers Association meeting in Seattle on December 6th. So, the duration between these two events is 6-1=5 days."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+            "Question": "What was the order of cities based on when the agent visited them in December 2019?",
+            "Answer Choices": [
+                "Miami, New York, Seattle, Los Angeles",
+                "Los Angeles, Seattle, New York, Miami",
+                "New York, Miami, Seattle, Los Angeles",
+                "Seattle, Miami, New York, Los Angeles"
+            ],
+            "Answer": "Miami, New York, Seattle, Los Angeles",
+            "Reasoning": "According to the story, his journey started on December 1st in Miami, then he visited New York on December 4th, after that he flew to Seattle on December 6th, and finally returned to Los Angeles on December 10th."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+            "Question": "Where did the agent spend the least amount of time during his December 2019 trip?",
+            "Answer Choices": [
+                "Miami",
+                "New York",
+                "Seattle",
+                "Los Angeles"
+            ],
+            "Answer": "Seattle",
+            "Reasoning": "Based on the given timeline, Chris only stayed in Seattle for 4 days (from December 6th to December 10th), whereas he stayed for longer in the other cities."
+        },
+        "ground_truth": 2,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+            "Question": "Which event did the agent attend last during his whirlwind trip?",
+            "Answer Choices": [
+                "Book launch in Miami",
+                "Writers' pitch event at New York Public Library",
+                "Pacific Northwest Booksellers Association meeting in Seattle",
+                "Holiday bash in Los Angeles"
+            ],
+            "Answer": "Holiday bash in Los Angeles",
+            "Reasoning": "The story mentions that the agent hosted a holiday bash in Los Angeles on December 10th, which is the latest date given in the story, indicating it was the last event he attended."
+        },
+        "ground_truth": 3,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+            "Question": "What was the last event Rachel attended before returning to London?",
+            "Answer Choices": [
+                "Edinburgh International Book Festival",
+                "Nairobi International Book Fair",
+                "Brooklyn Book Festival",
+                "None of the above"
+            ],
+            "Answer": "Brooklyn Book Festival",
+            "Reasoning": "The story mentions that after being in New York for the Brooklyn Book Festival, Rachel returned to London."
+        },
+        "ground_truth": 2,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+            "Question": "Where was Rachel before she arrived in Kenya?",
+            "Answer Choices": [
+                "Edinburgh",
+                "Brooklyn",
+                "London",
+                "None of the above"
+            ],
+            "Answer": "Edinburgh",
+            "Reasoning": "According to the story, Rachel was at the Edinburgh International Book Festival before she traveled to Kenya."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+            "Question": "Where was Rachel's final destination after her international journey?",
+            "Answer Choices": [
+                "Edinburgh",
+                "New York",
+                "London",
+                "Nairobi"
+            ],
+            "Answer": "London",
+            "Reasoning": "The story concludes with Rachel returning to her home, London, on September 20th after her international journey."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+            "Question": "How many days after the Edinburgh International Book Festival did Rachel travel to Kenya for the Nairobi International Book Fair?",
+            "Answer Choices": [
+                "3 days",
+                "4 days",
+                "5 days",
+                "6 days"
+            ],
+            "Answer": "4 days",
+            "Reasoning": "The Edinburgh International Book Festival was on September 1st and the Nairobi International Book Fair was on September 5th. So, Rachel traveled to Kenya 4 days after the festival in Scotland."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+            "Question": "How many days after the Nairobi International Book Fair did Rachel find herself in New York for the Brooklyn Book Festival?",
+            "Answer Choices": [
+                "7 days",
+                "6 days",
+                "8 days",
+                "9 days"
+            ],
+            "Answer": "7 days",
+            "Reasoning": "The Nairobi International Book Fair was on September 5th and the Brooklyn Book Festival happens on September 12th. Thus, a week or 7 days later, she was in New York."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+            "Question": "How long did Rachel stay in New York before returning to London?",
+            "Answer Choices": [
+                "7 days",
+                "8 days",
+                "9 days",
+                "10 days"
+            ],
+            "Answer": "8 days",
+            "Reasoning": "Rachel covered the Brooklyn Book Festival in New York on September 12th and returned to London on September 20th. So, she stayed in New York for 8 days."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+            "Question": "How many days after covering the Brooklyn Book Festival did Rachel return to London?",
+            "Answer Choices": [
+                "7 days",
+                "8 days",
+                "9 days",
+                "10 days"
+            ],
+            "Answer": "8 days",
+            "Reasoning": "The Brooklyn Book Festival was on September 12th and she returned to London on September 20th. So, Rachel got back 8 days after the festival in New York."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+            "Question": "When did the legal case known as 'The Savoy Affair' start?",
+            "Answer Choices": [
+                "January 15, 2018",
+                "July 20, 2019",
+                "January 15, 2019",
+                "September 30, 2019"
+            ],
+            "Answer": "January 15, 2019",
+            "Reasoning": "The date when 'The Savoy Affair' started is clearly mentioned in the first sentence."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+            "Question": "How long after the start of the trial did the important witness disappear?",
+            "Answer Choices": [
+                "Six months",
+                "Five months and five days",
+                "Seven months and five days",
+                "Three months"
+            ],
+            "Answer": "Five months and five days",
+            "Reasoning": "The trial started on January 15, 2019, and the witness disappeared on July 20, 2019. Thus, the witness disappeared five months and five days after the start of the trial."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+            "Question": "How long did 'The Savoy Affair' last from start to end?",
+            "Answer Choices": [
+                "Eight months and 15 days",
+                "Six months",
+                "Seven months",
+                "Eight months"
+            ],
+            "Answer": "Eight months and 15 days",
+            "Reasoning": "The trial started on January 15, 2019, and the verdict was announced on September 30, 2019. Thus, it lasted for eight months and 15 days."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+            "Question": "When did the court proceeding initially begin?",
+            "Answer Choices": [
+                "April 19, 2020",
+                "September 1, 2020",
+                "October 2, 2020",
+                "January 25, 2021"
+            ],
+            "Answer": "April 19, 2020",
+            "Reasoning": "The story clearly mentions that the court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+            "Question": "Where did the court proceeding originally begin before it moved to Montgomery County Courthouse?",
+            "Answer Choices": [
+                "Sacramento, California",
+                "Croydon, Pennsylvania",
+                "Montgomery County",
+                "Norristown"
+            ],
+            "Answer": "Croydon, Pennsylvania",
+            "Reasoning": "The story mentions that the court proceedings originally began in Croydon, Pennsylvania before it was moved to the Montgomery County Courthouse."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+            "Question": "Where did the case conclude and a verdict was reached?",
+            "Answer Choices": [
+                "Croydon, Pennsylvania",
+                "Sacramento, California",
+                "Norristown",
+                "Montgomery County"
+            ],
+            "Answer": "Croydon, Pennsylvania",
+            "Reasoning": "The case concluded and a verdict was reached back in the original courthouse, which is located in Croydon, Pennsylvania."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+            "Question": "Where did the proceedings move to from Bucks County Court of Common Pleas?",
+            "Answer Choices": [
+                "Norristown",
+                "Sacramento, California",
+                "Montgomery County Courthouse",
+                "Croydon, Pennsylvania"
+            ],
+            "Answer": "Montgomery County Courthouse",
+            "Reasoning": "The case was moved to the Montgomery County Courthouse after it started at the Bucks County Court of Common Pleas."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+            "Question": "How many months after the start of the international tribunal did the case move to the International Court of Justice in The Hague?",
+            "Answer Choices": [
+                "2 months",
+                "3 months",
+                "4 months",
+                "5 months"
+            ],
+            "Answer": "3 months",
+            "Reasoning": "The international tribunal started in March, and the case moved to The Hague in June, that's a difference of three months."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+            "Question": "How many months after the discovery of the key document was the historic ruling delivered?",
+            "Answer Choices": [
+                "3 months",
+                "4 months",
+                "5 months",
+                "6 months"
+            ],
+            "Answer": "4 months",
+            "Reasoning": "The key document was discovered in July, and the ruling was delivered in November, that's a difference of four months."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+            "Question": "Where was the lawsuit first filed?",
+            "Answer Choices": [
+                "Karnataka High Court, Bangalore",
+                "Supreme Court of India, Delhi",
+                "High Court, agra",
+                "International Court of Arbitration, London"
+            ],
+            "Answer": "Karnataka High Court, Bangalore",
+            "Reasoning": "The story states that the high-stakes fraud case began at the Karnataka High Court in Bangalore."
+        },
+        "ground_truth": 0,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "On February 5, 2004, in the bustling city of Bangalore, India, a high-stakes fraud case began at the Karnataka High Court. As evidence stacked up, the trial was moved to the Supreme Court of India in Delhi on May 27, indicating the nation-wide implications of the case. An unexpected twist occurred on September 12, when a breakthrough whistleblower from London, UK, provided additional evidence. The case was then taken up by the International Court of Arbitration in London on December 1st, amid security concerns. Finally, on March 6, 2005, at 10.30 am., after a year of relentless pursuit, the court announced its judgement in favor of the whistleblower.",
+            "Question": "Where was the final judgment in favor of the whistleblower announced?",
+            "Answer Choices": [
+                "Karnataka High Court, Bangalore",
+                "Supreme Court of India, Delhi",
+                "High Court, Agra",
+                "International Court of Arbitration, London"
+            ],
+            "Answer": "International Court of Arbitration, London",
+            "Reasoning": "The final decision in favor of the whistleblower was announced at the International Court of Arbitration in London as per the story."
+        },
+        "ground_truth": 3,
+        "prediction": 1
+    }
+]

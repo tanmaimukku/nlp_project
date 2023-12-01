@@ -1,0 +1,546 @@
+[
+    {
+        "data": {
+            "Story": "On July 12th, 2018, Mary attended an international literary conference in London. The day after, on July 13th, she flew to New York for a book signing event at Barnes & Noble that was scheduled for July 14th, at 5 pm. She traveled back to her home town of Boston on July 15th, for a local poetry reading. That same evening at 7 pm, she conducted an online publishing workshop for upcoming writers in Seattle. A hectic week of literary and publishing events ended with a book club meeting at the Boston public library on July 16th.",
+            "Question": "What was the date and time for the book signing event at Barnes & Noble in New York?",
+            "Answer Choices": [
+                "July 13th at 5 pm",
+                "July 14th at 5 pm",
+                "July 15th at 5 pm",
+                "July 16th at 5 pm"
+            ],
+            "Answer": "July 14th at 5 pm",
+            "Reasoning": "The book signing event in New York at Barnes & Noble was stated in the story to be scheduled for July 14th at 5 pm."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
+            "Question": "If a visitor can only spend 3 days at the festival, which dates should they choose to experience both the Market Square events and the theater performance?",
+            "Answer Choices": [
+                "2nd, 3rd, and 4th July",
+                "3rd, 4th, and 5th July",
+                "4th, 5th, and 6th July",
+                "5th, 6th, and 7th July"
+            ],
+            "Answer": "2nd, 3rd, and 4th July",
+            "Reasoning": "The festival schedule entails that the events take place at the Market Square until the midpoint of the festival, after which they shift to the local theater for the 'Krakowiak' play. This shift happens on the 3rd and 4th of July. So if a visitor wanted to experience events at both locations, they should visit on the 2nd (for Market Square), 3rd, and 4th (for the Theater performance) of July."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+            "Question": "If Ramesh had to be in Delhi within three days of leaving the Arunachal Pradesh festival, when should he have left the Ziro festival at the latest?",
+            "Answer Choices": [
+                "27th May",
+                "28th May",
+                "29th May",
+                "30th May"
+            ],
+            "Answer": "27th May",
+            "Reasoning": "Since Ramesh had to be in Delhi within three days of leaving the Ziro Festival in Arunachal Pradesh, and as per the story, the festival ended on the 27th of May and he travels at the end of the festival so, he would have had to leave Arunachal Pradesh on 27th May at the latest, to make it to Delhi within three days."
+        },
+        "ground_truth": 0,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In December 2019, Chris, a literary agent based in Los Angeles, made a whirlwind trip around the country. His journey started on December 1st, at a book launch in Miami. On December 4th, he was in New York for a writers' pitch event at the New York Public Library. Later, on December 6th, he flew to Seattle to attend the Pacific Northwest Booksellers Association meeting. Finally, on December 10th, he came back to Los Angeles, where he hosted a holiday bash for local authors and publishers at 8 pm.",
+            "Question": "What was the order of cities based on when the agent visited them in December 2019?",
+            "Answer Choices": [
+                "Miami, New York, Seattle, Los Angeles",
+                "Los Angeles, Seattle, New York, Miami",
+                "New York, Miami, Seattle, Los Angeles",
+                "Seattle, Miami, New York, Los Angeles"
+            ],
+            "Answer": "Miami, New York, Seattle, Los Angeles",
+            "Reasoning": "According to the story, his journey started on December 1st in Miami, then he visited New York on December 4th, after that he flew to Seattle on December 6th, and finally returned to Los Angeles on December 10th."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "The biggest financial crisis that United States had ever seen began from the sunny state of Florida in July 2007, spreading like an epidemic to New York in September. Morgan, a successful entrepreneur from Chicago had been witnessing these events and by Christmas 2007, he realized the impacts of this turmoil at home. The crisis deepened in Chicago by February 2008, devastating large businesses and affecting mid-sized ones. Shaken, Morgan moved to Texas in October 2008, hoping to combat the economic downturn. Instead, by January 2009, the crisis had caught up in Texas too, forcing Morgan to reconsider options.",
+            "Question": "When did Morgan first witness the impact of the financial crisis?",
+            "Answer Choices": [
+                "July 2007",
+                "September 2007",
+                "Christmas 2007",
+                "February 2008"
+            ],
+            "Answer": "July 2007",
+            "Reasoning": "The story states that the financial crisis began in Florida in July 2007. Additionally, it stated that Morgan, a successful entrepreneur, had been witnessing these events. Therefore, we can infer that Morgan first witnessed the impact of the crisis in July 2007."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In 1999, Bob, a member of the Liberal Party, ran for governor in the state of California but was unsuccessful. After his defeat, he moved to Texas and joined the Republican party, where he was elected assessor in 2004. Just after a year, he left Texas for New York and was elected as the Mayor of New York City in 2006. Then, he moved to Colorado in 2011 and became Senator by 2012. Finally, in his latest political move, he was elected President of the United States in 2016.",
+            "Question": "In which year did Bob possibly stay out of political office, given the provided sequence of events?",
+            "Answer Choices": [
+                "1999",
+                "2004",
+                "2005",
+                "2011"
+            ],
+            "Answer": "2005",
+            "Reasoning": "Bob was elected as an assessor in 2004 in Texas and moved to New York in 2006. Since his New York election was in 2006, there's a year gap in 2005 where he was likely not in office."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
+            "Question": "What is the first city on Antony's itinerary in the second week of his campaign?",
+            "Answer Choices": [
+                "London",
+                "Leeds",
+                "Southampton",
+                "Birmingham"
+            ],
+            "Answer": "Leeds",
+            "Reasoning": "He planned to first visit Birmingham, Liverpool, and Southampton in the first week. And in the second week, he planned to visit Leeds, Newcastle, and Bristol in the order."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "Every year, the city of Los Angeles hosts a running festival on the second Saturday of October. The race track covers major landmarks of the city, starting from Hollywood Sign, then moving south to Paramount Studios, and finally ending at Downtown LA. The runners camp 2 days before the event in the locating adjacent to the starting point. Early morning, on the day of the race, they move towards the Hollywood Sign and later, the winner is celebrated at a ceremony in Downtown LA which happens on the same day in the evening. Participants from San Francisco usually arrive in Los Angeles 4 days before the race to adjust to the change of climate.",
+            "Question": "Where do participants move after leaving Hollywood sign?",
+            "Answer Choices": [
+                "Paramount Studios",
+                "San Francisco",
+                "The adjacent camping area",
+                "Downtown LA"
+            ],
+            "Answer": "Paramount Studios",
+            "Reasoning": "In the story, it's stated that the race track starts from the Hollywood Sign, then moves south to Paramount Studios."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+            "Question": "How many months after the start of the international tribunal did the case move to the International Court of Justice in The Hague?",
+            "Answer Choices": [
+                "2 months",
+                "3 months",
+                "4 months",
+                "5 months"
+            ],
+            "Answer": "3 months",
+            "Reasoning": "The international tribunal started in March, and the case moved to The Hague in June, that's a difference of three months."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "Every year, the small town of Brody, nestled in the heart of Poland, holds a cultural festival that lasts an entire week. Starting from the first day of July, the celebration is filled with dances, music, and folk crafts depicting the rich cultural heritage of the region. The busiest venue during the festival is Market Square, where events are scheduled each day from 10 am to 10 pm. However, halfway through the festival, the schedule shifts to the local theater for two days when the traditional Polish play 'Krakowiak' is performed. After the play, the events return back to Market Square for the rest of the festival.",
+            "Question": "If an attendee wanted to visit the local theater for the play, which dates should they attend the festival?",
+            "Answer Choices": [
+                "1st and 2nd July",
+                "2nd and 3rd July",
+                "3rd and 4th July",
+                "4th and 5th July"
+            ],
+            "Answer": "3rd and 4th July",
+            "Reasoning": "The festival begins on the 1st of July and, halfway through the week-long event, the festivities move to the local theater for two days. Assuming the festival is seven days long, halfway would be the mid-point between the 1st and 7th of July, which is the 3rd and 4th of July."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+            "Question": "What was John's first destination when he embarked on his literary tour across Europe in the spring of 2017?",
+            "Answer Choices": [
+                "Paris",
+                "Vienna",
+                "Frankfurt",
+                "San Francisco"
+            ],
+            "Answer": "Frankfurt",
+            "Reasoning": "In the story, it is stated that John's first stop was at the Frankfurt Book Fair in Germany."
+        },
+        "ground_truth": 2,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "On January 15, 2019, in Melbourne, Australia, a high-profile legal case known as 'The Savoy Affair' started involving a powerful businessman. Over the course of six months, trials were held intermittently at the Melbourne County Court. On the evening of July 20, 2019, an important witness disappeared mysteriously in Sydney, complicating the proceedings. Investigation resumed and proof of his whereabouts was found at Darwin in August. Finally, on September 30, 2019, at 11 am, owing to new evidence from Darwin, the court in Melbourne announced the surprising verdict.",
+            "Question": "How long did 'The Savoy Affair' last from start to end?",
+            "Answer Choices": [
+                "Eight months and 15 days",
+                "Six months",
+                "Seven months",
+                "Eight months"
+            ],
+            "Answer": "Eight months and 15 days",
+            "Reasoning": "The trial started on January 15, 2019, and the verdict was announced on September 30, 2019. Thus, it lasted for eight months and 15 days."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "The Midwestern Farming Competition is a tradition for the farmers in Kansas. This event, thronged by participants from various towns, took place on March 20, 2021, in the heart of Wamego. The proceedings kicked off with a cattle show, then moved on to the dynamic corn-growing contest in the vast open fields in the north on March 21. On March 22, the event marked its end with an unanticipated twist - the crowning of the youngest champion in the history of the competition.",
+            "Question": "When did the corn-growing contest take place during the Midwest Farming Competition?",
+            "Answer Choices": [
+                "March 20, 2021",
+                "March 21, 2021",
+                "March 22, 2021",
+                "March 23, 2021"
+            ],
+            "Answer": "March 21, 2021",
+            "Reasoning": "The story clearly states that the corn-growing contest took place on March 21, 2021."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "On the 4th of July every year, people from around the United States gather to celebrate Independence Day. The day is filled with various cultural events such as fireworks, barbecues, parades, and picnics. Maria, who lives in Washington D.C., decided to travel to New York City to enjoy the annual Macy's fireworks. She planned to leave D.C. on the 2nd of July, two days before the event. The travel time would take approximately 5 hours by train, as she planned to be in New York by the evening of the 2nd to partake in the pre-independence day celebrations.",
+            "Question": "If Maria's train is delayed by 30 minutes, at what time would she reach New York City?",
+            "Answer Choices": [
+                "5:30pm",
+                "6:30pm",
+                "7:30pm",
+                "8:30pm"
+            ],
+            "Answer": "6:30pm",
+            "Reasoning": "If Maria's train is delayed by half an hour on top of the 5-hour travel time, she would arrive in New York City at 6:30pm, assuming she leaves at 1pm as originally planned."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "The Annual Agricultural Fair in Hampshire, England, is a key event in the community's calendar, attracting farmers and locals from neighboring counties. The 2019 event held on July 14, began in the lush green fields situated in the township's western outskirts. The fair then expanded to the central, bustling market square on July 15, where an enticing array of farm products was showcased. Finally, on July 16, the fair's grand finale took place at the historic barn in the northern part of town, wrapping up the festivities with an award ceremony.",
+            "Question": "What was the chronological order of the locations for the fair?",
+            "Answer Choices": [
+                "Western Outskirts, Market Square, Northern Part",
+                "Northern Part, Western Outskirts, Market Square",
+                "Market Square, Western Outskirts, Northern Part",
+                "Western Outskirts, Northern Part, Market Square"
+            ],
+            "Answer": "Western Outskirts, Market Square, Northern Part",
+            "Reasoning": "The story mentions that the fair started in the fields in the western outskirts on July 14, moved to the market square on July 15, and concluded in the northern part of the town on July 16. Hence, the order is as per the dates mentioned."
+        },
+        "ground_truth": 0,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In 1950's North Africa, a wave of social revolutions transformed the political landscape. Algeria achieved independence in the early 1960s, just before Cameroon in Central Africa experienced similar tumult. By the late 70's, such revolutionary waves hit Southern Africa, with Zimbabwe leading the charge. By 1990, Namibia followed suit, joining the free nations. After a pause of nearly two decades, North Africa again felt the ground shaking with the 2011 Arab Spring, marking an epoch in Tunisia's history.",
+            "Question": "Which country, other than Tunisia, was a part of the revolutionary movement without any reference to a specific time frame?",
+            "Answer Choices": [
+                "Algeria",
+                "Zimbabwe",
+                "Namibia",
+                "Cameroon"
+            ],
+            "Answer": "Algeria",
+            "Reasoning": "The story mentions that Algeria achieved independence during the wave of social revolutions, similar to Tunisia, but no specific time frame is given for Algeria."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+            "Question": "Where was Ramesh, in the month of April?",
+            "Answer Choices": [
+                "Delhi",
+                "Uttar Pradesh",
+                "Agra",
+                "Arunachal Pradesh"
+            ],
+            "Answer": "Delhi",
+            "Reasoning": "According to the story, after Ramesh returns from Uttar Pradesh in mid-March, he does not leave Delhi until May for the festival in Arunachal Pradesh. Hence, in April, Ramesh was in Delhi."
+        },
+        "ground_truth": 0,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In Rome, Italy, an international tribunal started on March 12, 2018, at the Palazzo di Giustizia. As more parties got involved, the case moved to the International Court of Justice in The Hague, Netherlands on June 30. The legal proceedings were disrupted when a key document was discovered in Paris, France in July. The court session switched to the French Supreme Court on August 20th. On November 26, 2018, at 3 pm, the judges delivered a historic ruling, shaping precedent on international law.",
+            "Question": "How many months after the discovery of the key document was the historic ruling delivered?",
+            "Answer Choices": [
+                "3 months",
+                "4 months",
+                "5 months",
+                "6 months"
+            ],
+            "Answer": "4 months",
+            "Reasoning": "The key document was discovered in July, and the ruling was delivered in November, that's a difference of four months."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+            "Question": "How many days after the Nairobi International Book Fair did Rachel find herself in New York for the Brooklyn Book Festival?",
+            "Answer Choices": [
+                "7 days",
+                "6 days",
+                "8 days",
+                "9 days"
+            ],
+            "Answer": "7 days",
+            "Reasoning": "The Nairobi International Book Fair was on September 5th and the Brooklyn Book Festival happens on September 12th. Thus, a week or 7 days later, she was in New York."
+        },
+        "ground_truth": 0,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
+            "Question": "If Antony spends a whole day for each rally, on which date should Antony reach Bristol, considering 1 day for travel?",
+            "Answer Choices": [
+                "June 9th",
+                "June 6th",
+                "June 7th",
+                "June 8th"
+            ],
+            "Answer": "June 6th",
+            "Reasoning": "Antony starts his campaigns from June 18th. He spends a week (7 days) campaigning in Birmingham, Liverpool, and Southampton and one day each for travel from Liverpool to Birmingham, and Birmingham to Southampton. He should, therefore, be in Leeds (first city in week two) on May 26th (June 18th + 7 days + 2 days travel), and since Bristol is the last city for week two of the campaign, he should be there on June 6th."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In 2005, Antony, a young politician from Britain decided to run for Office in London. The elections were scheduled to take place 3 weeks later on June 10th. Antony planned to rally in Birmingham, Liverpool, and Southampton for the first week, in Leeds, Newcastle and Bristol in the second week and finally in Manchester, Sheffield and his home city, London in the final week. The journey from Liverpool to Birmingham takes 6 hours by car, while from Birmingham to Southampton it demands 8 hours. Antony planned to travel to these cities in order, using only surface transport.",
+            "Question": "On which date Antony will finish his campaign in Southampton?",
+            "Answer Choices": [
+                "25th May",
+                "24th May",
+                "26th May",
+                "27th May"
+            ],
+            "Answer": "25th May",
+            "Reasoning": "Antony starts his campaign on the 18th. He then spends one day at each rally, plus one day travelling between each city. Therefore, Antony will finish his campaign in Southampton (the last city in week one) on May 23rd (18th + 2 days for the rallies + 2 days travel)."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "The beautiful Hanami festival in Kyoto, marked by the blossoming of sakura trees, celebrates the arrival of spring in Japan. This is followed by the Tanabata festival in Sendai, which is celebrated in summer with vibrant streamers and paper wishes. As autumn creeps in, the Tohoku festival replaces the streamers with beautiful lanterns on the same streets of Sendai. Winter brings Hokkaido's biggest attraction, the Sapporo snow festival, where the night is lit with breathtaking ice sculptures. Thus, each season in Japan has its own unique festival.",
+            "Question": "Where is the festival that is celebrated after the festival in Hokkaido?",
+            "Answer Choices": [
+                "Kyoto",
+                "Sendai",
+                "Hokkaido",
+                "None of the above"
+            ],
+            "Answer": "Kyoto",
+            "Reasoning": "After winter (when the Sapporo snow festival in Hokkaido takes place), comes spring where the Hanami festival is celebrated in Kyoto."
+        },
+        "ground_truth": 0,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "Every year in December, the Australian town of Yarra Valley hosts a unique Farmer's Holiday Market, which showcases the splendid diversity of its local products. On December 5, 2020, the rural roads of Yarra Valley were lined with colorful stalls exhibiting a variety of fruits, vegetables, cheeses, wines, and much more. The following day, all the activities were moved to the vibrant town center, where a friendly cooking competition was organized. On December 7, the market concluded in the southern park, with an enchanting evening of musical performances and crafts.",
+            "Question": "On which date was the friendly cooking competition organized during the Farmer's Holiday Market in Yarra Valley?",
+            "Answer Choices": [
+                "December 5, 2020",
+                "December 6, 2020",
+                "December 7, 2020",
+                "December 8, 2020"
+            ],
+            "Answer": "December 6, 2020",
+            "Reasoning": "According to the story, the cooking competition was organized the day after December 5, which is December 6."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+            "Question": "What was the last event Rachel attended before returning to London?",
+            "Answer Choices": [
+                "Edinburgh International Book Festival",
+                "Nairobi International Book Fair",
+                "Brooklyn Book Festival",
+                "None of the above"
+            ],
+            "Answer": "Brooklyn Book Festival",
+            "Reasoning": "The story mentions that after being in New York for the Brooklyn Book Festival, Rachel returned to London."
+        },
+        "ground_truth": 2,
+        "prediction": 1
+    },
+    {
+        "data": {
+            "Story": "The Midwestern Farming Competition is a tradition for the farmers in Kansas. This event, thronged by participants from various towns, took place on March 20, 2021, in the heart of Wamego. The proceedings kicked off with a cattle show, then moved on to the dynamic corn-growing contest in the vast open fields in the north on March 21. On March 22, the event marked its end with an unanticipated twist - the crowning of the youngest champion in the history of the competition.",
+            "Question": "Where was the Midwestern Farming Competition held?",
+            "Answer Choices": [
+                "In the fields of Kansas",
+                "In the heart of Wamego",
+                "In various towns",
+                "On the northern fields"
+            ],
+            "Answer": "In the heart of Wamego",
+            "Reasoning": "The story mentions that the Midwestern Farming Competition took place in the heart of Wamego."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In 1861, at the outbreak of the American Civil War, a small regiment from Maine was ordered to march to Gettysburg, Pennsylvania. The journey was estimated to take five days on foot, but due to unavoidable detours and battles, the regiment arrived two weeks later. From Gettysburg, they moved eastward to the coastal city of Baltimore, reaching their destination three weeks after the departure from Gettysburg. A few months later, during March 1862, they were shipped down to New Orleans, arriving in May after a perilous journey. By the end of 1863, the regiment returned to Maine, having witnessed and participated in numerous battles.",
+            "Question": "How much time did it take for the regiment to reach Gettysburg from Maine?",
+            "Answer Choices": [
+                "One week",
+                "Two weeks",
+                "Three weeks",
+                "One month"
+            ],
+            "Answer": "Two weeks",
+            "Reasoning": "The story states that 'The journey was estimated to take five days on foot, but due to unavoidable detours and battles, the regiment arrived two weeks later.' Thus, it took them two weeks to travel from Maine to Gettysburg."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In the spring of 2017, John, a renowned editor from San Francisco, embarked on a literary tour across Europe. His first stop was the Frankfurt Book Fair in Germany, held from October 11th to October 15th. On October 16th, he traveled to Paris to attend a round table conference about the future of publishing on October 17th. John then flew to Vienna on October 18th, to speak at a masterclass about publishing ethics on October 19th, at noon. After spending a week in beautiful Vienna, he finally returned to San Francisco on October 26th.",
+            "Question": "How long was John at the Frankfurt Book Fair?",
+            "Answer Choices": [
+                "4 days",
+                "5 days",
+                "6 days",
+                "7 days"
+            ],
+            "Answer": "5 days",
+            "Reasoning": "The Frankfurt Book Fair was held from October 11th to October 15th, which is a span of 5 days."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    },
+    {
+        "data": {
+            "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+            "Question": "How long did Rachel stay in New York before returning to London?",
+            "Answer Choices": [
+                "7 days",
+                "8 days",
+                "9 days",
+                "10 days"
+            ],
+            "Answer": "8 days",
+            "Reasoning": "Rachel covered the Brooklyn Book Festival in New York on September 12th and returned to London on September 20th. So, she stayed in New York for 8 days."
+        },
+        "ground_truth": 1,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In 793, the attack on Lindisfarne marked the beginning of the Viking Age in Britain. About 300 years later, in 1066, the Battle of Hastings saw the Normans conquer England, ending the rule of the Anglo-Saxons. In 1215, King John signed the Magna Carta, asserting the principle that everyone is subjected to the law. In 1666, the Great Fire of London destroyed the city. The 19th Century introduced the Victorian Era, which left a profound mark on the country's culture and infrastructure.",
+            "Question": "Which event marked the end the Anglo-Saxon rule in England?",
+            "Answer Choices": [
+                "Magna Carta signing",
+                "Battle of Hastings",
+                "The Viking attack on Lindisfarne",
+                "The Great Fire of London"
+            ],
+            "Answer": "Battle of Hastings",
+            "Reasoning": "The story specifically states that the Battle of Hastings ended the rule of the Anglo-Saxons."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+            "Question": "Where did the court proceeding originally begin before it moved to Montgomery County Courthouse?",
+            "Answer Choices": [
+                "Sacramento, California",
+                "Croydon, Pennsylvania",
+                "Montgomery County",
+                "Norristown"
+            ],
+            "Answer": "Croydon, Pennsylvania",
+            "Reasoning": "The story mentions that the court proceedings originally began in Croydon, Pennsylvania before it was moved to the Montgomery County Courthouse."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In the 18th century, England witnessed a steep rise in social revolution. Workers in Birmingham, exasperated by low wages and poor working conditions, initiated protests in 1785 that soon spread to Leeds and Manchester. After a decade, in 1795, these shifts arrived in Scotland, shaking the foundations of Glasgow and Edinburgh. However, it wasn't until the dawn of the 19th century, around 1805, such revolutions reached Southern Wales, penetrating towns like Newport and Swansea. The social revolutions in Britain spanned over two decades, impacting different regions sequentially.",
+            "Question": "Which event happened first for the social revolutions?",
+            "Answer Choices": [
+                "Protests reached Leeds and Manchester",
+                "Changes arrived in Scotland",
+                "Revolutions reached Southern Wales",
+                "Workers in Birmingham initiated protests"
+            ],
+            "Answer": "Workers in Birmingham initiated protests",
+            "Reasoning": "The story stated that the revolution began in Birmingham, which sparked the subsequent events."
+        },
+        "ground_truth": 3,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In September 2020, Rachel, a literary podcast host from London, had an itinerary spanning three continents. She interviewed authors at the Edinburgh International Book Festival in Scotland on September 1st. Then she traveled to Kenya for the Nairobi International Book Fair on September 5th. She found herself in New York to cover the Brooklyn Book Festival on September 12th. Finally, she ended her global literary journey by returning to London on September 20th for a live podcast recording with bestselling local authors.",
+            "Question": "How many days after the Edinburgh International Book Festival did Rachel travel to Kenya for the Nairobi International Book Fair?",
+            "Answer Choices": [
+                "3 days",
+                "4 days",
+                "5 days",
+                "6 days"
+            ],
+            "Answer": "4 days",
+            "Reasoning": "The Edinburgh International Book Festival was on September 1st and the Nairobi International Book Fair was on September 5th. So, Rachel traveled to Kenya 4 days after the festival in Scotland."
+        },
+        "ground_truth": 1,
+        "prediction": 3
+    },
+    {
+        "data": {
+            "Story": "In the small town of Croydon, Pennsylvania, a controversial court proceeding began at the Bucks County Court of Common Pleas on April 19, 2020. The case then moved to the Montgomery County Courthouse in Norristown on September 1, in an unusual twist. Shockingly, on October 2, jurors were flown to Sacramento, California, where a crucial piece of evidence had been found. Late at night on December 24, the jury returned to Croydon. The sensational case concluded on January 25, 2021, when at 2pm, a verdict was reached back in the original courthouse.",
+            "Question": "Where did the proceedings move to from Bucks County Court of Common Pleas?",
+            "Answer Choices": [
+                "Norristown",
+                "Sacramento, California",
+                "Montgomery County Courthouse",
+                "Croydon, Pennsylvania"
+            ],
+            "Answer": "Montgomery County Courthouse",
+            "Reasoning": "The case was moved to the Montgomery County Courthouse after it started at the Bucks County Court of Common Pleas."
+        },
+        "ground_truth": 2,
+        "prediction": 0
+    },
+    {
+        "data": {
+            "Story": "In February, Ramesh, a painter from Delhi, travelled to Uttar Pradesh to attend the Lucknow Literature Festival, which was renowned for showcasing several art installations at well-known sites across the city. The event, taking place from 7th to 14th of February, brought together both art and literary enthusiasts from all corners of the country. After successfully showcasing his work at the festival, Ramesh took a short trip to Agra to visit the Taj Mahal before returning to Delhi mid-March. In May, he decided to attend the much acclaimed Ziro Festival in Arunachal Pradesh. The festival, happening in between 20th and 27th May, was an exceptional combination of music and visual art involving artists from diverse backgrounds, and after participating, he finally returned to Delhi at the end of June.",
+            "Question": "How much time did Ramesh spend in Uttar Pradesh in total between attending the festival and visiting Agra?",
+            "Answer Choices": [
+                "Less than a month",
+                "About a month",
+                "More than a month",
+                "Two months"
+            ],
+            "Answer": "About a month",
+            "Reasoning": "Ramesh travelled to Uttar Pradesh in February and stayed there for the duration of the Lucknow Literature Festival until 14th February, after which he visited Agra. If he returned to Delhi in mid-March, he approximately spent one month in Uttar Pradesh."
+        },
+        "ground_truth": 1,
+        "prediction": 2
+    }
+]
